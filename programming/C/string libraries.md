@@ -1,0 +1,5 @@
+- [sds](https://github.com/antirez/sds)
+	- derived from redis
+- [klib](http://attractivechaos.github.io/klib/#About)
+	- has a string lib
+- [utstring](https://troydhanson.github.io/uthash/utstring.html)

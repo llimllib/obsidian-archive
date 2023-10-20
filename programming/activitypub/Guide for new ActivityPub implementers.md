@@ -1,0 +1,1 @@
+https://socialhub.activitypub.rocks/t/guide-for-new-activitypub-implementers/479

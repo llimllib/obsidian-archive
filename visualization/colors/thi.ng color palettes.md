@@ -1,0 +1,1 @@
+Quite nice collection of color palettes:https://github.com/thi-ng/umbrella/tree/develop/packages/color-palettes

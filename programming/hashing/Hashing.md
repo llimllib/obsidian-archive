@@ -1,0 +1,1 @@
+Seahash is a new hash that maybe I should add to my bloom filter article? https://lib.rs/crates/seahash

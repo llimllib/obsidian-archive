@@ -1,0 +1,2 @@
+- up a directory: `⌘⇑<up arrow>`
+- show hidden files: `⌘⇑.`

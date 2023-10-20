@@ -1,0 +1,1 @@
+https://ricardoanderegg.com/posts/extending-sqlite-with-rust/

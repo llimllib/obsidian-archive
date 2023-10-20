@@ -1,0 +1,1 @@
+see [[doc2go]], might be a solution to the painful [[Build your golang package docs locally]] process

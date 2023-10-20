@@ -1,0 +1,1 @@
+[good article](https://benhoyt.com/writings/python-pattern-matching/) going through how it works in detail and showing every type of example

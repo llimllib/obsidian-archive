@@ -1,0 +1,19 @@
+- `torch.nn` contains the common neural network layers and components
+	- connected layers, convolutional layers, activation functions, and loss functions
+- we need to convert each sample from our data into something PyTorch can actually handle: tensors
+	- The bridge between our custom data and a standardized tensor is the `Dataset` class in `torch.utils.data`
+	- we'll go over this in chap 4
+	- data storage is often slow, so we want to parallelize data loading
+		- in order to assemble the data into _batches_ (tensors that encompass several samples)
+		- the `DataLoader` class handles this automatically
+		- cf chap 7
+- at each step of the training loop, we evaluate our model on the samples we got from the data loader
+	- we then compare the outputs of our model to the desired output using a _criterion_ or _loss function_
+		- provided in `torch.nn`
+	- to push the model to resemble the target, we use an _optimizer_
+		- note: what does "autograd" mean? auto gradient?
+- PyTorch provides a way to compile models ahead of time through _TorchScript_
+	- serializes a model into a set of instructions that can be invoked independently of Python, from C++ programs or mobile devices
+	- a model can be exported as torchscript or a standard format called ONNX
+	- for deployment
+	- cf chap 15

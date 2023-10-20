@@ -1,0 +1,14 @@
+--2023-10-02 10:22:54--  https://media.hachyderm.io/media_attachments/files/110/472/084/768/981/963/original/4f127a025be921b9.png
+Resolving media.hachyderm.io (media.hachyderm.io)... 23.239.11.97, 2600:3c03::f03c:93ff:feaa:7c45
+Connecting to media.hachyderm.io (media.hachyderm.io)|23.239.11.97|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 169872 (166K) [image/png]
+Saving to: ‘4f127a025be921b9.png’
+
+     0K .......... .......... .......... .......... .......... 30%  837K 0s
+    50K .......... .......... .......... .......... .......... 60% 1.48M 0s
+   100K .......... .......... .......... .......... .......... 90% 1.62M 0s
+   150K .......... .....                                      100% 10.7M=0.1s
+
+2023-10-02 10:22:55 (1.30 MB/s) - ‘4f127a025be921b9.png’ saved [169872/169872]
+

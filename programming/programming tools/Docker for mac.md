@@ -1,0 +1,1 @@
+A custom version built to replace docker desktop: https://github.com/stenh0use/docker-machine-for-mac

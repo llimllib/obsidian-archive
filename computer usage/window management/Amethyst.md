@@ -1,0 +1,4 @@
+- generally, so far I like it
+- doesn't currently handle Obsidian for me
+	- filed an issue: https://github.com/ianyh/Amethyst/issues/1164
+	- 

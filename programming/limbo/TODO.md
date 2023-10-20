@@ -1,0 +1,2 @@
+- publish to package pyPI by publishing a version:
+	- https://docs.github.com/en/actions/automating-builds-and-tests/building-and-testing-python#publishing-to-package-registries

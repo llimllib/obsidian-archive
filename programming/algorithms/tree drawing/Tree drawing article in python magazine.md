@@ -1,0 +1,1 @@
+a long time ago, I wrote [this article](https://llimllib.github.io/pymag-trees/) that goes through the history of tree-drawing algorithms and presents each with code and drawings
