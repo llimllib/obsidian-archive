@@ -3,7 +3,7 @@ https://saurabhs.org/advanced-macos-commands
 - `caffeinate` - set Mac sleep behavior
 - `textutil` - document file converter
 - `mdfind` - search with Spotlight
-- `networkQuality` - measure Internet speed
+- `networkquality` - measure Internet speed
 - `screencapture` - take screenshots
 - `pbcopy`, `pbpaste` - interact with system clipboard
 - `taskpolicy` - control scheduling of processes
