@@ -43,6 +43,7 @@ jobs:
 
       - name: Publish to notes.billmill.org
         run: |
+          set -x
           cd .github/obsidian_notes
           printf "pwd: %s\ngap: %s\n" "$(pwd)" "$(realpath ../..)"
           ls "$(realpath ../..)"
