@@ -1,0 +1,43 @@
+name: Publish changes to the web
+
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  run_script:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: "3.12"
+
+      - name: install dependencies
+        run: |
+          # install s3cmd and configure it
+          sudo apt install -yqq s3cmd
+          printf "[default]\naccess_key = %s\nsecret_key = %s\nhost_base = nyc3.digitaloceanspaces.com\nhost_bucket = %%(bucket)s.nyc3.digitaloceanspaces.com" "$DO_ACCESS_KEY" "$DO_SECRET_KEY" > ~/.s3cfg
+
+          # install doctl
+          wget https://github.com/digitalocean/doctl/releases/download/v1.100.0/doctl-1.100.0-linux-amd64.tar.gz
+          tar xf ./doctl-1.100.0-linux-amd64.tar.gz
+          sudo mv ./doctl /usr/local/bin
+          doctl auth init "$DO_API_TOKEN"
+        env:
+          DO_ACCESS_KEY: ${{ secrets.DIGITAL_OCEAN_STORAGE_ACCESS_KEY }}
+          DO_SECRET_KEY: ${{ secrets.DIGITAL_OCEAN_STORAGE_SECRET_KEY }}
+          DO_API_TOKEN: ${{ secrets.DIGITAL_OCEAN_API_TOKEN }}
+
+      - name: Checkout this repo
+        uses: actions/checkout@v4
+
+      - name: Checkout obsidian_html
+        uses: actions/checkout@v4
+        repository: llimllib/obsidian_html
+        path: .github/obsidian_html
+
+      - name: Publish to notes.billmill.org
+        run: cd .github/obsidian_html && MDPATH=../.. make publish
