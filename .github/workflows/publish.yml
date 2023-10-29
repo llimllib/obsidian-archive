@@ -31,8 +31,8 @@ jobs:
       #     DO_SECRET_KEY: ${{ secrets.DIGITAL_OCEAN_STORAGE_SECRET_KEY }}
       #     DO_API_TOKEN: ${{ secrets.DIGITAL_OCEAN_API_TOKEN }}
 
-      # - name: Checkout this repo
-      #   uses: actions/checkout@v4
+      - name: Checkout this repo
+        uses: actions/checkout@v4
 
       - name: Checkout obsidian_notes
         uses: actions/checkout@v4
