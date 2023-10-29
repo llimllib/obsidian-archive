@@ -43,7 +43,8 @@ jobs:
 
       - name: Publish to notes.billmill.org
         run: |
-          echo $(pwd) && echo "$GITHUB_ACTION_PATH" && ls "$GITHUB_ACTION_PATH"
+          printf "pwd: %s\ngap: %s\ngau: %s" "$(pwd)" "$GITHUB_ACTION_PATH" "$GITHUB_API_URL"
+          ls "$GITHUB_ACTION_PATH"
         env:
           GITHUB_ACTION_PATH: ${{ vars.GITHUB_ACTION_PATH }}
         #run: cd .github/obsidian_notes && MDPATH="$GITHUB_ACTION_PATH" make publish
