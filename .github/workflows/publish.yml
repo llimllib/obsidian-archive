@@ -34,15 +34,16 @@ jobs:
       # - name: Checkout this repo
       #   uses: actions/checkout@v4
 
-      # - name: Checkout obsidian_notes
-      #   uses: actions/checkout@v4
-      #   with:
-      #     repository: llimllib/obsidian_notes
-      #     ref: main
-      #     path: .github/obsidian_notes
+      - name: Checkout obsidian_notes
+        uses: actions/checkout@v4
+        with:
+          repository: llimllib/obsidian_notes
+          ref: main
+          path: .github/obsidian_notes
 
       - name: Publish to notes.billmill.org
         run: |
+          cd .github/obsidian_notes
           printf "pwd: %s\ngap: %s\n" "$(pwd)" "$(realpath ../..)"
           ls "$(realpath ../..)"
         #run: cd .github/obsidian_notes && MDPATH="$(realpath ../..)" make publish
