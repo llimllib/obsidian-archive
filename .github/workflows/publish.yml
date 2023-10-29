@@ -34,7 +34,7 @@ jobs:
       - name: Checkout this repo
         uses: actions/checkout@v4
 
-      - name: Checkout obsidian_html
+      - name: Checkout obsidian_notes
         uses: actions/checkout@v4
         with:
           repository: llimllib/obsidian_html
