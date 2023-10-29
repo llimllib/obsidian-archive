@@ -36,8 +36,9 @@ jobs:
 
       - name: Checkout obsidian_html
         uses: actions/checkout@v4
-        repository: llimllib/obsidian_html
-        path: .github/obsidian_html
+        with:
+          repository: llimllib/obsidian_html
+          path: .github/obsidian_html
 
       - name: Publish to notes.billmill.org
         run: cd .github/obsidian_html && MDPATH=../.. make publish
