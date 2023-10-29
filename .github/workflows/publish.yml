@@ -6,7 +6,7 @@ on:
       - main
 
 jobs:
-  run_script:
+  publish:
     runs-on: ubuntu-latest
 
     steps:
@@ -37,9 +37,9 @@ jobs:
       - name: Checkout obsidian_notes
         uses: actions/checkout@v4
         with:
-          repository: llimllib/obsidian_html
+          repository: llimllib/obsidian_notes
           ref: main
-          path: .github/obsidian_html
+          path: .github/obsidian_notes
 
       - name: Publish to notes.billmill.org
-        run: cd .github/obsidian_html && MDPATH=../.. make publish
+        run: cd .github/obsidian_notes && MDPATH=../.. make publish
