@@ -38,6 +38,7 @@ jobs:
         uses: actions/checkout@v4
         with:
           repository: llimllib/obsidian_html
+          ref: main
           path: .github/obsidian_html
 
       - name: Publish to notes.billmill.org
