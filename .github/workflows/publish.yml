@@ -41,6 +41,8 @@ jobs:
 
       - name: install dependencies
         run: |
+          set -x
+
           # install s3cmd and configure it, and libmagic1 which provides mime
           # type guessing
           sudo apt install -yqq s3cmd libmagic1
