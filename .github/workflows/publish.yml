@@ -22,7 +22,7 @@ jobs:
           printf "[default]\naccess_key = %s\nsecret_key = %s\nhost_base = nyc3.digitaloceanspaces.com\nhost_bucket = %%(bucket)s.nyc3.digitaloceanspaces.com" "$DO_ACCESS_KEY" "$DO_SECRET_KEY" > ~/.s3cfg
 
           # install doctl
-          wget https://github.com/digitalocean/doctl/releases/download/v1.100.0/doctl-1.100.0-linux-amd64.tar.gz
+          wget -q https://github.com/digitalocean/doctl/releases/download/v1.100.0/doctl-1.100.0-linux-amd64.tar.gz
           tar xf ./doctl-1.100.0-linux-amd64.tar.gz
           sudo mv ./doctl /usr/local/bin
           doctl auth init -t "$DO_API_TOKEN"
