@@ -33,6 +33,11 @@ jobs:
 
       - name: Checkout this repo
         uses: actions/checkout@v4
+        with:
+          # we need to check out all history so that we can get the modified
+          # and created times of the files within, which we use for showing the
+          # dates on the website.
+          fetch-depth: 0
 
       - name: Checkout obsidian_notes
         uses: actions/checkout@v4
