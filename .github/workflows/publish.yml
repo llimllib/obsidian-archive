@@ -42,12 +42,8 @@ jobs:
           path: .github/obsidian_notes
 
       - name: Publish to notes.billmill.org
-        # run: |
-        #   set -x
-        #   cd .github/obsidian_notes
-        #   printf "pwd: %s\ngap: %s\n" "$(pwd)" "$(realpath ../..)"
-        #   ls "$(realpath ../..)"
         run: |
           set -x
-          cd .github/obsidian_notes
-          MDPATH="$(realpath ../..)" make publish
+          echo "This is disabled until I start getting file dates from git instead of the mtime"
+          # cd .github/obsidian_notes
+          # MDPATH="$(realpath ../..)" make publish
