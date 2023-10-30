@@ -10,15 +10,26 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
+      - name: Checkout this repo
+        uses: actions/checkout@v4
+        with:
+          # we need to check out all history so that we can get the modified
+          # and created times of the files within, which we use for showing the
+          # dates on the website.
+          fetch-depth: 0
+
       - name: Set up Python
         uses: actions/setup-python@v4
         with:
           python-version: "3.12"
+          cache: "pip"
+      - run: pip install -r requirements.txt
 
       - name: install dependencies
         run: |
-          # install s3cmd and configure it
-          sudo apt install -yqq s3cmd
+          # install s3cmd and configure it, and libmagic1 which provides mime
+          # type guessing
+          sudo apt install -yqq s3cmd libmagic1
           printf "[default]\naccess_key = %s\nsecret_key = %s\nhost_base = nyc3.digitaloceanspaces.com\nhost_bucket = %%(bucket)s.nyc3.digitaloceanspaces.com" "$DO_ACCESS_KEY" "$DO_SECRET_KEY" > ~/.s3cfg
 
           # install doctl
@@ -30,14 +41,6 @@ jobs:
           DO_ACCESS_KEY: ${{ secrets.DIGITAL_OCEAN_STORAGE_ACCESS_KEY }}
           DO_SECRET_KEY: ${{ secrets.DIGITAL_OCEAN_STORAGE_SECRET_KEY }}
           DO_API_TOKEN: ${{ secrets.DIGITAL_OCEAN_API_TOKEN }}
-
-      - name: Checkout this repo
-        uses: actions/checkout@v4
-        with:
-          # we need to check out all history so that we can get the modified
-          # and created times of the files within, which we use for showing the
-          # dates on the website.
-          fetch-depth: 0
 
       - name: Checkout obsidian_notes
         uses: actions/checkout@v4
