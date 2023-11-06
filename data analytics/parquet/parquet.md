@@ -32,3 +32,27 @@ Neat, if you use [nushell](https://github.com/nushell/nushell), it's just:
 │    2 │    201189 │ Aaron Gray  │ Aaron    │ 1610612740 │ ... │
 ```
 
+---
+
+parquet includes a CLI in its project (`brew install parquet-cli`). It's a java program though, so naturally it's a terrible CLI citizen. It also appears to be completely undocumented on the [parquet site](https://parquet.apache.org/docs/) and comes with no man page.
+
+anyway, `parquet cat -10 <file>` will print the first 10 rows, and `-c` will select columns:
+
+```
+$ parquet cat playerstats.parquet -n 10 -c player_name,team_abbreviation
+{"player_name": "AJ Price", "team_abbreviation": "MIN"}
+{"player_name": "Aaron Brooks", "team_abbreviation": "DEN"}
+{"player_name": "Aaron Gray", "team_abbreviation": "SAC"}
+{"player_name": "Adonis Thomas", "team_abbreviation": "PHI"}
+{"player_name": "Al Harrington", "team_abbreviation": "WAS"}
+{"player_name": "Al Horford", "team_abbreviation": "ATL"}
+{"player_name": "Al Jefferson", "team_abbreviation": "CHA"}
+{"player_name": "Al-Farouq Aminu", "team_abbreviation": "NOP"}
+{"player_name": "Alan Anderson", "team_abbreviation": "BKN"}
+{"player_name": "Alec Burks", "team_abbreviation": "UTA"}
+```
+
+Note that normal unix arguments like `-n10` instead of `-n` will not work.
+
+`parquet help cat` will print the documentation for that subcommand, but `parquet cat --help` will try to open the `--help` file.
+
