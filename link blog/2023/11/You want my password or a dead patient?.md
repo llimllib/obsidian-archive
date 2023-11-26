@@ -1,6 +1,6 @@
 https://ferd.ca/notes/paper-you-want-my-password-or-a-dead-patient.html via [this toot](https://elk.pwm.social/hachyderm.io/@neilmadden@infosec.exchange/111475577364772328) via [Greg Wilson](https://mastodon.social/@gvwilson)
 
-is a summary of [this superby-titled paper](https://www.cs.dartmouth.edu/~sws/pubs/ksbk15-draft.pdf) by Koppel et al ([here it is on pubmed](https://pubmed.ncbi.nlm.nih.gov/25676976/)).
+is a summary of [this superbly-titled paper](https://www.cs.dartmouth.edu/~sws/pubs/ksbk15-draft.pdf) by Koppel et al ([here it is on pubmed](https://pubmed.ncbi.nlm.nih.gov/25676976/)).
 
 I have long thought that each department in a major hospital (and in many other large teams in businesses) should have a programmer embedded with the team to support them in making the computers useful to them rather than a hindrance, and this paper provides great support for that belief.
 
