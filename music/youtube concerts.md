@@ -28,3 +28,4 @@ Lately, I've been browsing youtube and looking for good live concerts to watch. 
 - [Linda Ronstadt, Los Angeles 1976](https://www.youtube.com/watch?v=lxPVWSFPkwA)
 - [Charles Mingus live in '64](https://www.youtube.com/watch?v=y9IMOUVJMVs) (Belgium, Norway, Sweden)
 - [Ahmad Jamal 1971](https://www.youtube.com/watch?v=RAena9F9oSE)
+- [Herbie Hancock in 1976](https://www.youtube.com/watch?v=9RsZifvSVSI) for Danish TV
