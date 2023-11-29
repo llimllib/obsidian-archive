@@ -13,3 +13,5 @@ Some reflections:
 - It probably took me about 6 hours, in snatches here and there; it's a pretty short time investment. I think that's a good length.
 
 Overally, I really enjoyed it! A simple and satisfying way to get up to speed (a bit) in a foreign language.
+
+[my answers are here](https://github.com/llimllib/rustlings), in case that's interesting to anybody.
