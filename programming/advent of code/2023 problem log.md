@@ -13,4 +13,4 @@ I solved it by detecting overlapping matches with a neat regular expression tric
 ```
 
 - [day 1 problem](https://adventofcode.com/2023/day/1)
-- [my day 1 answer](https://github.com/llimllib/personal_code/blob/master/misc/advent/2023/01/a.py)
+- [my day 1 answer](https://github.com/llimllib/personal_code/blob/47a3aa22865fa5a52f04d11d845991f6612b2508/misc/advent/2023/01/a.py)
