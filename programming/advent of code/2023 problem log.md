@@ -12,4 +12,5 @@ I solved it by detecting overlapping matches with a neat regular expression tric
 ['1', 'two', 'one']
 ```
 
-[day 1 answer](https://github.com/llimllib/personal_code/blob/master/misc/advent/2023/01/a.py)
+- [day 1 problem](https://adventofcode.com/2023/day/1)
+- [my day 1 answer](https://github.com/llimllib/personal_code/blob/master/misc/advent/2023/01/a.py)
