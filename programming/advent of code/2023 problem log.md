@@ -14,3 +14,35 @@ I solved it by detecting overlapping matches with a neat regular expression tric
 
 - [day 1 problem](https://adventofcode.com/2023/day/1)
 - [my day 1 answer](https://github.com/llimllib/personal_code/blob/47a3aa22865fa5a52f04d11d845991f6612b2508/misc/advent/2023/01/a.py)
+
+## Day 2
+
+A nice easy start-of-season problem today. First I solved it the straightforward way, by parsing the file into a dictionary of lists, then iterating through each game in the dictionary.
+
+Afterwards, I realized that all you need is the maximum red, green and blue values from each line; so I wrote a little function to pull out one color's maximum out with a regular expression:
+
+```python
+def maxi(line, color):
+    return max(int(x) for x in re.findall(rf"(\d+) {color}", line))
+```
+
+And then the solutions basically just fall out as two generator expressions:
+
+```python
+print(
+    sum(
+        i + 1
+        for i, line in enumerate(open("input.txt"))
+        if maxi(line, "red") <= 12
+        and maxi(line, "green") <= 13
+        and maxi(line, "blue") <= 14
+    )
+)
+
+print(
+    sum(
+        maxi(line, "red") * maxi(line, "blue") * maxi(line, "green")
+        for line in open("input.txt")
+    )
+)
+```
