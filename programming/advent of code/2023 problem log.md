@@ -46,3 +46,7 @@ print(
     )
 )
 ```
+
+- [day 2 problem](https://adventofcode.com/2023/day/2)
+- [straightforward answer](https://github.com/llimllib/personal_code/blob/08a22e4f01797acaab704a5f331a4e067e65b86a/misc/advent/2023/02/a.py)
+- [little bit more clever answer](https://github.com/llimllib/personal_code/blob/08a22e4f01797acaab704a5f331a4e067e65b86a/misc/advent/2023/02/b.py)
