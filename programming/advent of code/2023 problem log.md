@@ -19,7 +19,7 @@ I solved it by detecting overlapping matches with a neat regular expression tric
 
 A nice easy start-of-season problem today. First I solved it the straightforward way, by parsing the file into a dictionary of lists, then iterating through each game in the dictionary.
 
-Afterwards, I realized that all you need is the maximum red, green and blue values from each line; so I wrote a little function to pull out one color's maximum out with a regular expression:
+Afterwards, I realized that all you need is the maximum red, green and blue values from each line; so I wrote a little function to pull out one color's maximum with a regular expression:
 
 ```python
 def maxi(line, color):
