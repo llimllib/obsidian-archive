@@ -1,4 +1,9 @@
 **WARNING**: spoilers ahead!
+
+- [[2023 problem log#Day 1|day 1]]
+- [[2023 problem log#Day 2 |day 2]]
+- [[2023 problem log#Day 3 |day 3]]
+- [[2023 problem log#Day 4|day 4]]
 ## Day 1
 
 Tougher than a usual day 1! The second part in particular requires you to either find overlapping matches (`1twone` -> `[1, two, one]`) or to search from the end to the front.
