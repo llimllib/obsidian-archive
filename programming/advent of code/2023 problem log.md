@@ -105,3 +105,7 @@ for i, line in enumerate(sys.stdin):
 
 print(sum(bonus.values()))
 ```
+
+- [part 1](https://github.com/llimllib/personal_code/blob/abb0476459bb5a0d867bab4d36c276608be39a90/misc/advent/2023/04/a.py)
+- [part 2](https://github.com/llimllib/personal_code/blob/abb0476459bb5a0d867bab4d36c276608be39a90/misc/advent/2023/04/b.py)
+- [problem description](https://adventofcode.com/2023/day/4#part2)
