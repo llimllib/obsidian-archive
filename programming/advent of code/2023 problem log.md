@@ -74,3 +74,34 @@ I almost got it working, but it was super fiddly, when I realized that if I star
 - [neat part 1](https://github.com/llimllib/personal_code/blob/master/misc/advent/2023/03/b.py)
 - [part 2](https://github.com/llimllib/personal_code/blob/280691bb0f8d1914f29778525111f3e503414099/misc/advent/2023/03/c.py)
 - [day 3 problem](https://adventofcode.com/2023/day/3)
+
+## Day 4
+
+Python sets to the rescue.
+
+The [set operators](https://docs.python.org/3/tutorial/datastructures.html#sets) that python added are amazingly helpful when solving AoC problems, and they made short work of today's relatively easy problem. The meat of part 1, after turning the two "hands" into sets, relies on the `&` intersection operator:
+
+```python
+def score(a, b):
+    intersection = a & b
+    return 2 ** (len(intersection) - 1) if intersection else 0
+
+
+print(sum(score(*parse(line)) for line in sys.stdin))
+```
+
+Part 2 I solved as a triply-nested loop; I'm sure there's some easy closed-form solution, but thankfully the problem space was small and we didn't need to find it today:
+
+```python
+bonus = defaultdict(int)
+
+for i, line in enumerate(sys.stdin):
+    winners, mine = parse(line)
+    n = len(winners & mine)
+    bonus[i] += 1
+    for j in range(bonus[i]):
+        for k in range(i + 1, i + n + 1):
+            bonus[k] += 1
+
+print(sum(bonus.values()))
+```
