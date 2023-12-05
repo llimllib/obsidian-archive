@@ -111,6 +111,19 @@ for i, line in enumerate(sys.stdin):
 print(sum(bonus.values()))
 ```
 
+Later, I noticed that a loop can be removed because we're just adding 1 `bonus[i]` times:
+
+```python
+for i, line in enumerate(sys.stdin):
+    winners, mine = parse(line)
+    n = len(winners & mine)
+    bonus[i] += 1
+	for k in range(i + 1, i + n + 1):
+		bonus[k] += bonus[i]
+```
+
+which makes it about 15x faster.
+
 - [part 1](https://github.com/llimllib/personal_code/blob/abb0476459bb5a0d867bab4d36c276608be39a90/misc/advent/2023/04/a.py)
 - [part 2](https://github.com/llimllib/personal_code/blob/abb0476459bb5a0d867bab4d36c276608be39a90/misc/advent/2023/04/b.py)
 - [problem description](https://adventofcode.com/2023/day/4#part2)
