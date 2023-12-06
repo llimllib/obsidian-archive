@@ -4,6 +4,7 @@
 - [[2023 problem log#Day 2|day 2]]
 - [[2023 problem log#Day 3|day 3]]
 - [[2023 problem log#Day 4|day 4]]
+- [[2023 problem log#Day 5|day 5]]
 ## Day 1
 
 Tougher than a usual day 1! The second part in particular requires you to either find overlapping matches (`1twone` -> `[1, two, one]`) or to search from the end to the front.
@@ -127,3 +128,30 @@ which makes it about 15x faster.
 - [part 1](https://github.com/llimllib/personal_code/blob/abb0476459bb5a0d867bab4d36c276608be39a90/misc/advent/2023/04/a.py)
 - [part 2](https://github.com/llimllib/personal_code/blob/abb0476459bb5a0d867bab4d36c276608be39a90/misc/advent/2023/04/b.py)
 - [problem description](https://adventofcode.com/2023/day/4#part2)
+
+## Day 5
+
+Part 1 was pretty easy; after parsing the file into lists of ranges and adjustments, go through each adjust each seed if it matches a range:
+
+```python
+def run(seed: int, intervals: list[list[tuple[tuple[int, int], int]]]) -> int:
+    for map in intervals:
+        for (a, b), adj in map:
+            if a <= seed <= b:
+                seed += adj
+                break
+    return seed
+
+
+seeds, intervals = parse()
+print(min(run(s, intervals) for s in seeds))
+```
+
+For part 2, I had an answer that worked in theory but wouldn't finish before the heat death of the universe on the actual puzzle input.
+
+I'm pretty sure that the answer has to do with merging all the ranges into a single list of ranges, but I didn't figure out exactly how to do it.
+
+It's hard for me to write down that I failed on it!
+
+- [part 1](https://github.com/llimllib/personal_code/blob/9b7b9585280940eec1d6ab5acdd083cf71435a0c/misc/advent/2023/05/a.py)
+- [problem description](https://adventofcode.com/2023/day/5)
