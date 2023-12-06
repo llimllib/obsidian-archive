@@ -5,6 +5,7 @@
 - [[2023 problem log#Day 3|day 3]]
 - [[2023 problem log#Day 4|day 4]]
 - [[2023 problem log#Day 5|day 5]]
+- [[2023 problem log#Day 6|day 6]]
 ## Day 1
 
 Tougher than a usual day 1! The second part in particular requires you to either find overlapping matches (`1twone` -> `[1, two, one]`) or to search from the end to the front.
@@ -185,6 +186,8 @@ The only challenge today was converting the problem description into a function:
 $$distance = (time limit - press) * press$$
 
 My answer could be a lot more efficient; for one the function is symmetric about the middle so if we started in the middle, we could search outwards in one direction and stop iterating once we found a value that was too low, cutting the search space by roughly 75%.
+
+I also could have actually solved for the intersection of d and the distance function above, but why do more thinking when the computer can just chug? My friend Chris [shows the way](https://github.com/cvermilion/adventofcode/blob/main/2023/06/run.py) if you prefer to think instead of type.
 
 However, the function that stupidly searches the whole space only takes a couple seconds to run on my machine so I just had some fun converting it into single generator expressions.
 
