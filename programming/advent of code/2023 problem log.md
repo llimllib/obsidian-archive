@@ -155,3 +155,40 @@ It's hard for me to write down that I failed on it!
 
 - [part 1](https://github.com/llimllib/personal_code/blob/9b7b9585280940eec1d6ab5acdd083cf71435a0c/misc/advent/2023/05/a.py)
 - [problem description](https://adventofcode.com/2023/day/5)
+
+## Day 6
+
+Who needs functions? Today's answer as a pair of one-liners:
+
+```python
+in1, in2 = itertools.tee(sys.stdin)
+
+# part 1
+print(
+    prod(
+        sum(1 for p in range(t) if (t - p) * p > d)
+        for t, d in zip(*[[int(x) for x in re.findall(r"\d+", line)] for line in in1])
+    )
+)
+
+# part 2
+print(
+    prod(
+        sum(1 for p in range(t) if (t - p) * p > d)
+        for t, d in [[int("".join(re.findall(r"\d+", line))) for line in in2]]
+    )
+)
+```
+
+The only challenge today was converting the problem description into a function:
+
+$$distance = (time limit - press) * press$$
+
+My answer could be a lot more efficient; for one the function is symmetric about the middle so if we started in the middle, we could search outwards in one direction and stop iterating once we found a value that was too low, cutting the search space by roughly 75%.
+
+However, the function that stupidly searches the whole space only takes a couple seconds to run on my machine so I just had some fun converting it into single generator expressions.
+
+Also, today I learned about `math.prod`! I'd written my own version so many times but today I decided to check if one existed and [lo and behold, it does](https://docs.python.org/3/library/math.html#math.prod).
+
+- [day 6 answer](https://github.com/llimllib/personal_code/blob/7da47875cf47a193c8e67d4a5431aa5567d163cb/misc/advent/2023/06/a.py)
+- [problem description](https://adventofcode.com/2023/day/6)
