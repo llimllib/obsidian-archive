@@ -276,7 +276,7 @@ print(
         (i + 1) * bid
         for i, (_, bid) in enumerate(
             sorted(
-                hands,
+                parse(sys.stdin),
                 key=lambda hb: list(sorted(Counter(hb[0]).values(), reverse=True))
                 + hb[0],
             )
