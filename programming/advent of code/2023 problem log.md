@@ -206,6 +206,16 @@ Instead of ranking them by the order of the cards in the hand (`32222` > `2AAAA`
 With the simplified scoring, my answer was boring and straightforward:
 
 ```python
+def parse(iter):
+    hands = []
+    faces = {"T": 10, "J": 11, "Q": 12, "K": 13, "A": 14}
+    for line in iter:
+        hand, bid = line.strip().split(" ")
+        hand = [int(faces.get(c, c)) for c in hand]
+        hands.append((hand, int(bid)))
+    return hands
+
+
 def score(hand):
     hand, _ = hand
     (_, n), *rest = sorted(
