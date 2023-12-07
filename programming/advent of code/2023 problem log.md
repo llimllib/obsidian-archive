@@ -6,6 +6,7 @@
 - [[2023 problem log#Day 4|day 4]]
 - [[2023 problem log#Day 5|day 5]]
 - [[2023 problem log#Day 6|day 6]]
+- [[2023 problem log#Day 7|day 7]]
 ## Day 1
 
 Tougher than a usual day 1! The second part in particular requires you to either find overlapping matches (`1twone` -> `[1, two, one]`) or to search from the end to the front.
@@ -195,3 +196,79 @@ Also, today I learned about `math.prod`! I'd written my own version so many time
 
 - [day 6 answer](https://github.com/llimllib/personal_code/blob/7da47875cf47a193c8e67d4a5431aa5567d163cb/misc/advent/2023/06/a.py)
 - [problem description](https://adventofcode.com/2023/day/6)
+
+## Day 7
+
+I got my first couple of guesses wrong today because I have coded poker hand scoring before, and I scored the poker hands like real poker rather than "desert poker".
+
+Instead of ranking them by the order of the cards in the hand (`32222` > `2AAAA` because `3` > `2`), I initially ranked them like you would in real poker, where `2AAAA` beats `32222` because four aces beats four twos.
+
+With the simplified scoring, my answer was boring and straightforward:
+
+```python
+def score(hand):
+    hand, _ = hand
+    (_, n), *rest = sorted(
+	    # turns a hand like [5,6,7,7,7] into [(5, 1), (6, 1), (7, 3)]
+	    # then, we sort it by count and value so that we have the cards
+	    # in order of frequency and then rank
+        Counter(hand).items(), key=lambda x: (x[1], x[0]), reverse=True
+    )
+
+    if n == 5:
+        return (7, *hand)
+    (_, nn) = rest.pop(0)
+    if n == 4:
+        return (6, *hand)
+    if n == 3 and nn == 2:
+        return (5, *hand)
+    if n == 3:
+        return (4, *hand)
+    if n == 2 and nn == 2:
+        return (3, *hand)
+    if n == 2:
+        return (2, *hand)
+    return (1, *hand)
+```
+
+I have only ever used [collections.Counter](https://docs.python.org/3/library/collections.html#collections.Counter) for advent of code, but boy is it handy for AoC.
+
+With a scoring function written, all that's left is to parse the hands and sum the winnings:
+
+```python
+hands = parse(sys.stdin)
+print(sum((i + 1) * bid for i, (_, bid) in enumerate(sorted(hands, key=score))))
+```
+
+To solve part 2, I changed the value of a jack from 11 to 1, and only had to make minor alterations to the score function:
+
+```python
+def score(hand):
+    hand, _ = hand
+    js = hand.count(1)
+    (top, n), *rest = sorted(
+        Counter(hand).items(), key=lambda x: (x[1], x[0]), reverse=True
+    )
+    if top == 1:
+        # if the hand is entirely jacks, rest will be empty
+        n = rest.pop(0)[1] if len(rest) else 0
+
+    if n + js == 5:
+        return (7, *hand)
+    (_, nn) = rest.pop(0) if len(rest) else (0, 0)
+    if n + js == 4:
+        return (6, *hand)
+    if n + nn + js == 5:
+        return (5, *hand)
+    if n + js == 3:
+        return (4, *hand)
+    if n + nn + js == 4:
+        return (3, *hand)
+    if n + js == 2:
+        return (2, *hand)
+    return (1, *hand)
+```
+
+- [part 1](https://github.com/llimllib/personal_code/blob/29fced1e0938b73b27d1ab9b75b23545eda08f0b/misc/advent/2023/07/a.py)
+- [part 2](https://github.com/llimllib/personal_code/blob/29fced1e0938b73b27d1ab9b75b23545eda08f0b/misc/advent/2023/07/b.py)
+- [problem description](https://adventofcode.com/2023/day/7)
