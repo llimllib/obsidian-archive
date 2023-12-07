@@ -268,6 +268,23 @@ def score(hand):
     return (1, *hand)
 ```
 
+Thanks to my friend Chris who pointed out that all we care about for ranking hands is the cardinality of ranks (i.e. the number of each rank in the hand), leading to this terrible golfed generator expression for part 1 that entirely eliminates the `score` function:
+
+```python
+print(
+    sum(
+        (i + 1) * bid
+        for i, (_, bid) in enumerate(
+            sorted(
+                hands,
+                key=lambda hb: list(sorted(Counter(hb[0]).values(), reverse=True))
+                + hb[0],
+            )
+        )
+    )
+)
+```
+
 - [part 1](https://github.com/llimllib/personal_code/blob/29fced1e0938b73b27d1ab9b75b23545eda08f0b/misc/advent/2023/07/a.py)
 - [part 2](https://github.com/llimllib/personal_code/blob/29fced1e0938b73b27d1ab9b75b23545eda08f0b/misc/advent/2023/07/b.py)
 - [problem description](https://adventofcode.com/2023/day/7)
