@@ -278,7 +278,7 @@ def score(hand):
     return (1, *hand)
 ```
 
-Thanks to my friend Chris who pointed out that all we care about for ranking hands is the cardinality of ranks (i.e. the number of each rank in the hand), leading to this terrible golfed generator expression for part 1 that entirely eliminates the `score` and `parse` functions entirely:
+Thanks to my friend Chris who pointed out that all we care about for ranking hands is the cardinality of ranks (i.e. the number of each rank in the hand), leading to this terrible golfed generator expression for part 1 that eliminates the `score` and `parse` functions entirely:
 
 ```python
 print(
