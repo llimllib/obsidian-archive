@@ -268,7 +268,7 @@ def score(hand):
     return (1, *hand)
 ```
 
-Thanks to my friend Chris who pointed out that all we care about for ranking hands is the cardinality of ranks (i.e. the number of each rank in the hand), leading to this terrible golfed generator expression for part 1 that entirely eliminates the `score` function:
+Thanks to my friend Chris who pointed out that all we care about for ranking hands is the cardinality of ranks (i.e. the number of each rank in the hand), leading to this terrible golfed generator expression for part 1 that entirely eliminates the `score` and `parse` functions entirely:
 
 ```python
 print(
@@ -276,13 +276,23 @@ print(
         (i + 1) * bid
         for i, (_, bid) in enumerate(
             sorted(
-                parse(sys.stdin),
+                [
+                    (
+                        [
+                            int({"T": 10, "J": 11, "Q": 12, "K": 13, "A": 14}.get(c, c))
+                            for c in cards
+                        ],
+                        int(bid),
+                    )
+                    for cards, bid in [line.split(" ") for line in sys.stdin]
+                ],
                 key=lambda hb: list(sorted(Counter(hb[0]).values(), reverse=True))
                 + hb[0],
             )
         )
     )
 )
+
 ```
 
 - [part 1](https://github.com/llimllib/personal_code/blob/29fced1e0938b73b27d1ab9b75b23545eda08f0b/misc/advent/2023/07/a.py)
