@@ -7,6 +7,7 @@
 - [[2023 problem log#Day 5|day 5]]
 - [[2023 problem log#Day 6|day 6]]
 - [[2023 problem log#Day 7|day 7]]
+- [[2023 problem log#Day 8|day 8]]
 ## Day 1
 
 Tougher than a usual day 1! The second part in particular requires you to either find overlapping matches (`1twone` -> `[1, two, one]`) or to search from the end to the front.
@@ -302,9 +303,55 @@ print(
         )
     )
 )
-
 ```
 
 - [part 1](https://github.com/llimllib/personal_code/blob/29fced1e0938b73b27d1ab9b75b23545eda08f0b/misc/advent/2023/07/a.py)
 - [part 2](https://github.com/llimllib/personal_code/blob/29fced1e0938b73b27d1ab9b75b23545eda08f0b/misc/advent/2023/07/b.py)
 - [problem description](https://adventofcode.com/2023/day/7)
+
+## Day 8
+
+A day where a tiny bit of thinking saves you from wasting your computer's processing power. If you try to run part 2 until it finishes, you're likely to be waiting a long while.
+
+First, parse the network into a dictionary:
+
+```python
+def parse(iter):
+    directions = [1 if c == "R" else 0 for c in list(next(iter).strip())]
+    next(iter)
+    network = {}
+    for line in iter:
+        a, l, r = re.findall(r"\w+", line)
+        network[a] = (l, r)
+    return (directions, network)
+```
+
+Next, you need a function for finding the length of a cycle (from an `A` node to a `Z` node):
+
+```python
+def cycle_len(directions, network, loc):
+    for i, dir in enumerate(itertools.cycle(directions)):
+        loc = network[loc][dir]
+        if loc[-1] == "Z":
+            return i + 1
+```
+
+for part 1, find the cycle length for `AAA`:
+
+```python
+directions, network = parse(sys.stdin)
+print(cycle_len(directions, network, "AAA"))
+```
+
+for part 2, find the least common multiple (using [numpy.lcm](https://numpy.org/doc/stable/reference/generated/numpy.lcm.html)) of the cycle length of all nodes ending with `A`:
+
+```python
+print(
+    np.lcm.reduce(
+        [cycle_len(directions, network, node) for node in network if node[-1] == "A"]
+    )
+)
+```
+
+- [day 8 solution](https://github.com/llimllib/personal_code/blob/29292348e730fbef87860cb43db12dda972f2bd1/misc/advent/2023/08/a.py)
+- [problem description](https://adventofcode.com/2023/day/8)
