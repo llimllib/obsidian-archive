@@ -358,7 +358,7 @@ _update:_ Today I learned that there is a [math.lcm](https://docs.python.org/3/l
 ```python
 print(
     math.lcm(
-        *[cycle_len(directions, network, node) for node in network if node[-1] == "A"]
+        *(cycle_len(directions, network, node) for node in network if node[-1] == "A")
     )
 )
 ```
