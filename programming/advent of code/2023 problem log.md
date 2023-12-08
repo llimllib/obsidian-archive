@@ -353,5 +353,15 @@ print(
 )
 ```
 
+_update:_ Today I learned that there is a [math.lcm](https://docs.python.org/3/library/math.html#math.lcm) in the standard library, since version 3.9! I love removing dependencies.
+
+```python
+print(
+    math.lcm(
+        *[cycle_len(directions, network, node) for node in network if node[-1] == "A"]
+    )
+)
+```
+
 - [day 8 solution](https://github.com/llimllib/personal_code/blob/29292348e730fbef87860cb43db12dda972f2bd1/misc/advent/2023/08/a.py)
 - [problem description](https://adventofcode.com/2023/day/8)
