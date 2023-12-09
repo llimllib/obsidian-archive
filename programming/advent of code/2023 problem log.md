@@ -8,6 +8,7 @@
 - [[2023 problem log#Day 6|day 6]]
 - [[2023 problem log#Day 7|day 7]]
 - [[2023 problem log#Day 8|day 8]]
+- [[2023 problem log#Day 9|day 9]]
 ## Day 1
 
 Tougher than a usual day 1! The second part in particular requires you to either find overlapping matches (`1twone` -> `[1, two, one]`) or to search from the end to the front.
@@ -365,3 +366,55 @@ print(
 
 - [day 8 solution](https://github.com/llimllib/personal_code/blob/29292348e730fbef87860cb43db12dda972f2bd1/misc/advent/2023/08/a.py)
 - [problem description](https://adventofcode.com/2023/day/8)
+
+## Day 9
+
+A surprisingly simple problem for a Saturday. 
+
+I thought this one was going to require me to figure out the math, but a simple iterative model was plenty fast enough.
+
+For part 1, we want to find the sum of the numbers added to the sequence. First I take the differences and save the final number of each list:
+
+```python
+ls = []
+while any(a != b for a, b in itertools.pairwise(ints)):
+    ls += [ints[-1]]
+    ints = [b - a for a, b in itertools.pairwise(ints)]
+```
+
+Then I build back up the sum and return it:
+
+```python
+sum = ints[0]
+for b in reversed(ls):
+	sum += b
+return sum
+```
+
+At this point, I noticed that "sum" is equal to the additional number (`ints[0]`) and the last number of each row, simplifying that to:
+
+```python
+return sum([ints[0]] + ls)
+```
+
+For part 2, the first half of the answer is the same, except I save the first number in each row instead of the last. Then build back up to the first value by taking the difference of the first number and the current value:
+
+```python
+    cur = ints[0]
+    for b in reversed(ls):
+        cur = b - cur
+    return cur
+```
+
+I'm sure there's a similar simplification of this process, but I'm feeling a little dense this morning and I'm leaving it where it is.
+
+To parse the input and print the results, I have:
+
+```python
+in1, in2 = itertools.tee(sys.stdin)
+print(sum(part1([int(x) for x in line.split()]) for line in in1))
+print(sum(part2([int(x) for x in line.split()]) for line in in2))
+```
+
+- [day 9 solution](https://github.com/llimllib/personal_code/blob/96fad384db5eef38375e3336f2a6bda033438c3c/misc/advent/2023/09/a.py)
+- [problem description](https://adventofcode.com/2023/day/9#part2)
