@@ -369,8 +369,6 @@ print(
 
 ## Day 9
 
-A surprisingly simple problem for a Saturday. 
-
 I thought this one was going to require me to figure out the math, but a simple iterative model was plenty fast enough.
 
 For part 1, we want to find the sum of the numbers added to the sequence. First I take the differences and save the final number of each list:
