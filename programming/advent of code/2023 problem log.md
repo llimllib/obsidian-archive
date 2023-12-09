@@ -414,5 +414,13 @@ print(sum(part1([int(x) for x in line.split()]) for line in in1))
 print(sum(part2([int(x) for x in line.split()]) for line in in2))
 ```
 
-- [day 9 solution](https://github.com/llimllib/personal_code/blob/96fad384db5eef38375e3336f2a6bda033438c3c/misc/advent/2023/09/a.py)
+_update_: I realized that part 2 is the reverse of part 1! So you can remove the `part2` function and express part 2 in terms of part 1 as:
+
+```python
+in1, in2 = itertools.tee(sys.stdin)
+print(sum(part1([int(x) for x in line.split()]) for line in in1))
+print(sum(part1(list(reversed([int(x) for x in line.split()]))) for line in in2))
+```
+
+- [day 9 solution](https://github.com/llimllib/personal_code/blob/f0c09f2be4c856c04bcf85ed195375fa60b8722f/misc/advent/2023/09/a.py)
 - [problem description](https://adventofcode.com/2023/day/9#part2)
