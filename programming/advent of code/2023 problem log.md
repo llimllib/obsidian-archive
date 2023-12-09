@@ -376,7 +376,7 @@ For part 1, we want to find the sum of the numbers added to the sequence. First 
 ```python
 ls = []
 while any(a != b for a, b in itertools.pairwise(ints)):
-    ls += [ints[-1]]
+    ls.append(ints[-1])
     ints = [b - a for a, b in itertools.pairwise(ints)]
 ```
 
