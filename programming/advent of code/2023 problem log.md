@@ -9,6 +9,7 @@
 - [[2023 problem log#Day 7|day 7]]
 - [[2023 problem log#Day 8|day 8]]
 - [[2023 problem log#Day 9|day 9]]
+- [[2023 problem log#Day 10|day 10]]
 ## Day 1
 
 Tougher than a usual day 1! The second part in particular requires you to either find overlapping matches (`1twone` -> `[1, two, one]`) or to search from the end to the front.
@@ -424,3 +425,16 @@ print(sum(part1(list(reversed([int(x) for x in line.split()]))) for line in in2)
 
 - [day 9 solution](https://github.com/llimllib/personal_code/blob/f0c09f2be4c856c04bcf85ed195375fa60b8722f/misc/advent/2023/09/a.py)
 - [problem description](https://adventofcode.com/2023/day/9#part2)
+
+## Day 10
+
+Phew, that was a lot!
+
+I got part 1 reasonably easily, but had to cheat for part 2 by looking at the answers thread.
+
+I had a vague sense for part 2 that there was a parity-based solution, but I had to look at somebody else's answer for how to implement it.
+
+I'm just going to post the link to my code, it's a bit of a mess and I don't feel like writing about it today.
+
+- [day 10 solution](https://github.com/llimllib/personal_code/blob/2efbb42e2f116cc2eea685181fcd51c486f6e15f/misc/advent/2023/10/a.py)
+- [problem description](https://adventofcode.com/2023/day/10)
