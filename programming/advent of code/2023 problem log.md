@@ -10,6 +10,7 @@
 - [[2023 problem log#Day 8|day 8]]
 - [[2023 problem log#Day 9|day 9]]
 - [[2023 problem log#Day 10|day 10]]
+- [[2023 problem log#Day 11|day 11]]
 ## Day 1
 
 Tougher than a usual day 1! The second part in particular requires you to either find overlapping matches (`1twone` -> `[1, two, one]`) or to search from the end to the front.
