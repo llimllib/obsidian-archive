@@ -430,7 +430,7 @@ print(sum(part1(list(reversed([int(x) for x in line.split()]))) for line in in2)
 
 Phew, that was a lot!
 
-I got part 1 reasonably easily, but had to cheat for part 2 by looking at the answers thread.
+Parse the map into a grid:
 
 I had a vague sense for part 2 that there was a parity-based solution, but I had to look at somebody else's answer for how to implement it.
 
@@ -438,3 +438,71 @@ I'm just going to post the link to my code, it's a bit of a mess and I don't fee
 
 - [day 10 solution](https://github.com/llimllib/personal_code/blob/2efbb42e2f116cc2eea685181fcd51c486f6e15f/misc/advent/2023/10/a.py)
 - [problem description](https://adventofcode.com/2023/day/10)
+
+## Day 11
+
+Parse the input into a set of points:
+
+```python
+def parse(iter):
+    pts = set()
+    for row, line in enumerate(iter):
+        for col, c in enumerate(line.strip()):
+            if c != ".":
+                pts.add((row, col))
+    return pts
+```
+
+It turns out in part 2 that storing a grid would be catastrophic, so make sure you're just storing the location of the galaxies.
+
+Find the rows and columns that lack galaxies, and thus need expanding:
+
+```python
+pts = sorted(parse(sys.stdin))
+rows = {p[0] for p in pts}
+cols = {p[1] for p in pts}
+ecols = set(range(max(cols))) - cols
+erows = set(range(max(rows))) - rows
+```
+
+Then, expand them:
+
+```python
+part1 = set()
+part2 = set()
+for row, col in pts:
+    part1.add(
+        (
+            row + len([i for i in erows if i < row]),
+            col + len([i for i in ecols if i < col]),
+        )
+    )
+    part2.add(
+        (
+            row + len([i for i in erows if i < row]) * 999_999,
+            col + len([i for i in ecols if i < col]) * 999_999,
+        )
+    )
+```
+
+I'll be honest that I don't really understand why I'm multiplying by `n-1` instead of `n` for part 2, but I just made sure to match the results of my code to the sample inputs.
+
+Finally, sum the Manhattan distance between each pair of points. `itertools.combinations` is helpful here:
+
+```python
+print(
+    sum(
+        abs(x1 - x2) + abs(y1 - y2)
+        for (x1, y1), (x2, y2) in itertools.combinations(part1, 2)
+    )
+)
+print(
+    sum(
+        abs(x1 - x2) + abs(y1 - y2)
+        for (x1, y1), (x2, y2) in itertools.combinations(part2, 2)
+    )
+)
+```
+
+- [full answer](https://github.com/llimllib/personal_code/blob/9834654237c9727876b87f2938a61e11ace264a0/misc/advent/2023/11/a.py)
+- [problem description](https://adventofcode.com/2023/day/11)
