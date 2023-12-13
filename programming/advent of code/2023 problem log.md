@@ -11,6 +11,7 @@
 - [[2023 problem log#Day 9|day 9]]
 - [[2023 problem log#Day 10|day 10]]
 - [[2023 problem log#Day 11|day 11]]
+-  [[2023 problem log#Day 12|day 12]]
 ## Day 1
 
 Tougher than a usual day 1! The second part in particular requires you to either find overlapping matches (`1twone` -> `[1, two, one]`) or to search from the end to the front.
@@ -486,7 +487,7 @@ for row, col in pts:
     )
 ```
 
-I'll be honest that I don't really understand why I'm multiplying by `n-1` instead of `n` for part 2, but I just made sure to match the results of my code to the sample inputs.
+We multiply by the expansion factor `1_000_000 - 1` because we already have the one row; it's not listed here but the expansion factor for the first part is `2` because we're doubling the empty rows.
 
 Finally, sum the Manhattan distance between each pair of points. `itertools.combinations` is helpful here:
 
@@ -507,3 +508,63 @@ print(
 
 - [full answer](https://github.com/llimllib/personal_code/blob/9834654237c9727876b87f2938a61e11ace264a0/misc/advent/2023/11/a.py)
 - [problem description](https://adventofcode.com/2023/day/11)
+
+## Day 12
+
+Parsing the problem isn't the challenge:
+
+```python
+def parse(iter):
+    lines = []
+    for line in iter:
+        cond, lens = line.strip().split(" ")
+        lines.append((cond, tuple(int(x) for x in lens.split(","))))
+    return lines
+```
+
+The challenge is implementing our own little regular expression engine! For part 1, this was enough, but for part 2 `@functools.cache` came to the rescue.
+
+Why spend time thinking when we can memoize instead? Tables rule everything around me.
+
+```python
+@functools.cache
+def count(s: str, machines: tuple[int]) -> int:
+    if not machines:
+        if "#" not in s:
+            return 1
+        return 0
+    if not s:
+        return 0
+
+    i = 0
+    l = len(s)
+    m = machines[0]
+    n = 0
+    while i < l + m:
+        match = i
+        while i < l and s[i] in ["?", "#"] and i - match < m:
+            i += 1
+        if i - match == m and (i == l or s[i] in [".", "?"]) and "#" not in s[:match]:
+            n += count(s[i + 1 :], machines[1:])
+        i = match + 1
+    return n
+```
+
+Unforlding part 2 and outputting the sum, presented without comment:
+
+```python
+def unfold(s: str, machines: tuple[int]) -> tuple[str, tuple[int]]:
+    return "?".join([s] * 5), tuple(machines * 5)
+
+
+puzzles = parse(sys.stdin)
+# part 1
+print(sum(count(s, machines) for (s, machines) in puzzles))
+# part 2
+print(sum(count(*unfold(*x)) for x in puzzles))
+```
+
+I wish I hadn't left it for the end of the day, when my brain is mashed potatoes, but glad I got it done!
+
+- [day 12 answer](https://github.com/llimllib/personal_code/blob/c5786c39a19af6bc3644dbfa55088f4023398987/misc/advent/2023/12/a.py)
+- [problem statement](https://adventofcode.com/2023/day/12)
