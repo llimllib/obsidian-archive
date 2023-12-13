@@ -552,7 +552,7 @@ Unfolding part 2 and outputting the sum, presented without comment:
 
 ```python
 def unfold(s: str, machines: tuple[int]) -> tuple[str, tuple[int]]:
-    return "?".join([s] * 5), tuple(machines * 5)
+    return "?".join([s] * 5), machines * 5
 
 
 puzzles = parse(sys.stdin)
