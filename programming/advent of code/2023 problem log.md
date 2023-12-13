@@ -626,23 +626,16 @@ def onediff(a: str, b: str) -> bool:
 
 Then a messy function that tries to unsmudge a grid's horizontal symmetry:
 
-- checks if a line has one difference from the next
-	- if so, check if it is symmetric if you set them equal
-- checks if two lines are equal
-	- if so, search outwards for lines with one difference
+- if any pair of lines are equal or different by one
+	- search outwards for lines with one difference
 		- if setting those lines equal adds a symmetry, return that value
 
 ```python
 def unsmudge(g: list[str]) -> int:
     l = len(g)
     for i, (a, b) in enumerate(itertools.pairwise(g)):
-        if onediff(a, b):
-            h = g[:]
-            h[i] = b
-            if is_symmetric(h, i):
-                return i + 1
-        if a == b:
-            for j in range(1, min(i + 1, l - i - 1)):
+        if a == b or onediff(a, b):
+            for j in range(min(i + 1, l - i - 1)):
                 if onediff(g[i - j], g[i + j + 1]):
                     h = g[:]
                     h[i - j] = g[i + j + 1]
@@ -666,5 +659,5 @@ print(
 ```
 
 - [part 1 answer](https://github.com/llimllib/personal_code/blob/b34175851af09ff2379d99faca19ea17cdc499be/misc/advent/2023/13/a.py)
-- [part 2 answer](https://github.com/llimllib/personal_code/blob/b34175851af09ff2379d99faca19ea17cdc499be/misc/advent/2023/13/b.py)
+- [part 2 answer](https://github.com/llimllib/personal_code/blob/7c4f94554fac04de68ba017375d610e4770d8f64/misc/advent/2023/13/b.py)
 - [problem statement](https://adventofcode.com/2023/day/13)
