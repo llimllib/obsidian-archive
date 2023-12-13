@@ -538,11 +538,11 @@ def count(s: str, machines: tuple[int]) -> int:
     l = len(s)
     m = machines[0]
     n = 0
-    while i < l + m:
+    while i < l + m and "#" not in s[:match]:
         match = i
         while i < l and s[i] in ["?", "#"] and i - match < m:
             i += 1
-        if i - match == m and (i == l or s[i] in [".", "?"]) and "#" not in s[:match]:
+        if i - match == m and (i == l or s[i] in [".", "?"]):
             n += count(s[i + 1 :], machines[1:])
         i = match + 1
     return n
@@ -564,7 +564,7 @@ print(sum(count(*unfold(*x)) for x in puzzles))
 
 I wish I hadn't left it for the end of the day, when my brain is mashed potatoes, but glad I got it done!
 
-Part 2 takes about 2 seconds with vanilla python, and .8 seconds with pypy.
+Part 2 takes about .8 seconds with vanilla python, and .7 seconds with pypy.
 
-- [day 12 answer](https://github.com/llimllib/personal_code/blob/c5786c39a19af6bc3644dbfa55088f4023398987/misc/advent/2023/12/a.py)
+- [day 12 answer](https://github.com/llimllib/personal_code/blob/4a70d4ad378dfb1c243232c48029a1d8d9a1c3cd/misc/advent/2023/12/a.py)
 - [problem statement](https://adventofcode.com/2023/day/12)
