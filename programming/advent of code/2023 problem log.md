@@ -550,7 +550,7 @@ def count(s: str, machines: tuple[int]) -> int:
     return n
 ```
 
-Unforlding part 2 and outputting the sum, presented without comment:
+Unfolding part 2 and outputting the sum, presented without comment:
 
 ```python
 def unfold(s: str, machines: tuple[int]) -> tuple[str, tuple[int]]:
@@ -565,6 +565,8 @@ print(sum(count(*unfold(*x)) for x in puzzles))
 ```
 
 I wish I hadn't left it for the end of the day, when my brain is mashed potatoes, but glad I got it done!
+
+Part 2 takes about 2 seconds with vanilla python, and .8 seconds with pypy.
 
 - [day 12 answer](https://github.com/llimllib/personal_code/blob/c5786c39a19af6bc3644dbfa55088f4023398987/misc/advent/2023/12/a.py)
 - [problem statement](https://adventofcode.com/2023/day/12)
