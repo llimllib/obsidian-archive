@@ -11,7 +11,8 @@
 - [[2023 problem log#Day 9|day 9]]
 - [[2023 problem log#Day 10|day 10]]
 - [[2023 problem log#Day 11|day 11]]
--  [[2023 problem log#Day 12|day 12]]
+- [[2023 problem log#Day 12|day 12]]
+- [[2023 problem log#Day 13|day 13]]
 ## Day 1
 
 Tougher than a usual day 1! The second part in particular requires you to either find overlapping matches (`1twone` -> `[1, two, one]`) or to search from the end to the front.
@@ -568,3 +569,102 @@ Part 2 takes about .8 seconds with vanilla python, and .7 seconds with pypy.
 
 - [day 12 answer](https://github.com/llimllib/personal_code/blob/4a70d4ad378dfb1c243232c48029a1d8d9a1c3cd/misc/advent/2023/12/a.py)
 - [problem statement](https://adventofcode.com/2023/day/12)
+
+## Day 13
+
+I decided to treat the input as a list of strings, and deal with vertical symmetries the same as horizontal symmetries by transposing the list.
+
+The first thing I wrote was my transpose function, which uses the neat trick that `zip(*grid)` is a generator of rows for a transposed grid:
+
+```python
+def t(g: list[str]) -> list[str]:
+    return list("".join(y) for y in zip(*g))
+```
+
+next up, a function to check if a grid is symmetric about a horizontal line:
+
+```python
+def is_symmetric(g: list[str], i: int) -> bool:
+    l = len(g)
+    for j in range(1, min(i + 1, l - i - 1)):
+        if g[i - j] != g[i + j + 1]:
+            return False
+    return True
+```
+
+for part 1, it took me a while to read the part of the problem that said we need to sum _all_ axes of symmetry. Eventually I got to this function to return the sum for a grid's horizontal symmetries:
+
+```python
+def symmetry(g: list[str]) -> int:
+    return sum(
+        i + 1
+        for i, (a, b) in enumerate(itertools.pairwise(g))
+        if a == b and is_symmetric(g, i)
+    )
+```
+
+Then we can wrap part 1 up by summing the vertical symmetries (which I calculate as the horizontal symmetries of the transposed grid) and the horizontal symmetries * 100:
+
+```python
+print(
+    sum(
+        symmetry(t(grid)) + 100 * symmetry(grid)
+        for grid in [
+            [line.strip() for line in chunk.split("\n")]
+            for chunk in sys.stdin.read().strip().split("\n\n")
+        ]
+    )
+)
+```
+
+for part 2, I started by writing a function that checks whether two lines are different by one character:
+
+```python
+def onediff(a: str, b: str) -> bool:
+    return sum(a != b for a, b in zip(a, b)) == 1
+```
+
+Then a messy function that tries to unsmudge a grid's horizontal symmetry:
+
+- checks if a line has one difference from the next
+	- if so, check if it is symmetric if you set them equal
+- checks if two lines are equal
+	- if so, search outwards for lines with one difference
+		- if setting those lines equal adds a symmetry, return that value
+
+```python
+def unsmudge(g: list[str]) -> int:
+    l = len(g)
+    for i, (a, b) in enumerate(itertools.pairwise(g)):
+        if onediff(a, b):
+            h = g[:]
+            h[i] = b
+            if is_symmetric(h, i):
+                return i + 1
+        if a == b:
+            for j in range(1, min(i + 1, l - i - 1)):
+                if onediff(g[i - j], g[i + j + 1]):
+                    h = g[:]
+                    h[i - j] = g[i + j + 1]
+                    if is_symmetric(h, i):
+                        return i + 1
+    return 0
+```
+
+Finally, sum up the horizontal smudges * 100 and the vertical smudges:
+
+```python
+print(
+    sum(
+        unsmudge(grid) * 100 or unsmudge(t(grid))
+        for grid in [
+            [line.strip() for line in chunk.split("\n")]
+            for chunk in sys.stdin.read().strip().split("\n\n")
+        ]
+    )
+)
+```
+
+- [part 1 answer](https://github.com/llimllib/personal_code/blob/b34175851af09ff2379d99faca19ea17cdc499be/misc/advent/2023/13/a.py)
+- [part 2 answer](https://github.com/llimllib/personal_code/blob/b34175851af09ff2379d99faca19ea17cdc499be/misc/advent/2023/13/b.py)
+- [problem statement](https://adventofcode.com/2023/day/13)
