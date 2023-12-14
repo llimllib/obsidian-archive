@@ -700,7 +700,7 @@ For part 2, I first wrote a correct but slow implementation of running one cycle
 
 I knew that my code would never finish, but also that the value of `1_000_000_000` was a hint that you weren't expected to run that many cycles, so I just ran my code and printed out each cycle's value in turn, figuring that there would be a loop.
 
-I looked at the output in my text editor, picked a random value and found that it was at lines `134, 193, 252`, so I guessed that there was a 59-element loop. Python told me that $$134 + 59 * (\lfloor1,000,000,000 / 59\rfloor-2) == 999,999,984$$ , so the element 16 after line 134 should be the answer. I tried entering the value at line 150 as the answer, and it was correct!
+I looked at the output in my text editor, picked a random value and found that it was at lines `134, 193, 252`, so I guessed that there was a 59-element loop. Python told me that $$134 + 59 \times (\lfloor1,000,000,000 / 59\rfloor-2) = 999,999,984$$ , so the element 16 after line 134 should be the answer. I tried entering the value at line 150 as the answer, and it was correct!
 
 I have implemented the cycle finding in code for past AoCs, but I haven't bothered to do it here so far. I kind of enjoy the simplicity of having figured it out by hand.
 
