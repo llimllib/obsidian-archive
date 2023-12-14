@@ -690,7 +690,7 @@ for i, (col, row) in enumerate(rocks):
     )
 ```
 
-Then we can just sum the row values of each rock:
+Then sum the row values of each rock to get the answer for part 1:
 
 ```python
 print(sum(maxrow - r for _, r in rocks))
