@@ -681,12 +681,7 @@ Tilting the board is finding the largest impediment in the same column, and putt
 ```python
 for i, (col, row) in enumerate(rocks):
     rocks[i][1] = (
-        max(
-            [r for c, r in rocks if r < row and c == col]
-            + [r for c, r in pins if r < row and c == col]
-            + [-1]
-        )
-        + 1
+        max([r for c, r in rocks + pins if r < row and c == col] + [-1]) + 1
     )
 ```
 
@@ -696,7 +691,7 @@ Then sum the row values of each rock to get the answer for part 1:
 print(sum(maxrow - r for _, r in rocks))
 ```
 
-For part 2, I first wrote a correct but slow implementation of running one cycle; I won't put it here because it's very similar to tilting the board north, but in each direction. You can [read it here](https://github.com/llimllib/personal_code/blob/322372221c9a5a351a3634aece686dd90463ff98/misc/advent/2023/14/b.py#L23-L67) if you like.
+For part 2, I first wrote a correct but slow implementation of running one cycle; I won't put it here because it's very similar to tilting the board north, but in each direction. You can [read it here](https://github.com/llimllib/personal_code/blob/100f633b64fdac02c468d573fb9a5dac1f013ac4/misc/advent/2023/14/b.py#L23-L47) if you like.
 
 I knew that my code would never finish, but also that the value of `1_000_000_000` was a hint that you weren't expected to run that many cycles, so I just ran my code and printed out each cycle's value in turn, figuring that there would be a loop.
 
