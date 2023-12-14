@@ -13,6 +13,7 @@
 - [[2023 problem log#Day 11|day 11]]
 - [[2023 problem log#Day 12|day 12]]
 - [[2023 problem log#Day 13|day 13]]
+- [[2023 problem log#Day 14|day 14]]
 ## Day 1
 
 Tougher than a usual day 1! The second part in particular requires you to either find overlapping matches (`1twone` -> `[1, two, one]`) or to search from the end to the front.
@@ -661,3 +662,48 @@ print(
 - [part 1 answer](https://github.com/llimllib/personal_code/blob/b34175851af09ff2379d99faca19ea17cdc499be/misc/advent/2023/13/a.py)
 - [part 2 answer](https://github.com/llimllib/personal_code/blob/7c4f94554fac04de68ba017375d610e4770d8f64/misc/advent/2023/13/b.py)
 - [problem statement](https://adventofcode.com/2023/day/13)
+
+## Day 14
+
+I decided to call the "immovable rocks" pins, by analogy to a pinball machine.
+
+```python
+rocks, pins = [], []
+maxrow = 0
+for row, line in enumerate(sys.stdin):
+    rocks += [[n.start(), row] for n in re.finditer("O", line)]
+    pins += [[n.start(), row] for n in re.finditer("#", line)]
+    maxrow = row + 1
+```
+
+Tilting the board is finding the largest impediment in the same column, and putting the rock in the next row. It's important here that the rocks are already sorted by row, we need to move each row in turn to get the right answer.
+
+```python
+for i, (col, row) in enumerate(rocks):
+    rocks[i][1] = (
+        max(
+            [r for c, r in rocks if r < row and c == col]
+            + [r for c, r in pins if r < row and c == col]
+            + [-1]
+        )
+        + 1
+    )
+```
+
+Then we can just sum the row values of each rock:
+
+```python
+print(sum(maxrow - r for _, r in rocks))
+```
+
+For part 2, I first wrote a correct but slow implementation of running one cycle; I won't put it here because it's very similar to tilting the board north, but in each direction. You can [read it here](https://github.com/llimllib/personal_code/blob/322372221c9a5a351a3634aece686dd90463ff98/misc/advent/2023/14/b.py#L23-L67) if you like.
+
+I knew that my code would never finish, but also that the value of `1_000_000_000` was a hint that you weren't expected to run that many cycles, so I just ran my code and printed out each cycle's value in turn, figuring that there would be a loop.
+
+I looked at the output in my text editor, picked a random value and found that it was at lines `134, 193, 252`, so I guessed that there was a 59-element loop. Python told me that $$134 + 59 * (\lfloor1,000,000,000 / 59\rfloor-2) == 999,999,984$$ , so the element 16 after line 134 should be the answer. I tried entering the value at line 150 as the answer, and it was correct!
+
+I have implemented the cycle finding in code for past AoCs, but I haven't bothered to do it here so far. I kind of enjoy the simplicity of having figured it out by hand.
+
+- [part 1 answer](https://github.com/llimllib/personal_code/blob/master/misc/advent/2023/14/a.py)
+- [part 2 answer](https://github.com/llimllib/personal_code/blob/master/misc/advent/2023/14/b.py)
+- [problem statement](https://adventofcode.com/2023/day/14)
