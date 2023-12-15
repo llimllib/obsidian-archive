@@ -14,6 +14,7 @@
 - [[2023 problem log#Day 12|day 12]]
 - [[2023 problem log#Day 13|day 13]]
 - [[2023 problem log#Day 14|day 14]]
+- [[2023 problem log#Day 15|day 15]]
 ## Day 1
 
 Tougher than a usual day 1! The second part in particular requires you to either find overlapping matches (`1twone` -> `[1, two, one]`) or to search from the end to the front.
@@ -702,3 +703,50 @@ I have implemented the cycle finding in code for past AoCs, but I haven't bother
 - [part 1 answer](https://github.com/llimllib/personal_code/blob/master/misc/advent/2023/14/a.py)
 - [part 2 answer](https://github.com/llimllib/personal_code/blob/master/misc/advent/2023/14/b.py)
 - [problem statement](https://adventofcode.com/2023/day/14)
+
+## Day 15
+
+for part 1, hash the whole string:
+
+```python
+def hash(s: str) -> int:
+    sum = 0
+    for c in s:
+        sum = ((sum + ord(c)) * 17) % 256
+    return sum
+
+
+instructions = sys.stdin.read().strip().split(",")
+print("part 1:", sum(hash(i) for i in instructions))
+```
+
+for part 2, I used the fact that python dictionaries are ordered to my advantage. Each box is a dictionary, and inserting a lens goes to the back by default.
+
+```python
+boxes = defaultdict(dict)
+for i in instructions:
+    if "-" in i:
+        try:
+            del boxes[hash(i[:-1])][i[:-1]]
+        except KeyError:
+            pass
+    else:
+        label, val = i.split("=")
+        val = int(val)
+        box = hash(label)
+        boxes[box][label] = val
+
+print(
+    "part 2:",
+    sum(
+        (box + 1) * (i + 1) * foc
+        for box in boxes
+        for i, foc in enumerate(boxes[box].values())
+    ),
+)
+```
+
+That's it! easy one today.
+
+- [solution](https://github.com/llimllib/personal_code/blob/8eadac64ca4f47336846e8a0aa33d2f27f92a244/misc/advent/2023/15/a.py)
+- [problem statement](https://adventofcode.com/2023/day/15)
