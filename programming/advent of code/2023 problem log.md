@@ -732,9 +732,7 @@ for i in instructions:
             pass
     else:
         label, val = i.split("=")
-        val = int(val)
-        box = hash(label)
-        boxes[box][label] = val
+        boxes[hash(label)][label] = int(val)
 
 print(
     "part 2:",
@@ -748,5 +746,5 @@ print(
 
 That's it! easy one today.
 
-- [solution](https://github.com/llimllib/personal_code/blob/8eadac64ca4f47336846e8a0aa33d2f27f92a244/misc/advent/2023/15/a.py)
+- [solution](https://github.com/llimllib/personal_code/blob/cf014c4acd05565376fb1f000c2ea2dd59c03988/misc/advent/2023/15/a.py)
 - [problem statement](https://adventofcode.com/2023/day/15)
