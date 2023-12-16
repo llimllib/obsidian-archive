@@ -796,7 +796,9 @@ def run(
     return (newbeams, points)
 ```
 
-The meat of the execution takes place inside `update_beam`, which I memoized for speed:
+The meat of the execution takes place inside `update_beam`, which I memoized for speed.
+
+I particularly wanted to use the `match` statement today, it seemed like a good fit for the problem and I haven't tried it out very much.
 
 ```python
 cache = {}
@@ -850,7 +852,7 @@ def run_to_completion(grid, beams={((0, 0), R)}):
 
 It returns the set of points that we've visited, since that's all the information we need for finding the answer.
 
-To answer part 1, we parse the input into a grid and run to completion from `((0,0), R)`, then print the number of points we visisted:
+To answer part 1, we parse the input into a grid and run to completion from `((0,0), R)`, then print the number of points we visited:
 
 ```python
 grid = [list(line.strip()) for line in sys.stdin]
