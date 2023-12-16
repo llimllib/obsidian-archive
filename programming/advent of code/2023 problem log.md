@@ -833,7 +833,7 @@ def update_beam(grid: Grid, beam: Beam) -> set[Beam]:
     return pbeams
 ```
 
-Now that we can execute a grid and beam set, we need a function to run it until new cells stop getting hit. `run_to_completion` uses the heuristic that if the last 5 executions yielded the same result, it will assume execution is complete:
+Now that it can execute a grid and beam set, I needed a function to run it until new cells stop getting hit. `run_to_completion` uses the heuristic that if the last 5 executions yielded the same result, it will assume execution is complete:
 
 ```python
 def run_to_completion(grid, beams={((0, 0), R)}):
@@ -850,9 +850,9 @@ def run_to_completion(grid, beams={((0, 0), R)}):
     return points
 ```
 
-It returns the set of points that we've visited, since that's all the information we need for finding the answer.
+It returns the set of points that have been visited, since that's all the information necessary for finding the answer.
 
-To answer part 1, we parse the input into a grid and run to completion from `((0,0), R)`, then print the number of points we visited:
+To answer part 1, parse the input into a grid and run to completion from `((0,0), R)`, then print the number of points the program visited:
 
 ```python
 grid = [list(line.strip()) for line in sys.stdin]
