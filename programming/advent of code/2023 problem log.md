@@ -759,6 +759,7 @@ Grid = list[list[str]]
 Point = tuple[int, int]
 Dir = int
 Beam = tuple[Point, Dir]
+Cache = set[Beam]
 ```
 
 Then set up some constants for directions, and transition tables for handling the mirrors and advancing in a given direction:
@@ -786,9 +787,9 @@ I initially represented the beams as a list, but found that I ended up with lots
 
 ```python
 def run(
-    grid: Grid, beams: set[Beam], points: set[Point]
+    grid: Grid, beams: set[Beam], points: set[Point], cache: Cache
 ) -> tuple[set[Beam], set[Point]]:
-    newbeams = {b for beam in beams for b in update_beam(grid, beam)}
+    newbeams = {b for beam in beams for b in update_beam(grid, beam, cache)}
 
     for (row, col), _ in newbeams:
         points.add((row, col))
@@ -800,13 +801,12 @@ The meat of the execution takes place inside `update_beam`, which I memoized for
 
 I particularly wanted to use the `match` statement today, it seemed like a good fit for the problem and I haven't tried it out very much.
 
+An insight that greatly sped up my initial answer is that if we have seen a particular beam before, we don't need to run it at all any longer, because it can't hit any different spots than the beam that came before it. This allows me to return an empty set of beams if we've already run a particular beam, and reduced my part 2 runtime from 75 seconds to 4.
+
 ```python
-cache = {}
-
-
-def update_beam(grid: Grid, beam: Beam) -> set[Beam]:
+def update_beam(grid: Grid, beam: Beam, cache: Cache) -> set[Beam]:
     if beam in cache:
-        return cache[beam]
+        return set()
 
     (row, col), dir = beam
     newdir = dir
@@ -828,7 +828,7 @@ def update_beam(grid: Grid, beam: Beam) -> set[Beam]:
     pbeams.add(advance[newdir](beam[0]))
     pbeams = set(b for b in pbeams if valid(b, maxrow, maxcol))
 
-    cache[beam] = pbeams
+    cache.add(beam)
 
     return pbeams
 ```
@@ -837,11 +837,12 @@ Now that it can execute a grid and beam set, I needed a function to run it until
 
 ```python
 def run_to_completion(grid, beams={((0, 0), R)}):
+	cache = set()
     points = {pos for pos, _ in beams}
     n = 0
     lastn = [-1, -1, -1, -1, -1]
     while beams and n < 800:
-        beams, points = run(grid, beams, points)
+        beams, points = run(grid, beams, points, cache)
         if all(n == len(points) for n in lastn):
             break
         lastn.append(len(points))
@@ -876,7 +877,7 @@ print(
 )
 ```
 
-This is not satisfyingly fast; it's about 75s on my laptop. I may put in some effort to write a faster version, but I also might just live with it 🤷‍♂️
+This runs in about 4 seconds on my laptop. It could be faster, but that will do for today I think.
 
 - [day 16 answer](https://github.com/llimllib/personal_code/blob/0da14d364095d0e6f7490c8db8397e9640f4496f/misc/advent/2023/16/a.py)
 - [problem statement](https://adventofcode.com/2023/day/16)
