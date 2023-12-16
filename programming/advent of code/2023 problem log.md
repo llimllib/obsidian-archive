@@ -783,7 +783,7 @@ def valid(beam: Beam, maxrow: int, maxcol: int) -> bool:
     return 0 <= beam[0][0] < maxrow and 0 <= beam[0][1] < maxcol
 ```
 
-I initially represented the beams as a list, but found that I ended up with lots of duplicates, so I changed it to be a set instead. The `run` function takes a set of beams, updates each of them, stores the points we've hit in a set, and returns the update set of beams and set of points:
+I initially represented the beams as a list, but found that I ended up with lots of duplicates, so I changed it to be a set instead. The `run` function takes a set of beams, updates each of them, stores the points we've hit in a set, and returns the updated set of beams and set of points:
 
 ```python
 def run(
@@ -879,6 +879,6 @@ print(
 
 This runs in about 4 seconds on my laptop. It could be faster, but that will do for today I think.
 
-- [day 16 answer](https://github.com/llimllib/personal_code/blob/0da14d364095d0e6f7490c8db8397e9640f4496f/misc/advent/2023/16/a.py)
+- [day 16 answer](https://github.com/llimllib/personal_code/blob/215dfbf23d4694b6c4f440568c7ab2bef16e9519/misc/advent/2023/16/a.py)
 - [problem statement](https://adventofcode.com/2023/day/16)
 
