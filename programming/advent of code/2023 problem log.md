@@ -15,6 +15,7 @@
 - [[2023 problem log#Day 13|day 13]]
 - [[2023 problem log#Day 14|day 14]]
 - [[2023 problem log#Day 15|day 15]]
+- [[2023 problem log#Day 16|day 16]]
 ## Day 1
 
 Tougher than a usual day 1! The second part in particular requires you to either find overlapping matches (`1twone` -> `[1, two, one]`) or to search from the end to the front.
@@ -748,3 +749,133 @@ That's it! easy one today.
 
 - [solution](https://github.com/llimllib/personal_code/blob/cf014c4acd05565376fb1f000c2ea2dd59c03988/misc/advent/2023/15/a.py)
 - [problem statement](https://adventofcode.com/2023/day/15)
+
+## Day 16
+
+I often make mistakes on problems like today's by getting types confused, so I started today with a few type aliases:
+
+```python
+Grid = list[list[str]]
+Point = tuple[int, int]
+Dir = int
+Beam = tuple[Point, Dir]
+```
+
+Then set up some constants for directions, and transition tables for handling the mirrors and advancing in a given direction:
+
+```python
+L, D, R, U = [1, 2, 3, 4]
+mirror_a = {L: U, U: L, D: R, R: D}  # \
+mirror_b = {L: D, U: R, D: L, R: U}  # /
+advance = {
+    U: lambda pos: ((pos[0] - 1, pos[1]), U),
+    D: lambda pos: ((pos[0] + 1, pos[1]), D),
+    L: lambda pos: ((pos[0], pos[1] - 1), L),
+    R: lambda pos: ((pos[0], pos[1] + 1), R),
+}
+```
+
+There's a small helper function for checking if a given Beam is valid:
+
+```python
+def valid(beam: Beam, maxrow: int, maxcol: int) -> bool:
+    return 0 <= beam[0][0] < maxrow and 0 <= beam[0][1] < maxcol
+```
+
+I initially represented the beams as a list, but found that I ended up with lots of duplicates, so I changed it to be a set instead. The `run` function takes a set of beams, updates each of them, stores the points we've hit in a set, and returns the update set of beams and set of points:
+
+```python
+def run(
+    grid: Grid, beams: set[Beam], points: set[Point]
+) -> tuple[set[Beam], set[Point]]:
+    newbeams = {b for beam in beams for b in update_beam(grid, beam)}
+
+    for (row, col), _ in newbeams:
+        points.add((row, col))
+
+    return (newbeams, points)
+```
+
+The meat of the execution takes place inside `update_beam`, which I memoized for speed:
+
+```python
+cache = {}
+
+
+def update_beam(grid: Grid, beam: Beam) -> set[Beam]:
+    if beam in cache:
+        return cache[beam]
+
+    (row, col), dir = beam
+    newdir = dir
+    pbeams = set()  # possible new beams
+    maxrow = len(grid)
+    maxcol = len(grid[0])
+    match grid[row][col]:
+        case "|" if dir in [R, L]:
+            newdir = U
+            pbeams.add(advance[D](beam[0]))
+        case "-" if dir in [U, D]:
+            newdir = L
+            pbeams.add(advance[R](beam[0]))
+        case "\\":
+            newdir = mirror_a[dir]
+        case "/":
+            newdir = mirror_b[dir]
+
+    pbeams.add(advance[newdir](beam[0]))
+    pbeams = set(b for b in pbeams if valid(b, maxrow, maxcol))
+
+    cache[beam] = pbeams
+
+    return pbeams
+```
+
+Now that we can execute a grid and beam set, we need a function to run it until new cells stop getting hit. `run_to_completion` uses the heuristic that if the last 5 executions yielded the same result, it will assume execution is complete:
+
+```python
+def run_to_completion(grid, beams={((0, 0), R)}):
+    points = {pos for pos, _ in beams}
+    n = 0
+    lastn = [-1, -1, -1, -1, -1]
+    while beams and n < 800:
+        beams, points = run(grid, beams, points)
+        if all(n == len(points) for n in lastn):
+            break
+        lastn.append(len(points))
+        lastn = lastn[-5:]
+        n += 1
+    return points
+```
+
+It returns the set of points that we've visited, since that's all the information we need for finding the answer.
+
+To answer part 1, we parse the input into a grid and run to completion from `((0,0), R)`, then print the number of points we visisted:
+
+```python
+grid = [list(line.strip()) for line in sys.stdin]
+print("part 1:", len(run_to_completion(grid)))
+```
+
+To answer part 2, make a list of all the possible starting beams, run each to completion, and find the largest:
+
+```python
+maxrow = len(grid)
+maxcol = len(grid[0])
+print(
+    "part 2:",
+    max(
+        len(run_to_completion(grid, {((row, col), dir)}))
+        for (row, col), dir in [((row, 0), R) for row in range(maxrow)]
+        + [((row, maxcol - 1), L) for row in range(maxrow)]
+        + [((0, col), D) for col in range(maxcol)]
+        + [((maxrow - 1, col), U) for col in range(maxcol)]
+    ),
+)
+```
+
+This is not satisfyingly fast; it's about 75s on my laptop. I may put in some effort to write a faster version, but I also might just live with it 🤷‍♂️
+
+- [day 16 answer](https://github.com/llimllib/personal_code/blob/0da14d364095d0e6f7490c8db8397e9640f4496f/misc/advent/2023/16/a.py)
+- [problem statement](https://adventofcode.com/2023/day/16)
+
