@@ -16,6 +16,8 @@
 - [[2023 problem log#Day 14|day 14]]
 - [[2023 problem log#Day 15|day 15]]
 - [[2023 problem log#Day 16|day 16]]
+- [[2023 problem log#Day 17|day 17]]
+- [[2023 problem log#Day 18|day 18]]
 ## Day 1
 
 Tougher than a usual day 1! The second part in particular requires you to either find overlapping matches (`1twone` -> `[1, two, one]`) or to search from the end to the front.
@@ -882,3 +884,98 @@ This runs in about 4 seconds on my laptop. It could be faster, but that will do 
 - [day 16 answer](https://github.com/llimllib/personal_code/blob/215dfbf23d4694b6c4f440568c7ab2bef16e9519/misc/advent/2023/16/a.py)
 - [problem statement](https://adventofcode.com/2023/day/16)
 
+## Day 17
+
+not completed yet
+
+## Day 18
+
+For part 1, I wanted to use a cute trick I'd seen in past AoC puzzles to add tuples: store them as complex numbers.
+
+What I wanted was that `(0, 1) + (4,5) == (4, 6)`, but unfortunately that doesn't work with python tuples. However, if you encode `(0,0)` as the complex number `1j`, and `(4,5)` as `4 + 5j`, then `0j + 4+5j == 4+5j`.
+
+Conveniently, we can also multiply direction vectors times a length in this scheme. If I use the real part of the number to encode the x dimension and the imaginary part the y, then `1j` represents an increase of 1 in the y dimension, and `8 * 1j` is an increase of 8 in the y dimension.
+
+After I parse the directions normally:
+
+```python
+moves = []
+for line in sys.stdin:
+    dir, dist, color = line.strip().split(" ")
+    moves.append((dir, int(dist), color.strip("()#")))
+```
+
+There are four directions to encode:
+
+```python
+dirs = {"R": 1j, "L": -1j, "U": -1 + 0j, "D": 1 + 0j}
+```
+
+Then, for every move, add the depth and each point in the perimeter to our list of boundary points:
+
+```python
+depth = 0
+for dir, dist, _ in moves:
+    cur = points[-1]
+    depth += dist
+    for i in range(1, dist + 1):
+        points.append(cur + dirs[dir] * i)
+```
+
+Next I needed to find out how many squares are inside the perimeter, so I turned to my old friend the flood fill:
+
+```python
+def floodfill(start, points: set[complex]):
+    stack = [start]
+    while stack:
+        pt = stack.pop()
+        for d in [1j, -1j, 1 + 0j, -1 + 0j]:
+            if pt + d not in points:
+                points.add(pt + d)
+                stack.append(pt + d)
+```
+
+Finally, sum up the depth of the perimeter and the number of squares inside it to give the part 1 answer. (I guessed that `(1, 1)` would be inside the perimeter for both the sample and my input, and was fortunately correct)
+
+```python
+points = set(points)
+l1 = len(points)
+floodfill(1 + 1j, points)
+l2 = len(points)
+print("part 1:", depth + (l2 - l1))
+```
+
+For part 2, I figured that my flood fill would never finish, so I needed to calculate the perimeter analytically. To do so, I turned to [Shapely](https://shapely.readthedocs.io/en/stable/reference/shapely.Polygon.html), which has a polygon class that will calculate the area for you efficiently.
+
+I changed the `dirs` table just a bit to handle the different parsing for part 2, but it was still mostly the same. This time I subtract one from the depth because we'll be calculating the area of the polygon including the perimeter, so we only want the additional holes:
+
+```python
+#        R        L         U             D
+dirs = {"0": 1j, "2": -1j, "3": -1 + 0j, "1": 1 + 0j}
+points = [0j]
+depth = 0
+for _, _, color in moves:
+    dist, dir = int(color[:-1], 16), dirs[color[-1]]
+    cur = points[-1]
+    depth += dist - 1
+    points.append(cur + dir * dist)
+```
+
+And now to print the result, create a shapely `Polygon` from the points, buffer it properly, and ask shapely for its area:
+
+```python
+poly = Polygon((p.real, p.imag) for p in points)
+print("buf:", poly.buffer(0.5, cap_style="square", join_style="mitre").area)
+```
+
+The tricky part here was figuring out how to buffer it properly. If you didn't buffer it, you'd be asking for the area of the shape enclosed from the _center_ of each grid cell rather than the full area.
+
+I tried to find a nice analytical solution for doing this, but I didn't succeed. I think I'll go read some other people's answers later to try and understand this better.
+
+One advantage of having solved this with Shapely is that I can ask it for an SVG of the final shape:
+
+![[final.svg]]
+
+- [part 1](https://github.com/llimllib/personal_code/blob/50102bb0b0c636845375eb836d934684f36e6ae8/misc/advent/2023/18/a.py)
+- [part 2](https://github.com/llimllib/personal_code/blob/50102bb0b0c636845375eb836d934684f36e6ae8/misc/advent/2023/18/b.py)
+- [problem statement](https://adventofcode.com/2023/day/18)
