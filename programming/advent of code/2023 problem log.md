@@ -18,6 +18,8 @@
 - [[2023 problem log#Day 16|day 16]]
 - [[2023 problem log#Day 17|day 17]]
 - [[2023 problem log#Day 18|day 18]]
+- [[2023 problem log#Day 19|day 19]]
+- [[2023 problem log#Day 20|day 20]]
 ## Day 1
 
 Tougher than a usual day 1! The second part in particular requires you to either find overlapping matches (`1twone` -> `[1, two, one]`) or to search from the end to the front.
@@ -1136,7 +1138,7 @@ That code writes `g.dot` in the format that graphviz expects; then I used `dot -
 
 From here I could easily see that there were four circuits feeding into conjunction `dt`, which all needed to be `HIGH` for `rx` to receive a `LOW` voltage signal.
 
-Then I wrote code to print out the run number each time one of `dl`, `ks`, `pm`, and `vk` sent a `HIGH` voltage signal, and found that all four of them had a simple cycle. `dl` fired every 3769 iterations, `ks` every 3917, `pm` every 3832, and `vk` every 3877. With memories of day 8 in my head, I crossed my fingers, called `math.lcm(3769, 3917, 3832, 3877)`, and lo and behold I had part 2.
+Then I wrote code to print out the run number each time one of `dl`, `ks`, `pm`, and `vk` sent a `HIGH` voltage signal, and found that all four of them had a simple cycle. `dl` fired every 3769 iterations, `ks` every 3917, `pm` every 3832, and `vk` every 3877. With memories of [[2023 problem log#Day 8|day 8]] in my head, I crossed my fingers, called `math.lcm(3769, 3917, 3832, 3877)`, and lo and behold I had part 2.
 
 - [part 1](https://github.com/llimllib/personal_code/blob/9d7a539f422abe1824254b6dccff05ca94641940/misc/advent/2023/20/a.py)
 - [code to print the dotfile](https://github.com/llimllib/personal_code/blob/9d7a539f422abe1824254b6dccff05ca94641940/misc/advent/2023/20/b.py)
