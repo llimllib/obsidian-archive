@@ -965,7 +965,7 @@ And now to print the result, create a shapely `Polygon` from the points, buffer 
 
 ```python
 poly = Polygon((p.real, p.imag) for p in points)
-print("buf:", poly.buffer(0.5, cap_style="square", join_style="mitre").area)
+print("part 2:", poly.buffer(0.5, cap_style="square", join_style="mitre").area)
 ```
 
 The tricky part here was figuring out how to buffer it properly. If you didn't buffer it, you'd be asking for the area of the shape enclosed from the _center_ of each grid cell rather than the full area.
@@ -979,3 +979,165 @@ One advantage of having solved this with Shapely is that I can ask it for an SVG
 - [part 1](https://github.com/llimllib/personal_code/blob/50102bb0b0c636845375eb836d934684f36e6ae8/misc/advent/2023/18/a.py)
 - [part 2](https://github.com/llimllib/personal_code/blob/50102bb0b0c636845375eb836d934684f36e6ae8/misc/advent/2023/18/b.py)
 - [problem statement](https://adventofcode.com/2023/day/18)
+
+## Day 19
+
+
+## Day 20
+
+For part 1, instead of my usual very-concise answers, I decided to create objects.
+
+First, I set up some constants:
+
+```python
+LOW = 0
+HIGH = 1
+DEBUG = False
+```
+
+Then, the `Broadcaster`:
+
+```python
+class Broadcaster:
+    def __init__(self, targets):
+        self.targets = targets
+
+    def __call__(self, _, __, queue):
+        for t in self.targets:
+            queue.append(("broadcaster", t, LOW))
+```
+
+I gave each object type a `__call__` method that accepted three arguments: the sender of the message, the voltage (`HIGH` or `LOW`), and the queue to put messages into. Each object then put the messages it wanted to send into the queue as a tuple of (`sender`, `receiver`, `voltage`).
+
+The flipflop:
+
+```python
+class FlippyFloppy:
+    OFF = 0
+    ON = 1
+
+    def __init__(self, targets, name):
+        self.state = FlippyFloppy.OFF
+        self.targets = targets
+        self.name = name
+
+    def __call__(self, _, pulse, queue):
+        if DEBUG:
+            print(f"{sender} -{pulse}-> {self.name}")
+
+        if pulse == HIGH:
+            return
+
+        if self.state == FlippyFloppy.OFF:
+            self.state = FlippyFloppy.ON
+            signal = HIGH
+        else:
+            self.state = FlippyFloppy.OFF
+            signal = LOW
+
+        for t in self.targets:
+            queue.append((self.name, t, signal))
+```
+
+And the conjunction:
+
+```python
+class Conjunction:
+    def __init__(self, targets, name):
+        self.state = {}
+        self.targets = targets
+        self.name = name
+
+    def __call__(self, sender, pulse, queue):
+        if DEBUG:
+            print(f"{sender} -{pulse}-> {self.name}")
+
+        self.state[sender] = pulse
+
+        if all(v == HIGH for v in self.state.values()):
+            signal = LOW
+        else:
+            signal = HIGH
+
+        for t in self.targets:
+            queue.append((self.name, t, signal))
+```
+
+Read the input, parse it, and create our circuit:
+
+```python
+items = {}
+for line in sys.stdin:
+    item, targets = line.strip().split("->")
+    item, name = item[0], item[1:].strip()
+    targets = [t.strip() for t in targets.split(",")]
+    match item:
+        case "b":
+            items[name] = Broadcaster(targets)
+        case "%":
+            items[name] = FlippyFloppy(targets, name)
+        case "&":
+            items[name] = Conjunction(targets, name)
+```
+
+Set the state to `LOW` for all inputs of a conjunction:
+
+```python
+# set the default state to low for all inputs of conjunctions
+for name, item in items.items():
+    for target in item.targets:
+        if target in items and type(items[target]) == Conjunction:
+            items[target].state[name] = LOW
+```
+
+For part 1 answer, run the circuit 1000 times:
+
+```python
+counts = {0: 0, 1: 0}
+found = False
+i = 0
+for i in range(1000):
+    queue = []
+    counts[LOW] += 1  # button press
+    items["roadcaster"](None, None, queue)
+    while queue:
+        sender, target, signal = queue.pop(0)
+        counts[signal] += 1
+        if target not in items:
+            if DEBUG:
+                print(f"ignoring {sender} -{signal}-> {target}")
+            continue
+        items[target](sender, signal, queue)
+
+print("part 1:", counts[LOW] * counts[HIGH])
+```
+
+This gives me my part 1 answer in .004 seconds, so I was hopeful for part 2 that I could just be dumb and run it to find the `rx` signal. Unfortunately, no luck on that front.
+
+After letting it run for a couple hours while I did actual work, I figured I needed to find a smarter way, so the first thing I did was write some code to output a graphical version of the circuit using `graphviz`:
+
+```python
+with open("g.dot", "w") as fout:
+    fout.write("digraph G {\n")
+    for name, item in items.items():
+        shape = "rectangle" if type(item) == FlippyFloppy else "circle"
+        fout.write(f"  {name} [shape={shape}]\n")
+    fout.write(f"  rx [shape=invtriangle style=filled fillcolor=red]\n")
+    fout.write("\n")
+    for name, item in items.items():
+        for t in item.targets:
+            fout.write(f"  {name} -> {t}\n")
+    fout.write("}\n")
+```
+
+That code writes `g.dot` in the format that graphviz expects; then I used `dot -Tsvg g.dot > graph.svg` to render it to an SVG, which looked like this:
+
+![[final.png]]
+
+From here I could easily see that there were four circuits feeding into conjunction `dt`, which all needed to be `HIGH` for `rx` to receive a `LOW` voltage signal.
+
+Then I wrote code to print out the run number each time one of `dl`, `ks`, `pm`, and `vk` sent a `HIGH` voltage signal, and found that all four of them had a simple cycle. `dl` fired every 3769 iterations, `ks` every 3917, `pm` every 3832, and `vk` every 3877. With memories of day 8 in my head, I crossed my fingers, called `math.lcm(3769, 3917, 3832, 3877)`, and lo and behold I had part 2.
+
+- [part 1](https://github.com/llimllib/personal_code/blob/9d7a539f422abe1824254b6dccff05ca94641940/misc/advent/2023/20/a.py)
+- [code to print the dotfile](https://github.com/llimllib/personal_code/blob/9d7a539f422abe1824254b6dccff05ca94641940/misc/advent/2023/20/b.py)
+- [problem statement](https://adventofcode.com/2023/day/20)
