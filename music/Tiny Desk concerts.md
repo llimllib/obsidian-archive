@@ -5,6 +5,7 @@ In alphabetical order, with a 🎧 icon beside the show if I've loved it enough 
 - [Abdullah Ibrahim](https://www.youtube.com/watch?v=L5i4stj4M30)
 - [Adrienne Lenker](https://www.youtube.com/watch?v=TKcQyUszdhw)
 - [Anaïs Mitchell](https://www.youtube.com/watch?v=Shr47LVcA5I)
+- [Anderson .Paak](https://www.youtube.com/watch?v=ferZnZ0_rSM)
 - [Angel Olsen](https://www.youtube.com/watch?v=4RL4mk38wwI)
 - [Ballaké Sissoko and Vincent Segal](https://www.youtube.com/watch?v=QtiTfejYpgs) 🎧
 - [Bela Fleck & Abigail Washburn](https://www.youtube.com/watch?v=BfNlkqX7hlc&t=493s)
@@ -50,6 +51,7 @@ In alphabetical order, with a 🎧 icon beside the show if I've loved it enough 
 - [Maggie Rogers](https://www.youtube.com/watch?v=SqPtIkxSxI0)
 - [Margo Price](https://www.youtube.com/watch?v=S9bLHMCnCAk)
 - [Mick Jenkins](https://www.youtube.com/watch?v=IT9sB1e61BA)
+- [Natalia Lafourcade](https://www.youtube.com/watch?v=JODaYjDyjyQ)
 - [Nickel Creek](https://www.youtube.com/watch?v=jFycqnOpifQ)
 - [Norah Jones](https://www.youtube.com/watch?v=o0ZnzboaDSg)
 - [Okkervil River](https://www.youtube.com/watch?v=iGZzuAatKHI)
