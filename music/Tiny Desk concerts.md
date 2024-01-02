@@ -1,0 +1,80 @@
+I love a lot of these. It's pretty wild that I took a long time going through the list of videos, and I'm sure that I missed some.
+
+In alphabetical order, with a 🎧 icon beside the show if I've loved it enough to go back to it intentionally multiple times:
+
+- [Abdullah Ibrahim](https://www.youtube.com/watch?v=L5i4stj4M30)
+- [Adrienne Lenker](https://www.youtube.com/watch?v=TKcQyUszdhw)
+- [Anaïs Mitchell](https://www.youtube.com/watch?v=Shr47LVcA5I)
+- [Angel Olsen](https://www.youtube.com/watch?v=4RL4mk38wwI)
+- [Ballaké Sissoko and Vincent Segal](https://www.youtube.com/watch?v=QtiTfejYpgs) 🎧
+- [Bela Fleck & Abigail Washburn](https://www.youtube.com/watch?v=BfNlkqX7hlc&t=493s)
+- [Better Oblivion Community Center](https://www.youtube.com/watch?v=j1Yz-NyLV90)
+- [Big Thief](https://www.youtube.com/watch?v=TCsFgJsJ5Uc) (aka Adrienne Lenker, different episode though)
+- [Billie Eilish](https://www.youtube.com/watch?v=4sZ2_aGsLKU)
+- [Black Thought](https://www.youtube.com/watch?v=u12r_JI8mGM)
+- [Bombino](https://www.youtube.com/watch?v=A7My5IpEzVM)
+- [Booker T. Jones](https://www.youtube.com/watch?v=rh9KDzNkpSI)
+- [Boygenius](https://www.youtube.com/watch?v=OS48Lp34Zic)
+- [Bright Eyes](https://www.youtube.com/watch?v=HJvIQv9xZqg)
+- [Calexico & Iron & Wine](https://www.youtube.com/watch?v=lonTMlvxhQA)
+- [Car Seat Headrest](https://www.youtube.com/watch?v=RZZHTVr-r-g)
+- [Chick Corea & Gary Burton](https://www.youtube.com/watch?v=15IHNYq6stw)
+- [Chris Thile & Michael Daves](https://www.youtube.com/watch?v=F_CKeb2gPQ8)
+- [Courtney Barnett & Kurt Vile](https://www.youtube.com/watch?v=JQs5XagfheI)
+- [Deep Sea Diver](https://www.youtube.com/watch?v=0pq_xv1PB28)
+- [Denzel Curry](https://www.youtube.com/watch?v=glHqWvkpRqo) 🎧
+- [Drive-by truckers](https://www.youtube.com/watch?v=ewLgmWXQsqU)
+- [Fleet Foxes](https://www.youtube.com/watch?v=Ko5yZHAiKTU) 🎧
+- [Fred Again](https://www.youtube.com/watch?v=4iQmPv_dTI0&t=4s) 🎧
+- [Goat Rodeo](https://www.youtube.com/watch?v=O7EcT5YzKhQ)
+- [Gogol Bordello](https://www.youtube.com/watch?v=IJGh50t6crw)
+- [Hiromi](https://www.youtube.com/watch?v=pnISpahN2dM)
+- [Hop Along](https://www.youtube.com/watch?v=iFGnkbZ3fLE)
+- [I'm with Her](https://www.youtube.com/watch?v=7WNmrsbu-hc)
+- [Jason Isbell](https://www.youtube.com/watch?v=djUh1eHdepE)
+- [Jeff the Brotherhood](https://www.youtube.com/watch?v=PsMqTDxboJE)
+- [JID](https://www.youtube.com/watch?v=gsaZRcL-OTQ&pp=ygUOc2FiYSB0aW55IGRlc2s%3D) 🎧
+- [John Prine](https://www.youtube.com/watch?v=sOg7mAkrKJw) 🎧
+	- [John Prine tribute](https://www.youtube.com/watch?v=PBksI8zbhrg) (RIP)
+- [Kevin Morby](https://www.youtube.com/watch?v=AKOlC7TAQ80)
+- [Khruangbin](https://www.youtube.com/watch?v=vWLJeqLPfSU)
+- [Kishi Bashi](https://www.youtube.com/watch?v=BgqAmZHkkTg)
+- [Kronos Quartet](https://www.youtube.com/watch?v=7PQYF4-BbrE)
+- [Kurt Vile](https://www.youtube.com/watch?v=HPpjFtNPnAc)
+- [Lake Street Dive](https://www.youtube.com/watch?v=gdRAcoD5Gt0)
+- [Leon Bridges](https://www.youtube.com/watch?v=C_oACPWGvM4)
+- [Lianne la Havas](https://www.youtube.com/watch?v=qso4MRfidrw)
+- [Little simz](https://www.youtube.com/watch?v=Nkt93coQzqg) 🎧
+- [Lucy Dacus](https://www.youtube.com/watch?v=xLFeeOVrNlI) [2](https://www.youtube.com/watch?v=-4FyRybGiBc)
+- [Ludovico Einaudi](https://www.youtube.com/watch?v=2oyZ9OM-neM)
+- [Maggie Rogers](https://www.youtube.com/watch?v=SqPtIkxSxI0)
+- [Margo Price](https://www.youtube.com/watch?v=S9bLHMCnCAk)
+- [Mick Jenkins](https://www.youtube.com/watch?v=IT9sB1e61BA)
+- [Nickel Creek](https://www.youtube.com/watch?v=jFycqnOpifQ)
+- [Norah Jones](https://www.youtube.com/watch?v=o0ZnzboaDSg)
+- [Okkervil River](https://www.youtube.com/watch?v=iGZzuAatKHI)
+- [Phoebe Bridgers](https://www.youtube.com/watch?v=2bOigld3D1k)
+- [Pinegrove](https://www.youtube.com/watch?v=weL8HTY1NJU) 🎧
+- [Punch Brothers](https://www.youtube.com/watch?v=iXE_K2Kpoqc&t=320s) 🎧
+- [Reggie Watts](https://www.youtube.com/watch?v=dRmRr3Z8Zv8)
+- [Robert Plant & Alison Krauss](https://www.youtube.com/watch?v=srn5Cd9yR3Y)
+- [Rodrigo y Gabriela](https://www.youtube.com/watch?v=wKd0HNg1kFQ) [2](https://www.youtube.com/watch?v=PMpGjox3TBs)
+- [Run the Jewels](https://www.youtube.com/watch?v=u-syZXHPcJE)
+- [Saba](https://www.youtube.com/watch?v=LTzmjU8aOR4&pp=ygUOc2FiYSB0aW55IGRlc2s%3D) 🎧
+- [Sampha](https://www.youtube.com/watch?v=WyXFfKYbtQU&pp=ygUOc2FiYSB0aW55IGRlc2s%3D) 🎧
+- [Sarah Jarosz](https://www.youtube.com/watch?v=VxpuB10FaSE)
+- [Saul Williams](https://www.youtube.com/watch?v=eXfVIPqcF9I)
+- [Seratones](https://www.youtube.com/watch?v=uSgJbqaYS74)
+- [Seu Jorge](https://www.youtube.com/watch?v=2Ws_5-hiqao)
+- [Snail Mail](https://www.youtube.com/watch?v=21ix1OwPoY8)
+- [St. Paul and the Broken Bones](https://www.youtube.com/watch?v=6vpXX5BjltM) 🎧
+- [Sturgill Simpson](https://www.youtube.com/watch?v=w5cMqD0WqYE) 🎧
+- [Tame Impala](https://www.youtube.com/watch?v=C24hUt18RWY)
+- [The Smile](https://www.youtube.com/watch?v=Zm1VIGNmPxI)
+- [Thundercat](https://www.youtube.com/watch?v=zhVgbZdMdb0)
+- [Tinariwen](https://www.youtube.com/watch?v=IdbBmqOUPlY)
+- [Trampled by Turtles](https://www.youtube.com/watch?v=PcoPedyXJVc)
+- [Tune-Yards](https://www.youtube.com/watch?v=c8FML8QhcZo)
+- [Valerie June](https://www.youtube.com/watch?v=iBDrTHCSWDc)
+- [Vince Staples](https://www.youtube.com/watch?v=yN0I5xTjaGo)
+- [Wilco](https://www.youtube.com/watch?v=UZAKTCeE70Y) [2](https://www.youtube.com/watch?v=KMQQqa21ZVs)

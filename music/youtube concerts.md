@@ -29,3 +29,5 @@ Lately, I've been browsing youtube and looking for good live concerts to watch. 
 - [Charles Mingus live in '64](https://www.youtube.com/watch?v=y9IMOUVJMVs) (Belgium, Norway, Sweden)
 - [Ahmad Jamal 1971](https://www.youtube.com/watch?v=RAena9F9oSE)
 - [Herbie Hancock in 1976](https://www.youtube.com/watch?v=9RsZifvSVSI) for Danish TV
+- [Nirvana live at Paramount, Seattle 1991](https://www.youtube.com/playlist?list=PL8vlRieH2oWmWnV42soc80XD5EvxxWPY8)
+- [Sleater-Kinney 9:30 club 2015](https://www.youtube.com/watch?v=6r1-HTiwGiY)
