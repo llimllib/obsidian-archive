@@ -38,3 +38,10 @@ I love the idea of valuing flexibility and comfort more highly than fully modern
 
 
 > We definitely got that right.
+
+---
+paraphrasing from the Q&A:
+
+> One thing I wish we'd done was to use arbitrary precision integers from the start... that's the thing I would most like to see happen
+
+amen!
