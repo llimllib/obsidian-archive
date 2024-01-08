@@ -45,3 +45,5 @@ paraphrasing from the Q&A:
 > One thing I wish we'd done was to use arbitrary precision integers from the start... that's the thing I would most like to see happen
 
 amen!
+
+> Go is in many ways an old-fashioned language, and we don't apologize for that
