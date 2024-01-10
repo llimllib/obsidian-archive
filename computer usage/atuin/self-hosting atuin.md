@@ -16,6 +16,7 @@ Here's how I self-hosted an [[atuin]] server:
 		1. follow the prompts to create a user, and save your password to your password manager
 	3. run `atuin key` and store the output to your password manager
 6. Now you have a user on the server. For each client computer:
-	1. run `atuin login`
+	1. update `sync_address` in your config file
+	2. run `atuin login`
 		1. Make sure you give it the encryption key you got from `atuin key`
-	2. run `atuin sync`
+	3. run `atuin sync`
