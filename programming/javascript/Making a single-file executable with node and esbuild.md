@@ -100,11 +100,12 @@ We can fix both of these problems by using [esbuild](https://esbuild.github.io/)
 - remove the signature:
 	- `codesign --remove-signature sum`
 - insert the "blob":
-    ```bash
+```bash
 npx postject sum NODE_SEA_BLOB sea-prep.blob \
     --sentinel-fuse NODE_SEA_FUSE_fce680ab2cc467b6e072b8b5df1996b2 \
     --macho-segment-name NODE_SEA
-    ```
+```
+
 - and re-sign our binary:
 	- `codesign --sign - sum`
 
