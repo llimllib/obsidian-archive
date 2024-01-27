@@ -47,11 +47,12 @@ $ node index.js 1 2 3 4
 	- `cp $(asdf which node || nvm which node || command -v node) sum`
 - remove the signature from the binary: `codesign --remove-signature sum`
 - Insert the "blob" into the binary with [`postject`](https://www.npmjs.com/package/postject):
-    ```bash
+```bash
 npx postject sum NODE_SEA_BLOB sea-prep.blob \
     --sentinel-fuse NODE_SEA_FUSE_fce680ab2cc467b6e072b8b5df1996b2 \
     --macho-segment-name NODE_SEA
-    ```
+```
+
 - Re-sign the new binary: `codesign --sign - sum`
 - Run the script, and note that it fails!
 
