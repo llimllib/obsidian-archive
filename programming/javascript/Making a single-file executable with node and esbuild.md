@@ -1,6 +1,6 @@
 Node has gained the experimental ability to turn a javascript file into a single-file executable by embedding it within a node binary.
 
-However, they have written rather [skimpy instructions](https://nodejs.org/api/single-executable-applications.html) which leave a lot to the imagination. I've written this document to try to give an example that includes multiple files and a dependency:
+However, they have written rather [skimpy instructions](https://nodejs.org/api/single-executable-applications.html) which leave a lot to the imagination. I've written this document to try to give an example that includes multiple files and a dependency.
 
 I've created a GitHub repository [llimllib/node-esbuild-executable](https://github.com/llimllib/node-esbuild-executable) to demonstrate the topics discussed here.
 
