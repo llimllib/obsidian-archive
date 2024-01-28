@@ -125,3 +125,5 @@ sum: Mach-O 64-bit executable arm64
 $ ls -alh sum
 -rwxr-xr-x@ 1 llimllib  staff    82M Jan 27 16:11 sum*
 ```
+
+One thing you'll notice is that it prints a warning after executing the program. To remove the warning, add `"disableExperimentalSEAWarning": true` to your `sea-config.json`.
