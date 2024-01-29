@@ -2,6 +2,8 @@ Node has gained the experimental ability to turn a javascript file into a single
 
 However, they have written rather [skimpy instructions](https://nodejs.org/api/single-executable-applications.html) which leave a lot to the imagination. I've written this document to try to give an example that includes multiple files and a dependency.
 
+(update: I found [this document](https://github.com/nodejs/single-executable/blob/main/blog/2022-08-05-an-overview-of-the-current-state.md) which gives a much clearer picture of how the single-file executable process works)
+
 I've created a GitHub repository [llimllib/node-esbuild-executable](https://github.com/llimllib/node-esbuild-executable) to demonstrate the topics discussed here.
 
 (All this is on a mac. Instructions vary for your platform, but will be similar)
