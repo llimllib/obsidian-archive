@@ -77,10 +77,13 @@ Node.js v20.2.0
 
 There's (at least) two problems with the binary we built:
 - it doesn't include the `minimist` library which is a dependency of our script
-- our code inside the binary is attempting to load an ES module, which seems to be unsupported in a SEA program
-	- This is not noted in the documentation! I'd love to know if this is actually the case
+- our code inside the binary is attempting to load an ES module, which is unsupported in a SEA program.
 
-We can fix both of these problems by using [esbuild](https://esbuild.github.io/) to bundle up our code with its dependencies, and convert it into a cjs module that will work correctly in our binary.
+The docs say:
+
+> The single executable application feature currently only supports running a single embedded script using the [CommonJS](https://nodejs.org/api/modules.html#modules-commonjs-modules) module system.
+
+We can fix both of these problems by using [esbuild](https://esbuild.github.io/) to bundle up our code with its dependencies, and convert it into a single cjs module that will work correctly in our binary.
 
 -  install esbuild: `npm add --save-dev esbuild`
 -  run esbuild to create a bundle, and save it to `bundle.js`:
