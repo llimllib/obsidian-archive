@@ -19,3 +19,7 @@ He links to [this podcast](https://securitycryptographywhatever.com/2021/08/12/w
 > With a bearer token, I extract the user from the token. Then I go to my database and I say, what does this user allowed to do through all my database associations and things like that.
 > 
 > And that is not the macaroon model. The macaroon model is here’s a token. The only way this could have been issued is if the system said it was okay to issue this token cryptographically in the first place, just trust the token, just do it do what the token says you can do, it’s not exactly that, but like when you think about what the caveats are, you have to be careful.
+
+---
+
+Their macaroon implementation [is open source](https://github.com/superfly/macaroon) and has documentation [here](https://github.com/superfly/macaroon/blob/main/macaroon-thought.md) for more detailed reading.
