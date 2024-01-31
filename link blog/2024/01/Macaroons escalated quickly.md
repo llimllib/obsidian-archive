@@ -11,3 +11,11 @@ He then talks about how the thing he actually likes about them more is that beca
 Finally, he goes into third-party caveats, which I guess are encrypted tokens stored within the token? I didn't really follow this bit, which is a shame because it seems important.
 
 If I ever have to get deeper into macaroons, I'll read it in detail and understand his code.
+
+---
+
+He links to [this podcast](https://securitycryptographywhatever.com/2021/08/12/what-do-we-do-about-jwt-with-jonathan-rudenberg/), in the transcript he says this, which I found useful:
+
+> With a bearer token, I extract the user from the token. Then I go to my database and I say, what does this user allowed to do through all my database associations and things like that.
+> 
+> And that is not the macaroon model. The macaroon model is here’s a token. The only way this could have been issued is if the system said it was okay to issue this token cryptographically in the first place, just trust the token, just do it do what the token says you can do, it’s not exactly that, but like when you think about what the caveats are, you have to be careful.
