@@ -1,0 +1,11 @@
+The original, and still greatest: https://www.youtube.com/watch?v=4fjviTLYqoc
+
+but it's been covered by everybody.
+
+Willie Dixon, who wrote the song, recorded his own version: https://www.youtube.com/watch?v=6HMafOfhAus
+
+Etta James: https://www.youtube.com/watch?v=jeeot1j3KeM
+
+This live version of Cream's famous cover is great enough that I'll link it even though I think Eric Clapton is vile: https://www.youtube.com/watch?v=n8a2YxEmHmU
+
+Here's a weird version from Robert Plant in 2013: https://www.youtube.com/watch?v=89V_-7UELko
