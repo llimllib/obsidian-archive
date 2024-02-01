@@ -9,3 +9,5 @@ Etta James: https://www.youtube.com/watch?v=jeeot1j3KeM
 This live version of Cream's famous cover is great enough that I'll link it even though I think Eric Clapton is vile: https://www.youtube.com/watch?v=n8a2YxEmHmU
 
 Here's a weird version from Robert Plant in 2013: https://www.youtube.com/watch?v=89V_-7UELko
+
+Tom Waits: https://www.youtube.com/watch?v=Q1wHKW227hI
