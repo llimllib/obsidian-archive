@@ -2,7 +2,7 @@ The original, and still greatest: https://www.youtube.com/watch?v=4fjviTLYqoc
 
 but it's been covered by everybody.
 
-Willie Dixon, who wrote the song, recorded his own version: https://www.youtube.com/watch?v=6HMafOfhAus
+[Willie Dixon](https://en.wikipedia.org/wiki/Willie_Dixon), who wrote the song, and whose wikipedia page you should absolutely read to see how influential he was, recorded his own version: https://www.youtube.com/watch?v=6HMafOfhAus
 
 Etta James: https://www.youtube.com/watch?v=jeeot1j3KeM
 
