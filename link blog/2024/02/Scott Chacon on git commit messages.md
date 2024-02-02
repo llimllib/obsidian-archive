@@ -15,3 +15,9 @@
 - Scott Chacon [on news.yc](https://news.ycombinator.com/item?id=39218538)
 
 I like writing git commit messages similar to the one discussed in the [article which prompted that comment](https://news.ycombinator.com/item?id=39217149), but I also recognize the truth of what Scott is saying - approximately nobody ever reads them.
+
+---
+
+An idea following a [good discussion on mastodon](https://merveilles.town/@akkartik/111859196193506562):
+
+A site where you enter a github repository's name, it does a bare checkout of the repo, then presents it with a blog-like interface, with an RSS feed and a search index
