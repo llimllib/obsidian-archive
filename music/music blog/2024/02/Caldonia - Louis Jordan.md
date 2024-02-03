@@ -10,9 +10,13 @@ James Brown, who idolized Louis Jordan (as did many of the first wave of rock & 
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/5E5j6R646UhSlyahYReXwU?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
+Carl Perkins did it as a rockabilly number in 1977:
+
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/2ZyeRPyp5k4Gpeo4PBX8RP?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+
 Here's [The Band performing it with Muddy Waters](https://www.youtube.com/watch?v=T8Q5vRG-pL8) and accordian (!) accompaniment.
 
-Willie Nelson did a cover:
+Willie Nelson did a cover with Wynton Marsalis which isn't my cup of tea, but is at least interesting:
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/1IFchprmOdz8ByMqvzVnWH?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
