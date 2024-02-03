@@ -29,3 +29,16 @@ ffmpeg -i schad.webm -vf subtitles=schad.en.vtt schad-subs.webm
 ```
 
 see [[ffmpeg]] for more info
+
+To save the playlist number as the track info in the song, use `--parse-metadata "playlist_index:%(track_number)s"`. Here's an example that downloads a Ty Segall album from a playlist, converts them all to mp3, and inserts the playlist index as the track number:
+
+```
+yt-dlp \
+  --download-archive downloaded.txt \
+  --extract-audio \
+  --audio-format mp3 \
+  -o '%(playlist_autonumber)s.%(title)s.%(ext)s' \
+  --embed-metadata \
+  --parse-metadata "playlist_index:%(track_number)s" \
+  'https://www.youtube.com/watch?v=KSM-_rU8IDI&list=PLvsYXqtYjMYdP-rVAR4_KAY24LdAkTKEw'
+```
