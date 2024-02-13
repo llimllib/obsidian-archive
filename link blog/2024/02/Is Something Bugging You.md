@@ -10,4 +10,4 @@ https://antithesis.com/blog/is_something_bugging_you/
 
 ---
 
-One of the authors of FoundationDB talks about why their extremely thorough testing strategy was a superpower, and about their new startup that tries to bring this sort of testing to other software.
+One of the authors of [[FoundationDB]] talks about why their extremely thorough testing strategy was a superpower, and about their new startup that tries to bring this sort of testing to other software.
