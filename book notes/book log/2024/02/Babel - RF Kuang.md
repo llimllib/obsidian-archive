@@ -1,0 +1,1 @@
+> Robbery, butchery, and theft – they call these things empire, and where they create a desert, they call it peace.
