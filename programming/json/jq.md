@@ -44,3 +44,13 @@ for p in $(fd package.json --exclude bower_components); do
         sponge "$p"
 done
 ```
+
+---
+
+Turn a folder full of json files, each of which contains an array of objects, into a single array of objects, and output it to a file:
+
+```console
+jq -n '[inputs.[]]' lists/*.json > one_big_list.json
+```
+
+uses the [inputs](https://jqlang.github.io/jq/manual/v1.7/#inputs) special variable
