@@ -1,4 +1,5 @@
 https://github.com/bufbuild/connect-go
+https://connectrpc.com/docs/introduction
 
 > Connect is a slim library for building browser and gRPC-compatible HTTP APIs. You write a short [Protocol Buffer](https://developers.google.com/protocol-buffers) schema and implement your application logic, and Connect generates code to handle marshaling, routing, compression, and content type negotiation. It also generates an idiomatic, type-safe client. Handlers and clients support three protocols: gRPC, gRPC-Web, and Connect's own protocol.
 
