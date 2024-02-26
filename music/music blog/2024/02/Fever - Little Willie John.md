@@ -2,7 +2,7 @@ I woke up yesterday with the song "Fever" stuck in my head. The original version
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/0xyMlC1OYdO3JDl8406AEF?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
-But the most version I had in my head, and the most famous, is Peggy Lee's incredibly stripped-down arrangement:
+But the version I had in my head, and the most famous, is Peggy Lee's incredibly stripped-down arrangement:
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/3aPlQWU07jGgyHaBHVS5TS?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
