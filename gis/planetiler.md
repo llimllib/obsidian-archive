@@ -4,3 +4,5 @@ https://github.com/onthegomap/planetiler
 > Vector tiles contain raw point, line, and polygon geometries that clients like [MapLibre](https://github.com/maplibre) can use to render custom maps in the browser, native apps, or on a server. Planetiler packages tiles into an [MBTiles](https://github.com/mapbox/mbtiles-spec/blob/master/1.3/spec.md) (sqlite) file that can be served using tools like [TileServer GL](https://github.com/maptiler/tileserver-gl) or even [queried directly from the browser](https://github.com/phiresky/sql.js-httpvfs). See [awesome-vector-tiles](https://github.com/mapbox/awesome-vector-tiles) for more projects that work with data in this format.
 
 Would be fun to play around with generating some vector tiles and displaying them in the browser
+
+[[MapLibre]]

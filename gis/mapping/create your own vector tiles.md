@@ -8,3 +8,4 @@ Walks through creating a small [[PMTiles]] vector map using [josm](https://josm.
 - render it on the web with [maplibre-gl](https://maplibre.org/maplibre-gl-js-docs/api/)
 	- An OSS fork of mapbox-gl.
 	- [github here](https://github.com/maplibre/maplibre-gl-js)
+	- [[MapLibre]]
