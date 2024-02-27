@@ -19,7 +19,7 @@ In my mental model, when I say `brew install python`, I am telling homebrew _"go
 
 Later on, if I were to update some package in homebrew that depends on some other package in homebrew, it **would** update my python version without telling me, and if I'm depending on that python version, I would be upset because it would either cease to exist or become a broken shell until it gets cleaned up.
 
-**When I install a package with homebrew, homebrew owns it and may remove or upgrade it at any time**
+**When I install a package with homebrew, homebrew owns it and may upgrade it at any time**
 
 ## I use asdf for versions I want to control manually
 
