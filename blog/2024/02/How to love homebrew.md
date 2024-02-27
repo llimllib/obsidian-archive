@@ -62,7 +62,7 @@ If it seems like I've laid out a bunch of exceptions and rules to follow to avoi
 
 If I have some software that I'd like to create a recipe for and allow other people to install via homebrew, it's reasonably easy to do. 
 
-My github username is `llimllib`, and an example piece of software I wrote is [blisper](https://github.com/llimllib/blisper), which is a CLI and wrapper I wrote around `https://github.com/ggerganov/whisper.cpp`. Here's how I made it installable via homebrew:
+My github username is `llimllib`, and an example piece of software I wrote is [blisper](https://github.com/llimllib/blisper), which is a CLI and wrapper I wrote around [whisper.cpp](https://github.com/ggerganov/whisper.cpp). Here's how I made it installable via homebrew:
 
 - Created a repository [`homebrew-whisper`](https://github.com/llimllib/homebrew-whisper/)
 - Added a `Formula` directory with a pair of [formulas](https://docs.brew.sh/Formula-Cookbook) in it
