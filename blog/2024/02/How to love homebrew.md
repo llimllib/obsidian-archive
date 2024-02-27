@@ -1,6 +1,6 @@
-[Homebrew](https://brew.sh/) is a package manager which a lot of people use, and is true of software that a lot of people like to use, a lot of people like to complain about.
+[Homebrew](https://brew.sh/) is a package manager which a lot of people use, and as software that a lot of people use, a lot of people like to complain about.
 
-I'm not here to tell you not to complain about it, but I _do_ want to write about why I love homebrew, and how you might grow to - if not love it - at least find it a part of a productive workflow.
+I'm not here to tell you not to complain about it, but I _do_ want to share why I love homebrew, and how you might grow to - if not love it - at least find it a part of a productive workflow.
 ## My One Iron Rule of Homebrew
 
 **Don't rely on the particular version of something installed via homebrew**
