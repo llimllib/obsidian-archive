@@ -38,6 +38,8 @@ When I `asdf install python 3.12.1`, I have a good mental model of what happens:
 - rust: use [rustup](https://rustup.rs/)
 - terraform: [asdf-hashicorp](https://github.com/asdf-community/asdf-hashicorp)
 
+(update: as per several commenters (thanks!) I'm now giving [[mise]] a try)
+
 ## Custom taps are generally reliable
 
 Some software, such as `mongodb`, provides [custom taps for installation](https://github.com/mongodb/homebrew-brew).
