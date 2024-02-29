@@ -9,7 +9,7 @@ Homebrew, in my workflow, has one job: install command line software and keep it
 
 For example, I use `ffmpeg` on the command line semi-regularly. `ffmpeg` has a bunch of dependencies and is generally kind of a pain in the ass to install and keep up to date on its own.
 
-But with homebrew, I just `brew upgrade ffmpeg`, and if I need to update it, 💥 `brew upgrade ffmpeg` gets me the newer version. This works great!
+But with homebrew, I just `brew install ffmpeg`, and if I need to update it, 💥 `brew upgrade ffmpeg` gets me the newer version. This works great!
 
 ## Homebrew owns the things it installs
 
