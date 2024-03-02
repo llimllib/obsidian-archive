@@ -74,3 +74,16 @@ This file uses the [esbuild deno loader](https://github.com/lucacasonato/esbuild
 ```bash
 deno run --allow-read --allow-env --allow-run build.js
 ```
+
+Then you can create an HTML file that looks like this:
+
+```html
+<script src="bundle.js"></script>
+<datasette-table
+  url="https://global-power-plants.datasettes.com/global-power-plants/global-power-plants.json"
+></datasette-table>
+```
+
+And if you run it, you will see a web page showing a datasette table:
+
+![[Pasted image 20240302161812.png]]
