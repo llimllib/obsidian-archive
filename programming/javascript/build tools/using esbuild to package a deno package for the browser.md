@@ -24,7 +24,7 @@ EOF
 npx esbuild test.js --bundle > bundle.js
 
 # create an html file
-printf "<script src="bundle.js"></script><h1>hi simon</h1>" >| index.html
+printf '<script src="bundle.js"></script><h1>hi simon</h1>' > index.html
 ```
 
 Now, open the HTML file and you should see something like:
