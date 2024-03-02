@@ -37,6 +37,17 @@ export function windowY<T>(windowOptions?: WindowOptions | WindowOptions["k"], o
 
 the first options object can be the union of `T` and `WindowOptions`, where `T` (I think) is the type of the options hash for the parent object of windowY(?). Alternately, in the two hash form, you can pass window options (or `k` directly) as the first argument, and options to be returned as the second argument.
 
+In fact, you may even want to pass different arguments with the same name to the first options object and the second one, so they can't be unified. `fil` gives this example:
+
+```js
+Plot.map(
+  { y: Plot.window(24), stroke: Plot.window(24) },
+  { x: "date", y: "heartRate", stroke: "heartRate", z: null }
+)
+```
+
+Where we pass `Plot.window(24)` as the y argument to the first options argument? I do not understand why though.
+
 It seems to me this would be greatly clarified if it only accepted a single options hash.
 
 I thought about editing the docs, but it seems like heavy work? Maybe I will give it a try.
