@@ -1,7 +1,5 @@
 Simon [asks](https://til.simonwillison.net/javascript/jsr-esbuild) for the simplest way to package a deno package from [jsr](https://jsr.io/) for the browser. Here's what I did:
 
-## create a package
-
 ```bash
 # create a package
 mkdir deno-esbuild && cd deno-esbuild && npm init -y
