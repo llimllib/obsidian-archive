@@ -10,6 +10,12 @@ or, `fd --exclude node_modules '\.(js|ts)$'`, using regex instead of glob search
 
 `-E` is a shortcut for `--exclude`
 
+**update** You can actually do better in `find` by using the `-iregex` flag:
+
+`find -E . -iregex '.*\.(ts|js)' -not -iregex '.*node_modules.*'`
+
+note that in the regular expressions given to find, you're matching against the _full path_ not the filename as you are in `fd`.
+
 -----
 
 Find all empty files and delete them:
