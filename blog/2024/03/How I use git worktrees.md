@@ -42,7 +42,7 @@ On my large work repository, `npm install` takes almost two full minutes; if I h
 
 If you're a javascript developer, you may have felt the pain of `node_modules` even when using normal git branches; if you create a new branch, remove a package, then switch back to the main branch, you'll be unable to run any code that depends on that package until you `npm install` again.
 
-The solution that I've come up with is that for every untracked file and directory that I care about, my `worktree` script creates a [copy on write copy](https://github.com/llimllib/personal_code/blob/daab9eb1/homedir/.local/bin/worktree#L35-L58) of the file or directory into the new worktree directory.
+The solution that I've come up with is that for every untracked file and directory that I care about, my `worktree` script creates a [copy-on-write copy](https://github.com/llimllib/personal_code/blob/daab9eb1/homedir/.local/bin/worktree#L35-L58) of the file or directory into the new worktree directory.
 
 This means that when I run `. worktree new-feature`, I am dropped into the `new-feature` branch, with all my tools ready to work and able to focus on the new feature rather than on setting up my environment.
 
