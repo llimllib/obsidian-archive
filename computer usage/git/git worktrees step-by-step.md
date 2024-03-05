@@ -20,3 +20,7 @@ https://spin.atomicobject.com/2021/02/23/git-worktrees-untracked-files/
 A neat hack! if you do `cp -Rc node_modules ../some_branch/` on a mac, APFS will create a copy-on-write version of your `node_modules` directory; this is something I've wanted for a long time.
 
 > A copy-on-write (COW) clone duplicates an existing file without actually copying its contents on disk immediately. This is similar to a traditional hard link, except that if you modify a hard-linked file, the original file will be modified as well. But a COW clone copies the original if and only if it is written to (hence, “copy on write”).
+
+---
+
+I wrote up how I use worktrees in detail here: [[How I use git worktrees]]
