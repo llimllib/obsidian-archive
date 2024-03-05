@@ -1,6 +1,8 @@
 My favorite feature of git is one that not enough people know about: _worktrees_.
 
-Worktrees allow you to store branches of your repository as separate directories, which allows you to switch branches by changing directory instead of switching between branches in the same directory with `git checkout` or `git switch`.
+Worktrees allow you to store branches of your repository in separate directories.
+
+This means you can switch branches by changing directory, instead of switching between branches in the same directory with `git checkout` or `git switch`.
 
 I've never seen anybody describe using worktrees quite the way I do, so I thought I'd write out how I like to work with them.
 
@@ -40,7 +42,7 @@ On my large work repository, `npm install` takes almost two full minutes; if I h
 
 If you're a javascript developer, you may have felt the pain of `node_modules` even when using normal git branches; if you create a new branch, remove a package, then switch back to the main branch, you'll be unable to run any code that depends on that package until you `npm install` again.
 
-The solution that I've come up with is that for every untracked file and directory that I care about, my `worktree` script creates a [copy on write copy](https://miro.medium.com/v2/resize:fit:1200/1*PntM_kvfSfkFDZ5wk6kmGQ.png) of the file or directory into the new worktree directory.
+The solution that I've come up with is that for every untracked file and directory that I care about, my `worktree` script creates a [copy on write copy](https://github.com/llimllib/personal_code/blob/daab9eb1/homedir/.local/bin/worktree#L35-L58) of the file or directory into the new worktree directory.
 
 This means that when I run `. worktree new-feature`, I am dropped into the `new-feature` branch, with all my tools ready to work and able to focus on the new feature rather than on setting up my environment.
 
