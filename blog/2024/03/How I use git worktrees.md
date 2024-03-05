@@ -8,9 +8,9 @@ I've never seen anybody describe using worktrees quite the way I do, so I though
 
 ## Project structure
 
-When I create or clone a project, I create a project directory and then clone out the `main` branch into a subfolder of the project directory.
+When I create or clone a project, I create a project directory and then clone the `main` branch into a subfolder of that directory.
 
-If I were working on a weather app, the directory structure after this would look like:
+If I were working on a weather app, the directory structure after this might look like:
 
 ![[Pasted image 20240305155055.png]]
 
