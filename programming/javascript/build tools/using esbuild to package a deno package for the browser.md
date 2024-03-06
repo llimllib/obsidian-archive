@@ -87,3 +87,34 @@ Then you can create an HTML file that looks like this:
 And if you run it, you will see a web page showing a datasette table:
 
 ![[Pasted image 20240302161812.png]]
+## a better way
+
+Simon [updated his note](https://til.simonwillison.net/javascript/jsr-esbuild#user-content-and-now-it-works), the [jsr team fixed their bug](https://github.com/jsr-io/jsr/pull/172) and now this more simple procedure works:
+
+```bash
+mkdir /tmp/datasette-demo3
+cd /tmp/datasette-demo3
+echo '@jsr:registry=https://npm.jsr.io' > .npmrc
+npm install @jsr/datasette__table
+echo 'import * as mod from "@jsr/datasette__table";' > index.js
+npx esbuild index.js --bundle --outfile=bundle.js
+echo '<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Datasette News</title>
+</head>
+<body>
+  <datasette-table
+  url="https://datasette.io/content/news.json"
+></datasette-table>
+<script src="bundle.js"></script>
+</body>
+</html>' > index.html
+```
+
+I tried to figure out how to do this same deal with only deno, but I wasn't successful; I don't know how to get esbuild to recognize the `jsr:` import of the deno-style file:
+
+```js
+import * as mod from "jsr:@datasette/table";
+```
