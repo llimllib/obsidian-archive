@@ -36,7 +36,7 @@ Let's make an [[Observable framework]] app, and add an express proxy in front of
 - Assuming you have `npm` installed, run: `npm init @observablehq`, choose a title, and accept the rest of the default options
 - change into the directory you just created
 - Run `npm run build` to build the site into a static `dist` folder, which we will serve from our proxy
-- Install the dependencies for our proxy: `npm install --save better-sqlite3 better-sqlite3-session-store express express-session passport passport-google-oauth2`
+- Install the dependencies for our proxy: `npm install --save better-sqlite3 better-sqlite3-session-store express express-session passport passport-google-oidc`
 	- [better-sqlite3](https://github.com/WiseLibs/better-sqlite3)
 	- [better-sqlite3-session-store](https://github.com/attestate/better-sqlite3-session-store)
 	- [express](https://expressjs.com/)
