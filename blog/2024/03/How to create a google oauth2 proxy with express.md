@@ -42,9 +42,7 @@ Let's make an [[Observable framework]] app, and add an express proxy in front of
 	- [express](https://expressjs.com/)
 	- [express-session](https://github.com/expressjs/session)
 	- [passport](https://www.passportjs.org)
-	- [passport-google-oauth2](https://github.com/mstade/passport-google-oauth2)
-		- archived, and passport's [sample app](https://github.com/passport/todos-express-google/blob/main/package.json) uses [passport-google-oidc](https://github.com/jaredhanson/passport-google-openidconnect) instead
-		- I will probably switch this demo over to that library
+	- [passport-google-oidc](https://github.com/jaredhanson/passport-google-openidconnect)
 - Make a directory to hold your proxy server: `mkdir proxy`
 - set 5 environment variables in your environment; I use [[direnv]] or [[mise]] for this:
 	- SESSION_SECRET="some random string"
@@ -64,7 +62,7 @@ import Database from "better-sqlite3";
 import express from "express";
 import session from "express-session";
 import sqlite3_session_store from "better-sqlite3-session-store";
-import { Strategy as GoogleStrategy } from "passport-google-oauth2";
+import GoogleStrategy from "passport-google-oidc";
 import passport from "passport";
 
 // Create a sqlite session store
@@ -146,17 +144,12 @@ passport.use(
     //
     // Read the full documentation here:
     // https://www.passportjs.org/concepts/authentication/strategies/#verify-function
-    async (request, accessToken, refreshToken, profile, done) => {
-      if (!profile.verified) {
-        return done(null, false, {
-          message: "Google OAuth user must be verified",
-        });
-      }
-
+    async (accessToken, refreshToken, profile, done) => {
       if (!findUser.get(profile.email)) {
         insertUser.run(profile.email, JSON.stringify(profile));
       }
 
+      console.log("got user", findUser.get(profile.email));
       return done(null, findUser.get(profile.email));
     },
   ),
