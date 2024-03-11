@@ -47,7 +47,7 @@ Let's make an [[Observable framework]] app, and add an express proxy in front of
 - set 5 environment variables in your environment; I use [[direnv]] or [[mise]] for this:
 	- SESSION_SECRET="some random string"
 	- BASE_URL="http://localhost:7890"
-	- GOOGLE_CLIENT_ID="your-gogle-client-id.apps.googleusercontent.com"
+	- GOOGLE_CLIENT_ID="your-google-client-id.apps.googleusercontent.com"
 	- GOOGLE_CLIENT_SECRET="your-google-client-secret"
 	- PORT="7890"
 - Edit `server.js` in the `proxy` directory
