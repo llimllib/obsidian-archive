@@ -37,6 +37,14 @@ Let's make an [[Observable framework]] app, and add an express proxy in front of
 - change into the directory you just created
 - Run `npm run build` to build the site into a static `dist` folder, which we will serve from our proxy
 - Install the dependencies for our proxy: `npm install --save better-sqlite3 better-sqlite3-session-store express express-session passport passport-google-oauth2`
+	- [better-sqlite3](https://github.com/WiseLibs/better-sqlite3)
+	- [better-sqlite3-session-store](https://github.com/attestate/better-sqlite3-session-store)
+	- [express](https://expressjs.com/)
+	- [express-session](https://github.com/expressjs/session)
+	- [passport](https://www.passportjs.org)
+	- [passport-google-oauth2](https://github.com/mstade/passport-google-oauth2)
+		- archived, and passport's [sample app](https://github.com/passport/todos-express-google/blob/main/package.json) uses [passport-google-oidc](https://github.com/jaredhanson/passport-google-openidconnect) instead
+		- I will probably switch this demo over to that library
 - Make a directory to hold your proxy server: `mkdir proxy`
 - set 5 environment variables in your environment; I use [[direnv]] or [[mise]] for this:
 	- SESSION_SECRET="some random string"
