@@ -17,4 +17,6 @@ links to [simon willison's similar article](https://til.simonwillison.net/gis/pm
 
 links to [this github repo, implementing a demonstration workflow](https://github.com/sfchronicle/nicar23-map-tiles-demo)
 
+[here is a similar repo](https://github.com/eyeseast/self-hosted-maps-codespace) to that one, a self-hosted map setup with [[pmtiles]] and [[Tippecanoe]]
+
 see also [[create your own vector tiles]]
