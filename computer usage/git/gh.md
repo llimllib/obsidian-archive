@@ -21,7 +21,7 @@ Code search is great: `gh search code "parquet-wasm" "writeParquet" --language=t
 
 Unfortunately, they don't give you enough context to see what's going on, and they also don't give you a link to view the code on github, or any way to view it with more context in the console.
 
-I messed around a bit with the gh cli's template support (see `gh help formatting`) to get to this, which does a neat terminal escape trick to make the displayed path a [[Hyperlink escape codes|hyperlink]] to view the code on github:
+I messed around a bit with the gh cli's template support (see `gh help formatting`) to get to this, which does a neat terminal escape trick to make the displayed path a [[Hyperlink escape codes|hyperlink]] (took me a bit to find that it's [implemented here](https://github.com/cli/go-gh/blob/45fa8a46ae55cf5975cc2bd891b46ffc3d50e4f6/pkg/template/template.go#L254-L261)) to view the code on github:
 
 ```shell
 gh search code --json path,repository,sha,textMatches,url -t '{{range .}}
