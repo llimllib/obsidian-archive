@@ -8,3 +8,5 @@ https://github.com/CloudCannon/pagefind/
 The search engine appears to be a [rust application](https://github.com/CloudCannon/pagefind/tree/1ea1e75c3254899f40a80a740ad829fd00df14dd/pagefind/src) built to a wasm bundle. It looks like it builds an index of the site, creates a bunch of page files, and then when you search it checks the index for what the relevant pages are, downloads only those ones, and serves results.
 
 via [Carl M. Johnson](https://mastodon.social/@carlmjohnson/111024763667968055) on mastodon
+
+see also [[flexsearch]]
