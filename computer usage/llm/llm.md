@@ -1,3 +1,6 @@
+https://github.com/simonw/llm
+https://llm.datasette.io/en/stable/index.html
+
 Simonw's [llm tool](https://llm.datasette.io/en/stable/index.html) for the command line.
 
 I wrote my own [gpt wrapper](http://github.com/llimllib/gpt) that I use for gpt, but I wanted to try out anthropic and I'm way too lazy to update it, so I thought I'd give Simon's tool a shot.
