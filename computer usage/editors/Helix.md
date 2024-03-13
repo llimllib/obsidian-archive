@@ -28,4 +28,5 @@ the python support uses `pylsp`, install with `pip install python-lsp-server` [d
 - got an everforest theme from [this repo](https://github.com/CptPotato/helix-themes) and installed it by copying it into `~/.config/helix/themes`, then did `config-open` and changed `theme="everforest_dark_medium"`
 
 - there's currently no equivalent to vim's `gq` command, which is kind of a deal-breaker for me at the moment. Got farther than I had before though!
-	- confirmed this on the helix matrix channel
+	- <del>confirmed this on the helix matrix channel</del>
+	- now it has [:reflow](https://docs.helix-editor.com/commands.html?highlight=reflow#commands) controlled by the [text-width](https://docs.helix-editor.com/configuration.html?highlight=reflow#editor-section) attribute ([here](https://github.com/helix-editor/helix/pull/2128) is the PR that implemented it)
