@@ -43,3 +43,14 @@ cat /tmp/oneresult.json | 'foreach (.matches | map(.text) | unique[]) as $match 
 But I failed at figuring out how to do that for each match in the result, which would allow me to use the jq filter option to the `gh` cli to pre-highlight the matches, which would print them nicely with the template.
 
 Perhaps I should just write a program to print them out exactly as I want to.
+
+Later I figured out an expression that correctly replaces the fragment with a highlighted string:
+
+```shell
+cat /tmp/results.json | gojq -r '
+.[].textMatches[] |
+    foreach (.matches | map(.text) | unique[]) as $match (
+	    .;
+	    .fragment=(.fragment | 
+	    sub($match; "\u001b[1;31m"+$match+"\u001b[0m"; "g")))'
+```
