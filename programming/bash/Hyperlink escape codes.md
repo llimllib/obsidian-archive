@@ -1,4 +1,4 @@
-To print out a clickable hyperlink in a [terminal that supports] the [OSC8 escape code](https://gist.github.com/egmontkob/eb114294efbcd5adb1944c9f3cb5feda), use:
+To print out a clickable hyperlink in a [terminal that supports] the [OSC8 escape code](https://gist.github.com/egmontkob/eb114294efbcd5adb1944c9f3cb5feda), using bash:
 
 ```bash
 printf '\e]8;;http://example.com\e\\This is a link\e]8;;\e\\\n'
