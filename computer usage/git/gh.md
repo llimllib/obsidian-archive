@@ -54,3 +54,5 @@ cat /tmp/results.json | gojq -r '
 	    .fragment=(.fragment | 
 	    sub($match; "\u001b[1;31m"+$match+"\u001b[0m"; "g")))'
 ```
+
+update: I [wrote my own program](https://github.com/llimllib/personal_code/blob/d0c373b4b1863d411766c8c18ad235a1a73ac787/homedir/.local/bin/codesearch#L1) to print out links the way I want

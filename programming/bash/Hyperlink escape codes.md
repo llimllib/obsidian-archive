@@ -9,8 +9,8 @@ Found via trying to get the [[gh]] cli to output nicer code search results that 
 Here's a python function that returns an appropriately escaped hyperlink ready for display in the terminal:
 
 ```python
-import urllib.parse
-
 def link(url, link):
-    return f'\033]8;;{urllib.parse.quote(url)}\033\\{link}\033]8;;\033\\'
+    return f'\033]8;;{url}\033\\{link}\033]8;;\033\\'
 ```
+
+note that this assumes your URL is properly URL-escaped.
