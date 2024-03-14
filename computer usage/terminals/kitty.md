@@ -47,3 +47,4 @@ action send_text normal,application icat ${FILE_PATH}\r
 - run `gls --hyperlink=auto` on a mac, or `ls --hyperlink=auto` if you have gnu ls, and try clicking on files to see what happens
 	- click on a directory to enter that directory
 	- run `rg --hyperlink-format=kitty <something>`, then click on a line number, and you should get brought right to that line
+- [here's the commit](https://github.com/llimllib/personal_code/commit/4493a7e47fff527d1e0f9eed9ea23749b9a2709a) where I introduced it into my dotfiles
