@@ -22,7 +22,7 @@ So I decided to use a scrabble wordlist I found online, and to instead just find
 The basic algorithm I settled on was:
 
 - **step 1** calculate the score of every set of seven letters
-- let $scores$ be a hash of $\{set(letters): int(score)\}$ which defaults to 0 and represent the number of words playable via the given set of seven letters
+- let $scores$ be a hash of $\{set(letters): int(score)\}$ which defaults to 0 and represents the number of words playable via the given set of seven letters
 - For every word in the word list
 	- make a set $s$ of unique letters in the word
 		- add that set to every set of seven letters of which it's a subset
