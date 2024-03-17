@@ -2,6 +2,7 @@ Thomas Ptacek wondered [on mastodon](https://infosec.exchange/@tqbf/112100367570
 
 I like to play spelling bee, and this seemed like a solvable problem, so I took a hack at it.
 
+_(update: there's a [[mitzVah - the "worst" pangrams part 2|part 2]])_
 # The setup
 
 In the spelling bee, you're given 7 letters, one of which must be in every word, and asked to make as many words as possible out of those seven.
