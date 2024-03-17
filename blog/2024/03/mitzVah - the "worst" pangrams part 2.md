@@ -125,11 +125,11 @@ def hl(w: str, l: str) -> str:
     return f"{red}{w.replace(l, f'{yellow}{l}{red}')}"
 
 
-red = "\033[0;31m"
-green = "\033[0;32m"
-yellow = "\033[0;33m"
-blue = "\033[0;34m"
-reset = "\033[0m"
+red = "\N{esc}[0;31m"
+green = "\N{esc}[0;32m"
+yellow = "\N{esc}[0;33m"
+blue = "\N{esc}[0;34m"
+reset = "\N{esc}[0m"
 print(f"{green}points\tpangram\t\twords")
 scores_with_req_letters.sort()
 for points, l, pangram in scores_with_req_letters:
