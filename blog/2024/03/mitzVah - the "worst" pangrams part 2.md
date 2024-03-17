@@ -88,15 +88,15 @@ Here's a table of every pangram my program finds that would reach genius level a
 
 Following the same start of the program I used to find the word count for every pangram in [[What are the "worst" spelling bee pangrams?|part 1]], I added a couple more loops:
 
-- let $scores\_with\_req\_letters$ be a list of tuples ($total\_score$, $required\_letter$, $pangram$)
+- let $scoresWithReqLetters$ be a list of tuples ($totalScore$, $requiredLetter$, $pangram$)
 - For each pangram
 	- find all words that match the pangram
 	- for each letter in the pangram
 		- sum the score of each word that contains the letter
-		- add that score, the letter, and the pangram to $scores\_with\_req\_letters$
-- Sort $scores\_with\_req\_letters$
+		- add that score, the letter, and the pangram to $scoresWithReqLetters$
+- Sort $scoresWithReqLetters$
 - For each pangram
-	- if the score of the pangram is > 70% of $total\_score$, print it out
+	- if the score of the pangram is > 70% of $totalScore$, print it out
 
 The implementation in python:
 
