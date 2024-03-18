@@ -1,6 +1,6 @@
 ## print a table
 
-to print a table, neovim has a handy function `vim.inspect`. I used it to inspect a table of colors like so:
+to print a table, [[neovim]] has a handy function `vim.inspect`. I used it to inspect a table of colors like so:
 
 `:lua print(vim.inspect(require("mini.base16").mini_palette("#252A39", "#CBCCC6", 75)))`
 
