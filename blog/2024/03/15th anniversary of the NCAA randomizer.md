@@ -8,6 +8,7 @@ If you want a random-but-reasonable NCAA bracket for your office pool, look no f
 
 - updated the teams and kenpom ratings
 	- I didn't bother to calculate [a new curve](https://github.com/llimllib/ncaa-bracket-randomizer/blob/main/fitting_kenpom/fitting%20kenpom.ipynb#cell-id=6f699577) for kenpom ratings, I spot checked a few games and they looked about as expected.
+	- _update_: [I bothered](https://github.com/llimllib/ncaa-bracket-randomizer/blob/main/fitting_kenpom/fitting%202024.ipynb)
 - ripped out jQuery, which had survived since the first commits
 - ripped out bootstrap, which I had just for a dropdown and a fancy button
 - moved to google actions instead of pushing to `gh-pages`
