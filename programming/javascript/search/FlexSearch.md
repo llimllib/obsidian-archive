@@ -9,3 +9,9 @@ https://github.com/nextapps-de/flexsearch
 found via tmcw starring it
 
 see also [[pagefind]]
+
+----
+
+I switched this site's notes over to it ([1](https://github.com/llimllib/obsidian_notes/commit/e1ff77a8706532b1aaf1c164ffb2e2dcc61282f3) [2](https://github.com/llimllib/obsidian_notes/commit/2488a2d7346be06cb94149f0cda4ccfc5195eaf9#diff-d6af0459a37d985953d7040c14f53feb3b9cc9e58b543aa3c2b80256d276c5e0R566-R576)), and it kind of stinks that flexsearch doesn't return the index of matches back to you. If you want to highlight matched terms, you have to implement that yourself.
+
+However, the results are definitely better.

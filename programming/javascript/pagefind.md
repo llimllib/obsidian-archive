@@ -9,4 +9,4 @@ The search engine appears to be a [rust application](https://github.com/CloudCan
 
 via [Carl M. Johnson](https://mastodon.social/@carlmjohnson/111024763667968055) on mastodon
 
-see also [[flexsearch]]
+see also [[FlexSearch]]
