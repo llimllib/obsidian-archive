@@ -29,6 +29,7 @@ In alphabetical order, with a 🎧 icon beside the show if I've loved it enough 
 - [Fred Again](https://www.youtube.com/watch?v=4iQmPv_dTI0&t=4s) 🎧
 - [Goat Rodeo](https://www.youtube.com/watch?v=O7EcT5YzKhQ)
 - [Gogol Bordello](https://www.youtube.com/watch?v=IJGh50t6crw)
+- [Hania Rani](https://www.youtube.com/watch?v=4RcKtr5bGa4)
 - [Hiromi](https://www.youtube.com/watch?v=pnISpahN2dM)
 - [Hop Along](https://www.youtube.com/watch?v=iFGnkbZ3fLE)
 - [I'm with Her](https://www.youtube.com/watch?v=7WNmrsbu-hc)
