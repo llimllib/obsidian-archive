@@ -56,6 +56,7 @@ In alphabetical order, with a 🎧 icon beside the show if I've loved it enough 
 - [Nickel Creek](https://www.youtube.com/watch?v=jFycqnOpifQ)
 - [Norah Jones](https://www.youtube.com/watch?v=o0ZnzboaDSg)
 - [Okkervil River](https://www.youtube.com/watch?v=iGZzuAatKHI)
+- [Olivia Rodrigo](https://www.youtube.com/watch?v=jmh3iruf4RA)
 - [Phoebe Bridgers](https://www.youtube.com/watch?v=2bOigld3D1k)
 - [Pinegrove](https://www.youtube.com/watch?v=weL8HTY1NJU) 🎧
 - [Punch Brothers](https://www.youtube.com/watch?v=iXE_K2Kpoqc&t=320s) 🎧
