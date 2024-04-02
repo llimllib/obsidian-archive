@@ -28,7 +28,7 @@ Here's a javascript implementation, where complex numbers are represented as a t
 export const mandelbrot = (c, max_iter) => {
   let z = c;
   let count = 1;
-  while (Math.sqrt(z[0] * z[0] + z[1] * z[1]) < 2 && count < max_iter) {
+  while (Math.sqrt(z[0] * z[0] + z[1] * z[1]) <= 2 && count < max_iter) {
     z = cadd(cmul(z, z), c);
     count += 1;
   }
