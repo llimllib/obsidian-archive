@@ -41,3 +41,5 @@ Related: [[jless]], [[gron]], [[jnv]]
   "id": string (uuid)
 }
 ```
+
+via [mastodon](https://hachyderm.io/@hgrsd/112196338504223975)
