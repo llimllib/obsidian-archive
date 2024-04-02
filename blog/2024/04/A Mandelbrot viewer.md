@@ -66,7 +66,7 @@ const H = 800;
 const xscale = d3.scaleLinear([0, W], [-2, 0.6]);
 const yscale = d3.scaleLinear([0, H], [1.25, -1.25]);
 
-//set up our color scale
+// set up a color scale
 // https://d3js.org/d3-scale-chromatic/sequential#interpolateInferno
 const colorscale = d3
   .scaleSequentialLog(d3.interpolateInferno)
@@ -77,7 +77,7 @@ for (let i = 1; i < MAX_ITER; i++) {
 }
 colors.set(MAX_ITER, `rgb(0, 0, 0)`);
 
-// get a reference to the context, loop through every pixel,
+// get a reference to the canvas context, loop through every pixel,
 // and draw the color given by mandelbrot on the pixel
 const ctx = document.querySelector("canvas#mcanv").getContext("2d");
 const drawRow = (ctx, y = 0, rows = 20) => {
