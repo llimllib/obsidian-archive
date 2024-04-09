@@ -6,3 +6,5 @@ https://simonwillison.net/2023/Jan/13/semantic-search-answers/
 -   Send the whole thing through [the GPT-3 API](https://beta.openai.com/docs/api-reference/completions) and see what comes back
 
 I’ve been calling this the **semantic search answers** pattern.
+
+> **Update:** Since publishing this post I’ve learned that this technique is known as **Retrieval-Augmented Generation** or RAG, as described in [this paper from May 2020](https://arxiv.org/abs/2005.11401). I’ve also been pointed to the [Question Answering using Embeddings](https://github.com/openai/openai-cookbook/blob/main/examples/Question_answering_using_embeddings.ipynb) notebook in the OpenAI cookbook which describes this same technique.
