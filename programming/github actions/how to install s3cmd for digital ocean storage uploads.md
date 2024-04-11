@@ -12,3 +12,5 @@
 To add the secrets to your repository, go to settings -> secrets and variables -> actions. The URL is `https://github.com/<user>/<repo>/settings/secrets/actions`
 
 See also [[how to install doctl in a github action]]; after I upload stuff to digital ocean storage I run `doctl compute cdn flush` to make sure the new content gets served.
+
+[[s3cmd]]
