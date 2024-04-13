@@ -13,3 +13,5 @@ neat! I didn't know that.
 The author then goes on to talk about the difficulties in tree-shaking languages that weren't built to be tree-shaken. They conclude:
 
 > With GC, Wasm makes it thinkable to do DOM programming in languages other than JavaScript. It will only be feasible for mass use, though, if the resulting Wasm modules are small, and that means significant investment on each language’s toolchain. Often this will take the form of alternate toolchains that incorporate experimental tree-shaking algorithms, and whose alternate standard libraries facilitate the tree-shaker.
+
+via [news.yc](https://news.ycombinator.com/item?id=40023319)
