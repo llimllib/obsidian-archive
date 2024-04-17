@@ -30,3 +30,10 @@ What we use on people app. Simple and gets the job done with postgres.
 https://github.com/collectiveidea/delayed_job
 
 Not dead, but pining for the fjords per the author on news.yc
+
+## faktory
+
+https://contribsys.com/faktory/
+https://github.com/contribsys/faktory
+
+From the people (er, Mike Perham) that brought you `sidekiq`, faktory is a language-agnostic job server. Like sidekiq, has an OSS and a Pro level; you need pro to get cron jobs, statsd metrics, and all kinds of other stuff you're probably going to want.
