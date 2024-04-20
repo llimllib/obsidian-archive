@@ -7,4 +7,4 @@
 - Inigo Quilez has many resources, but [here is one of shaping functions](https://iquilezles.org/articles/functions/)
 	- each one is also available in the very cool [graphtoy.com](https://graphtoy.com/)
 		- sadly can't seem to link directly to functions because the unescaped parens mess up the markdown formatting. Maybe they could be escaped, but, irritating.
-	- 
+- [lygia.xyz](https://lygia.xyz) shader library
