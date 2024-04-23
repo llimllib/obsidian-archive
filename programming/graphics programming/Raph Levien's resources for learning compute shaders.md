@@ -1,6 +1,6 @@
 [source](https://xi.zulipchat.com/#narrow/stream/197075-gpu/topic/Learning.20resources.20for.20compute.20shaders) via [toot](https://mastodon.online/@raph/109617071186970778)
 
-Raph Levien: @Nils Martel asked on Mastodon about learning resources for GPU compute shaders. That's a deep topic, and deserves a fresh look, largely because I consider WebGPU a game changer. I'll do my best in this topic to give a fairly comprehensive answer.
+Raph Levien: @Nils Martel asked on Mastodon about learning resources for GPU compute shaders. That's a deep topic, and deserves a fresh look, largely because I consider [[WebGPU]] a game changer. I'll do my best in this topic to give a fairly comprehensive answer.
 
 Raph Levien: First, some general observations, then I'll get into specifics. Learning compute shader programming is a hard road, because there are few good resources dedicated to the topic, and it's also very much a moving target (I'll get into that more). Even so, I obviously consider it very rewarding, and am confident that computing with thousands to tens of thousands of threads will be a vital skillset for decades to come, even if (as it hopes) it evolves considerably beyond the limitations of current GPUs.
 

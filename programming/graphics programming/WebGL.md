@@ -1,0 +1,1 @@
+The first-edition openGL spec for the web. Succeeded by [[WebGPU]]

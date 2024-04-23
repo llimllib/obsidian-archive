@@ -4,4 +4,4 @@ https://surma.dev/things/webgpu/
 
 In the end he uses a compute shader to write a 2d canvas demo - the compute shader is calculating the position and handling collisions for thousands of balls, while there is a regular old canvas 2d renderer. Super neat!
 
-WebGPU is as of right now only available on FF and Chrome behind a flag, and the API is not yet set.
+WebGPU is as of right now only available on Chrome, and on firefox and safari behind developer flags.

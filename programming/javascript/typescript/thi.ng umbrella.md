@@ -1,6 +1,6 @@
 https://github.com/thi-ng/umbrella/
 
-A monorepo that does lots of webgl and visualization related stuff. Difficult to get my head around how to use it/ how to use part of it / what's in there
+A monorepo that does lots of [[WebGL]] and visualization related stuff. Difficult to get my head around how to use it/ how to use part of it / what's in there
 
 An interesting example is https://github.com/thi-ng/umbrella/tree/develop/examples/webgl-channel-mixer
 
