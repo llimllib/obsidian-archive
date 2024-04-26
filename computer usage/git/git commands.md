@@ -11,3 +11,11 @@
 `git branch --format "%(refname:short) %(upstream)"`
 
 (useful for seeing what branches you have locally that haven't been pushed)
+
+## show the history of a branch since it diverged from the main branch
+
+`git diff $(git merge-base --fork-point main)`
+
+If you want to use a branch other than the current branch, you need to specify it twice:
+
+`git diff $(git merge-base --fork-point main some-branch)..some-branch`
