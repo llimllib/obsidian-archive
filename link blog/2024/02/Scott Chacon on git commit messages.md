@@ -21,3 +21,7 @@ I like writing git commit messages similar to the one discussed in the [article 
 An idea following a [good discussion on mastodon](https://merveilles.town/@akkartik/111859196193506562):
 
 A site where you enter a github repository's name, it does a bare checkout of the repo, then presents it with a blog-like interface, with an RSS feed and a search index
+
+---
+
+[further good discussion on mastodon](https://hachyderm.io/@sanityinc/112326951936274631); [here's. my response](https://hachyderm.io/@llimllib/112337781451381689) about how we currently do PR review at my employer, which I'm currently pretty happy with.
