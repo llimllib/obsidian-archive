@@ -46,3 +46,19 @@ starts with the question "Is my plan covered"?
 ```
 
 - [this page](https://amiaopensource.github.io/ffmprovisr/#filtergraphs) has excellent documentation on advanced ffmpeg features
+
+Create a timelapse from a folder of jpegs:
+
+`ffmpeg -framerate 30 -pattern_type glob -i '*.jpg' -c:v libx264 -r 30 -pix_fmt yuv420p timelapse.mp4`
+
+Stabilize a video (from [news.yc](https://news.ycombinator.com/item?id=40408878), untested):
+
+```
+ffmpeg -i "$1" -vf vidstabdetect=shakiness=5:show=1 dummy.avi
+
+ffmpeg -i "$1" -vf yadif, format=yuv420p, vidstabtransform=zoom=2:optzoom=0:crop=black -c:v libx264 -b:a 32k stabilized264.mp4
+```
+
+Which also suggests this recipe for building ffmpeg with all the bells and whistles (there are many bells and whistles):
+
+`brew install homebrew-ffmpeg/ffmpeg/ffmpeg $(brew options homebrew-ffmpeg/ffmpeg/ffmpeg --compact)`
