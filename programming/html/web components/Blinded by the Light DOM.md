@@ -1,3 +1,7 @@
+---
+updated: '2023-11-13T19:13:45Z'
+created: '2023-11-13T19:13:45Z'
+---
 https://meyerweb.com/eric/thoughts/2023/11/01/blinded-by-the-light-dom/
 
 Eric Meyer describes how to use web components, and builds out a "super-slider" component that demonstrates what he's talking about.

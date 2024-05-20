@@ -1,3 +1,7 @@
+---
+updated: '2023-10-20T13:54:09Z'
+created: '2023-10-20T13:54:09Z'
+---
 https://notes.eatonphil.com/distributed-postgres.html
 
 uses [[golang]] libraries to demonstrate how you could build a very simplified version of a distributed postgres

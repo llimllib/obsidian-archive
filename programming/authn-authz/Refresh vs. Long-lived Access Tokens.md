@@ -1,3 +1,7 @@
+---
+updated: '2023-10-20T13:54:09Z'
+created: '2023-10-20T13:54:09Z'
+---
 https://grayduck.mn/2023/04/17/refresh-vs-long-lived-access-tokens/
 
 > One question which I frequently receive is:

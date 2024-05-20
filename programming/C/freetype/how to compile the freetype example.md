@@ -1,3 +1,7 @@
+---
+updated: '2023-10-20T13:54:09Z'
+created: '2023-10-20T13:54:09Z'
+---
 [here](https://freetype.org/freetype2/docs/tutorial/step1.html) is the freetype tutorial, which includes a link (hidden at the end(!?)) to [an example C program](https://freetype.org/freetype2/docs/tutorial/example1.c) with limited instructions for how to use the thing.
 
 This makefile builds it, which it took me a bit to figure out:

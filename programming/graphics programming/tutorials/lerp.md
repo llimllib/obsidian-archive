@@ -1,3 +1,7 @@
+---
+updated: '2023-10-20T13:54:09Z'
+created: '2023-10-20T13:54:09Z'
+---
 https://rachsmith.com/lerp/
 
 > Today I want to talk about a little animation trick that I use all the time called **lerp**. Lerp is the nickname for Linear Interpolation between two points. It’s a fairly simple effect to implement but can really improve the look of your animations if you’re moving an object from a point A to point B.

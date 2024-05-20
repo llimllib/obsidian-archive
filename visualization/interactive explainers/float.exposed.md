@@ -1,3 +1,7 @@
+---
+updated: '2023-10-20T13:54:09Z'
+created: '2023-10-20T13:54:09Z'
+---
 https://float.exposed/0x44bf9400
 
 Very cool interactive visualization of floating point numbers.

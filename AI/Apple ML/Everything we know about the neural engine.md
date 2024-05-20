@@ -1,3 +1,7 @@
+---
+updated: '2023-10-20T13:54:09Z'
+created: '2023-10-20T13:54:09Z'
+---
 https://github.com/hollance/neural-engine
 
 > When I was still providing ML consulting services for iOS, I would often get email from people who are confused why their model doesn't appear to be running on the Neural Engine, or **why it is so slow** when the ANE is supposed to be way faster than the GPU...

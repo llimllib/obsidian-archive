@@ -1,3 +1,7 @@
+---
+updated: '2024-02-12T16:32:58Z'
+created: '2024-02-12T16:32:58Z'
+---
 I wanted to see how long the command `make lint-types` took with an environment variable present, so I tried this command and it failed:
 
 ```console

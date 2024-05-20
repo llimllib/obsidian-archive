@@ -1,3 +1,7 @@
+---
+updated: '2023-10-20T13:54:09Z'
+created: '2023-10-20T13:54:09Z'
+---
 https://aeracode.org/2022/11/14/takahe-new-server/
 
 > I have run all my personal projects on "serverless" hosting for several years now - Google Cloud Run, mostly. Having software only spin up on request and not just sit around is great - not just for efficiency, but because it enforces a shared-nothing architecture on you that makes things easy to maintain.

@@ -1,3 +1,7 @@
+---
+updated: '2023-10-20T13:54:09Z'
+created: '2023-10-20T13:54:09Z'
+---
 Charlie Loyd [tooted](https://everything.happens.horse/@vruba/111065936544578424) this wonderful animation of a year's OSM tile traffic:
 
 <video controls>

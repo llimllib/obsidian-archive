@@ -1,3 +1,7 @@
+---
+updated: '2023-10-20T13:54:09Z'
+created: '2023-10-20T13:54:09Z'
+---
 graphics programming lib in go: https://ebiten.org/examples/
 
 > Ebiten is an open source game library for [the Go programming language](https://golang.org/). Ebiten's simple API allows you to quickly and easily develop 2D games that can be deployed across multiple platforms.

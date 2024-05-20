@@ -1,3 +1,7 @@
+---
+updated: '2023-10-20T13:54:09Z'
+created: '2023-10-20T13:54:09Z'
+---
 If you have to debug a test that requires you to set the computer time manually, here's how you do it:
 
 ```shell

@@ -1,3 +1,7 @@
+---
+updated: '2023-10-20T13:54:09Z'
+created: '2023-10-20T13:54:09Z'
+---
 My favorite web server https://caddyserver.com/
 
 ## Using caddy as a local file server

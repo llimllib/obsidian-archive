@@ -1,3 +1,7 @@
+---
+updated: '2023-10-20T13:54:09Z'
+created: '2023-10-20T13:54:09Z'
+---
 https://github.com/charliermarsh/ruff
 
 > Ruff aims to be orders of magnitude faster than alternative tools while integrating more functionality behind a single, common interface.

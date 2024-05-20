@@ -1,3 +1,7 @@
+---
+updated: '2023-10-20T13:54:09Z'
+created: '2023-10-20T13:54:09Z'
+---
 https://wasmer.io/
 
 supports wasm in c#/C++/python/go/ruby/php/rust

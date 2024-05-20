@@ -1,3 +1,7 @@
+---
+updated: '2023-10-20T13:54:09Z'
+created: '2023-10-20T13:54:09Z'
+---
 https://github.com/sourcegraph/conc
 
 > `conc` is your toolbelt for structured concurrency in go, making common tasks easier and safer.

@@ -1,3 +1,7 @@
+---
+updated: '2023-10-20T13:54:09Z'
+created: '2023-10-20T13:54:09Z'
+---
 https://blog.plover.com/prog/vertical-complexity.html
 
 >  Wrapping up code this way reduces _horizontal_ complexity in that it makes the top level program shorter and quicker. But it increases _vertical_ complexity because there are now more layers of function calling, more layers of interface to understand, and more hidden magic behavior. When something breaks, your worries aren't limited to understanding what is wrong with your code. You also have to wonder about what the library call is doing. Is the library correct? Are you calling it correctly? The difficulty of localizing the bug is larger, and when there is a problem it may be in some module that you can't see, and that you may not know exists.

@@ -1,3 +1,7 @@
+---
+updated: '2023-10-20T13:54:09Z'
+created: '2023-10-20T13:54:09Z'
+---
 Take 2 from https://replicate.com/blog/run-stable-diffusion-on-m1-mac:
 
 ```

@@ -1,3 +1,7 @@
+---
+updated: '2023-12-22T20:04:14Z'
+created: '2023-12-22T20:04:14Z'
+---
 https://www.nand2tetris.org/
 
 > The site contains all the lectures, project materials and tools necessary for building a general-purpose computer system and a modern software hierarchy from the ground up.  

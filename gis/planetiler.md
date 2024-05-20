@@ -1,3 +1,7 @@
+---
+updated: '2024-02-26T15:30:45Z'
+created: '2023-10-20T13:54:09Z'
+---
 https://github.com/onthegomap/planetiler
 
 > Planetiler (_**pla**·nuh·tai·lr_, formerly named "Flatmap") is a tool that generates [Vector Tiles](https://github.com/mapbox/vector-tile-spec/tree/master/2.1) from geographic data sources like [OpenStreetMap](https://www.openstreetmap.org/). Planetiler aims to be fast and memory-efficient so that you can build a map of the world in a few hours on a single machine without any external tools or database.

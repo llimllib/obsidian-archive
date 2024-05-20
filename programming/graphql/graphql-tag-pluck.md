@@ -1,3 +1,7 @@
+---
+updated: '2023-10-20T13:54:09Z'
+created: '2023-10-20T13:54:09Z'
+---
 https://the-guild.dev/graphql/tools/docs/graphql-tag-pluck
 
 > @graphql-tools/graphql-tag-pluck will take JavaScript code as an input and will pluck all template literals provided to graphql-tag.

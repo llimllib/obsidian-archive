@@ -1,3 +1,7 @@
+---
+updated: '2023-10-20T13:54:09Z'
+created: '2023-10-20T13:54:09Z'
+---
 https://www.ruby-lang.org/en/news/2022/04/03/ruby-3-2-0-preview1-released/
 
 > ## WASI based WebAssembly support

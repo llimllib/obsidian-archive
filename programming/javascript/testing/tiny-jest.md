@@ -1,3 +1,7 @@
+---
+updated: '2024-01-11T16:21:26Z'
+created: '2024-01-11T16:21:26Z'
+---
 https://github.com/ValeriaVG/tiny-jest
 
 > Minimalistic library to run Jest-like tests in any JS environment: browser, node or even deno. Perfect to run in sandboxes

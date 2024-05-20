@@ -1,3 +1,7 @@
+---
+updated: '2023-10-20T13:54:09Z'
+created: '2023-10-20T13:54:09Z'
+---
 - [uthash](https://troydhanson.github.io/uthash/)
 	- contains an array, stringbuffer, stack, list, and string as well
 	- header-only

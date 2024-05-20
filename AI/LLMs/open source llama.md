@@ -1,3 +1,7 @@
+---
+updated: '2023-10-20T13:54:09Z'
+created: '2023-10-20T13:54:09Z'
+---
 https://github.com/Lightning-AI/lit-llama
 
 > Independent implementation of LLaMA that is fully open source under the Apache 2.0 license.

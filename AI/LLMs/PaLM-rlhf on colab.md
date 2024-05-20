@@ -1,3 +1,7 @@
+---
+updated: '2023-10-20T13:54:09Z'
+created: '2023-10-20T13:54:09Z'
+---
 Messing around with [this repository](https://github.com/lucidrains/PaLM-rlhf-pytorch)
 
 1. Start a new colab notebook

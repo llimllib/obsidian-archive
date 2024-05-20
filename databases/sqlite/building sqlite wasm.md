@@ -1,3 +1,7 @@
+---
+updated: '2023-10-20T13:54:09Z'
+created: '2023-10-20T13:54:09Z'
+---
 1. `brew install emscripten`
 2. clone sqlite: `https://github.com/sqlite/sqlite.git`
 3. `cd sqlite`

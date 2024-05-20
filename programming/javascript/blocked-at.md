@@ -1,3 +1,7 @@
+---
+updated: '2023-11-09T14:54:44Z'
+created: '2023-11-09T14:54:44Z'
+---
 https://www.npmjs.com/package/blocked-at
 
 > Detects slow synchronous execution and reports where it started.

@@ -1,3 +1,7 @@
+---
+updated: '2023-10-20T13:54:09Z'
+created: '2023-10-20T13:54:09Z'
+---
 https://docs.astro.build/en/concepts/islands/
 
 One of my beefs with most javascript frameworks is that their documentation rarely has a clear description of what it is doing, where, in terms that I understand.

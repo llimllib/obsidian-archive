@@ -1,3 +1,7 @@
+---
+updated: '2023-10-20T13:54:09Z'
+created: '2023-10-20T13:54:09Z'
+---
 https://codeberg.org/forgejo/forgejo
 
 A fork of [[gitea]] by [codeberg](https://codeberg.org). Launched after the gitea project created a company, and they want to keep it FOSS. [Reasoning for the fork here](https://blog.codeberg.org/codeberg-launches-forgejo.html)

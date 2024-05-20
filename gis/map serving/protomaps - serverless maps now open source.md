@@ -1,3 +1,7 @@
+---
+updated: '2023-10-20T13:54:09Z'
+created: '2023-10-20T13:54:09Z'
+---
 https://protomaps.com/blog/serverless-maps-now-open-source
 
 > A web application with 50,000 map loads using the Google Maps API will cost [$350 per month.](https://mapsplatform.google.com/pricing/)

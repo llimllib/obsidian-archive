@@ -1,3 +1,7 @@
+---
+updated: '2024-03-05T22:14:50Z'
+created: '2023-10-20T13:54:09Z'
+---
 https://infrequently.org/2021/07/worktrees-step-by-step/
 
 I use worktrees, but without the `bare` repo setup described here. May want to look into using it with the `gitdir:` thing I had never heard of, instead of using the `MAIN_BRANCH` [hack I've been using](https://github.com/llimllib/personal_code/blob/master/homedir/.local/bin/rmtree#L7).

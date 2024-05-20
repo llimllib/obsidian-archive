@@ -1,3 +1,7 @@
+---
+updated: '2023-10-20T13:54:09Z'
+created: '2023-10-20T13:54:09Z'
+---
 https://eev.ee/blog/2013/03/03/the-controller-pattern-is-awful-and-other-oo-heresy/
 
 Useful thinking about why we make objects, what objects are, what object-oriented means, and when and how we should design objects and classes to contain them.

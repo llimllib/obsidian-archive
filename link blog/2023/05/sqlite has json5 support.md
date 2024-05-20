@@ -1,3 +1,7 @@
+---
+updated: '2023-10-20T13:54:09Z'
+created: '2023-10-20T13:54:09Z'
+---
 https://sqlite.org/json1.html#json5
 
 via the [release notes](https://sqlite.org/releaselog/3_42_0.html) for 3.42.

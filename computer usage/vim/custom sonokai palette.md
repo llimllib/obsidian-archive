@@ -1,3 +1,7 @@
+---
+updated: '2024-03-02T14:54:14Z'
+created: '2024-03-02T14:54:14Z'
+---
 To get my own color scheme, I had been using a [fork of](https://github.com/llimllib/lilium) [sonokai](https://github.com/sainnhe/sonokai) that I had created. 
 
 I don't remember why I created it instead of using a custom palette with sonokai, but recently my color scheme (which I had never maintained) broke when viewing markdown files, so this morning I figured out how to switch back to sonokai and just use my custom palette.

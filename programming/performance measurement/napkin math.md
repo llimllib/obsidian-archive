@@ -1,3 +1,7 @@
+---
+updated: '2023-10-20T13:54:09Z'
+created: '2023-10-20T13:54:09Z'
+---
 https://sirupsen.com/napkin
 
 > A newsletter about using napkin math and first-principle thinking to estimate systems performance — fast, and without writing any code! However, on a good day posts will include code to test whether the napkin math lines up with reality.

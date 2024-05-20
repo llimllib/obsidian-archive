@@ -1,3 +1,7 @@
+---
+updated: '2024-03-04T19:22:32Z'
+created: '2024-03-04T19:22:32Z'
+---
 https://www.hillelwayne.com/post/graph-types/
 
 > There is almost no graph support in any mainstream language. None have it as a built-in type, very few have them in the standard library, and many don’t have a robust third-party library in the ecosystem. Most of the time, I have to roll graphs from scratch. There’s a gap between how often software engineers could use graphs and how little our programming ecosystems support them. Where are all the graph types?

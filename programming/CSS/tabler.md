@@ -1,3 +1,7 @@
+---
+updated: '2023-10-20T13:54:09Z'
+created: '2023-10-20T13:54:09Z'
+---
 https://github.com/tabler/tabler#readme
 
 > A premium and open source dashboard template with a responsive and high-quality UI.

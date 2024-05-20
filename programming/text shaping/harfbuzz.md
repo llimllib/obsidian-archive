@@ -1,3 +1,7 @@
+---
+updated: '2023-10-20T13:54:09Z'
+created: '2023-10-20T13:54:09Z'
+---
 Harfbuzz has some [convenient command-line utilities](https://harfbuzz.github.io/utilities.html) to expose its internals. Here, we'll ask it to tell us how it shapes a string with some ascii characters followed by unicode characters and an emoji, in a particular font (`UbuntuMono-Regular` in this case):
 
 ```

@@ -1,3 +1,7 @@
+---
+updated: '2023-10-20T13:54:09Z'
+created: '2023-10-20T13:54:09Z'
+---
 https://gist.github.com/mislav/bc3edabc2dbb861fd32e2e05eb2780dd
 
 > Install Windows 11 in a virtual machine on macOS with an M1 CPU

@@ -1,3 +1,7 @@
+---
+updated: '2024-03-14T15:10:06Z'
+created: '2024-03-13T15:50:41Z'
+---
 To print out a clickable hyperlink in a [terminal that supports] the [OSC8 escape code](https://gist.github.com/egmontkob/eb114294efbcd5adb1944c9f3cb5feda), using bash:
 
 ```bash

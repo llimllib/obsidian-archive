@@ -1,3 +1,7 @@
+---
+updated: '2023-10-20T13:54:09Z'
+created: '2023-10-20T13:54:09Z'
+---
 https://github.com/jvail/spl.js
 
 > SpatiaLite and friends - sqlite, geos, proj, rttopo - for node (sync API) and browser (async API).

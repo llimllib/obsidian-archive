@@ -1,3 +1,7 @@
+---
+updated: '2023-10-20T13:54:09Z'
+created: '2023-10-20T13:54:09Z'
+---
 https://dwheeler.com/essays/filenames-in-shell.html
 
 The summary:

@@ -1,3 +1,7 @@
+---
+updated: '2024-04-30T17:24:04Z'
+created: '2024-04-30T17:24:04Z'
+---
 https://github.com/borgo-lang/borgo
 
 > I want a language for writing applications that is more expressive than Go but less complex than Rust.

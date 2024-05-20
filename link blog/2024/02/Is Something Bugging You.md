@@ -1,3 +1,7 @@
+---
+updated: '2024-02-13T14:51:38Z'
+created: '2024-02-13T14:50:16Z'
+---
 https://antithesis.com/blog/is_something_bugging_you/
 
 > And here we were, trying to make a software system that would behave _perfectly_ and maintain its ACID guarantees in the face of all of this. How were we going to do that?

@@ -1,3 +1,7 @@
+---
+updated: '2023-10-20T13:54:09Z'
+created: '2023-10-20T13:54:09Z'
+---
 https://en.wikipedia.org/wiki/Jump_flooding_algorithm
 
 > The **jump flooding algorithm** (**JFA**) is a [flooding algorithm](https://en.wikipedia.org/wiki/Flooding_algorithm "Flooding algorithm") used in the construction of [Voronoi diagrams](https://en.wikipedia.org/wiki/Voronoi_diagram "Voronoi diagram") and [distance transforms](https://en.wikipedia.org/wiki/Distance_transform "Distance transform")

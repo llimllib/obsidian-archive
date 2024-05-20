@@ -1,3 +1,7 @@
+---
+updated: '2024-05-18T12:39:24Z'
+created: '2024-05-18T12:39:24Z'
+---
 https://v5.chriskrycho.com/essays/feeds-are-not-fit-for-gardening/
 
 Lots to think about in here that's relevant to this site.

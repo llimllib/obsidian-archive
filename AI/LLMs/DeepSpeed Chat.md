@@ -1,3 +1,7 @@
+---
+updated: '2023-10-20T13:54:09Z'
+created: '2023-10-20T13:54:09Z'
+---
 https://github.com/microsoft/DeepSpeed
 
 > DeepSpeed is a deep learning optimization library that makes distributed training and inference easy, efficient, and effective.

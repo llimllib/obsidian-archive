@@ -1,3 +1,7 @@
+---
+updated: '2023-10-20T15:26:51Z'
+created: '2023-10-20T13:54:09Z'
+---
 https://simonsapin.github.io/wtf-8/#motivation
 
 > Unpaired surrogate 16-bit code units are the only case where an arbitrary sequence of 16-bit code units is ill-formed in UTF-16. UTF-8, however, is more complex and maintaining its well-formedness is arguably more valuable.

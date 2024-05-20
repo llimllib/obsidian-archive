@@ -1,3 +1,7 @@
+---
+updated: '2023-10-20T13:54:09Z'
+created: '2023-10-20T13:54:09Z'
+---
 https://probablydance.com/2023/04/27/beautiful-branchless-binary-search/
 
 The author finds Shar's Algorithm from binary search, which is from TAOCP, and implements it in C++. Finds that it is sometimes faster than the standard library binary search, and does an excellent job benchmarking and explaining why it is or isn't in given scenarios.

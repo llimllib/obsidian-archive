@@ -1,3 +1,7 @@
+---
+updated: '2023-10-30T13:05:58Z'
+created: '2023-10-30T12:41:12Z'
+---
 To get file created (added to git) and modified (last updated) times from git, use `git log` with two format options:
 
 - `cI` is the created time, in ISO 8601 format

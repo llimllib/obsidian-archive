@@ -1,3 +1,7 @@
+---
+updated: '2023-10-20T13:54:09Z'
+created: '2023-10-20T13:54:09Z'
+---
 https://www.labnol.org/podcast/
 
 This tool has one job, and it does it very well.

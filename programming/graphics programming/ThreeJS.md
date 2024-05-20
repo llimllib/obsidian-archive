@@ -1,3 +1,7 @@
+---
+updated: '2024-04-23T12:01:22Z'
+created: '2023-10-20T13:54:09Z'
+---
 https://threejs.org/
 
 > [Three.js](https://threejs.org) is a 3D library that tries to make it as easy as possible to get 3D content on a webpage.

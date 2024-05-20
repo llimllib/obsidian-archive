@@ -1,3 +1,7 @@
+---
+updated: '2023-10-20T13:54:09Z'
+created: '2023-10-20T13:54:09Z'
+---
 https://www.snaplet.dev/post/postgresql-in-the-browser (more techy)
 https://supabase.com/blog/postgres-wasm (more general)
 

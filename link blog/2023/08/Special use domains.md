@@ -1,3 +1,7 @@
+---
+updated: '2023-10-20T13:54:09Z'
+created: '2023-10-20T13:54:09Z'
+---
 I knew that `example.com` was reserved as a domain for use in examples, but today I learned that `.example`, `.invalid`, `.local`, `.localhost`, `.onion`, and `.test` are reserved special-case TLDs
 
 > .example, .invalid, .local, .localhost, .onion, and .test are all "special use" domains.

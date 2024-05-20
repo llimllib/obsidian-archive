@@ -1,3 +1,7 @@
+---
+updated: '2024-03-07T17:45:11Z'
+created: '2024-03-07T17:45:11Z'
+---
 ```bash
 #!/usr/bin/env bash
 # To use this script, run:

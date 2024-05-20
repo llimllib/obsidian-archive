@@ -1,3 +1,7 @@
+---
+updated: '2023-10-20T13:54:09Z'
+created: '2023-10-20T13:54:09Z'
+---
 https://github.com/pyroscope-io/pyroscope
 
 > Pyroscope is an open source continuous profiling platform. It will help you:

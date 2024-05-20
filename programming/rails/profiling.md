@@ -1,3 +1,7 @@
+---
+updated: '2023-10-20T13:54:09Z'
+created: '2023-10-20T13:54:09Z'
+---
 To profile a section of ruby code usefully:  
 
 1.  create a directory named `prof`

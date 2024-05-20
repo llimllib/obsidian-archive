@@ -1,3 +1,7 @@
+---
+updated: '2023-10-20T13:54:09Z'
+created: '2023-10-20T13:54:09Z'
+---
 https://github.com/asg017/sqlite-lines
 
 > `sqlite-lines` is a SQLite extension for reading lines from a file or blob.

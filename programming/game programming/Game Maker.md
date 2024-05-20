@@ -1,3 +1,7 @@
+---
+updated: '2023-10-20T13:54:09Z'
+created: '2023-10-20T13:54:09Z'
+---
 https://gamemaker.io/en/gamemaker
 
 > The Ultimate 2D Game Development Environment

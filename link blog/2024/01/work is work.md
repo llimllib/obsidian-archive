@@ -1,3 +1,7 @@
+---
+updated: '2024-01-18T14:42:40Z'
+created: '2024-01-18T14:42:40Z'
+---
 https://codahale.com/work-is-work/
 
 was reminded of this post by [this tweet](https://nitter.net/apenwarr/status/1747068908929192432#m); I'd read it before but it was pre-linkblog. One of my all-time favorite articles on system/culture/business design.

@@ -1,3 +1,7 @@
+---
+updated: '2023-10-20T13:54:09Z'
+created: '2023-10-20T13:54:09Z'
+---
 https://momentjs.com/
 
 The old standard, now considered to have an outdated API and be quite large. Even the home page says:

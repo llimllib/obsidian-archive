@@ -1,3 +1,7 @@
+---
+updated: '2024-02-20T15:00:51Z'
+created: '2024-02-20T15:00:51Z'
+---
 https://danluu.com/simple-architectures/
 
 > for most kinds of applications, even at top-100 site levels of traffic, computers are fast enough that high-traffic apps can be served with simple architectures, which can generally be created more cheaply and easily than complex architectures.

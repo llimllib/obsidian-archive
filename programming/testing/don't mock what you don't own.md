@@ -1,3 +1,7 @@
+---
+updated: '2023-10-20T13:54:09Z'
+created: '2023-10-20T13:54:09Z'
+---
 https://hynek.me/articles/what-to-mock-in-5-mins/
 
 This article helped me understand the anti-mock viewpoint a bit; in fact it's not actually an anti-mock viewpoint at all, but rather an argument that you should raise the abstraction level to avoid spaghetti mocks.

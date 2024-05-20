@@ -1,3 +1,7 @@
+---
+updated: '2023-10-20T13:54:09Z'
+created: '2023-10-20T13:54:09Z'
+---
 
 I'm trying to package [whisper.cpp](https://github.com/ggerganov/whisper.cpp#blas-cpu-support-via-openblas) as a library for homebrew
 

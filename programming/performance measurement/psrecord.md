@@ -1,3 +1,7 @@
+---
+updated: '2024-02-13T19:13:03Z'
+created: '2024-02-13T19:13:03Z'
+---
 https://github.com/astrofrog/psrecord
 
 A simple tool that automates measuring the memory and CPU usage of a process.

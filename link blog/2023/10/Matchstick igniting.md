@@ -1,3 +1,7 @@
+---
+updated: '2023-10-20T13:54:09Z'
+created: '2023-10-20T13:54:09Z'
+---
 ![[2nd-2023_Bielfeldt_Ole_e30778_f21472.jpg]]
 "Matchstick igniting by the friction surface of the box" - [Ole Bielfeldt](https://www.nikonsmallworld.com/galleries/2023-photomicrography-competition/matchstick-igniting-by-the-friction-surface-of-the-box)
 

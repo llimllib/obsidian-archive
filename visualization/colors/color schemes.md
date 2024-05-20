@@ -1,3 +1,7 @@
+---
+updated: '2023-10-20T13:54:09Z'
+created: '2023-10-20T13:54:09Z'
+---
 - Article with an optimal 8-color palette for color blind people: https://www.nature.com/articles/nmeth.1618
 - ![[palette.png]]
 

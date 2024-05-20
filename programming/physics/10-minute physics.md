@@ -1,3 +1,7 @@
+---
+updated: '2023-10-20T13:54:09Z'
+created: '2023-10-20T13:54:09Z'
+---
 https://matthias-research.github.io/pages/tenMinutePhysics/index.html
 
 > This is the page accompanying my youtube channel [Ten Minute Phyics.](https://www.youtube.com/channel/UCTG_vrRdKYfrpqCv_WV4eyA) In short episodes of about ten minutes I explain the basic concepts of physically based simulation. Each time I write a little javascript demo that runs in any browswer.

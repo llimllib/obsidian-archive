@@ -1,3 +1,7 @@
+---
+updated: '2023-10-20T13:54:09Z'
+created: '2023-10-20T13:54:09Z'
+---
 https://projects.kemitchell.com/
 
 a series of legal explainers + projects. Some of them:

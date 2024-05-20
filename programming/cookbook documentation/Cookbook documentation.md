@@ -1,3 +1,7 @@
+---
+updated: '2024-01-01T18:32:03Z'
+created: '2024-01-01T18:06:58Z'
+---
 I believe that the humble cookbook is an underused form of documentation for programming languages and frameworks.
 
 ## bl.ocks.org

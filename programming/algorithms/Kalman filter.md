@@ -1,3 +1,7 @@
+---
+updated: '2023-10-20T13:54:09Z'
+created: '2023-10-20T13:54:09Z'
+---
 A series of three posts on the Kalman filter:
 
 1. Voiding the warranty: how the Kalman filter updates on data: https://jbconsulting.substack.com/p/voiding-the-warranty-how-the-kalman

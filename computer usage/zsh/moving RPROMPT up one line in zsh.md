@@ -1,3 +1,7 @@
+---
+updated: '2023-10-20T13:54:09Z'
+created: '2023-10-20T13:54:09Z'
+---
 I have a two-line prompt, and I wanted the right prompt to line up with the first line of the left prompt, not the second; this makes copying and pasting commands much easier. To do so was a bit tricky and required some googling:
 
 ```shell

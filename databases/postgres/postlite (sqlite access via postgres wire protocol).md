@@ -1,3 +1,7 @@
+---
+updated: '2023-10-20T13:54:09Z'
+created: '2023-10-20T13:54:09Z'
+---
 https://github.com/benbjohnson/postlite
 
 > Postlite is a network proxy to allow access to remote SQLite databases over the Postgres wire protocol. This allows GUI tools to be used on remote SQLite databases which can make administration easier.

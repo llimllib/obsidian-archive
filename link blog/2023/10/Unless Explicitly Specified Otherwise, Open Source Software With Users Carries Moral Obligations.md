@@ -1,3 +1,7 @@
+---
+updated: '2023-10-20T13:54:09Z'
+created: '2023-10-20T13:54:09Z'
+---
 https://matklad.github.io/2023/10/18/obligations.html#Unless-Explicitly-Specified-Otherwise-Open-Source-Software-With-Users-Carries-Moral-Obligations
 
 > So, if you, as an open-source maintainer, publish your software and gain users, you should ask yourself: “do I actually want to have users?”. It is totally fine if the answer is “no”! It is a safe default answer and what governs most of the git repositories out there.

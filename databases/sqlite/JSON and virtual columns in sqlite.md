@@ -1,3 +1,7 @@
+---
+updated: '2023-10-20T13:54:09Z'
+created: '2023-10-20T13:54:09Z'
+---
 https://antonz.org/json-virtual-columns/
 
 > So far, so good. But `json_extract()` parses the text on each call, so for hundreds of thousands of records the query is slow. What should you do?

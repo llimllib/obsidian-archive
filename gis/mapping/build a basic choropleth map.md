@@ -1,3 +1,7 @@
+---
+updated: '2023-10-20T13:54:09Z'
+created: '2023-10-20T13:54:09Z'
+---
 https://observablehq.com/@observablehq/build-your-first-choropleth-map-with-observable-plot
 
 Observable notebook demonstrating how to build a simple choropleth with observable.plot

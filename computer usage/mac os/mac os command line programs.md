@@ -1,3 +1,7 @@
+---
+updated: '2023-10-27T13:56:46Z'
+created: '2023-10-20T13:54:09Z'
+---
 https://saurabhs.org/advanced-macos-commands
 
 - `caffeinate` - set Mac sleep behavior

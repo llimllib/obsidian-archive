@@ -1,3 +1,7 @@
+---
+updated: '2023-10-20T13:54:09Z'
+created: '2023-10-20T13:54:09Z'
+---
 https://social.jvns.ca/@b0rk/110628907743101469
 https://social.jvns.ca/@b0rk/110628916255208525
 

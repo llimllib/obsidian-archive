@@ -1,3 +1,7 @@
+---
+updated: '2023-10-20T13:54:09Z'
+created: '2023-10-20T13:54:09Z'
+---
 - `torch.nn` contains the common neural network layers and components
 	- connected layers, convolutional layers, activation functions, and loss functions
 - we need to convert each sample from our data into something PyTorch can actually handle: tensors

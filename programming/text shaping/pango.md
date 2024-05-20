@@ -1,3 +1,7 @@
+---
+updated: '2023-10-20T13:54:09Z'
+created: '2023-10-20T13:54:09Z'
+---
 Using the fontconfig backend like so:
 
 `pango-view -t "κόσμε🔥🇯🇲" -o /tmp/test.png --font "Ubuntu 50" --backend=ft2`

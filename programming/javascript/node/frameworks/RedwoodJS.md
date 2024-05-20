@@ -1,3 +1,7 @@
+---
+updated: '2023-10-20T13:54:09Z'
+created: '2023-10-20T13:54:09Z'
+---
 https://redwoodjs.com/docs/introduction
 
 > Redwood is the full-stack web framework designed to help you grow from side project to startup. Redwood features an end-to-end development workflow that weaves together the best parts of React, GraphQL, Prisma, TypeScript, Jest, and Storybook. For full inspiration and vision, see Redwood's README.

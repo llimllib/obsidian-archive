@@ -1,3 +1,7 @@
+---
+updated: '2023-10-20T13:54:09Z'
+created: '2023-10-20T13:54:09Z'
+---
 https://plantuml.com/
 
 **PlantUML** is a component that allows you to quickly write:

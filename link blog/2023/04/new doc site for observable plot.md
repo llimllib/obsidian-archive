@@ -1,3 +1,7 @@
+---
+updated: '2023-10-20T13:54:09Z'
+created: '2023-10-20T13:54:09Z'
+---
 https://observablehq.com/plot/
 
 via [news.yc](https://news.ycombinator.com/item?id=35720940)

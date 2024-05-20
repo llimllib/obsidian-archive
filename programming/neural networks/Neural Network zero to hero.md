@@ -1,3 +1,7 @@
+---
+updated: '2023-10-20T13:54:09Z'
+created: '2023-10-20T13:54:09Z'
+---
 https://www.youtube.com/playlist?list=PLAqhIrjkxbuWI23v9cThsA9GvCAUhRvKZ
 
 A series of lectures from Andrej Karpathy building neural networks up from the ground up. Via [Michael Nielsen](https://twitter.com/michael_nielsen/status/1578499211342946305)

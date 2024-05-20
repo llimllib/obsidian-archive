@@ -1,3 +1,7 @@
+---
+updated: '2023-10-20T13:54:09Z'
+created: '2023-10-20T13:54:09Z'
+---
 https://github.com/acheronfail/repgrep
 
 > _An interactive replacer for `ripgrep`._

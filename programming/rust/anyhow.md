@@ -1,3 +1,7 @@
+---
+updated: '2023-10-30T11:50:44Z'
+created: '2023-10-30T11:50:44Z'
+---
 https://github.com/dtolnay/anyhow
 
 > This library provides [`anyhow::Error`](https://docs.rs/anyhow/1.0/anyhow/struct.Error.html), a trait object based error type for easy idiomatic error handling in Rust applications.

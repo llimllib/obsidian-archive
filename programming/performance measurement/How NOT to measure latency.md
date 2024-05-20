@@ -1,3 +1,7 @@
+---
+updated: '2023-10-20T13:54:09Z'
+created: '2023-10-20T13:54:09Z'
+---
 Superb talk from Strange Loop 2015:
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/lJ8ydIuPFeU?si=wseD3xbHcXt7hNaw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>

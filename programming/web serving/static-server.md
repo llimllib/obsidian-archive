@@ -1,3 +1,7 @@
+---
+updated: '2023-10-20T13:54:09Z'
+created: '2023-10-20T13:54:09Z'
+---
 https://eli.thegreenplace.net/2023/static-server-an-http-server-in-go-for-static-content/
 https://github.com/eliben/static-server
 

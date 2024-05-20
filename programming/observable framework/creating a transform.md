@@ -1,3 +1,7 @@
+---
+updated: '2024-03-02T13:18:55Z'
+created: '2024-03-02T13:18:55Z'
+---
 The [documentation](https://observablehq.com/plot/features/transforms#custom-transforms) is a little skimpy on this.
 - the [Plot.transform](https://observablehq.com/plot/features/transforms#transform) function
 - Fil's [loess transform](https://observablehq.com/@observablehq/plot-loess-168)

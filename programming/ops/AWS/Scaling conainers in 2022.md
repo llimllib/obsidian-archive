@@ -1,3 +1,7 @@
+---
+updated: '2023-10-20T13:54:09Z'
+created: '2023-10-20T13:54:09Z'
+---
 [Excellent article](https://www.vladionescu.me/posts/scaling-containers-on-aws-in-2022/) on the different methods for running a container on AWS, and how they scale.
 
 I'm honestly less interested in how they scale and more interested in how they perform/cost, which sadly this article doesn't get into, but it's very good anyway.

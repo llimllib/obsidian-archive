@@ -1,3 +1,7 @@
+---
+updated: '2023-10-20T13:54:09Z'
+created: '2023-10-20T13:54:09Z'
+---
 https://github.com/google/ko
 
 `ko` is a simple, fast container image builder for [[golang]] applications.

@@ -1,3 +1,7 @@
+---
+updated: '2023-10-20T13:54:09Z'
+created: '2023-10-20T13:54:09Z'
+---
 https://nullprogram.com/blog/2023/10/08/
 
 The typedefs make their C read a lot like zig.

@@ -1,3 +1,7 @@
+---
+updated: '2023-10-20T13:54:09Z'
+created: '2023-10-20T13:54:09Z'
+---
 https://github.com/samber/lo
 
 > ✨ samber/lo is a Lodash-style Go library based on Go 1.18+ Generics.

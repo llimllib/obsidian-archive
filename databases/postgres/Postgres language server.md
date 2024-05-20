@@ -1,3 +1,7 @@
+---
+updated: '2023-10-20T13:54:09Z'
+created: '2023-10-20T13:54:09Z'
+---
 https://github.com/supabase/postgres_lsp
 
 > A Language Server for Postgres. Not SQL with flavors, just Postgres.

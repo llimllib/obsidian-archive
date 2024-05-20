@@ -1,3 +1,7 @@
+---
+updated: '2024-03-18T15:48:49Z'
+created: '2024-03-18T15:48:49Z'
+---
 https://joyeecheung.github.io/blog/2024/03/18/require-esm-in-node-js/
 
 > Recently I landed experimental [support for `require()`-ing synchronous ES modules in Node.js](https://github.com/nodejs/node/pull/51977), a feature that has been long overdue. In the pull request, [I commented](https://github.com/nodejs/node/pull/51977#issuecomment-1994837735) with my understanding about why it did not happen sooner before this pull request in 2024. This post expands on that comment a bit more.

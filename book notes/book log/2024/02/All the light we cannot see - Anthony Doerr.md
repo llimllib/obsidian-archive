@@ -1,3 +1,7 @@
+---
+updated: '2024-02-16T03:01:38Z'
+created: '2024-02-16T03:01:38Z'
+---
 ![[x400.jpg]]
 
 I had a long flight coming up, and I knew I was going to finish [[Perdido Street Station - China Miéville]], so I bought the only decent-looking book in an airport newsstand: "All the light we cannot see", by Anthony Doerr. 

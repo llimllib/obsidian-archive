@@ -1,3 +1,7 @@
+---
+updated: '2023-10-28T15:37:49Z'
+created: '2023-10-28T15:37:49Z'
+---
 https://www.usebruno.com/
 
 > Bruno is a new and innovative open source API client, aimed at revolutionizing the status quo represented by Postman, Insomnia and similar tools out there.  

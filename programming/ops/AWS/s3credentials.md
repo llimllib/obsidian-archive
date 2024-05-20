@@ -1,3 +1,7 @@
+---
+updated: '2023-10-20T13:54:09Z'
+created: '2023-10-20T13:54:09Z'
+---
 https://github.com/simonw/s3-credentials
 
 tool from Simon Willison for creating appropriate s3 bucket credentials

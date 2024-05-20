@@ -1,3 +1,7 @@
+---
+updated: '2023-10-20T13:54:09Z'
+created: '2023-10-20T13:54:09Z'
+---
 https://driftingin.space/posts/plane
 
 I mostly like this for the architectural idea, of having a process per document or user instead of using a "normal" web architecture of a stateless server handling many requests with the same process pool.

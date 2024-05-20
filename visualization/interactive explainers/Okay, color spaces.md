@@ -1,3 +1,7 @@
+---
+updated: '2024-02-21T15:43:40Z'
+created: '2024-02-21T15:43:40Z'
+---
 https://ericportis.com/posts/2024/okay-color-spaces/
 
 Lovely 3d interactive visualizations of color spaces, in this case with a responsive 2d slice of the color space displayed beside it

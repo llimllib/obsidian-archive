@@ -1,3 +1,7 @@
+---
+updated: '2023-10-20T13:54:09Z'
+created: '2023-10-20T13:54:09Z'
+---
 https://github.com/trekhleb/javascript-algorithms
 
 > This repository contains JavaScript based examples of many popular algorithms and data structures.

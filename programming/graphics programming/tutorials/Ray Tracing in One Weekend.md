@@ -1,3 +1,7 @@
+---
+updated: '2023-10-20T13:54:09Z'
+created: '2023-10-20T13:54:09Z'
+---
 https://github.com/RayTracing/raytracing.github.io
 
 The _Ray Tracing in One Weekend_ series of books are now available to the public for free directly from the web:

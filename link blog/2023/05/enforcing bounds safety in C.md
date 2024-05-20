@@ -1,3 +1,7 @@
+---
+updated: '2023-10-20T13:54:09Z'
+created: '2023-10-20T13:54:09Z'
+---
 RFC: https://discourse.llvm.org/t/rfc-enforcing-bounds-safety-in-c-fbounds-safety/70854
 
 > The `-fbounds-safety` extension offers bounds annotations that programmers can use to attach bounds to pointers. For example, programmers can add the `__counted_by(N)` annotation to parameter `ptr`, indicating that the pointer has `N` valid elements:

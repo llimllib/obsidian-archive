@@ -1,3 +1,7 @@
+---
+updated: '2024-03-19T18:02:08Z'
+created: '2024-03-19T18:02:08Z'
+---
 https://github.com/shenwei356/rush
 
 Alternative to gnu parallel written in [[go]]

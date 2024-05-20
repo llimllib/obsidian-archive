@@ -1,3 +1,7 @@
+---
+updated: '2024-03-06T15:15:07Z'
+created: '2024-03-06T15:15:07Z'
+---
 `vim -o index.js index.html`
 
 to open them vertically:

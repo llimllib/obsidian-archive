@@ -1,3 +1,7 @@
+---
+updated: '2023-10-20T13:54:09Z'
+created: '2023-10-20T13:54:09Z'
+---
 https://www.raylib.com
 
 > raylib is a simple and easy-to-use library to enjoy videogames programming

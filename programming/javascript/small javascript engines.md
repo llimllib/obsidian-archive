@@ -1,3 +1,7 @@
+---
+updated: '2023-10-20T13:54:09Z'
+created: '2023-10-20T13:54:09Z'
+---
 Salvatore Sanfilippo [asked on twitter](https://twitter.com/antirez/status/1569986950509088769) for recommendations for small javascript engines to embed in a program, and got a few:
 
 ## [duktape](https://duktape.org/)

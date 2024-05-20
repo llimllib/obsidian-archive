@@ -1,3 +1,7 @@
+---
+updated: '2023-10-20T13:54:09Z'
+created: '2023-10-20T13:54:09Z'
+---
 https://tinyclouds.org/rant
 
 > In the past year I think I have finally come to understand the ideals of Unix: file descriptors and processes orchestrated with C. It's a beautiful idea. This is not however what we interact with. The complexity was not contained. Instead I deal with DBus and /usr/lib and Boost and ioctls and SMF and signals and volatile variables and prototypal inheritance and `_C99_FEATURES_` and dpkg and autoconf.

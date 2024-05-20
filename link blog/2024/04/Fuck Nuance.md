@@ -1,3 +1,7 @@
+---
+updated: '2024-04-17T15:28:00Z'
+created: '2024-04-17T15:28:00Z'
+---
 > Nuance is not a virtue of good sociological theory. Sociologists typically use nuance as a term of praise. Almost without exception, when nuance is mentioned it is because someone is asking for more of it. I argue that, for the problems facing sociology at present, demanding more nuance typically obstructs the development of theory that is intellectually interesting, empirically generative, or practically successful...
 
 > I contend that \[adding nuance to a model] is typically a holding maneuver. It is what one does when faced with a question for which one does not yet have a compelling or interesting answer. Thinking up compelling or interesting ideas is difficult, so it is often easier to embrace complexity than to cut through it...

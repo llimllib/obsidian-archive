@@ -1,3 +1,7 @@
+---
+updated: '2024-01-02T21:02:11Z'
+created: '2024-01-02T20:56:12Z'
+---
 https://blog.greg.technology/2024/01/02/how-do-you-ocr-on-a-mac.html
 
 Guides you through using the `Shorcuts` app to create a command-line interface to Mac OS X's OCR engine, via `shortcuts run ocr-text -i <image file>`.

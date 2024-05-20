@@ -1,3 +1,7 @@
+---
+updated: '2024-03-25T18:08:44Z'
+created: '2024-03-25T18:08:08Z'
+---
 https://blog.nelhage.com/post/profilers-seeing-the-invisible/
 
 > Klein and Hoffman [discuss the ability](https://cmapspublic3.ihmc.us/rid=1G9NSY15K-N7MJMZ-LC5/SeeingTheInvisible.pdf) of experts to “see what is not there”: in addition to observing data and cues that are present in the environment, experts perceive **implications** of these cues, such as the absence of expected or “typical” information, the typicality or atypicality of observed data, and likely/possible past and future time trajectories of a system based on a point-in-time snapshot or limited duration of observation.

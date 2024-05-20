@@ -1,3 +1,7 @@
+---
+updated: '2024-01-18T14:55:53Z'
+created: '2024-01-18T14:55:53Z'
+---
 Still working my way through [500 songs](https://500songs.com) and got to the [first Elvis episode](https://500songs.com/podcast/episode-33-mystery-train-by-elvis-presley/). Up to this point in my life, I'd been pretty anti-Elvis - seeing him mostly as a whitener of black music.
 
 The series so far has made me somewhat more sympathetic to him, cutting him as more of a Led Zeppelin interpreting black music with his own soul, than a Pat Boone replicating songs for sale in white markets.

@@ -1,3 +1,7 @@
+---
+updated: '2023-10-20T13:54:09Z'
+created: '2023-10-20T13:54:09Z'
+---
 https://starttorun.info/peters-race-pacer/
 
 > **Peter’s (Race) Pacer** is a Garmin Connect IQ Data Field which resolves 2 issues for me when I’m running a race:

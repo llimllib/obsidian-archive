@@ -1,3 +1,7 @@
+---
+updated: '2023-10-20T13:54:09Z'
+created: '2023-10-20T13:54:09Z'
+---
 https://huggingface.co/Mitsua/mitsua-diffusion-one
 
 > Mitsua Diffusion One is a latent text-to-image diffusion model, which is a successor of [Mitsua Diffusion CC0](https://huggingface.co/Mitsua/mitsua-diffusion-cc0).

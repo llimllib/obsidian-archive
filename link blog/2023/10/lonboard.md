@@ -1,3 +1,7 @@
+---
+updated: '2023-10-27T13:56:46Z'
+created: '2023-10-27T13:56:46Z'
+---
 https://github.com/developmentseed/lonboard
 
 > Python library for extremely fast geospatial vector data visualization in Jupyter.

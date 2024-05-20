@@ -1,3 +1,7 @@
+---
+updated: '2023-10-20T13:54:09Z'
+created: '2023-10-20T13:54:09Z'
+---
 https://mitchellh.com/writing/building-large-technical-projects
 
 > My goal with the early sub-projects isn't to build a _finished sub-component_, it is to build a _good enough sub-component_ so I can move on to the next thing on the path to a _demo_. ✨

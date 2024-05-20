@@ -1,3 +1,7 @@
+---
+updated: '2024-03-30T12:22:53Z'
+created: '2024-03-30T12:22:53Z'
+---
 Yesterday [I tooted](https://hachyderm.io/@llimllib/112175519786842823):
 
 > I’m amazed at how few problems actually come from trusting every single person in the software distribution chain to not act maliciously

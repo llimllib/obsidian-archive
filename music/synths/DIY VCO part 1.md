@@ -1,3 +1,7 @@
+---
+updated: '2023-10-20T13:54:09Z'
+created: '2023-10-20T13:54:09Z'
+---
 https://www.youtube.com/watch?v=QBatvo8bCa4
 
 Lovely video from Moritz Klein on how to build a simple oscillator, and how electricity works.

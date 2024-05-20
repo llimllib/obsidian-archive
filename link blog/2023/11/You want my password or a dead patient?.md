@@ -1,3 +1,7 @@
+---
+updated: '2023-11-26T18:42:40Z'
+created: '2023-11-26T18:39:53Z'
+---
 https://ferd.ca/notes/paper-you-want-my-password-or-a-dead-patient.html via [this toot](https://elk.pwm.social/hachyderm.io/@neilmadden@infosec.exchange/111475577364772328) via [Greg Wilson](https://mastodon.social/@gvwilson)
 
 is a summary of [this superbly-titled paper](https://www.cs.dartmouth.edu/~sws/pubs/ksbk15-draft.pdf) by Koppel et al ([here it is on pubmed](https://pubmed.ncbi.nlm.nih.gov/25676976/)).

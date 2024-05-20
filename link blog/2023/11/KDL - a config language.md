@@ -1,3 +1,7 @@
+---
+updated: '2023-11-08T14:24:47Z'
+created: '2023-11-08T14:24:47Z'
+---
 https://kdl.dev/
 
 > There's a living specification, as well as various implementations. You can also check out the FAQ to answer all your burning questions!

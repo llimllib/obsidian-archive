@@ -1,3 +1,7 @@
+---
+updated: '2023-10-20T13:54:09Z'
+created: '2023-10-20T13:54:09Z'
+---
 - this chapter will explore three pretrained models and how to use them
 	- label an image
 	- generate an image

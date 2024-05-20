@@ -1,3 +1,7 @@
+---
+updated: '2024-03-19T13:53:48Z'
+created: '2024-03-19T13:53:48Z'
+---
 `brew install gs` to get it if you don't have it already, then:
 
 `gs -q -dNOPAUSE -dBATCH -sDEVICE=pdfwrite -sOutputFile=combined.pdf one.pdf two.pdf three.pdf [...]`

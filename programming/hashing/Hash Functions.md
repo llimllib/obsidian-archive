@@ -1,3 +1,7 @@
+---
+updated: '2023-10-20T13:54:09Z'
+created: '2023-10-20T13:54:09Z'
+---
 https://papa.bretmulvey.com/post/124027987928/hash-functions
 
 The best part of this article is the discussion of how one ought to test hash functions' ability to mix their inputs. Uses jenkins32 as an example.

@@ -1,3 +1,7 @@
+---
+updated: '2023-10-20T13:54:09Z'
+created: '2023-10-20T13:54:09Z'
+---
 https://personal.math.ubc.ca/~cass/courses/m309-01a/carmen/Mainpage.htm
 [toot thread](https://elk.pwm.social/hachyderm.io/@pikuma@mastodon.gamedev.place/111063626867567072)
 

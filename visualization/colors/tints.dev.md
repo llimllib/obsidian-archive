@@ -1,3 +1,7 @@
+---
+updated: '2024-02-02T15:04:14Z'
+created: '2024-02-02T15:04:14Z'
+---
 https://www.tints.dev/blue/3B82F6
 
 about: https://www.simeongriggs.dev/using-the-tailwind-css-palette-generator-and-api

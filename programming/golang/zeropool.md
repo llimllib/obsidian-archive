@@ -1,3 +1,7 @@
+---
+updated: '2023-10-20T13:54:09Z'
+created: '2023-10-20T13:54:09Z'
+---
 https://github.com/colega/zeropool
 
 > `zeropool` is a zero-allocation type-safe `sync.Pool`

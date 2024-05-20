@@ -1,3 +1,7 @@
+---
+updated: '2023-10-20T13:54:09Z'
+created: '2023-10-20T13:54:09Z'
+---
 https://github.com/tidwall/tg
 
 > TG is a geometry library for C that is small, fast, and easy to use. I designed it for programs that need real-time geospatial, such as geofencing, monitoring, and streaming analysis.

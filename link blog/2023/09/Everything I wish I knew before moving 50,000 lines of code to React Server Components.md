@@ -1,3 +1,7 @@
+---
+updated: '2023-10-20T13:54:09Z'
+created: '2023-10-20T13:54:09Z'
+---
 https://www.mux.com/blog/what-are-react-server-components
 
 Lots of good explanation of the process and the pains of moving an app to RSC.

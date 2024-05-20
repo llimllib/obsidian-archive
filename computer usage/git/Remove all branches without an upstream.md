@@ -1,3 +1,7 @@
+---
+updated: '2023-10-20T13:54:09Z'
+created: '2023-10-20T13:54:09Z'
+---
 Oftentimes I create branches or worktrees and they don't end up getting pushed to remote and I forget about them. Alternatively, they do get pushed and I forget to prune them. Here's how to list them, and optionally to remove them.
 
 ## List all branches whose upstream has been removed

@@ -1,3 +1,7 @@
+---
+updated: '2024-03-02T20:46:32Z'
+created: '2024-03-02T20:00:44Z'
+---
 From the [documentation of windowY](https://observablehq.com/plot/transforms/window#windowY):
 
 > windowY(_k_, _options_)

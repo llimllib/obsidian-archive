@@ -1,3 +1,7 @@
+---
+updated: '2023-10-20T13:54:09Z'
+created: '2023-10-20T13:54:09Z'
+---
 https://guicommits.com/how-to-log-in-python-like-a-pro/
 
 Using python logging is painful every time I try, this looks like a helpful guide

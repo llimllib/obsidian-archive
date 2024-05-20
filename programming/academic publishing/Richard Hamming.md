@@ -1,3 +1,7 @@
+---
+updated: '2023-10-20T13:54:09Z'
+created: '2023-10-20T13:54:09Z'
+---
 ## One Man's View of Computer Science (1969)
 
 ACM page trying to extort you to pay for it: https://dl.acm.org/doi/abs/10.1145/321495.321497

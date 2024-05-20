@@ -1,3 +1,7 @@
+---
+updated: '2024-04-20T19:36:01Z'
+created: '2024-04-20T19:36:01Z'
+---
 https://www.youtube.com/@ProfessorLeonard
 
 - [Prealgebra](https://www.youtube.com/watch?v=cC7n_ZyVUns&list=PL4C9296DF81B9EF13&pp=iAQB)

@@ -1,3 +1,7 @@
+---
+updated: '2023-10-20T13:54:09Z'
+created: '2023-10-20T13:54:09Z'
+---
 https://macwright.com/2023/08/29/an-open-core.html
 
 The whole thing is worth reading, but this is the most important bit to me:

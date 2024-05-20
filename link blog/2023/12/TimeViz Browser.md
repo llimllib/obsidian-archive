@@ -1,3 +1,7 @@
+---
+updated: '2023-12-27T16:42:42Z'
+created: '2023-12-27T16:42:42Z'
+---
 https://browser.timeviz.net/
 
 > _A Visual Survey of Visualization Techniques for Time-Oriented Data_

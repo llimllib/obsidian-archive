@@ -1,3 +1,7 @@
+---
+updated: '2024-01-20T16:05:11Z'
+created: '2024-01-20T16:05:11Z'
+---
 https://github.com/google/go-cmdtest
 
 > The cmdtest package simplifies testing of command-line interfaces. It provides a simple, cross-platform, shell-like language to express command execution. It can compare actual output with the expected output, and can also update a file with new "golden" output that is deemed correct.

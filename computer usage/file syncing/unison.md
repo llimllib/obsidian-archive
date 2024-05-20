@@ -1,3 +1,7 @@
+---
+updated: '2023-10-20T15:26:51Z'
+created: '2023-10-20T15:26:51Z'
+---
 https://github.com/bcpierce00/unison
 
 The only two-way file synchronizer that I know of. I used it successfully in the past... but I forget where.

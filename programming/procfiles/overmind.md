@@ -1,3 +1,7 @@
+---
+updated: '2023-10-20T13:54:09Z'
+created: '2023-10-20T13:54:09Z'
+---
 https://github.com/DarthSim/overmind
 
 > Overmind is a process manager for Procfile-based applications and [tmux](https://tmux.github.io/). With Overmind, you can easily run several processes from your `Procfile` in a single terminal.

@@ -1,3 +1,7 @@
+---
+updated: '2023-10-20T15:26:51Z'
+created: '2023-10-20T15:26:51Z'
+---
 https://eli.thegreenplace.net/2023/introduction-to-cors-for-go-programmers/
 
 Eli with a thorough and excellent introduction to CORS. Even if you're not a go programmer, I think you'll get a more thorough understanding of CORS from reading this.

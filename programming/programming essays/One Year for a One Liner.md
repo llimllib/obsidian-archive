@@ -1,3 +1,7 @@
+---
+updated: '2023-10-20T13:54:09Z'
+created: '2023-10-20T13:54:09Z'
+---
 https://blog.ceejbot.com/posts/one-year-for-one-liner/
 
 By Ceej Silverio

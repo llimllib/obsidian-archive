@@ -1,3 +1,7 @@
+---
+updated: '2024-04-30T15:48:52Z'
+created: '2024-04-30T15:48:52Z'
+---
 > Our most striking result is that **agent architectures for HumanEval do not outperform our simpler baselines despite costing more**. In fact, agents differ drastically in terms of cost: for substantially similar accuracy, the cost can differ by almost two orders of magnitude! Yet, the cost of running these agents isn't a top-line metric reported in any of these papers.
 
 ![[Pasted image 20240430114727.png]]

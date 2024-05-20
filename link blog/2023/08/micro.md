@@ -1,3 +1,7 @@
+---
+updated: '2023-10-20T13:54:09Z'
+created: '2023-10-20T13:54:09Z'
+---
 https://github.com/zyedidia/micro
 
 A text editor that's trying to be a spiritual successor to `nano` but with some modern terminal features (and a plugin system!). Looks neat, works great on my computer.

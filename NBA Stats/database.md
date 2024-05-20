@@ -1,3 +1,7 @@
+---
+updated: '2023-10-20T13:54:09Z'
+created: '2023-10-20T13:54:09Z'
+---
 I made a build using SQLite, but it was too painful to use - the lack of quantile queries for example was painful. I solved it with a horrible query, but it was just too much.
 
 It's very unfortunate that [sql.js](https://github.com/sql-js/sql.js/), a very useful and neat project, [does not support custom aggregation functions](https://github.com/sql-js/sql.js/issues/204)

@@ -1,3 +1,7 @@
+---
+updated: '2023-10-20T13:54:09Z'
+created: '2023-10-20T13:54:09Z'
+---
 https://fabiensanglard.net/st/index.html
 
 > I was curious to explore how long a program takes to run, how much memory is used over time, and what processes/threads are spawned. To provide answers I wrote a tool, which I named st. Here are a few things I looked into.

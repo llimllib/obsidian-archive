@@ -1,3 +1,7 @@
+---
+updated: '2023-10-30T18:18:49Z'
+created: '2023-10-30T18:18:49Z'
+---
 https://en.wikipedia.org/wiki/Herbert_Stein#Stein's_Law
 
 > If something cannot go on forever, it will stop.

@@ -1,3 +1,7 @@
+---
+updated: '2023-10-20T13:54:09Z'
+created: '2023-10-20T13:54:09Z'
+---
 https://thelig.ht/ui-apps-are-broken/
 
 > Once I realized that I had to additionally take real-time constraints into account while building, it drove a lot of the engineering decisions I made in a specific direction. In particular, the worst case time of every sequence of code must be accounted for, the average-case time was irrelevant for correctness...

@@ -1,3 +1,7 @@
+---
+updated: '2024-01-11T15:48:12Z'
+created: '2024-01-11T15:48:12Z'
+---
 https://github.com/kndndrj/nvim-dbee
 
 > Interactive database client for neovim

@@ -1,3 +1,7 @@
+---
+updated: '2023-10-20T13:54:09Z'
+created: '2023-10-20T13:54:09Z'
+---
 https://eli.thegreenplace.net/2023/demystifying-tuppers-formula/
 
 Eli walks through how Tupper's formula works, which allows you to graph any pixel image by manipulating the Y value of the graph.

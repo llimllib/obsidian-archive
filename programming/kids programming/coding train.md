@@ -1,3 +1,7 @@
+---
+updated: '2023-10-20T13:54:09Z'
+created: '2023-10-20T13:54:09Z'
+---
 https://www.youtube.com/@TheCodingTrain
 
 recommended series of programming videos with a guy who develops p5.js programs, might be fun to introduce with the kids

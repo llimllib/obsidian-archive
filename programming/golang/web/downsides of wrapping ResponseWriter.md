@@ -1,3 +1,7 @@
+---
+updated: '2023-10-20T13:54:09Z'
+created: '2023-10-20T13:54:09Z'
+---
 https://www.reddit.com/r/golang/comments/6fl86p/wrapping_httpresponsewriter_for_middleware/dikqpag/
 
 > tl;dr: ResponseWriter's optional interfaces spoil the fun, when you try to compose it in this (or any) way.

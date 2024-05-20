@@ -1,3 +1,7 @@
+---
+updated: '2023-10-20T13:54:09Z'
+created: '2023-10-20T13:54:09Z'
+---
 `zig init-exe` is a handy shortcut I didn't know about for creating a tiny zig app skeleton
 
 Here's a hello world that builds part of the skeleton in 4.1.0:

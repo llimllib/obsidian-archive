@@ -1,3 +1,7 @@
+---
+updated: '2023-10-20T13:54:09Z'
+created: '2023-10-20T13:54:09Z'
+---
 https://github.com/johnkerl/miller
 
 Aims to be a tool similar to xsv/jq/csvkit, but for CSV, TSV, and JSON

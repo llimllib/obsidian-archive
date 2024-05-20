@@ -1,3 +1,7 @@
+---
+updated: '2023-10-20T13:54:09Z'
+created: '2023-10-20T13:54:09Z'
+---
 https://pair.withgoogle.com/explorables/grokking/
 
 An [[Interactive explainer]] for the concept of `grokking` in neural networks. I like how it uses interactive tags to trigger animations:

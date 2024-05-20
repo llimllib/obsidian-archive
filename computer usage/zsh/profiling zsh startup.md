@@ -1,3 +1,7 @@
+---
+updated: '2024-01-24T16:23:41Z'
+created: '2024-01-24T16:23:41Z'
+---
 https://www.bigbinary.com/blog/zsh-profiling
 
 Inspired by [Larry Tratt](https://tratt.net/laurie/blog/2024/faster_shell_startup_with_shell_switching.html) linking to [Thorsten Ball](https://registerspill.thorstenball.com/p/how-fast-is-your-shell), I took a quick look at shell startup time this morning.

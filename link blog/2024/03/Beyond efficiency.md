@@ -1,3 +1,7 @@
+---
+updated: '2024-03-04T14:54:48Z'
+created: '2024-03-04T14:54:48Z'
+---
 https://www.cs.unm.edu/~ackley/be-201301131528.pdf
 alt: https://cacm.acm.org/opinion/beyond-efficiency/
 

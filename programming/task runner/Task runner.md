@@ -1,3 +1,7 @@
+---
+updated: '2023-10-20T13:54:09Z'
+created: '2023-10-20T13:54:09Z'
+---
 I usually use makefiles.
 
 [just](https://lib.rs/crates/just) is interesting, it takes makefile syntax(ish) and has better errors and helpful command output. Supports dependencies between jobs

@@ -1,3 +1,7 @@
+---
+updated: '2023-10-20T13:54:09Z'
+created: '2023-10-20T13:54:09Z'
+---
 https://www.youtube.com/watch?v=f4s1h2YETNY
 
 Walks you rapidly through creating a 2d shader toy, introducing each step along the way.

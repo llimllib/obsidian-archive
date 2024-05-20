@@ -1,3 +1,7 @@
+---
+updated: '2024-03-29T13:37:26Z'
+created: '2024-03-29T13:37:26Z'
+---
 https://medium.com/@jayphelps/backpressure-explained-the-flow-of-data-through-software-2350b3e77ce7
 
 Nice quick overview of what backpressure is and some simple ways to manage it.

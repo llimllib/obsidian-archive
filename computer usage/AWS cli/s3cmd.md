@@ -1,3 +1,7 @@
+---
+updated: '2024-04-11T17:53:25Z'
+created: '2024-04-11T17:53:25Z'
+---
 https://s3tools.org/s3cmd
 
 > Amazon S3 is a reasonably priced data storage service. Ideal for off-site file backups, file archiving, web hosting and other data storage needs. It is generally more reliable than your regular web hosting for storing your files and images. Check out [about Amazon S3](https://s3tools.org/s3_about) to find out more.

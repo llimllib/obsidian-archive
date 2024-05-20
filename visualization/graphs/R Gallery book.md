@@ -1,3 +1,7 @@
+---
+updated: '2023-10-20T13:54:09Z'
+created: '2023-10-20T13:54:09Z'
+---
 https://bookdown.org/content/b298e479-b1ab-49fa-b83d-a57c2b034d49/
 
 > Welcome the R Gallery Book, a complete guide to the [R Graph Gallery](https://www.r-graph-gallery.com/) website. This information is taken directly from R graph gallery with careful detail in reproducing plots and completing ideas. This material created by [Kyle W. Brown](https://github.com/kyle-w-brown) as way to have one single reading collection of updated R gallery plots and graphs.

@@ -1,3 +1,7 @@
+---
+updated: '2023-10-20T13:54:09Z'
+created: '2023-10-20T13:54:09Z'
+---
 Nice article from Marianne Bellotti:
 
 > _How an obscure British mathematician became a tool for establishing computer science as a legitimate discipline._

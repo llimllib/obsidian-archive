@@ -1,3 +1,7 @@
+---
+updated: '2023-10-20T13:54:09Z'
+created: '2023-10-20T13:54:09Z'
+---
 > This program generates bitmaps that are locally similar to the input bitmap.
 
 [![main collage](https://github.com/mxgmn/WaveFunctionCollapse/raw/master/images/wfc.png)](https://github.com/mxgmn/WaveFunctionCollapse/blob/master/images/wfc.png)

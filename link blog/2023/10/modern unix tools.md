@@ -1,3 +1,7 @@
+---
+updated: '2023-10-20T13:54:09Z'
+created: '2023-10-20T13:54:09Z'
+---
 https://github.com/ibraheemdev/modern-unix
 
 > A collection of modern/faster/saner alternatives to common unix commands. 

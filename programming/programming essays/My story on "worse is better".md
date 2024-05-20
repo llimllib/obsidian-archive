@@ -1,3 +1,7 @@
+---
+updated: '2023-10-20T13:54:09Z'
+created: '2023-10-20T13:54:09Z'
+---
 https://www.sigbus.info/worse-is-better
 
 A nice essay about how converting lld (the llvm linker) from a nifty abstract design to a simpler concrete one made it faster and less complex.

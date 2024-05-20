@@ -1,3 +1,7 @@
+---
+updated: '2023-10-20T13:54:09Z'
+created: '2023-10-20T13:54:09Z'
+---
 I wrote [an article](https://billmill.org/sol_1136.html) about drawing a curve with offsets. Some references:
 
 [curve offsetting](https://pomax.github.io/bezierinfo/#offsetting)

@@ -1,3 +1,7 @@
+---
+updated: '2023-10-20T13:54:09Z'
+created: '2023-10-20T13:54:09Z'
+---
 Some notes on how I use [asdf](https://asdf-vm.com/) to install and manage programming language environments. I've been using it for a while now and I'm very happy with it - read their [getting started](https://asdf-vm.com/guide/getting-started.html) page to get it installed.
 
 Pairs well with [[direnv]] for managing project-specific environments.

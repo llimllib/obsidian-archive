@@ -1,3 +1,7 @@
+---
+updated: '2023-10-20T13:54:09Z'
+created: '2023-10-20T13:54:09Z'
+---
 Here's a command that will give you the most common three-letter word endings in `/usr/share/dict/words`:
 
 ```

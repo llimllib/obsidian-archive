@@ -1,3 +1,7 @@
+---
+updated: '2023-10-20T13:54:09Z'
+created: '2023-10-20T13:54:09Z'
+---
 The classic one, by the go devs: https://go.dev/play/
 
 goplay.space, which has some QoL improvements but is still pretty bare bones: https://goplay.space/

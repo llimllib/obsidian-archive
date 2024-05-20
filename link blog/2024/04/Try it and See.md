@@ -1,3 +1,7 @@
+---
+updated: '2024-04-20T19:09:08Z'
+created: '2024-04-20T19:09:08Z'
+---
 https://blog.plover.com/misc/try-it-and-see.html
 
 > A person can accomplish a lot with a few minutes of uninterrupted silent thinking, perhaps more than they imagine, and certainly a lot more than if they don't try.

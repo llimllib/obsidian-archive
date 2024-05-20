@@ -1,3 +1,7 @@
+---
+updated: '2023-10-20T13:54:09Z'
+created: '2023-10-20T13:54:09Z'
+---
 https://paulstamatiou.com/craft/
 
 > That's where the challenge of building quality products starts to creep in. **The constant tension of shipping faster versus shipping better.** Falling into a cycle of "Ship, then iterate" is a trap. It ends up being more **_shiterate_**. Things happen and that "fast-follow" V1.1 release or V2.0 you had imagined probably won't. There's always a new shiny initiative, re-org or new leadership hire that throws a wrench into things and changes all plans. Don't rely on a future release to clean up today's mess.

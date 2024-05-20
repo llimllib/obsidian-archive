@@ -1,3 +1,7 @@
+---
+updated: '2023-10-20T13:54:09Z'
+created: '2023-10-20T13:54:09Z'
+---
 - [[sqlite3vfshttp]]
 - https://github.com/psanford/donutdb
 	- dynamodb as a backing store for sqlite via VFS. Very neat!

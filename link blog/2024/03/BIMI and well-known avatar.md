@@ -1,3 +1,7 @@
+---
+updated: '2024-03-18T14:36:30Z'
+created: '2024-03-18T14:36:30Z'
+---
 TIL that [there is a spec called BIMI](https://shkspr.mobi/blog/2022/08/dns-esoterica-bimi-svg-in-dns-txt-wtf/) that is supposed to allow you to pair a logo with your URL via DNS. Unfortunately it costs more than a thousand dollars to sign up and doesn't work that well, so nobody uses it.
 
 In semi-related news, Terence Eden [proposes](https://shkspr.mobi/blog/2024/03/well-known-avatar/) `.well-known/avatar`:

@@ -1,3 +1,7 @@
+---
+updated: '2023-10-20T13:54:09Z'
+created: '2023-10-20T13:54:09Z'
+---
 https://piku.github.io
 
 > The tiniest PaaS you've ever seen. Piku allows you to do `git push` deployments to your own servers.

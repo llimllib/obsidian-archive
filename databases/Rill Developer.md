@@ -1,3 +1,7 @@
+---
+updated: '2023-10-20T13:54:09Z'
+created: '2023-10-20T13:54:09Z'
+---
 https://github.com/rilldata/rill-developer
 
 > Rill Developer is a tool that makes it effortless to transform your datasets with SQL. It's not just a SQL GUI! Rill Developer follows a few guiding principles:

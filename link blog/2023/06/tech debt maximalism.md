@@ -1,3 +1,7 @@
+---
+updated: '2023-10-20T13:54:09Z'
+created: '2023-10-20T13:54:09Z'
+---
 https://apenwarr.ca/log/20230605
 
 The always-worth-reading apenwarr takes on the tech debt metaphor.

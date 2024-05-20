@@ -1,3 +1,7 @@
+---
+updated: '2023-10-20T13:54:09Z'
+created: '2023-10-20T13:54:09Z'
+---
 https://github.com/LazyVim/LazyVim
 
 Seems like a nice place to crib modern config from. For example, [here's their keymaps](https://github.com/LazyVim/LazyVim/blob/52b4213ab1344f4be5d6e8cd4513f339b6f9e442/lua/lazyvim/config/keymaps.lua) which can serve as a useful guide for moving keymaps over to lua.

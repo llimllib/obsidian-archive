@@ -1,3 +1,7 @@
+---
+updated: '2024-03-19T18:02:08Z'
+created: '2024-03-19T18:02:08Z'
+---
 https://github.com/pvolok/mprocs
 
 > _mprocs_ runs multiple commands in parallel and shows output of each command separately.

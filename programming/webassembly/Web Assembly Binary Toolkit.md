@@ -1,3 +1,7 @@
+---
+updated: '2023-10-20T13:54:09Z'
+created: '2023-10-20T13:54:09Z'
+---
 https://github.com/WebAssembly/wabt
 
 > WABT (we pronounce it "wabbit") is a suite of tools for WebAssembly, including:

@@ -1,3 +1,7 @@
+---
+updated: '2023-11-08T19:39:40Z'
+created: '2023-11-08T19:39:40Z'
+---
 https://publicdomainreview.org/collection/early-experiments-with-x-rays-1896/
 
 ![[edit-DP262479.jpg]]

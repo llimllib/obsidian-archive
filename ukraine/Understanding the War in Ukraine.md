@@ -1,3 +1,7 @@
+---
+updated: '2023-10-20T13:54:09Z'
+created: '2023-10-20T13:54:09Z'
+---
 Long post from a military history teacher, not a particular expert in Russian/Ukrainian affairs, but seems to be generally politically knowledgeable (caveat that I am unable to distinguish that with certainty).
 
 https://acoup.blog/2022/02/25/miscellanea-understanding-the-war-in-ukraine/

@@ -1,3 +1,7 @@
+---
+updated: '2023-10-20T13:54:09Z'
+created: '2023-10-20T13:54:09Z'
+---
 To make `asdf` roughly follow the XDG spec:
 
 - (I'm assuming that you want to use default XDG dirs, replace `~/.local/share` with `XDG_DATA` and `~/.local/config` with `XDG_CONFIG` as necessary if you don't)

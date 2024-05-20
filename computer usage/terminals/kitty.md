@@ -1,3 +1,7 @@
+---
+updated: '2024-03-16T01:22:40Z'
+created: '2023-10-20T13:54:09Z'
+---
 https://sw.kovidgoyal.net/kitty/
 
 > _The fast, feature-rich, GPU based terminal emulator_

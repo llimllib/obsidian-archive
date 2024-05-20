@@ -1,3 +1,7 @@
+---
+updated: '2023-11-13T14:13:46Z'
+created: '2023-11-13T14:13:46Z'
+---
 https://github.com/daybrush/moveable
 
 > Moveable is Draggable, Resizable, Scalable, Rotatable, Warpable, Pinchable, Groupable, Snappable

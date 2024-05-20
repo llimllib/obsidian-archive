@@ -1,3 +1,7 @@
+---
+updated: '2023-10-20T13:54:09Z'
+created: '2023-10-20T13:54:09Z'
+---
 https://github.com/geohot/tinygrad
 
 Library from George Hotz focused on creating the smallest possible useful deep learning library.

@@ -1,3 +1,7 @@
+---
+updated: '2023-10-20T13:54:09Z'
+created: '2023-10-20T13:54:09Z'
+---
 https://www.howtoskate.se/_files/ugd/e11bfe_b783631375f543248e271f440bcd45c5.pdf
 
 The 10k and 5k world record holder gives a detailed account of his training, including a training log.

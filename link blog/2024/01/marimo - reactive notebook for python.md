@@ -1,3 +1,7 @@
+---
+updated: '2024-01-12T21:04:42Z'
+created: '2024-01-12T21:04:42Z'
+---
 https://github.com/marimo-team/marimo
 
 > marimo is a reactive notebook for Python. It allows you to rapidly experiment with data and models, code with confidence in your notebook's correctness, and productionize notebooks as pipelines or interactive web apps.

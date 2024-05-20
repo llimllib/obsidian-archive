@@ -1,3 +1,7 @@
+---
+updated: '2024-02-28T02:32:19Z'
+created: '2024-02-28T02:32:19Z'
+---
 https://github.com/jdx/mise
 https://mise.jdx.dev
 

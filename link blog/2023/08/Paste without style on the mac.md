@@ -1,3 +1,7 @@
+---
+updated: '2023-10-20T13:54:09Z'
+created: '2023-10-20T13:54:09Z'
+---
 https://furbo.org/2015/03/30/paste-without-style/
 
 > make _Paste and Match Style_ the default for pasting by mapping the menu item to the ⌘V keyboard shortcut... 

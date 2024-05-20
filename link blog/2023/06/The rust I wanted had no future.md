@@ -1,3 +1,7 @@
+---
+updated: '2023-10-20T13:54:09Z'
+created: '2023-10-20T13:54:09Z'
+---
 Graydon Hoare [writes a long piece](https://graydon2.dreamwidth.org/307291.html) about the features in rust he wishes had turned out differently, and lays out why he's glad/thinks everyone should be glad that he's actually not the BDFL of rust.
 
 I think the post is interesting for a couple of reasons, even though I don't use rust:

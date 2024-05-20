@@ -1,3 +1,7 @@
+---
+updated: '2023-10-20T13:54:09Z'
+created: '2023-10-20T13:54:09Z'
+---
 https://simonwillison.net/2021/Aug/28/dynamic-github-repository-templates/
 
 Describes how to make template repositories that fill variables into themselves when they're cloned, using github actions.

@@ -1,3 +1,7 @@
+---
+updated: '2023-10-20T13:54:09Z'
+created: '2023-10-20T13:54:09Z'
+---
 https://github.com/supabase/supavisor
 
 > Supavisor is a scalable, cloud-native Postgres connection pooler. A Supavisor cluster is capable of proxying millions of Postgres end-client connections into a stateful pool of native Postgres database connections.

@@ -1,3 +1,7 @@
+---
+updated: '2023-10-20T13:54:09Z'
+created: '2023-10-20T13:54:09Z'
+---
 https://eli.thegreenplace.net/2023/rpc-based-plugins-in-go/
 
 > 1.  Each plugin is a separate Go binary, built using some code shared with the main application.

@@ -1,3 +1,7 @@
+---
+updated: '2023-10-20T13:54:09Z'
+created: '2023-10-20T13:54:09Z'
+---
 https://pytorch.org/blog/inside-the-matrix/
 https://bhosmer.github.io/mm/ref.html
 

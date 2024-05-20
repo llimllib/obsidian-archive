@@ -1,3 +1,7 @@
+---
+updated: '2023-10-20T13:54:09Z'
+created: '2023-10-20T13:54:09Z'
+---
 Golang really wants the json you parse to be of a known shape; but sometimes you get json of the form:
 
 ```json

@@ -1,3 +1,7 @@
+---
+updated: '2023-10-20T13:54:09Z'
+created: '2023-10-20T13:54:09Z'
+---
 > Welcome to Toyplot, the kid-sized plotting toolkit for Python with grownup-sized goals:
 
 > -   Develop beautiful interactive, animated plots that embrace the unique capabilities of electronic publishing and support reproducibility.

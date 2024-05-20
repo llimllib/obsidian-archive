@@ -1,3 +1,7 @@
+---
+updated: '2023-10-20T13:54:09Z'
+created: '2023-10-20T13:54:09Z'
+---
 http://dessinoprimaire.blogspot.com/2012/02/les-animaux-tels-quils-sont.html
 
 https://www.flickr.com/photos/taffeta/albums/72157618009562834

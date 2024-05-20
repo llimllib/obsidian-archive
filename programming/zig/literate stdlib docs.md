@@ -1,3 +1,7 @@
+---
+updated: '2023-10-28T15:37:49Z'
+created: '2023-10-28T15:37:49Z'
+---
 repo: http://ratfactor.com/repos/zstd-browse2/
 docs: http://ratfactor.com/zig/stdlib-browseable2/std.zig.html
 

@@ -1,3 +1,7 @@
+---
+updated: '2023-10-20T13:54:09Z'
+created: '2023-10-20T13:54:09Z'
+---
 https://tonsky.me/blog/unicode/
 ([google cache, the site was struggling at publish time](https://webcache.googleusercontent.com/search?q=cache:HMWRGGCSaVQJ:https://tonsky.me/blog/unicode/&cd=1&hl=en&ct=clnk&gl=us))
 

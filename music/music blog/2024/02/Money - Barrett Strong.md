@@ -1,3 +1,7 @@
+---
+updated: '2024-02-20T15:09:03Z'
+created: '2024-02-20T15:09:03Z'
+---
 Woke up this morning with this song stuck in my head.
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/0QMFMQF3HoSk5WvMyx8aMT?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>

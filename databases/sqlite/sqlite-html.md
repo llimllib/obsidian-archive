@@ -1,3 +1,7 @@
+---
+updated: '2023-10-20T13:54:09Z'
+created: '2023-10-20T13:54:09Z'
+---
 https://github.com/asg017/sqlite-html
 
 https://observablehq.com/@asg017/introducing-sqlite-html

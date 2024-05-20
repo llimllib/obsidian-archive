@@ -1,3 +1,7 @@
+---
+updated: '2023-10-20T13:54:09Z'
+created: '2023-10-20T13:54:09Z'
+---
 https://www.sqlite.org/cli.html#index_recommendations_sqlite_expert_
 
 SQLite has the `.expert` command which can help you decide on what indexes to use

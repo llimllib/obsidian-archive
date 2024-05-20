@@ -1,3 +1,7 @@
+---
+updated: '2024-03-31T02:23:57Z'
+created: '2024-01-02T02:43:11Z'
+---
 I love a lot of these. It's pretty wild that I took a long time going through the list of videos, and I'm sure that I missed some.
 
 In alphabetical order, with a 🎧 icon beside the show if I've loved it enough to go back to it intentionally multiple times:

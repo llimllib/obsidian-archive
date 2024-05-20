@@ -1,3 +1,7 @@
+---
+updated: '2024-02-13T15:05:33Z'
+created: '2024-02-13T15:05:33Z'
+---
 ![[perdido.jpg]]
 
 I bought this at the Strand last summer because a long time ago I read and loved [The City & The City](https://en.wikipedia.org/wiki/The_City_%26_the_City), and finally got around to finishing it.

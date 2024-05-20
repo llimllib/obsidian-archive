@@ -1,3 +1,7 @@
+---
+updated: '2023-10-20T13:54:09Z'
+created: '2023-10-20T13:54:09Z'
+---
 https://www.scientificamerican.com/article/a-number-system-invented-by-inuit-schoolchildren-will-make-its-silicon-valley-debut/
 
 > The Alaskan Inuit language, known as Iñupiaq, uses an oral counting system built around the human body. Quantities are first described in groups of five, 10, and 15 and then in sets of 20. The system “is really the count of your hands and the count of your toes,” says Nuluqutaaq Maggie Pollock, who taught with the Kaktovik numerals in Utqiagvik, a city 300 miles northwest of where the numerals were invented. For example, she says, _tallimat_—the Iñupiaq word for 5—comes from the word for arm: _taliq_. “In your one arm, you have _tallimat_ fingers,”

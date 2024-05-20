@@ -1,3 +1,7 @@
+---
+updated: '2023-12-16T20:13:03Z'
+created: '2023-12-16T20:13:03Z'
+---
 https://github.com/Mozilla-Ocho/llamafile
 
 > **llamafile lets you distribute and run LLMs with a single file. ([announcement blog post](https://hacks.mozilla.org/2023/11/introducing-llamafile/))**

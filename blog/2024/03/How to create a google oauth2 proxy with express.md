@@ -1,3 +1,7 @@
+---
+updated: '2024-03-11T18:58:45Z'
+created: '2024-03-11T14:43:53Z'
+---
 Recently at work I wanted to deploy an [[Observable Framework]] app that required users to be logged in to our google account.
 
 To do so, I decided to write the simplest possible oauth2 proxy using [express](https://expressjs.com/), [passport](https://github.com/jaredhanson/passport) and [[sqlite]]. Here's how I did it.

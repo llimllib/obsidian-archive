@@ -1,3 +1,7 @@
+---
+updated: '2023-12-31T18:51:27Z'
+created: '2023-12-31T18:51:27Z'
+---
 https://github.com/BurntSushi/ripgrep
 
 The best grep tool

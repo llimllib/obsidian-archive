@@ -1,3 +1,7 @@
+---
+updated: '2023-12-11T17:26:39Z'
+created: '2023-12-11T17:26:39Z'
+---
 https://github.com/valyala/quicktemplate
 
 > A fast, powerful, yet easy to use template engine for Go. Inspired by the [Mako templates](http://www.makotemplates.org/) philosophy.

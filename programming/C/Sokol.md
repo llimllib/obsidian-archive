@@ -1,3 +1,7 @@
+---
+updated: '2023-10-20T13:54:09Z'
+created: '2023-10-20T13:54:09Z'
+---
 https://github.com/floooh/sokol
 
 > Simple [STB-style](https://github.com/nothings/stb/blob/master/docs/stb_howto.txt) cross-platform libraries for C and C++, written in C.

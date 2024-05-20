@@ -1,3 +1,7 @@
+---
+updated: '2023-10-20T13:54:09Z'
+created: '2023-10-20T13:54:09Z'
+---
 https://cims.nyu.edu/~sbowman/eightthings.pdf
 
 1. LLMs predictably get more capable with increasing investment, even without targeted innovation.

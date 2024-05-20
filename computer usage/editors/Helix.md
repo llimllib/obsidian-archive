@@ -1,3 +1,7 @@
+---
+updated: '2024-03-13T11:07:24Z'
+created: '2023-10-20T13:54:09Z'
+---
 https://github.com/helix-editor/helix
 
 considering giving it a real try, it has a lot of features I like, and I especially like the idea of basically not configuring anything.

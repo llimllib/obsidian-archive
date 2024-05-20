@@ -1,3 +1,7 @@
+---
+updated: '2024-05-18T15:05:42Z'
+created: '2024-05-18T15:05:42Z'
+---
 https://www.cs.unc.edu/~dm/UNC/COMP258/LECTURES/Chaikins-Algorithm.pdf
 https://smarx.com/posts/2020/08/chaikin-curves-a-beautifully-simple-algorithm/
 

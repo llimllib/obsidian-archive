@@ -1,3 +1,7 @@
+---
+updated: '2023-10-20T13:54:09Z'
+created: '2023-10-20T13:54:09Z'
+---
 [https://rischmann.fr/blog/virtual-tables-with-zig-sqlite](https://rischmann.fr/blog/virtual-tables-with-zig-sqlite)
 
 > [Virtual tables](https://sqlite.org/vtab.html) let you expose almost anything as a SQL table: this is powerful because you can then use all the power of SQLite and SQL to exploit it. Ever wanted to join a CSV, a JSON file and a REST API? Virtual tables let you do that.

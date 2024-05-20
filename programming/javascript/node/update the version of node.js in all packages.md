@@ -1,3 +1,7 @@
+---
+updated: '2023-10-20T13:54:09Z'
+created: '2023-10-20T13:54:09Z'
+---
 Just a little bash loop I cooked up that I wanted to save so I remember it:
 
 ```bash

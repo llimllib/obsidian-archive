@@ -1,3 +1,7 @@
+---
+updated: '2023-10-20T13:54:09Z'
+created: '2023-10-20T13:54:09Z'
+---
 [Nice article  on building a SQL diff](https://github.com/tobymao/sqlglot/blob/main/posts/sql_diff.md)
 
 Mentions:

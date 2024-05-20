@@ -1,3 +1,7 @@
+---
+updated: '2023-10-20T13:54:09Z'
+created: '2023-10-20T13:54:09Z'
+---
 To enter inspect mode and see what's going on, hit option-cmd-I (on a mac)
 
 The theme source is (on my mac) located at: `~/Library/Mobile Documents/iCloud~md~obsidian/Documents/personal/.obsidian/themes`

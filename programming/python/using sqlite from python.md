@@ -1,3 +1,7 @@
+---
+updated: '2023-10-20T13:54:09Z'
+created: '2023-10-20T13:54:09Z'
+---
 https://rednafi.github.io/reflections/recipes-from-python-sqlite-docs.html
 
 > While going through the documentation of Python's [`sqlite3`](https://docs.python.org/3/library/sqlite3.html) module, I noticed that it's quite API-driven, where different parts of the module are explained in a prescriptive manner. I, however, learn better from examples, recipes, and narratives. Although a few good recipes already exist in the docs, I thought I'd also enlist some of the examples I tried out while grokking them.

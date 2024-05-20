@@ -1,3 +1,7 @@
+---
+updated: '2024-04-23T12:01:22Z'
+created: '2023-12-31T19:05:51Z'
+---
 https://github.com/thi-ng/umbrella/
 
 A monorepo that does lots of [[WebGL]] and visualization related stuff. Difficult to get my head around how to use it/ how to use part of it / what's in there

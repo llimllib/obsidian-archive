@@ -1,3 +1,7 @@
+---
+updated: '2024-03-19T18:02:08Z'
+created: '2024-03-19T18:02:08Z'
+---
 https://github.com/brentp/gargs
 
 > **gargs** is like **xargs** but it addresses the following limitations in xargs:

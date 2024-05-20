@@ -1,3 +1,7 @@
+---
+updated: '2023-10-20T13:54:09Z'
+created: '2023-10-20T13:54:09Z'
+---
 https://github.com/red-data-tools/YouPlot
 
 available with `brew install youplot` or `pip install youplot`. Here's the example from [[A bar graph in the terminal with gnuplot]], which looks much nicer than the gnuplot example:

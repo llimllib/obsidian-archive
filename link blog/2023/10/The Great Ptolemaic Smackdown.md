@@ -1,3 +1,7 @@
+---
+updated: '2023-10-20T13:54:09Z'
+created: '2023-10-20T13:54:09Z'
+---
 https://tofspot.blogspot.com/2013/10/the-great-ptolemaic-smackdown-table-of.html
 via [akkartik](https://merveilles.town/@akkartik/111174107575721585)
 

@@ -1,3 +1,7 @@
+---
+updated: '2023-10-20T13:54:09Z'
+created: '2023-10-20T13:54:09Z'
+---
 https://hachyderm.io/@danilo/110073192265555176
 
 > I would read an entire BOOK on the events that led Digg to absolutely nuke itself overnight, handing the news aggregation and niche community business to Reddit

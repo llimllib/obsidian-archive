@@ -1,3 +1,7 @@
+---
+updated: '2023-10-20T13:54:09Z'
+created: '2023-10-20T13:54:09Z'
+---
 https://e360.yale.edu/digest/idaho-beavers-stream-drought-fire
 
 > Beavers relocated to a remote Idaho valley have transformed the landscape into a lush wetland and a haven against fire and drought, satellite imagery shows...

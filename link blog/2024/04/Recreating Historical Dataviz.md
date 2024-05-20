@@ -1,3 +1,7 @@
+---
+updated: '2024-04-20T19:09:08Z'
+created: '2024-04-20T19:09:08Z'
+---
 https://nightingaledvs.com/recreating-historical-dataviz-three-tricks-i-learned-in-the-du-bois-data-visualization-challenge/
 
 three tricks:

@@ -1,3 +1,7 @@
+---
+updated: '2023-10-20T13:54:09Z'
+created: '2023-10-20T13:54:09Z'
+---
 https://github.com/AlecAivazis/survey
 
 > A golang library for building interactive and accessible prompts with full support for windows and posix terminals.

@@ -1,3 +1,7 @@
+---
+updated: '2023-10-20T13:54:09Z'
+created: '2023-10-20T13:54:09Z'
+---
 The best tool I know of for recording sessions is [asciinema](https://asciinema.org/).
 
 The CLI is downloadable with `brew install asciinema`

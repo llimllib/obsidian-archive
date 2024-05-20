@@ -1,3 +1,7 @@
+---
+updated: '2024-03-22T20:51:34Z'
+created: '2024-03-22T20:51:34Z'
+---
 https://github.com/nextapps-de/flexsearch
 
 > Web's fastest and most memory-flexible full-text search library with zero dependencies.

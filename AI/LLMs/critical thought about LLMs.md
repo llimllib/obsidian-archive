@@ -1,3 +1,7 @@
+---
+updated: '2023-10-20T13:54:09Z'
+created: '2023-10-20T13:54:09Z'
+---
 [Talking About Large Language Models](https://arxiv.org/pdf/2212.03551.pdf) - Murray Shanahan
 
 > this paper advocates the practice of repeatedly stepping back to remind ourselves of how LLMs, and the systems of which they form a part, ac- tually work. The hope is that increased scien- tific precision will encourage more philosophical nuance in the discourse around artificial intelli- gence, both within the field and in the public sphere.

@@ -1,3 +1,7 @@
+---
+updated: '2023-10-20T13:54:09Z'
+created: '2023-10-20T13:54:09Z'
+---
 `gh api -H "Accept: application/vnd.github.raw+text" repos/<organization>/<repo>/contents/<file path and name>`
 
 for example, to download [limbo's readme](https://github.com/llimllib/limbo/#readme):

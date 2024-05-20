@@ -1,3 +1,7 @@
+---
+updated: '2023-10-20T13:54:09Z'
+created: '2023-10-20T13:54:09Z'
+---
 [[Postgres]] has two types of text search, full text and trigram
 
 ## full text search

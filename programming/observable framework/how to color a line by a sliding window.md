@@ -1,3 +1,7 @@
+---
+updated: '2024-03-02T20:00:44Z'
+created: '2024-03-02T20:00:44Z'
+---
 In [this thread](https://talk.observablehq.com/t/how-to-stroke-a-line-with-a-sliding-window/83120), `@fil` explains to me how to use a null `z` channel to indicate to observable plot that the line in [this notebook](https://observablehq.com/d/0142cee508202014) ought to be colored by its position on the y axis.
 
 I actually hit the same issue I'd hit 6 months later with [[what arguments go where in plot.window]], though it was only part of the solution.

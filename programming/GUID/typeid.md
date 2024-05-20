@@ -1,3 +1,7 @@
+---
+updated: '2023-10-20T13:54:09Z'
+created: '2023-10-20T13:54:09Z'
+---
 https://github.com/jetpack-io/typeid
 
 > TypeIDs are a modern, type-safe extension of UUIDv7.

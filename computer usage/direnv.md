@@ -1,3 +1,7 @@
+---
+updated: '2023-10-20T13:54:09Z'
+created: '2023-10-20T13:54:09Z'
+---
 https://direnv.net/
 
 After you've installed direnv, any directory containing a `.envrc` file will be executed when you enter that directory in your shell. Pairs well with [[basic commands]] for managing programming language environments.

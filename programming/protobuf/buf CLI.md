@@ -1,3 +1,7 @@
+---
+updated: '2023-10-20T13:54:09Z'
+created: '2023-10-20T13:54:09Z'
+---
 https://github.com/bufbuild/buf
 
 > [Buf](https://buf.build)'s goal is to replace the current paradigm of API development, centered around REST/JSON, with a **schema-driven** paradigm. Defining APIs using an [IDL](https://en.wikipedia.org/wiki/Interface_description_language) provides numerous benefits over REST/JSON, and [Protobuf](https://developers.google.com/protocol-buffers) is by far the most stable and widely adopted IDL in the industry. We've chosen to build on this widely trusted foundation rather than creating a new IDL from scratch.

@@ -1,3 +1,7 @@
+---
+updated: '2023-10-20T13:54:09Z'
+created: '2023-10-20T13:54:09Z'
+---
 https://github.com/amoffat/sh looks like a nice library, similar to what I had started writing for pub so long ago
 
 https://plumbum.readthedocs.io/en/latest/ looks a bit more aggressive, trying to refit pipes into the python bitwise-or operator

@@ -1,3 +1,7 @@
+---
+updated: '2023-10-20T13:54:09Z'
+created: '2023-10-20T13:54:09Z'
+---
 https://docs.rs/templar/latest/templar/
 
 > Templar is both a Rust library and a CLI tool for working with templates. The usage and style is inspired by both Jinja2 and Ansible, though it is not intended to be a clone of either of these.

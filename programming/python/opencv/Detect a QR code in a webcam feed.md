@@ -1,3 +1,7 @@
+---
+updated: '2023-10-20T13:54:09Z'
+created: '2023-10-20T13:54:09Z'
+---
 Pieced together from a few tutorials on the web. Note that the webcam I was targeting is the second device on my system; you may need to change the argument to `VideoCapture` to get the proper feed on your computer.
 
 ```python

@@ -1,3 +1,7 @@
+---
+updated: '2024-04-20T17:18:15Z'
+created: '2024-04-20T16:46:42Z'
+---
 https://llimllib.github.io/ca/03/
 
 My kids inexplicably wanted to play the quick game of life I coded a year ago.

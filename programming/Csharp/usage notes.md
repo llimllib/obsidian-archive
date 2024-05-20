@@ -1,3 +1,7 @@
+---
+updated: '2023-10-20T13:54:09Z'
+created: '2023-10-20T13:54:09Z'
+---
 Create a hello world: `dotnet new console -o HelloWorld -f net7.0`
 
 Install the RestSharp package: `dotnet add package RestSharp`

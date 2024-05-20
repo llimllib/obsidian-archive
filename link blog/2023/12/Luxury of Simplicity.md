@@ -1,3 +1,7 @@
+---
+updated: '2023-12-31T19:05:51Z'
+created: '2023-12-31T19:05:51Z'
+---
 https://macwright.com/2023/12/31/luxury-of-simplicity.html
 
 > Writing a blog engine, with one customer, yourself, is the most luxuriously simple web application possible.

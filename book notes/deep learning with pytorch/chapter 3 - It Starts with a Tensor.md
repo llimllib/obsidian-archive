@@ -1,3 +1,7 @@
+---
+updated: '2023-10-20T13:54:09Z'
+created: '2023-10-20T13:54:09Z'
+---
 - "floating point numbers are the way a network deals with information"
 	- "In the context of deep learning, tensors refer to the generalization of vectors and matrices to an arbitrary number of dimensions,"
 	- unlike numpy arrays, torch tensors have the ability to run on GPUs, distribute operations to multiple computers, and track the graph of computations that created them

@@ -1,3 +1,7 @@
+---
+updated: '2023-12-22T20:04:14Z'
+created: '2023-12-22T20:04:14Z'
+---
 https://gavinhoward.com/2023/12/code-is-not-technical-debt/
 
 A response to [All code is technical debt](https://www.tokyodev.com/articles/all-code-is-technical-debt), arguing that code is an asset, though it may come with attached liabilities where:

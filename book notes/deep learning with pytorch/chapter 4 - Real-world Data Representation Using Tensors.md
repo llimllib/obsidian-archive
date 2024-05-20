@@ -1,3 +1,7 @@
+---
+updated: '2023-10-20T13:54:09Z'
+created: '2023-10-20T13:54:09Z'
+---
 ## working with images
 - [accompanying ipython notebook](https://github.com/llimllib/torchbook/blob/main/chap4/Working%20with%20images.ipynb)
 - `imageio` is a handy library for loading images into numpy arrays

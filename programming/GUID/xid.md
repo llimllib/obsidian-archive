@@ -1,3 +1,7 @@
+---
+updated: '2023-10-20T13:54:09Z'
+created: '2023-10-20T13:54:09Z'
+---
 [xid](https://github.com/rs/xid) provides a quality hash, based on MongoDB's object ID hash.
 
 > Features:

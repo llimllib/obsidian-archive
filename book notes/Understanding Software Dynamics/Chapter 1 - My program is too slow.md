@@ -1,3 +1,7 @@
+---
+updated: '2023-10-20T13:54:09Z'
+created: '2023-10-20T13:54:09Z'
+---
 Intro to Part 1:
 
 > Our overall goal is to understand the root causes of _variance_ in transaction latency - the apparently random unexpectedly long repsonse times in comlex software

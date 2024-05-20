@@ -1,3 +1,7 @@
+---
+updated: '2023-10-20T13:54:09Z'
+created: '2023-10-20T13:54:09Z'
+---
 https://datasette.io/
 
 > Datasette is a tool for exploring and publishing data. It helps people take data of any shape or size, analyze and explore it, and publish it as an interactive website and accompanying API.

@@ -1,3 +1,7 @@
+---
+updated: '2023-10-20T13:54:09Z'
+created: '2023-10-20T13:54:09Z'
+---
 My main idea is to possibly do a class at work on creating an emulator in javascript:
 
 - A talk on writing one in Rust

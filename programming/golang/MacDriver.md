@@ -1,3 +1,7 @@
+---
+updated: '2023-10-20T13:54:09Z'
+created: '2023-10-20T13:54:09Z'
+---
 https://github.com/progrium/macdriver
 
 > MacDriver is a toolkit for working with Apple/Mac APIs and frameworks in Go

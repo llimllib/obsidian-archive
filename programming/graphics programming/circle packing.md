@@ -1,3 +1,7 @@
+---
+updated: '2023-10-20T13:54:09Z'
+created: '2023-10-20T13:54:09Z'
+---
 https://gorillasun.de/blog/a-simple-solution-for-shape-packing-in-2d
 
 neat blog article, goes over how to do basic collision detection and create some circle packing sketches.

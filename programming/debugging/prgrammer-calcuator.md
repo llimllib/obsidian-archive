@@ -1,3 +1,7 @@
+---
+updated: '2023-10-20T13:54:09Z'
+created: '2023-10-20T13:54:09Z'
+---
 https://github.com/alt-romes/programmer-calculator
 
 The programmer calculator is a simple terminal tool designed to give maximum efficiency and flexibility to the programmer working with:

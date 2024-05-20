@@ -1,3 +1,7 @@
+---
+updated: '2024-05-19T20:48:23Z'
+created: '2023-10-20T13:54:09Z'
+---
 convert a movie to a gif: `ffmpeg -i some.mov some.gif`
 
 convert a movie to a gif, with an fps of 20, a width of 640 and a smaller palette: 

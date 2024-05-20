@@ -1,3 +1,7 @@
+---
+updated: '2023-10-20T13:54:09Z'
+created: '2023-10-20T13:54:09Z'
+---
 https://github.com/LAION-AI/Open-Assistant
 
 > Open Assistant is a project meant to give everyone access to a great chat based large language model...

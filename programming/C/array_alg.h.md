@@ -1,3 +1,7 @@
+---
+updated: '2023-10-20T13:54:09Z'
+created: '2023-10-20T13:54:09Z'
+---
 https://github.com/clibraries/array-algorithms
 
 > The C++ STL is one of the most complete and reusable algorithm libraries available. This single header file brings 80% of that functionality to C99 in a non-intrusive way. There are no new data structures. Just include the library and call functions on C arrays.

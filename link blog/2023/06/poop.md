@@ -1,3 +1,7 @@
+---
+updated: '2023-10-20T13:54:09Z'
+created: '2023-10-20T13:54:09Z'
+---
 https://github.com/andrewrk/poop
 
 `andrewrk` has written a new tool, a colorful and differently-featureful version of [hyperfine](https://github.com/sharkdp/hyperfine) ([[hyperfine]]), for doing command line performance analysis, with this interesting name 💩

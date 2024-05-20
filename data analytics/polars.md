@@ -1,3 +1,7 @@
+---
+updated: '2023-10-20T13:54:09Z'
+created: '2023-10-20T13:54:09Z'
+---
 [pola.rs](https://www.pola.rs/) looks super neat:
 
 > Lightning-fast DataFrame library for Rust and Python

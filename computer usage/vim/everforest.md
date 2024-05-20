@@ -1,3 +1,7 @@
+---
+updated: '2023-10-20T13:54:09Z'
+created: '2023-10-20T13:54:09Z'
+---
 trying out my first new color scheme in forever: https://github.com/sainnhe/everforest/
 
 with [[iterm2]] theme here: [https://github.com/icewind/everforest.iterm2](https://github.com/icewind/everforest.iterm2)

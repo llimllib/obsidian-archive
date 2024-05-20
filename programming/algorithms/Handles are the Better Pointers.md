@@ -1,3 +1,7 @@
+---
+updated: '2023-10-20T13:54:09Z'
+created: '2023-10-20T13:54:09Z'
+---
 https://floooh.github.io/2018/06/17/handles-vs-pointers.html
 
 Describes the pattern of programs with subsystems that give out integer handles, which represent indexes into internal arrays, rather than allowing allocations all over the place.

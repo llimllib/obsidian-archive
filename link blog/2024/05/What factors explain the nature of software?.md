@@ -1,3 +1,7 @@
+---
+updated: '2024-05-14T20:18:38Z'
+created: '2024-05-14T20:18:38Z'
+---
 > Are there deeper, more fundamental aspects of software that can help us think beyond surface-level matters? I’ve come to think that a triad of interacting factors best explains what software is and, by extension, why software is difficult:
 
 > - Software occupies a _liminal state_ between the constraints of the physical world and an anything-goes fantasy world. We frequently mistake the constraints that software faces.

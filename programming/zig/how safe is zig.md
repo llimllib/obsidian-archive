@@ -1,3 +1,7 @@
+---
+updated: '2023-10-20T13:54:09Z'
+created: '2023-10-20T13:54:09Z'
+---
 https://www.scattered-thoughts.net/writing/how-safe-is-zig/
 
 Very thorough and balanced article on the memory safety of zig, compared mainly to rust and C/C++

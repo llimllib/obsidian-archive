@@ -1,3 +1,7 @@
+---
+updated: '2023-10-20T13:54:09Z'
+created: '2023-10-20T13:54:09Z'
+---
 https://tigerbeetle.com/blog/a-friendly-abstraction-over-iouring-and-kqueue/
 
 >  Consider this tale of I/O and performance. We’ll start with blocking I/O, explore io_uring and kqueue, and take home an event loop very similar to some software you may find familiar. 

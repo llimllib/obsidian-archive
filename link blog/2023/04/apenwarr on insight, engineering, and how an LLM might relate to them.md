@@ -1,3 +1,7 @@
+---
+updated: '2023-10-20T13:54:09Z'
+created: '2023-10-20T13:54:09Z'
+---
 https://apenwarr.ca/log/20230415
 
 Particularly enjoyed this quote, remembered from an instructor:

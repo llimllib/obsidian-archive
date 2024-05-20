@@ -1,3 +1,7 @@
+---
+updated: '2023-10-20T13:54:09Z'
+created: '2023-10-20T13:54:09Z'
+---
 https://github.com/tigerbeetledb/tigerbeetle/blob/main/docs/TIGER_STYLE.md
 
 A very interesting document by the TigerBeetle db team laying out their style and axioms.

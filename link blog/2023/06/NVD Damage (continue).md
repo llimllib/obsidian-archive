@@ -1,3 +1,7 @@
+---
+updated: '2023-10-20T13:54:09Z'
+created: '2023-10-20T13:54:09Z'
+---
 Daniel Stenberg (author of `curl`) argues that NVD, who issue CVSS vulnerability strings and scores, has no bearing in reality
 
 > The person or team at NVD whose job it is to make up stuff for security vulnerabilities ranked this as **CRITICAL 9.8**. Almost as bad as it gets apparently. 10 is the max as you might recall.

@@ -1,3 +1,7 @@
+---
+updated: '2023-10-20T13:54:09Z'
+created: '2023-10-20T13:54:09Z'
+---
 https://go.dev/blog/gonew
 
 > When you start a new project in Go, you might begin by cloning an existing project. That way, you can start with something that already works, making incremental changes instead of starting from scratch.

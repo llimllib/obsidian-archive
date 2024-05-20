@@ -1,3 +1,7 @@
+---
+updated: '2024-04-02T02:28:49Z'
+created: '2024-04-02T02:22:12Z'
+---
 I realized the other day that I had never drawn a mandelbrot fractal before, and that seemed like something I ought to have done, so today I wrote a little [mandelbrot viewer](https://llimllib.github.io/mandelbrot/zoomable). Click and drag to zoom in on an area.
 
 ## The core function

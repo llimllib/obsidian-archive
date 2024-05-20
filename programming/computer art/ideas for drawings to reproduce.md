@@ -1,3 +1,7 @@
+---
+updated: '2023-10-20T13:54:09Z'
+created: '2023-10-20T13:54:09Z'
+---
 # Richard Paul Lohse
 
 [Richard Paul Lohse](https://www.designreviewed.com/artefacts/lohse-lesen-offizin-2002/) ![[Pasted image 20220729151054.png]]

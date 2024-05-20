@@ -1,3 +1,7 @@
+---
+updated: '2024-03-22T20:51:34Z'
+created: '2023-10-20T13:54:09Z'
+---
 https://pagefind.app/
 https://github.com/CloudCannon/pagefind/
 

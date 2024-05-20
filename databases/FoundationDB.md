@@ -1,3 +1,7 @@
+---
+updated: '2023-10-20T13:54:09Z'
+created: '2023-10-20T13:54:09Z'
+---
 [https://www.foundationdb.org](https://www.foundationdb.org/)
 
 -   **Multi-model data store.** FoundationDB is multi-model, meaning you can store many types data in a single database. All data is safely stored, distributed, and replicated in the Key-Value Store component.

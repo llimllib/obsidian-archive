@@ -1,3 +1,7 @@
+---
+updated: '2024-03-18T14:31:01Z'
+created: '2023-10-20T13:54:09Z'
+---
 ## print a table
 
 to print a table, [[neovim]] has a handy function `vim.inspect`. I used it to inspect a table of colors like so:

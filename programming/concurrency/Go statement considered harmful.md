@@ -1,3 +1,7 @@
+---
+updated: '2023-10-20T13:54:09Z'
+created: '2023-10-20T13:54:09Z'
+---
 https://vorpus.org/blog/notes-on-structured-concurrency-or-go-statement-considered-harmful/
 
 Argument from the creator of [trio](https://github.com/python-trio/trio) that the "go" statement (which from the article's perspective is the same as every other new thread primitive) can be improved by using an abstraction he calls a "nursery" which does not end until the called functions do.

@@ -1,3 +1,7 @@
+---
+updated: '2023-10-20T13:54:09Z'
+created: '2023-10-20T13:54:09Z'
+---
 https://github.com/rhashimoto/wa-sqlite
 
 > This is a WebAssembly build of SQLite with experimental support for writing SQLite virtual filesystems and virtual table modules completely in Javascript. This allows alternative browser storage options such as IndexedDB and File System Access. Applications can opt to use either a synchronous or asynchronous (using Asyncify) SQLite library build (an asynchronous build is required for asynchronous extensions).

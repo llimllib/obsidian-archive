@@ -1,3 +1,7 @@
+---
+updated: '2024-04-03T01:42:08Z'
+created: '2024-04-03T01:42:08Z'
+---
 > OK, and here I am, a human on this Earth; everything’s a little bit fucked right now, and yet I am compelled to make things. Why is that? Isn’t that strange? Why do I seem to need to?
 
 - Evan Stephens Hall

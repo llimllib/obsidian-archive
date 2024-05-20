@@ -1,3 +1,7 @@
+---
+updated: '2023-10-20T13:54:09Z'
+created: '2023-10-20T13:54:09Z'
+---
 https://observablehq.com/@mjbo/perceptually-uniform-color-models
 
 Nice article going through different perceptually uniform color models

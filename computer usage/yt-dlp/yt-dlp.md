@@ -1,3 +1,7 @@
+---
+updated: '2024-02-03T02:34:00Z'
+created: '2023-10-20T13:54:09Z'
+---
 	Using [yt-dlp](https://github.com/yt-dlp/yt-dlp) (install with `brew install`)
 
 ```console

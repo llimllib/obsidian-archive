@@ -1,3 +1,7 @@
+---
+updated: '2024-03-07T17:49:30Z'
+created: '2024-03-07T17:49:30Z'
+---
 ![[earthfromv2.jpg]]
 
 > The first published photo of Earth from space was released 77 years ago today (7 March 1947).

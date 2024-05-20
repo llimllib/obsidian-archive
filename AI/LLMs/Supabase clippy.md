@@ -1,3 +1,7 @@
+---
+updated: '2023-10-20T13:54:09Z'
+created: '2023-10-20T13:54:09Z'
+---
 https://supabase.com/blog/chatgpt-supabase-docs
 
 Supabase implemented a gpt-based search for their docs.

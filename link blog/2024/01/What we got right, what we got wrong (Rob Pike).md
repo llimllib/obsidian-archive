@@ -1,3 +1,7 @@
+---
+updated: '2024-01-08T14:32:03Z'
+created: '2024-01-08T14:24:40Z'
+---
 https://commandcenter.blogspot.com/2024/01/what-we-got-right-what-we-got-wrong.html
 
 I'd meant to get to watching this, and finally made the time this morning.

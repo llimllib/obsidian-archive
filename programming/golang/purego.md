@@ -1,3 +1,7 @@
+---
+updated: '2023-10-20T13:54:09Z'
+created: '2023-10-20T13:54:09Z'
+---
 https://github.com/ebitengine/purego
 
 > A library for calling C functions from Go without Cgo.

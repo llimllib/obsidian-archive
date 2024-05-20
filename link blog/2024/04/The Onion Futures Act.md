@@ -1,3 +1,7 @@
+---
+updated: '2024-04-24T17:56:10Z'
+created: '2024-04-24T17:56:10Z'
+---
 TIL that it is illegal to trade onion futures in the United States. The reason is that two traders cornered and destroyed the market for onions in 1955; [wiki tells the tale](https://en.wikipedia.org/wiki/Onion_Futures_Act):
 
 > In the fall of 1955, Siegel and Kosuga bought so many onions and onion futures that they controlled 98% of the available onions in Chicago. Millions of pounds (thousands of tonnes) of onions were shipped to Chicago to cover their purchases. By late 1955, they had stored 30 million pounds (14,000 t) of onions in Chicago. They soon changed course and convinced onion growers to begin purchasing their inventory by threatening to flood the market with onions if they did not. Siegel and Kosuga told the growers that they would hold the rest of their inventory in order to support the price of onions.

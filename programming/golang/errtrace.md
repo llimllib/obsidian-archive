@@ -1,3 +1,7 @@
+---
+updated: '2023-12-09T18:24:04Z'
+created: '2023-12-09T18:24:04Z'
+---
 https://github.com/bracesdev/errtrace
 
 > errtrace is an **experimental** package to trace an error's return path — the return trace — through a Go program.

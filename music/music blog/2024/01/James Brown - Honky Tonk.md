@@ -1,3 +1,7 @@
+---
+updated: '2024-01-24T14:44:26Z'
+created: '2024-01-24T14:44:26Z'
+---
 https://www.youtube.com/watch?v=vc1NRxE6yZY
 
 A cover of [Bill Doggett's honky tonk](https://www.youtube.com/watch?v=-fa2ZKzfIP0), the first instance of a riff you absolutely recognize as foundational to rock and roll.

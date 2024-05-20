@@ -1,3 +1,7 @@
+---
+updated: '2024-01-29T19:35:59Z'
+created: '2024-01-29T19:35:59Z'
+---
 I wrote a command that outputs data in tabular format, looking like this:
 
 ```

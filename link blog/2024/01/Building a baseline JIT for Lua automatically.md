@@ -1,3 +1,7 @@
+---
+updated: '2024-01-12T21:04:42Z'
+created: '2024-01-11T15:48:12Z'
+---
 https://sillycross.github.io/2023/05/12/2023-05-12/
 
 Good, thorough post that doesn't assume you know exactly what a baseline JIT even is; takes you through what one is and why you would want one before it goes to how they built it.

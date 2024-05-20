@@ -1,3 +1,7 @@
+---
+updated: '2023-10-20T13:54:09Z'
+created: '2023-10-20T13:54:09Z'
+---
 https://dev.to/tigt/the-weirdly-obscure-art-of-streamed-html-4gc2
 
 Part 2 of an excellent series on rebuilding an ecommerce website to be as fast as humanly possible (while accepting mostly normal constraints)

@@ -1,3 +1,7 @@
+---
+updated: '2024-03-25T15:04:28Z'
+created: '2024-03-25T15:04:28Z'
+---
 https://www.youtube.com/watch?v=YsdlcQoHqPY
 
 TJ Devries builds an LSP from scratch in go. I'm interested in the topic but basically unwilling to watch a video - I really wish there were a blog post along with it.

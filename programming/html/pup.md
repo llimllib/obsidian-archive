@@ -1,3 +1,7 @@
+---
+updated: '2023-10-20T13:54:09Z'
+created: '2023-10-20T13:54:09Z'
+---
 https://github.com/ericchiang/pup
 
 > pup is a command line tool for processing HTML. It reads from stdin, prints to stdout, and allows the user to filter parts of the page using [CSS selectors](https://developer.mozilla.org/en-US/docs/Web/Guide/CSS/Getting_started/Selectors).

@@ -1,3 +1,7 @@
+---
+updated: '2023-10-20T13:54:09Z'
+created: '2023-10-20T13:54:09Z'
+---
 you program the tidbyt with [[Starlark]]. Here's a bash script I use for displaying a gif image on mine:
 	- you'll need [pixlet](https://github.com/tidbyt/pixlet) and [[gifsicle]] installed
 

@@ -1,3 +1,7 @@
+---
+updated: '2024-03-10T02:36:07Z'
+created: '2024-03-10T02:36:07Z'
+---
 [limbo](https://github.com/llimllib/limbo) is my simple and flexible open source slackbot.
 
 This afternoon I updated all its package dependencies, got it running on python 3.12, and updated its version to from `8.6` to `9.1`. A full changelist ([diff on github](https://github.com/llimllib/limbo/compare/master%40%7B1day%7D...master)):

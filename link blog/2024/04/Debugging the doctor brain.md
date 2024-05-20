@@ -1,3 +1,7 @@
+---
+updated: '2024-04-20T19:20:42Z'
+created: '2024-04-20T19:20:42Z'
+---
 https://bessstillman.substack.com/p/debugging-the-doctor-brain
 
 This article's particularly special to me, as my wife is an ER physician who teaches Intro to Clinical Reasoning to medical students, and I'm a programmer, so very few articles have been written that are so close to what we talk about day to day.

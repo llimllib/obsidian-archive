@@ -1,3 +1,7 @@
+---
+updated: '2024-03-12T15:15:06Z'
+created: '2024-03-12T15:15:06Z'
+---
 https://ungoogled-software.github.io/
 
 > **ungoogled-chromium is Google Chromium**, sans dependency on Google web services. It also features some tweaks to enhance privacy, control, and transparency _(almost all of which require manual activation or enabling)_.

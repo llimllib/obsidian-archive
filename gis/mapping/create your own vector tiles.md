@@ -1,3 +1,7 @@
+---
+updated: '2024-02-26T15:30:45Z'
+created: '2023-10-20T13:54:09Z'
+---
 https://www.openstreetmap.org/user/rtnf/diary/400836
 
 Walks through creating a small [[PMTiles]] vector map using [josm](https://josm.openstreetmap.de) [tippecanoe](https://github.com/mapbox/tippecanoe) and [go-pmtiles](https://github.com/protomaps/go-pmtiles)

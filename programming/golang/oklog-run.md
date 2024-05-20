@@ -1,3 +1,7 @@
+---
+updated: '2023-10-20T13:54:09Z'
+created: '2023-10-20T13:54:09Z'
+---
 https://pkg.go.dev/github.com/oklog/run#section-readme
 
 > run.Group is a universal mechanism to manage goroutine lifecycles.

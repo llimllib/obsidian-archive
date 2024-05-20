@@ -1,3 +1,7 @@
+---
+updated: '2023-11-13T14:28:13Z'
+created: '2023-11-13T14:28:13Z'
+---
 https://github.com/electric-sql/electric
 
 https://electric-sql.com/docs/

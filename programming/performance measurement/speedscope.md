@@ -1,3 +1,7 @@
+---
+updated: '2023-10-20T13:54:09Z'
+created: '2023-10-20T13:54:09Z'
+---
 https://www.speedscope.app
 
 [[speeding up javascript one library at a time]] shows how you can use this tool to generate flamegraphs that represent total time instead of exactly when the calls occurred.

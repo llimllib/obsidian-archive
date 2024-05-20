@@ -1,3 +1,7 @@
+---
+updated: '2023-10-20T13:54:09Z'
+created: '2023-10-20T13:54:09Z'
+---
 If you're using the `osxkeychain` github credentials manager, here's a command to retrieve your github password from the command line:
 
 `security find-internet-password -w -s 'github.com'`

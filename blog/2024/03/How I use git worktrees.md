@@ -1,3 +1,7 @@
+---
+updated: '2024-03-05T22:24:05Z'
+created: '2024-03-05T22:03:41Z'
+---
 My favorite feature of git is one that not enough people know about: _worktrees_.
 
 Worktrees allow you to store branches of your repository in separate directories.

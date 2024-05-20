@@ -1,3 +1,7 @@
+---
+updated: '2024-01-24T15:08:57Z'
+created: '2023-10-20T13:54:09Z'
+---
 Lately, I've been browsing youtube and looking for good live concerts to watch. Some favorites:
 
 - [Sonny Rollins live in '65 and '68](https://www.youtube.com/watch?v=cneBpjwfxhg)

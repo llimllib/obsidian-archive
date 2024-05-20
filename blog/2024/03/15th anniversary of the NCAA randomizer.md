@@ -1,3 +1,7 @@
+---
+updated: '2024-03-18T13:47:57Z'
+created: '2024-03-18T02:08:08Z'
+---
 [15 years ago](https://billmill.org/ncaa_randomizer.html), I made a simple website that gives you a random NCAA bracket with win percentages weighted by [Ken Pomeroy's](https://kenpom.com/) college basketball ratings.
 
 Every season since (maybe minus a covid year?) I've continued the tradition, and this year is no different. I really enjoy keeping a piece of code alive that has a history this long.

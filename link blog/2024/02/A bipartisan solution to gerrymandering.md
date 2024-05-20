@@ -1,3 +1,7 @@
+---
+updated: '2024-02-02T14:28:23Z'
+created: '2024-02-02T14:28:23Z'
+---
 It's been well-known for a long time that the fairest way for two people who don't trust each other to share a cake is "I cut, you choose": the first person cuts the cake and the second chooses which part they want.
 
 We have a two-party system in the United States (as much as we might prefer otherwise), so why not apply it to political districts?

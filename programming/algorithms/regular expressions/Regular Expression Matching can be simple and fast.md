@@ -1,3 +1,7 @@
+---
+updated: '2023-10-20T13:54:09Z'
+created: '2023-10-20T13:54:09Z'
+---
 https://swtch.com/~rsc/regexp/regexp1.html
 
 part of a whole series of articles at https://swtch.com/~rsc/regexp/ including [this article](https://swtch.com/~rsc/regexp/regexp3.html) about RE2

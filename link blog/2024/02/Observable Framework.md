@@ -1,3 +1,7 @@
+---
+updated: '2024-02-15T18:58:35Z'
+created: '2024-02-15T18:58:35Z'
+---
 https://observablehq.com/blog/observable-2-0
 
 https://observablehq.com/framework/

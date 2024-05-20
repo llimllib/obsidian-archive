@@ -1,3 +1,7 @@
+---
+updated: '2023-10-20T13:54:09Z'
+created: '2023-10-20T13:54:09Z'
+---
 David Beazely [said on twitter](https://twitter.com/dabeaz/status/1579084732125827073) that it's not easy to make something like python's `[ '+', ['*', 'a', 'b'], ['*', 'c', ['+', 'd', 'e']], 'f']` in C++; I didn't think it was that hard, and I only know C, so I came up with some code.
 
 I'm a bit proud of it because I'm not a C coder - obviously it's 75 lines of code to replace 1, so it's not that great on that metric - and mostly I'm saving it here because it represents a bit of understanding I gained today and am likely to lose in a month.

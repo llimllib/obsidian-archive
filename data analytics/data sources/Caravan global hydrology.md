@@ -1,3 +1,7 @@
+---
+updated: '2023-10-20T13:54:09Z'
+created: '2023-10-20T13:54:09Z'
+---
 https://sigmoid.social/@kratzert/109857162032542355
 
 > I am happy to share that our paper "Caravan - A global community dataset for large-sample hydrology" is now officially published. You can find the paper at [nature.com/articles/s41597-023](https://www.nature.com/articles/s41597-023-01975-w#Sec8)

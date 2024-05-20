@@ -1,3 +1,7 @@
+---
+updated: '2023-10-20T13:54:09Z'
+created: '2023-10-20T13:54:09Z'
+---
 I'm interested in the creation of grid cartograms, where the areas are not equally-sized, that automatically minimize distance from their proper space on the map.
 
 i.e. this map, which I think was made by hand:

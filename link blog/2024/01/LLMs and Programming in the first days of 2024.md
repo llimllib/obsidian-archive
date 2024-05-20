@@ -1,3 +1,7 @@
+---
+updated: '2024-01-02T15:29:27Z'
+created: '2024-01-02T15:29:27Z'
+---
 http://antirez.com/news/140
 
 > Over time, we have witnessed an explosion of frameworks, programming languages, libraries of all kinds. An explosion of complexity often completely unnecessary and unjustified, but the truth is that things are what they are. And in such a context, an idiot who knows everything is a precious ally.

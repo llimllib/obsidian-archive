@@ -1,3 +1,7 @@
+---
+updated: '2023-10-20T13:54:09Z'
+created: '2023-10-20T13:54:09Z'
+---
 > ~2 years ago I became convinced that meticulously checking every heap allocation for failure would lead to robust GUI applications that don't fall apart under resource pressure. 
 > 
 > Fast-forward to today, we have made the SerenityOS codebase significantly uglier and less pleasant to work on as a direct result of pursuing this goal. 

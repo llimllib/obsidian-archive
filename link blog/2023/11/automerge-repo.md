@@ -1,3 +1,7 @@
+---
+updated: '2023-11-09T14:54:44Z'
+created: '2023-11-09T14:54:44Z'
+---
 https://automerge.org/blog/2023/11/06/automerge-repo/
 
 > A challenge in local-first software is how to merge edits that were made independently on different devices, and [CRDTs](https://crdt.tech/) were developed to solve this problem. Automerge is a fairly mature CRDT implementation. In fact, we wrote this blog post using it! The API is quite low-level though, and Automerge-Core has no opinion about how networking or storage should be done. Often, the first thing developers ask after discovering Automerge was how to connect it into an actual application.

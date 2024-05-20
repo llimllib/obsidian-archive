@@ -1,3 +1,7 @@
+---
+updated: '2023-10-20T13:54:09Z'
+created: '2023-10-20T13:54:09Z'
+---
 [dagger.io](https://dagger.io/) launched recently
 
 - uses Docker fundamentally, and created by the creators of Docker

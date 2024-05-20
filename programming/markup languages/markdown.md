@@ -1,3 +1,7 @@
+---
+updated: '2023-10-20T13:54:09Z'
+created: '2023-10-20T13:54:09Z'
+---
 https://www.markdownguide.org
 
 The informally-specified, underpowered but very popular markup language. What my fingers default to writing.

@@ -1,3 +1,7 @@
+---
+updated: '2024-04-03T02:51:19Z'
+created: '2024-03-17T14:46:44Z'
+---
 _update apr 2_: I accidentally deleted this article and now have re-posted it
 
 in [[What are the "worst" spelling bee pangrams?|part 1]], I introduced the spelling bee and the concept of the "worst" pangram, which I defined as the one which produced the fewest possible words. Then I wrote and described a program that found them, and labelled `equivoke` the Worst Pangram™.

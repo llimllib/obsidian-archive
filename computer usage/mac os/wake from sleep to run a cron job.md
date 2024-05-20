@@ -1,3 +1,7 @@
+---
+updated: '2023-10-20T13:54:09Z'
+created: '2023-10-20T13:54:09Z'
+---
 I was not understanding why my cron jobs weren't running on a server in the house, before I realized that the computer is asleep.
 
 Some googling reveals that `pmset` is probably the tool I want - it lets you schedule a time to wake the computer, so you can pair it with cron to wake the computer and then run a task.

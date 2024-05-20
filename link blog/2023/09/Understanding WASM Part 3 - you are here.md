@@ -1,3 +1,7 @@
+---
+updated: '2023-10-20T13:54:09Z'
+created: '2023-10-20T13:54:09Z'
+---
 https://www.neversaw.us/drafts/understanding-wasm-pt-3/
 
 A followup to the superb [[Understanding WASM]] part 2. Long and worth your time if you're at all interested in this stuff.

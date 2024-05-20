@@ -1,3 +1,7 @@
+---
+updated: '2023-10-20T13:54:09Z'
+created: '2023-10-20T13:54:09Z'
+---
 - Added esbuild and duckdb-wasm to package.json
 - created a dummy file duckdb.js:
 ```js

@@ -1,3 +1,7 @@
+---
+updated: '2024-03-06T02:06:46Z'
+created: '2024-03-02T20:46:32Z'
+---
 Simon [asks](https://til.simonwillison.net/javascript/jsr-esbuild) for the simplest way to package a deno package from [jsr](https://jsr.io/) for the browser. Here's what I did:
 
 ```bash

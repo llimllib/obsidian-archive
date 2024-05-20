@@ -1,3 +1,7 @@
+---
+updated: '2023-10-20T13:54:09Z'
+created: '2023-10-20T13:54:09Z'
+---
 https://roland50.studio/
 
 > Roland50 Studio is a major update of “808303.studio” online music creation platform created by Yuri Suzuki and Roland.

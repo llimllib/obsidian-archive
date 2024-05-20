@@ -1,3 +1,7 @@
+---
+updated: '2023-11-28T20:55:31Z'
+created: '2023-10-20T13:54:09Z'
+---
 https://github.com/jqlang/jq/releases/tag/jq-1.7
 
 > After a five year hiatus we're back with a GitHub organization, with new admins and new maintainers who have brought a great deal of energy to make a long-awaited and long-needed new release. 

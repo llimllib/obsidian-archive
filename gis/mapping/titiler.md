@@ -1,3 +1,7 @@
+---
+updated: '2023-10-20T13:54:09Z'
+created: '2023-10-20T13:54:09Z'
+---
 https://devseed.com/titiler/
 
 > `Titiler`, pronounced **tee-tiler** (_ti_ is the diminutive version of the french _petit_ which means small), is a set of python modules that focus on creating FastAPI application for dynamic tiling.

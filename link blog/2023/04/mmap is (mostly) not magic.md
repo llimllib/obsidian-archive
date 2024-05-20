@@ -1,3 +1,7 @@
+---
+updated: '2023-10-20T13:54:09Z'
+created: '2023-10-20T13:54:09Z'
+---
 https://twitter.com/jeremyphoward/status/1642726595436883969
 
 Good thread discussing yesterday's mistaken belief by many that the 30b param LLama LLM could be fit in under 6gb of ram by mmap'ing it. Goes through the network architecture to explain why most of the map has to live in memory, no matter what you do.

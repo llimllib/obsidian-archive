@@ -1,3 +1,7 @@
+---
+updated: '2023-12-05T17:08:07Z'
+created: '2023-12-05T17:08:07Z'
+---
 - [AI and Trust](https://www.schneier.com/blog/archives/2023/12/ai-and-trust.html)
 
 > AI systems will take advantage of our confusion to take advantage of us. They will not be trustworthy. ...That it is the role of government to create trust in society. And therefore, it is their role to create an environment for trustworthy AI. And that means regulation. Not regulating AI, but regulating the organizations that control and use AI.

@@ -1,3 +1,7 @@
+---
+updated: '2023-10-20T13:54:09Z'
+created: '2023-10-20T13:54:09Z'
+---
 here's the log of the installation script, I appreciate its thoroughness and clarity with what it's doing.
 
 ```console

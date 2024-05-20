@@ -1,3 +1,7 @@
+---
+updated: '2023-10-20T13:54:09Z'
+created: '2023-10-20T13:54:09Z'
+---
 In order to use `dtrace` or `dtruss` like you'd use `strace` on linux, you need to disable SIP, which is a pain. There are some tools you can use though, that work with Apple's [endpoint security framework](https://developer.apple.com/documentation/endpointsecurity):
 	- [here's a video from WWDC](https://developer.apple.com/videos/play/wwdc2022/110345/) about the endpoint security framework
 

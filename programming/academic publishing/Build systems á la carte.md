@@ -1,3 +1,7 @@
+---
+updated: '2024-03-19T20:14:09Z'
+created: '2024-03-19T20:14:09Z'
+---
 https://www.microsoft.com/en-us/research/uploads/prod/2018/03/build-systems.pdf
 
 Andrey Mokhov, Neil Mitchell, and Simon Peyton Jones published this already-classic paper in 2018.

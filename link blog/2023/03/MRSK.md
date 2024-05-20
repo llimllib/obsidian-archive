@@ -1,3 +1,7 @@
+---
+updated: '2023-10-20T13:54:09Z'
+created: '2023-10-20T13:54:09Z'
+---
 https://github.com/mrsked/mrsk
 
 DHH's personal replacement for k8s for 37signals' apps.

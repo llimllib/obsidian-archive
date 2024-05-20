@@ -1,3 +1,7 @@
+---
+updated: '2024-04-23T12:01:22Z'
+created: '2024-04-23T12:01:22Z'
+---
 https://medium.com/@philogb/exploring-indras-pearls-with-webgpu-e0f4a745c2f6
 https://philogb.github.io/page/indraspearls/ (chrome-only)
 

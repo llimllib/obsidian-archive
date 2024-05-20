@@ -1,3 +1,7 @@
+---
+updated: '2024-05-18T15:05:42Z'
+created: '2024-05-18T15:05:42Z'
+---
 part 1: https://www.amygoodchild.com/blog/generating-the-alphabet
 part 2: https://www.amygoodchild.com/blog/cursive-handwriting-in-javascript
 

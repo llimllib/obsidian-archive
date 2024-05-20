@@ -1,3 +1,7 @@
+---
+updated: '2024-03-27T01:15:43Z'
+created: '2024-03-27T01:15:43Z'
+---
 https://www.pypy.org/posts/2024/03/fixing-bug-incremental-gc.html
 
 Enjoyed this piece from CF Bolz-Tereick, who explains in detail how they tracked down a complicated bug in the [pypy](https://www.pypy.org/) interpreter that managed to survive for a full decade.

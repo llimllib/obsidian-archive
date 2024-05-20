@@ -1,3 +1,7 @@
+---
+updated: '2023-10-20T13:54:09Z'
+created: '2023-10-20T13:54:09Z'
+---
 https://pypi.org/project/keyring/
 
 > The Python keyring library provides an easy way to access the system keyring service from python. It can be used in any application that needs safe password storage.

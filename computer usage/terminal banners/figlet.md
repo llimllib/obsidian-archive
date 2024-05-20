@@ -1,3 +1,7 @@
+---
+updated: '2023-10-20T13:54:09Z'
+created: '2023-10-20T13:54:09Z'
+---
 http://www.figlet.org has been the answer for a long time.
 
 Here's a little script to print your message in a few of the default fonts:

@@ -1,3 +1,7 @@
+---
+updated: '2024-04-29T12:08:58Z'
+created: '2024-04-29T12:08:58Z'
+---
 <blockquote>f/8 and be there</blockquote>
 
 - possibly [Weegee](https://en.wikipedia.org/wiki/Weegee)

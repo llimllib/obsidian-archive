@@ -1,3 +1,7 @@
+---
+updated: '2023-10-20T13:54:09Z'
+created: '2023-10-20T13:54:09Z'
+---
 by default, pyright will not recognize package imports because it doesn't know where your project root is. To fix that, create a `pyproject.toml` file at your project root.
 
 I _think_ you don't actually need any options in that case, but I created it with just this config:

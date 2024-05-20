@@ -1,3 +1,7 @@
+---
+updated: '2024-04-23T12:01:22Z'
+created: '2023-10-20T13:54:09Z'
+---
 [source](https://xi.zulipchat.com/#narrow/stream/197075-gpu/topic/Learning.20resources.20for.20compute.20shaders) via [toot](https://mastodon.online/@raph/109617071186970778)
 
 Raph Levien: @Nils Martel asked on Mastodon about learning resources for GPU compute shaders. That's a deep topic, and deserves a fresh look, largely because I consider [[WebGPU]] a game changer. I'll do my best in this topic to give a fairly comprehensive answer.

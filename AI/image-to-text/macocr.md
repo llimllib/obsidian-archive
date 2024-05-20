@@ -1,3 +1,7 @@
+---
+updated: '2023-10-20T13:54:09Z'
+created: '2023-10-20T13:54:09Z'
+---
 Command line utility showing how to use the [VNRecognizeTextRequest](https://developer.apple.com/documentation/vision/vnrecognizetextrequest) API.
 
 Unfortunately doesn't output in a sensible format - outputs a JSON-looking array prefixed with "got page obs is"

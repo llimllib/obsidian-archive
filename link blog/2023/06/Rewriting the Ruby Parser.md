@@ -1,3 +1,7 @@
+---
+updated: '2023-10-20T13:54:09Z'
+created: '2023-10-20T13:54:09Z'
+---
 https://railsatscale.com//2023-06-12-rewriting-the-ruby-parser/
 
 A team from shopify has rewritten the ruby parser from a bison-generated parser into a hand-written recursive descent parser, and it's going to become the parser for the main ruby interpreter.

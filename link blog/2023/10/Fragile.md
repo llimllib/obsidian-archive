@@ -1,3 +1,7 @@
+---
+updated: '2023-10-20T15:26:51Z'
+created: '2023-10-20T15:26:51Z'
+---
 > Occasionally I stop to think about how much of the modern software development infrastructure and community is run at a massive loss: Stack Overflow, npm, Github Copilot (probably Github itself), VS Code.
 
 > Also how much of it is owned and run by Microsoft.

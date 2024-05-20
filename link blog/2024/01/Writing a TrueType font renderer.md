@@ -1,3 +1,7 @@
+---
+updated: '2024-01-02T16:03:18Z'
+created: '2024-01-02T16:03:18Z'
+---
 https://axleos.com/writing-a-truetype-font-renderer/
 
 Back before HTML canvas had text support, [I wrote a postscript font renderer](https://github.com/llimllib/viewji/blob/master/text.js); since then I've always had a fondness for rendering type.

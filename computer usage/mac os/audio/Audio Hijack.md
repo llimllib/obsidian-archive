@@ -1,3 +1,7 @@
+---
+updated: '2024-04-23T13:45:10Z'
+created: '2024-04-23T13:45:10Z'
+---
 https://rogueamoeba.com/audiohijack/
 
 > Save audio from any website, as well as any application running on your Mac. You can even record all the system audio at once!

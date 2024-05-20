@@ -1,3 +1,7 @@
+---
+updated: '2023-10-20T13:54:09Z'
+created: '2023-10-20T13:54:09Z'
+---
 https://github.com/karlicoss/promnesia
 
 I'm intrigued by the idea but the documentation looks sketchy at best

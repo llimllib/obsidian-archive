@@ -1,3 +1,7 @@
+---
+updated: '2024-04-23T12:01:22Z'
+created: '2023-10-20T13:54:09Z'
+---
 https://github.com/quadratichq/quadratic
 
 > **_The Data Science Spreadsheet_**

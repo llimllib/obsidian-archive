@@ -1,3 +1,7 @@
+---
+updated: '2023-10-20T13:54:09Z'
+created: '2023-10-20T13:54:09Z'
+---
 https://datasette.io/plugins/datasette-scraper
 
 > `datasette-scraper` is a Datasette plugin to manage small-ish (~100K pages) crawl and extract jobs.

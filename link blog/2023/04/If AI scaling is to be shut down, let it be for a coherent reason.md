@@ -1,3 +1,7 @@
+---
+updated: '2023-10-20T13:54:09Z'
+created: '2023-10-20T13:54:09Z'
+---
 https://scottaaronson.blog/?p=7174
 
 A call for opponents of AI to come up with coherent bases and arguments for why it should be shut down.

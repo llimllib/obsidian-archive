@@ -1,3 +1,7 @@
+---
+updated: '2023-10-20T13:54:09Z'
+created: '2023-10-20T13:54:09Z'
+---
 `%!sort -n`
 
 `-n` here means "sort numerically", as opposed to lexically.

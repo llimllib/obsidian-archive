@@ -1,3 +1,7 @@
+---
+updated: '2023-10-20T13:54:09Z'
+created: '2023-10-20T13:54:09Z'
+---
 https://github.com/mcnees/LaTeX-Graph-Paper
 
 > Make your own quadrille, graph, hex, etc. paper! Uses the [PGF/TikZ](https://en.wikipedia.org/wiki/PGF/TikZ) package for LaTeX, which should be part of any modern TeX installation. All colors and spacing are customizable.

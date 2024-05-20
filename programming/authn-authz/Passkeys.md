@@ -1,3 +1,7 @@
+---
+updated: '2023-10-20T13:54:09Z'
+created: '2023-10-20T13:54:09Z'
+---
 https://www.imperialviolet.org/2022/09/22/passkeys.html
 
 > This is an opinionated, “quick-start” guide to using passkeys as a web developer. It’s hopefully broadly applicable, but one size will never fit all authentication needs and this guide ignores everything that’s optional. So take it as a worked example, but not as gospel.

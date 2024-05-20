@@ -1,3 +1,7 @@
+---
+updated: '2024-04-11T13:55:16Z'
+created: '2024-04-11T13:55:16Z'
+---
 https://github.com/sourcegraph/zoekt
 
 > This is a fast text search engine, intended for use with source code.

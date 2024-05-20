@@ -1,3 +1,7 @@
+---
+updated: '2024-05-07T13:22:41Z'
+created: '2024-05-07T13:22:41Z'
+---
 https://github.com/openobserve/openobserve
 https://openobserve.ai/
 

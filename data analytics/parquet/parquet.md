@@ -1,3 +1,7 @@
+---
+updated: '2023-11-06T16:15:37Z'
+created: '2023-10-20T13:54:09Z'
+---
 https://parquet.apache.org/
 
 > Apache Parquet is an open source, column-oriented data file format designed for efficient data storage and retrieval. It provides efficient data compression and encoding schemes with enhanced performance to handle complex data in bulk. Parquet is available in multiple languages including Java, C++, Python, etc...

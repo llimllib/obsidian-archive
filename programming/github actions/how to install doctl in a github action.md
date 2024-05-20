@@ -1,3 +1,7 @@
+---
+updated: '2023-10-30T12:41:12Z'
+created: '2023-10-30T12:41:12Z'
+---
 ```yaml
       - name: install dependencies
         run: |

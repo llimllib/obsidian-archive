@@ -1,3 +1,7 @@
+---
+updated: '2024-01-10T16:30:48Z'
+created: '2024-01-10T16:00:22Z'
+---
 The atuin docs for self-hosting are [very skimpy](https://atuin.sh/docs/self-hosting/)
 
 Here's how I self-hosted an [[atuin]] server:

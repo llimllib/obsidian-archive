@@ -1,3 +1,7 @@
+---
+updated: '2024-05-14T20:20:29Z'
+created: '2024-05-14T20:20:29Z'
+---
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/0FirKNAWeS1qKO49WEgSag?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
 I didn't know Otis Redding had a live album from the [Monterey Pop Festival](https://en.wikipedia.org/wiki/Monterey_International_Pop_Festival), the event that's widely considered to have started the summer of love.

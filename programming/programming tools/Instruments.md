@@ -1,3 +1,7 @@
+---
+updated: '2023-10-20T13:54:09Z'
+created: '2023-10-20T13:54:09Z'
+---
 On mac, Instruments (part of xcode) is the app that lets you sample a binary's performance to see where it's spending its time. 
 
 - https://developer.apple.com/xcode/features/ has some info about it

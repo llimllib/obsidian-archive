@@ -1,3 +1,7 @@
+---
+updated: '2023-10-28T15:37:49Z'
+created: '2023-10-28T15:37:49Z'
+---
 https://insomnia.rest/
 
 > Design, debug, and test APIs locally or in the cloud

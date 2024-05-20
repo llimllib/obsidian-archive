@@ -1,3 +1,7 @@
+---
+updated: '2023-10-20T13:54:09Z'
+created: '2023-10-20T13:54:09Z'
+---
 https://supabase.com/blog/edge-runtime-self-hosted-deno-functions
 
 > Supabase Edge Runtime is a web server written in Rust that uses a custom Deno runtime. It can serve TypeScript, JavaScript, and WASM functions. All your existing Edge Functions run on Edge Runtime without changing a single line of code.

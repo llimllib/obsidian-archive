@@ -1,3 +1,7 @@
+---
+updated: '2024-02-20T14:21:00Z'
+created: '2024-02-20T14:21:00Z'
+---
 https://matttproud.com/blog/posts/tip-shell-brace-expansion.html
 https://www.gnu.org/software/bash/manual/html_node/Brace-Expansion.html
 

@@ -1,3 +1,7 @@
+---
+updated: '2024-02-26T14:45:06Z'
+created: '2023-10-20T13:54:09Z'
+---
 https://github.com/bufbuild/connect-go
 https://connectrpc.com/docs/introduction
 

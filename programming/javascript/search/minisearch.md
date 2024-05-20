@@ -1,3 +1,7 @@
+---
+updated: '2024-03-22T20:51:34Z'
+created: '2024-03-22T20:51:34Z'
+---
 https://github.com/lucaong/minisearch/
 
 > `MiniSearch` is a tiny but powerful in-memory fulltext search engine written in JavaScript. It is respectful of resources, and it can comfortably run both in Node and in the browser.

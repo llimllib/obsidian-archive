@@ -1,3 +1,7 @@
+---
+updated: '2023-10-20T13:54:09Z'
+created: '2023-10-20T13:54:09Z'
+---
 > `pyobsplot` allows to use [Observable Plot](https://observablehq.com/@observablehq/plot?collection=@observablehq/plot) to create charts in Jupyter notebooks. Plots are produced as [widgets](https://ipywidgets.readthedocs.io/en/latest/index.html) from Python code with a syntax as close as possible to the JavaScript one.
 
 ```python

@@ -1,3 +1,7 @@
+---
+updated: '2024-03-22T02:49:01Z'
+created: '2024-03-22T02:49:01Z'
+---
 https://github.com/flyingmutant/rapid
 
 > Rapid is a Go library for property-based testing.

@@ -1,3 +1,7 @@
+---
+updated: '2023-10-20T13:54:09Z'
+created: '2023-10-20T13:54:09Z'
+---
 `%!column -t -s $'\t'`
 
 This will create a table (`-t`) from columns spearated by tab characters (`-s $'\t'`)

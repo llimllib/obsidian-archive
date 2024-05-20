@@ -1,3 +1,7 @@
+---
+updated: '2023-12-15T20:40:19Z'
+created: '2023-10-20T13:54:09Z'
+---
 ## Common cryptographic hash functions:
 
 - legacy algorithms:

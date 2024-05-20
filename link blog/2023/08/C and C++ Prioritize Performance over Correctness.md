@@ -1,3 +1,7 @@
+---
+updated: '2023-10-20T13:54:09Z'
+created: '2023-10-20T13:54:09Z'
+---
 https://research.swtch.com/ub
 
 Russ Cox lays out a list of instances where C and C++ could help their users write correct programs, but choose not to.

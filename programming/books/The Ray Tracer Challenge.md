@@ -1,3 +1,7 @@
+---
+updated: '2023-10-20T13:54:09Z'
+created: '2023-10-20T13:54:09Z'
+---
 http://raytracerchallenge.com/
 
 > Brace yourself for a fun challenge: build a photorealistic 3D renderer from scratch!

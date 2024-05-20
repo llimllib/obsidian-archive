@@ -1,3 +1,7 @@
+---
+updated: '2023-10-20T13:54:09Z'
+created: '2023-10-20T13:54:09Z'
+---
 https://brooker.co.za/blog/2023/07/28/ds-testing.html
 
 > I spent days banging my head on the problem with printfs and debuggers and just wasn't making progress. The TA was no help. I asked a CS graduate student I knew that lived nearby, and his approach just blew my mind.

@@ -1,3 +1,7 @@
+---
+updated: '2024-03-19T13:53:48Z'
+created: '2024-03-19T13:53:48Z'
+---
 Robert Simmon's Gentle Introduction to GDAL:
 
 - [A Gentle Introduction to GDAL, Part 1](https://medium.com/planet-stories/a-gentle-introduction-to-gdal-part-1-a3253eb96082)

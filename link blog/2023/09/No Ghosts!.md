@@ -1,3 +1,7 @@
+---
+updated: '2023-10-20T13:54:09Z'
+created: '2023-10-20T13:54:09Z'
+---
 https://blog.sunfishcode.online/no-ghosts/ via [[Understanding WASM Part 3 - you are here]]
 
 > By “ghost” here, I mean any situation where resources are referenced by _plain data_.

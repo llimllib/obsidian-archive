@@ -1,3 +1,7 @@
+---
+updated: '2024-03-02T14:28:56Z'
+created: '2024-03-02T14:28:56Z'
+---
 > “Liberal arts” doesn’t mean what people think it means
 
 > Here’s the hidden truth of education: **You don’t know what you’re preparing for.**

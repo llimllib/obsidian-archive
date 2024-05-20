@@ -1,3 +1,7 @@
+---
+updated: '2023-10-20T13:54:09Z'
+created: '2023-10-20T13:54:09Z'
+---
 I wanted to create a gif with some light custom text effects, so here's what I did:
 
 ![dumb and dumber](https://cdn.billmill.org/static/gifs/redeem2.gif)

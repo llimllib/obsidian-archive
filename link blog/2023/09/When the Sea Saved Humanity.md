@@ -1,3 +1,7 @@
+---
+updated: '2023-10-20T13:54:09Z'
+created: '2023-10-20T13:54:09Z'
+---
 https://www.scientificamerican.com/article/when-the-sea-saved-humanity-2012-12-07/
 
 Elaborates the theory that when almost all humans died out in the ice ages, a group survived on the southern coast of Africa.

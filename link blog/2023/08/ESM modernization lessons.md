@@ -1,3 +1,7 @@
+---
+updated: '2023-10-20T13:54:09Z'
+created: '2023-10-20T13:54:09Z'
+---
 https://blog.isquaredsoftware.com/2023/08/esm-modernization-lessons/
 
 The author of the post went through, and continues to suffer, extreme pain at the hands of the ESM transition.

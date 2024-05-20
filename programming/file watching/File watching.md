@@ -1,3 +1,7 @@
+---
+updated: '2023-10-20T13:54:09Z'
+created: '2023-10-20T13:54:09Z'
+---
 I usually use [modd](https://github.com/cortesi/modd) (with [[devd]]), but it's not maintained.
 
 [watchexec-cli](https://lib.rs/crates/watchexec-cli) looks like a good simple replacement for many of my use cases

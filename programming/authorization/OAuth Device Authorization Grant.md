@@ -1,3 +1,7 @@
+---
+updated: '2023-10-20T13:54:09Z'
+created: '2023-10-20T13:54:09Z'
+---
 @tqbf on twitter asked:
 
 > Has anyone ever written up CLI-to-web authentication flows, like the one Heroku did, or the one Teleport does? I’m wondering if there’s best practices and stuff.

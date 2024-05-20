@@ -1,3 +1,7 @@
+---
+updated: '2023-10-20T13:54:09Z'
+created: '2023-10-20T13:54:09Z'
+---
 - if you are not familiar with the terms _instruction fetch_, _pipelining_, _cache memory_, and _virtual memory_, now would be a good time to review a computer architecture book such as [Hennessy and Patterson](https://www.amazon.com/dp/B078MFDTX4/)
 	- I'm... kind of familiar? Let's plow ahead and see how we do
 

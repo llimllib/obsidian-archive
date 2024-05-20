@@ -1,3 +1,7 @@
+---
+updated: '2023-10-20T13:54:09Z'
+created: '2023-10-20T13:54:09Z'
+---
 http://archives.somnolescent.net/web/hypercard/
 
 some lovely stuff in there

@@ -1,3 +1,7 @@
+---
+updated: '2024-04-13T15:59:38Z'
+created: '2024-04-13T15:58:59Z'
+---
 https://wingolog.org/archives/2023/11/24/tree-shaking-the-horticulturally-misguided-algorithm
 
 > despite the hype, WebAssembly has had limited success on the web... WebAssembly has not been a Web success for DOM-heavy apps. Nobody is talking about rewriting the front-end of [wordpress.com](https://wordpress.com) in Wasm, for example

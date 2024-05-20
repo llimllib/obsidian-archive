@@ -1,3 +1,7 @@
+---
+updated: '2023-10-20T13:54:09Z'
+created: '2023-10-20T13:54:09Z'
+---
 https://compactmag.com/article/why-kundera-never-went-home
 
 Interesting (and beautifully typeset) article about Milan Kundera's relationship with his Czech homeland.

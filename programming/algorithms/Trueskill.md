@@ -1,3 +1,7 @@
+---
+updated: '2023-10-20T13:54:09Z'
+created: '2023-10-20T13:54:09Z'
+---
 Jeremy Kun implementation: https://github.com/j2kun/trueskill
 
 C# implementation: https://github.com/moserware/Skills

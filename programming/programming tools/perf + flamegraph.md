@@ -1,3 +1,7 @@
+---
+updated: '2023-10-20T13:54:09Z'
+created: '2023-10-20T13:54:09Z'
+---
 `perf` Only works on linux, but: https://www.brendangregg.com/FlameGraphs/cpuflamegraphs.html#perf
 
 Shows that to get a flamegraph of where a binary is spending its time, you can use steps like this:

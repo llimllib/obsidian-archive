@@ -1,3 +1,7 @@
+---
+updated: '2023-11-16T01:52:49Z'
+created: '2023-11-16T01:52:49Z'
+---
 https://registerspill.thorstenball.com/p/playful-programming
 
 > Last weekend I watched this video of [Andreas Kling](https://twitter.com/awesomekling) prototyping a JIT compiler for his [Ladybird](https://twitter.com/ladybirdbrowser) browser:

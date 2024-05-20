@@ -1,3 +1,7 @@
+---
+updated: '2024-03-08T01:56:54Z'
+created: '2024-03-08T01:56:54Z'
+---
 https://github.com/linusg/serenityos-emoji-font
 
 ![[serenityosemoji.png]]

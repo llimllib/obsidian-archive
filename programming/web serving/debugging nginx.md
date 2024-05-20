@@ -1,3 +1,7 @@
+---
+updated: '2023-10-20T13:54:09Z'
+created: '2023-10-20T13:54:09Z'
+---
 To debug an [[nginx]] config, create a config file that looks something like this in a file called `test.conf`:
 
 ```nginx

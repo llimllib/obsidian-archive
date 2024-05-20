@@ -1,3 +1,7 @@
+---
+updated: '2023-10-20T13:54:09Z'
+created: '2023-10-20T13:54:09Z'
+---
 http://akkartik.name/freewheeling
 
 I love the idea of _situated software_ from this talk:

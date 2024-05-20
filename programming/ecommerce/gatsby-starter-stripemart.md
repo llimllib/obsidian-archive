@@ -1,3 +1,7 @@
+---
+updated: '2023-10-20T13:54:09Z'
+created: '2023-10-20T13:54:09Z'
+---
 https://github.com/ehowey/gatsby-starter-stripemart
 
 > This is a _basic_ and _minimalist_ e-commerce storefront built with [Gatsby](https://www.gatsbyjs.com/), [SANITY](https://www.sanity.io/), [Stripe](https://stripe.com), [Use-Shopping-Cart](https://useshoppingcart.com/), and [Netlify](https://www.netlify.com/).

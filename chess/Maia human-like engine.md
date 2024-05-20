@@ -1,3 +1,7 @@
+---
+updated: '2023-10-20T13:54:09Z'
+created: '2023-10-20T13:54:09Z'
+---
 https://maiachess.com/
 
 > Maia is an AlphaZero/Leela-like deep learning framework that learns from online human games instead of self-play. Maia is trained on millions of games, and tries to predict the human move played in each position seen.

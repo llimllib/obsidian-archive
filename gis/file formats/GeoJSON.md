@@ -1,3 +1,7 @@
+---
+updated: '2023-10-20T13:54:09Z'
+created: '2023-10-20T13:54:09Z'
+---
 https://geojson.org/
 
 GeoJSON is a format for encoding a variety of geographic data structures.

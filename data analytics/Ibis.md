@@ -1,3 +1,7 @@
+---
+updated: '2024-01-09T15:33:08Z'
+created: '2023-10-20T13:54:09Z'
+---
 https://ibis-project.org/tutorials/getting_started
 
 > Ibis is the portable Python dataframe library.

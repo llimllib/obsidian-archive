@@ -1,3 +1,7 @@
+---
+updated: '2023-12-03T21:39:09Z'
+created: '2023-12-03T21:39:09Z'
+---
 https://nolanlawson.com/2023/12/02/lets-learn-how-modern-javascript-frameworks-work-by-building-one/
 
 - how to build DOM elements quickly

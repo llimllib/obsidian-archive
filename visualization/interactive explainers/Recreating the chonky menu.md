@@ -1,3 +1,7 @@
+---
+updated: '2023-10-20T13:54:09Z'
+created: '2023-10-20T13:54:09Z'
+---
 https://www.nathanmanousos.com/posts/chonky-menu
 
 Very cool piece where the author builds up to a high-quality select box component with lots of fancy touches. Includes interactive graphs of tweening rates.

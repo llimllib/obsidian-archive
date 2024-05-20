@@ -1,3 +1,7 @@
+---
+updated: '2023-10-20T13:54:09Z'
+created: '2023-10-20T13:54:09Z'
+---
 https://matthewbutterick.com/chron/will-ai-obliterate-the-rule-of-law.html
 
 > the core objec­tion is that so far, many gener­a­tive AI prod­ucts are **based on massive viola­tions of law**. If gener­a­tive AI compa­nies want to compete against human artists by legal means—they’re welcome to do so. But in many cases, that’s not what they’ve chosen. As a profes­sional artist, I’m not opposed to advance­ments in tech­nology; I’m opposed to viola­tions of the law.

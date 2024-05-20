@@ -1,3 +1,7 @@
+---
+updated: '2024-03-04T20:00:45Z'
+created: '2024-03-04T20:00:45Z'
+---
 I encountered a problem with a site that wasn't presenting the full certificate chain, causing an error `Verify return code: 21 (unable to verify the first certificate)`.
 
 On a site that correctly gives its full certificate chain, here's the relevant bits of what you see:

@@ -1,3 +1,7 @@
+---
+updated: '2024-03-19T13:57:20Z'
+created: '2024-03-19T13:57:20Z'
+---
 - I went to [earth explorer](https://earthexplorer.usgs.gov/) and signed up for an account
 - searched for images covering Portland with low cloud cover, and downloaded one
 - that got me a bunch of TIF files, a few txt files, and an xml file

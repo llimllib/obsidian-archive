@@ -1,3 +1,7 @@
+---
+updated: '2023-10-20T13:54:09Z'
+created: '2023-10-20T13:54:09Z'
+---
 > Using Rollup to bundle Leaflet and plugins as an ES module.
 
 https://github.com/mbostock/rollup-leaflet-example

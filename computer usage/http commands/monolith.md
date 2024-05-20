@@ -1,3 +1,7 @@
+---
+updated: '2024-03-25T03:31:11Z'
+created: '2024-03-25T03:31:11Z'
+---
 https://github.com/Y2Z/monolith
 
 > data hoarder’s dream come true: bundle any web page into a single HTML file. You can finally replace that gazillion of open tabs with a gazillion of .html files stored somewhere on your precious little drive.

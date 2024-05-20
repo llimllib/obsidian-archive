@@ -1,3 +1,7 @@
+---
+updated: '2023-10-20T13:54:09Z'
+created: '2023-10-20T13:54:09Z'
+---
 https://github.com/jacobdeichert/mask
 
 Mask is a [[task runner]] with an interesting UI decision: you write all tasks in a markdown file.

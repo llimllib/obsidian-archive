@@ -1,3 +1,7 @@
+---
+updated: '2023-10-20T13:54:09Z'
+created: '2023-10-20T13:54:09Z'
+---
 https://github.com/rogpeppe/go-internal
 
 > This repository factors out an opinionated selection of internal packages and functionality from the Go standard library. Currently this consists mostly of packages and testing code from within the Go tool implementation.

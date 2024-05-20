@@ -1,3 +1,7 @@
+---
+updated: '2023-10-20T13:54:09Z'
+created: '2023-10-20T13:54:09Z'
+---
 https://github.com/mikestefanello/pagoda
 
 > Rapid, easy full-stack web development starter kit in Go

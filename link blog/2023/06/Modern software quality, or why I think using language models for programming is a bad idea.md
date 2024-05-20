@@ -1,3 +1,7 @@
+---
+updated: '2023-10-20T13:54:09Z'
+created: '2023-10-20T13:54:09Z'
+---
 https://softwarecrisis.dev/letters/ai-and-software-quality/
 
 long, and well worth reading in full.

@@ -1,3 +1,7 @@
+---
+updated: '2024-04-13T16:00:35Z'
+created: '2024-04-13T15:53:23Z'
+---
 https://www.youtube.com/watch?v=SO83KQuuZvg
 
 a 70-minute video where the author implements a fairly complete font shader from scratch in unity.

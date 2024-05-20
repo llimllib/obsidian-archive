@@ -1,3 +1,7 @@
+---
+updated: '2023-10-20T13:54:09Z'
+created: '2023-10-20T13:54:09Z'
+---
 https://sqlite.org/hctree/doc/hctree/doc/hctree/index.html
 
 > SQLite is sometimes used as the core of a client/server database system. While it works reliably well in such cases, the database backend module that it uses to store b-tree structures in its database file was not designed with this case in mind and can be improved upon in several ways. The HC-tree (hctree) project is an attempt to develop a new database backend that improves upon regular SQLite as follows:

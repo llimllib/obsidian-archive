@@ -1,3 +1,7 @@
+---
+updated: '2024-01-31T15:20:16Z'
+created: '2024-01-31T15:05:45Z'
+---
 https://fly.io/blog/macaroons-escalated-quickly/
 
 Thomas Ptacek walks you through how you might construct a [macaroon](https://en.wikipedia.org/wiki/Macaroons_(computer_science)), which is a token similar to a JWT that has some neat properties. (And a few less brain-dead decisions than JWT tokens have...)

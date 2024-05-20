@@ -1,3 +1,7 @@
+---
+updated: '2023-10-20T13:54:09Z'
+created: '2023-10-20T13:54:09Z'
+---
 https://github.com/nushell/nushell
 https://www.nushell.sh/book/quick_tour.html
 

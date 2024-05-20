@@ -1,3 +1,7 @@
+---
+updated: '2023-10-20T13:54:09Z'
+created: '2023-10-20T13:54:09Z'
+---
 (Has nothing to do with golang)
 
 > ## Build Diagrams for the Web in JavaScript and TypeScript

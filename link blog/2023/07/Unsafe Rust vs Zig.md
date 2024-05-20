@@ -1,3 +1,7 @@
+---
+updated: '2023-10-20T13:54:09Z'
+created: '2023-10-20T13:54:09Z'
+---
 https://zackoverflow.dev/writing/unsafe-rust-vs-zig
 
 > I wanted to... see how hard unsafe Rust would be by building a project that required a substantial amount of unsafe code.

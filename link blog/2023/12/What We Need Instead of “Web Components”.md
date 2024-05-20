@@ -1,3 +1,7 @@
+---
+updated: '2023-12-22T20:04:14Z'
+created: '2023-12-22T20:04:14Z'
+---
 https://blog.carlana.net/post/2023/web-component-alternative-futures/
 
 > The dream of Web Components is a good one, but we need new solutions to match the problems encountered by contemporary web developers, not just a continued retreading of a path laid out a decade ago.

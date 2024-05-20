@@ -1,3 +1,7 @@
+---
+updated: '2023-11-21T14:34:06Z'
+created: '2023-11-21T14:34:06Z'
+---
 https://github.com/privatenumber/tsx
 
 > Features

@@ -1,3 +1,7 @@
+---
+updated: '2023-10-20T13:54:09Z'
+created: '2023-10-20T13:54:09Z'
+---
 https://orib.dev/gefs.html
 
 > Gefs is a new file system built for Plan 9. It aims to be a crash-safe, corruption-detecting, simple, and fast snapshotting file system, in that order. Gefs achieves these goals by building a traditional 9p file system interface on top of a forest of copy-on-write Bε trees. It doesn't try to be optimal on all axes, but good enough for daily use.

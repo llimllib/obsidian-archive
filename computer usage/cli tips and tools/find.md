@@ -1,3 +1,7 @@
+---
+updated: '2024-03-05T22:03:41Z'
+created: '2023-10-20T13:54:09Z'
+---
 Find all files in the current directory that end in `*.js` or `*.ts`, but ignore paths containing `node_modules`:
 
 `find . \( -iname '*.js' -o -iname '*.ts' \) -not -path '*node_modules*'`

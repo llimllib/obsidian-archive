@@ -1,3 +1,7 @@
+---
+updated: '2023-10-20T13:54:09Z'
+created: '2023-10-20T13:54:09Z'
+---
 https://www.gaia-gis.it/fossil/libspatialite/index
 
 > SpatiaLite is an **open source** library intended to extend the [SQLite](http://www.sqlite.org/) core to support fully fledged Spatial SQL capabilities.

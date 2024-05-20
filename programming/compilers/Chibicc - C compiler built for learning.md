@@ -1,3 +1,7 @@
+---
+updated: '2023-10-20T13:54:09Z'
+created: '2023-10-20T13:54:09Z'
+---
 https://github.com/rui314/chibicc
 
 > chibicc is developed as the reference implementation for a book I'm currently writing about the C compiler and the low-level programming. The book covers the vast topic with an incremental approach; in the first chapter, readers will implement a "compiler" that accepts just a single number as a "language", which will then gain one feature at a time in each section of the book until the language that the compiler accepts matches what the C11 spec specifies. I took this incremental approach from [the paper](http://scheme2006.cs.uchicago.edu/11-ghuloum.pdf) by Abdulaziz Ghuloum.

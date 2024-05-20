@@ -1,3 +1,7 @@
+---
+updated: '2023-10-20T13:54:09Z'
+created: '2023-10-20T13:54:09Z'
+---
 https://twitter.com/colmmacc/status/1532058883908198401
 
 A quick rage-thread about credentials. When security auditors just say things like "Critical credentials need to be rotated every 90 days" you need to fire them into the sun with urgency. Here's what you actually need ...

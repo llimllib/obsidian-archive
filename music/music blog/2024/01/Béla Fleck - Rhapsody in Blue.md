@@ -1,3 +1,7 @@
+---
+updated: '2024-01-08T19:12:48Z'
+created: '2024-01-08T19:12:48Z'
+---
 <iframe width="560" height="315" src="https://www.youtube.com/embed/8DHPxRZFWQE?si=K86AdGTWJ0PviANO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 https://wpln.org/post/as-rhapsody-in-blue-turns-100-this-american-music-classic-remind-us-to-experiment-boldly/

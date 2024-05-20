@@ -1,3 +1,7 @@
+---
+updated: '2023-10-20T13:54:09Z'
+created: '2023-10-20T13:54:09Z'
+---
 https://blog.glyph.im/2023/07/bilithification.html
 
 Really like this article from Glyph on how, and when to split up your monoservice into more services. I especially like his point that it's more about team construction than it is about engineering:

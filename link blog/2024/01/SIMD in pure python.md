@@ -1,3 +1,7 @@
+---
+updated: '2024-01-05T15:30:22Z'
+created: '2024-01-05T15:30:22Z'
+---
 https://www.da.vidbuchanan.co.uk/blog/python-swar.html
 
 Fun blog post where the author goes through what SIMD is, and demonstrates how you can get python to use it under the hood (on their computer at least), then writes a very fast Life simulation using the knowledge.

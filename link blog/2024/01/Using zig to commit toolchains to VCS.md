@@ -1,3 +1,7 @@
+---
+updated: '2024-01-08T15:23:39Z'
+created: '2024-01-08T15:16:00Z'
+---
 https://www.forrestthewoods.com/blog/using-zig-to-commit-toolchains-to-vcs/
 
 The author demonstrates how they created a C++ "hello world" application that contains everything necessary to compile and build itself on all supported platforms.

@@ -1,3 +1,7 @@
+---
+updated: '2023-10-20T13:54:09Z'
+created: '2023-10-20T13:54:09Z'
+---
 https://github.com/curl/trurl
 
 I have long complained about the lack of a standard unix tool for manipulating URLs at the command line; now there's one from Daniel Stenberg, the author of curl.

@@ -1,3 +1,7 @@
+---
+updated: '2023-10-20T13:54:09Z'
+created: '2023-10-20T13:54:09Z'
+---
 https://github.com/nofeaturesonlybugs/sqlh
 
 > Powerful struct scanning for Go's database/sql and other compatible interfaces.

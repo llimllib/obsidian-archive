@@ -1,3 +1,7 @@
+---
+updated: '2023-10-20T13:54:09Z'
+created: '2023-10-20T13:54:09Z'
+---
 ### Birds eye view of Casco Bay, Portland, Maine, and surroundings
 ca 1906
 https://collections.leventhalmap.org/search/commonwealth:r494vs43c

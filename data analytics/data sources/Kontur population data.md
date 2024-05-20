@@ -1,3 +1,7 @@
+---
+updated: '2023-10-20T13:54:09Z'
+created: '2023-10-20T13:54:09Z'
+---
 https://data.humdata.org/dataset/kontur-population-dataset
 
 > We are building the ultimate publicly available global population dataset by obtaining and processing all available data and fixing all known issues.

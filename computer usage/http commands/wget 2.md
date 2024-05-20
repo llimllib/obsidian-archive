@@ -1,3 +1,7 @@
+---
+updated: '2024-04-03T02:50:32Z'
+created: '2024-04-03T02:50:32Z'
+---
 https://gitlab.com/gnuwget/wget2#gnu-wget2-introduction
 
 > GNU Wget2 is the successor of GNU Wget, a file and recursive website downloader.

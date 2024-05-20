@@ -1,3 +1,7 @@
+---
+updated: '2023-10-20T13:54:09Z'
+created: '2023-10-20T13:54:09Z'
+---
 https://fly.io/blog/api-tokens-a-tedious-survey/#biscuits
 
 tptacek reviews 10 types of API tokens:

@@ -1,3 +1,7 @@
+---
+updated: '2023-10-20T13:54:09Z'
+created: '2023-10-20T13:54:09Z'
+---
 https://without.boats/blog/why-async-rust/
 
 I don't write rust, but this detailed discussion of the history and reasons for the design of async rust is very interesting to read.

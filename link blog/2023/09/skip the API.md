@@ -1,3 +1,7 @@
+---
+updated: '2023-10-20T13:54:09Z'
+created: '2023-10-20T13:54:09Z'
+---
 https://fly.io/blog/skip-the-api/
 
 > A different approach is to skip the API design entirely and just ship the entire database to your client. You don’t need to consider the consuming service’s access patterns as they can use vanilla SQL to query and join whatever data their heart desires. That’s what we did using LiteFS.

@@ -1,3 +1,7 @@
+---
+updated: '2024-02-28T15:41:50Z'
+created: '2024-02-28T15:41:50Z'
+---
 To publish an observable framework website on github pages is a 2-step procedure:
 
 1. Go to settings -> pages (The URL will be `https://github.com/<user>/<repo>/settings/pages`) and change the "source" dropdown from "deploy from a branch"  to "Github Actions"

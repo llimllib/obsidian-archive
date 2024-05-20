@@ -1,3 +1,7 @@
+---
+updated: '2023-10-20T13:54:09Z'
+created: '2023-10-20T13:54:09Z'
+---
 https://pkg.go.dev/github.com/rogpeppe/go-internal/testscript
 
 Used by the golang test suite, and now broken out into a package, it asserts command output and includes full files.

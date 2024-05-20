@@ -1,3 +1,7 @@
+---
+updated: '2023-10-20T13:54:09Z'
+created: '2023-10-20T13:54:09Z'
+---
 https://nullprogram.com/blog/2022/05/22/
 
 Nice explanation of how the author built a (windows-only) program to process a file tree and display the number of lines of source code in each directory.

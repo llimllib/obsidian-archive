@@ -1,3 +1,7 @@
+---
+updated: '2023-10-20T13:54:09Z'
+created: '2023-10-20T13:54:09Z'
+---
 Bash strings quoted with `$'<text here>'` allow literal escapes to appear in the text.
 
 So, `$'\t'` represents a one-character literal tab character, while '\t' is two characters, a slash followed by a t.

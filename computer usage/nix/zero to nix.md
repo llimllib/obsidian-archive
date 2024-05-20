@@ -1,3 +1,7 @@
+---
+updated: '2023-10-20T13:54:09Z'
+created: '2023-10-20T13:54:09Z'
+---
 https://zero-to-nix.com
 
 > An unofficial, opinionated, gentle introduction to Nix

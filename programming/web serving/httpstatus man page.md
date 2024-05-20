@@ -1,3 +1,7 @@
+---
+updated: '2023-12-11T21:54:39Z'
+created: '2023-12-11T17:26:39Z'
+---
 https://github.com/jschauma/httpstatus
 
 is a great idea, a simple little man page that lists every HTTP status and a short description.

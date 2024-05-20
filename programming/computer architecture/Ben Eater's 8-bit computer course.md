@@ -1,3 +1,7 @@
+---
+updated: '2023-12-22T20:04:14Z'
+created: '2023-12-22T20:04:14Z'
+---
 https://eater.net/8bit/
 
 > I built a programmable 8-bit computer from scratch on breadboards using only simple logic gates. I documented the whole project in a series of YouTube videos and on this web site

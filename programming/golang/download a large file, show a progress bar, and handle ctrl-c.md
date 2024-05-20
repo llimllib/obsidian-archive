@@ -1,3 +1,7 @@
+---
+updated: '2023-10-20T13:54:09Z'
+created: '2023-10-20T13:54:09Z'
+---
 I had cause to figure out how to do this today. The only third-party tool is [schollz/progressbar](https://pkg.go.dev/github.com/schollz/progressbar/v3#section-readme), which I used in the most absolutely basic way, straight from its manual.
 
 ### Updated: version 2

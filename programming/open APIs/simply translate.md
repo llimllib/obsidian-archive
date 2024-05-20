@@ -1,3 +1,7 @@
+---
+updated: '2023-10-20T13:54:09Z'
+created: '2023-10-20T13:54:09Z'
+---
 https://codeberg.org/SimpleWeb/SimplyTranslate-Web/src/branch/master/api.md
 
 ```

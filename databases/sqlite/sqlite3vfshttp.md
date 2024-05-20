@@ -1,3 +1,7 @@
+---
+updated: '2023-10-20T13:54:09Z'
+created: '2023-10-20T13:54:09Z'
+---
 https://github.com/psanford/sqlite3vfshttp
 
 > sqlite3vfshttp is a sqlite3 VFS for querying remote databases over http(s). This allows you to perform queries without needing to download the complete database first.

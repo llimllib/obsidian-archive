@@ -1,3 +1,7 @@
+---
+updated: '2023-10-20T13:54:09Z'
+created: '2023-10-20T13:54:09Z'
+---
 https://github.com/sharkdp/fd
 
 > A simple, fast and user-friendly alternative to 'find'

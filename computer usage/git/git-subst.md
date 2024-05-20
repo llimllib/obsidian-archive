@@ -1,3 +1,7 @@
+---
+updated: '2023-10-20T13:54:09Z'
+created: '2023-10-20T13:54:09Z'
+---
 https://github.com/dspinellis/git-subst
 
 > Git plugin for substituting a regular expression with some text across all files under revision control

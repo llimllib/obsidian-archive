@@ -1,3 +1,7 @@
+---
+updated: '2024-03-17T16:16:37Z'
+created: '2024-03-16T01:22:40Z'
+---
 Thomas Ptacek wondered [on mastodon](https://infosec.exchange/@tqbf/112100367570795574)  whether there were any [Spelling Bee](https://en.wikipedia.org/wiki/The_New_York_Times_Spelling_Bee) pangrams that would get you to the highest scoring level on spelling bee just by finding that word.
 
 I like to play spelling bee, and this seemed like a solvable problem, so I took a hack at it.

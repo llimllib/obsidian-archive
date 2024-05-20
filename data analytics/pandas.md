@@ -1,3 +1,7 @@
+---
+updated: '2023-10-20T13:54:09Z'
+created: '2023-10-20T13:54:09Z'
+---
 find rows with blank fg_pct:
 
 `df[df['fg_pct'].apply(lambda row: not isinstance(row, float))][["player", "fg_pct"]]`

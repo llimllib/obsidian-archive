@@ -1,3 +1,7 @@
+---
+updated: '2023-10-20T13:54:09Z'
+created: '2023-10-20T13:54:09Z'
+---
 I made an SVG that displays a chess board, but it uses a path - I think I will want one that uses squares instead, so that I can drag + drop things onto them.
 
 Also worth thinking about how to easily style the board

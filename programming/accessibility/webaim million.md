@@ -1,3 +1,7 @@
+---
+updated: '2023-10-20T13:54:09Z'
+created: '2023-10-20T13:54:09Z'
+---
 https://webaim.org/projects/million/
 
 > For the fifth consecutive year, WebAIM conducted an accessibility evaluation of the home pages for the top 1,000,000 web sites. The evaluation was conducted using the [WAVE stand-alone API](https://wave.webaim.org/standalone) (with additional tools to collect site technology and sector parameters). The results provide an overview of and insight into the current state of web accessibility for individuals with disabilities and trends over time.

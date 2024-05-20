@@ -1,3 +1,7 @@
+---
+updated: '2024-03-18T14:31:01Z'
+created: '2023-10-20T13:54:09Z'
+---
 https://www.fast.ai/2022/08/25/jupyter-git/
 
 > In our newly released [nbdev2](https://nbdev.fast.ai/), an open source [[Jupyter]]-based development platform, we’ve solve each of the problems:

@@ -1,3 +1,7 @@
+---
+updated: '2024-03-25T03:35:51Z'
+created: '2024-03-25T03:35:51Z'
+---
 https://www.npmjs.com/package/single-file-cli
 
 snapshots a web page to a single HTML file. Similar to [[monolith]]. Its author says on news.yc:

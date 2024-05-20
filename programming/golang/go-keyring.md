@@ -1,3 +1,7 @@
+---
+updated: '2023-10-20T13:54:09Z'
+created: '2023-10-20T13:54:09Z'
+---
 https://github.com/zalando/go-keyring
 
 > `go-keyring` is an OS-agnostic library for _setting_, _getting_ and _deleting_ secrets from the system keyring. It supports **OS X**, **Linux/BSD (dbus)** and **Windows**.

@@ -1,3 +1,7 @@
+---
+updated: '2023-10-20T13:54:09Z'
+created: '2023-10-20T13:54:09Z'
+---
 https://heat-shield.space/mastodon_two_camps.html
 
 I like the framing of this article, but I disagree with some of the conclusions.

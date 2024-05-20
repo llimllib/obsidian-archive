@@ -1,3 +1,7 @@
+---
+updated: '2023-10-20T13:54:09Z'
+created: '2023-10-20T13:54:09Z'
+---
 https://github.com/Vexu/arocc/
 
 > A C compiler with the goal of providing fast compilation and low memory usage with good diagnostics.

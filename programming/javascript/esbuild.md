@@ -1,3 +1,7 @@
+---
+updated: '2023-10-20T13:54:09Z'
+created: '2023-10-20T13:54:09Z'
+---
 Simplest possible usage of esbuild: https://gist.github.com/llimllib/6730d9d01011e4031b2f1190740d9ad4
 
 I rewrote it as a blog entry here: https://billmill.org/bundle_d3_with_esbuild.html

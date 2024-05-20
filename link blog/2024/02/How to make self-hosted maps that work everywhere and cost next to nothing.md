@@ -1,3 +1,7 @@
+---
+updated: '2024-03-12T15:15:06Z'
+created: '2024-02-26T15:30:45Z'
+---
 https://www.muckrock.com/news/archives/2024/feb/13/release-notes-how-to-make-self-hosted-maps-that-work-everywhere-cost-next-to-nothing-and-might-even-work-in-airplane-mode/
 
 > Over the past few years, an emerging ecosystem of open-source tools has made self-hosting a map stack both viable and affordable. Beyond cost, self-hosting creates a level of security and durability that’s hard to find with third-party services, which are always at risk of being bought, shut down or simply broken by neglect.

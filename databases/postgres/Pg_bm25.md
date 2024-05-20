@@ -1,3 +1,7 @@
+---
+updated: '2024-02-12T16:32:58Z'
+created: '2024-02-12T16:32:58Z'
+---
 https://blog.paradedb.com/pages/introducing_bm25
 https://github.com/paradedb/paradedb/
 

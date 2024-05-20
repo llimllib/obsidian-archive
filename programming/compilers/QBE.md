@@ -1,3 +1,7 @@
+---
+updated: '2023-10-20T13:54:09Z'
+created: '2023-10-20T13:54:09Z'
+---
 https://c9x.me/compile/
 
 > QBE is compiler backend that aims to provide 70% of the performance of industrial optimizing compilers in 10% of the code. QBE fosters language innovation by offering a compact user-friendly and performant backend. The size limit constrains QBE to focus on the essential and prevents embarking on a never-ending path of diminishing returns.

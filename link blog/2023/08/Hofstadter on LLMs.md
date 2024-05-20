@@ -1,3 +1,7 @@
+---
+updated: '2023-10-20T13:54:09Z'
+created: '2023-10-20T13:54:09Z'
+---
 https://www.theatlantic.com/ideas/archive/2023/07/godel-escher-bach-geb-ai/674589/
 (free link) https://archive.ph/2VtiC
 

@@ -1,3 +1,7 @@
+---
+updated: '2023-10-20T13:54:09Z'
+created: '2023-10-20T13:54:09Z'
+---
 https://mtnath.com/training2022/
 
 ## My 2022 season Training and Racing

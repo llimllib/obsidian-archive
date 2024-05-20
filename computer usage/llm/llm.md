@@ -1,3 +1,7 @@
+---
+updated: '2024-03-13T12:48:31Z'
+created: '2024-03-13T12:48:02Z'
+---
 https://github.com/simonw/llm
 https://llm.datasette.io/en/stable/index.html
 

@@ -1,3 +1,7 @@
+---
+updated: '2024-02-16T14:01:14Z'
+created: '2024-02-16T14:01:14Z'
+---
 https://jacobtomlinson.dev/effver/
 
 ![[Pasted image 20240216085956.png]]

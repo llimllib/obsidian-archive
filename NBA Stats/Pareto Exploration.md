@@ -1,3 +1,7 @@
+---
+updated: '2023-10-20T13:54:09Z'
+created: '2023-10-20T13:54:09Z'
+---
 https://apanalytics.shinyapps.io/pareto/
 
 Lets you calculate players who had the biggest outlier games in several different dimensions. For example, here is a graph of the players who scored the most points on the best TS%, from 2006 to 2022:

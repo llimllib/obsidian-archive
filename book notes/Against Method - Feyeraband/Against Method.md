@@ -1,3 +1,7 @@
+---
+updated: '2023-10-20T13:54:09Z'
+created: '2023-10-20T13:54:09Z'
+---
 > I conclude that the life we lead is ambiguous. It contains not only one future, but many, and it contains them neither ready-made nor as possibilities that can be turned into any direction.
 
 -----

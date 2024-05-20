@@ -1,3 +1,7 @@
+---
+updated: '2023-10-20T13:54:09Z'
+created: '2023-10-20T13:54:09Z'
+---
 Found this very interesting query, showing how Postico introspects a postgres database:
 
 https://gist.github.com/rgwood/d4125a7e551a2c08eb9ee11841e14afb

@@ -1,3 +1,7 @@
+---
+updated: '2023-10-20T13:54:09Z'
+created: '2023-10-20T13:54:09Z'
+---
 https://github.com/bradfitz/go-tool-cache
 
 > Like Go's built-in build/test caching but wish it weren't purely stored on local disk in the `$GOCACHE` directory?

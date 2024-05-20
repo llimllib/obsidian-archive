@@ -1,3 +1,7 @@
+---
+updated: '2023-11-13T14:13:46Z'
+created: '2023-10-20T13:54:09Z'
+---
 [[Yjs]] and [[Automerge]] are the two implementations I've heard of people actually using:
 
 I enjoyed this talk: https://www.youtube.com/watch?v=x7drE24geUw

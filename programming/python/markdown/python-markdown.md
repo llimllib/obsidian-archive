@@ -1,3 +1,7 @@
+---
+updated: '2024-01-05T15:30:22Z'
+created: '2024-01-05T15:30:22Z'
+---
 https://python-markdown.github.io/
 
 > This is a Python implementation of John Gruber’s [Markdown](https://daringfireball.net/projects/markdown/). It is almost completely compliant with the reference implementation, though there are a few very minor [differences](https://python-markdown.github.io/#differences).

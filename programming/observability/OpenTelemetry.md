@@ -1,3 +1,7 @@
+---
+updated: '2023-10-20T13:54:09Z'
+created: '2023-10-20T13:54:09Z'
+---
 https://opentelemetry.io/
 
 > # High-quality, ubiquitous, and portable telemetry to enable effective observability

@@ -1,3 +1,7 @@
+---
+updated: '2023-10-20T13:54:09Z'
+created: '2023-10-20T13:54:09Z'
+---
 https://dougallj.wordpress.com/2022/08/20/faster-zlib-deflate-decompression-on-the-apple-m1-and-x86/
 
 > Most of the speedup just comes from reading and applying Fabian Giesen’s posts ([[intro to dataflow graphs]]) on Huffman decoding

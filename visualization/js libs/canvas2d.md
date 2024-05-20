@@ -1,3 +1,7 @@
+---
+updated: '2023-10-20T13:54:09Z'
+created: '2023-10-20T13:54:09Z'
+---
 Interesting article on new features for canvas:
 
 https://developer.chrome.com/blog/canvas2d/

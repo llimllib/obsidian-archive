@@ -1,3 +1,7 @@
+---
+updated: '2023-10-20T13:54:09Z'
+created: '2023-10-20T13:54:09Z'
+---
 https://github.com/topojson/topojson
 
 > **TopoJSON** is an extension of [[GeoJSON]] that encodes topology. Rather than representing geometries discretely, geometries in TopoJSON files are stitched together from shared line segments called _arcs_. This technique is similar to [Matt Bloch’s MapShaper](http://www.cartogis.org/docs/proceedings/2006/bloch_harrower.pdf) and the [Arc/Info Export format, .e00](https://web.archive.org/web/20140721114041/http://indiemaps.com:80/blog/2009/02/e00parser-an-actionscript-3-parser-for-the-arcinfo-export-topological-gis-format/).

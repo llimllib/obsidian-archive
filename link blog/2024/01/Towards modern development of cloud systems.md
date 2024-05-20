@@ -1,3 +1,7 @@
+---
+updated: '2024-01-15T00:38:04Z'
+created: '2024-01-15T00:38:04Z'
+---
 https://dl.acm.org/doi/pdf/10.1145/3593856.3595909
 
 > When writing a distributed application, conventional wisdom says to split your application into separate services that can be rolled out independently. This approach is well-intentioned, but a microservices-based architecture like this often backfires, introducing challenges that counteract the benefits the architecture tries to achieve. Fundamentally, this is because microservices conflate logical boundaries (how code is written) with physical boundaries (how code is deployed). 

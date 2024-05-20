@@ -1,3 +1,7 @@
+---
+updated: '2023-10-20T13:54:09Z'
+created: '2023-10-20T13:54:09Z'
+---
 https://surfingcomplexity.blog/2021/01/10/error-budgets-and-the-legacy-of-herbert-heinrich/
 
 > Here are the claims I’m going to make:

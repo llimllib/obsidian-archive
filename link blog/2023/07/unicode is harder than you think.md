@@ -1,3 +1,7 @@
+---
+updated: '2023-10-20T13:54:09Z'
+created: '2023-10-20T13:54:09Z'
+---
 https://mcilloni.ovh/2023/07/23/unicode-is-hard/
 
 A nice walk through the history of unicode, along with code samples in python and C, explaining why each encoding sucks (but UTF-8 sucks the least) and unicode is not easy.

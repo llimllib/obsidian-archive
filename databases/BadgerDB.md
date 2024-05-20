@@ -1,3 +1,7 @@
+---
+updated: '2023-10-20T13:54:09Z'
+created: '2023-10-20T13:54:09Z'
+---
 https://github.com/dgraph-io/badger#badger-documentation
 
 > Badger was written with these design goals in mind:

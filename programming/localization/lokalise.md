@@ -1,3 +1,7 @@
+---
+updated: '2023-10-20T13:54:09Z'
+created: '2023-10-20T13:54:09Z'
+---
 https://lokalise.com
 
 Useful-looking localization tool. Got it from [this toot](https://mastodon.social/@TodePond/110072513245111324) by Lu Wilson (who has since migrated to `@TodePond@universeodon.com`)

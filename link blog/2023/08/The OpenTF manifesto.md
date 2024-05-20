@@ -1,3 +1,7 @@
+---
+updated: '2023-10-20T13:54:09Z'
+created: '2023-10-20T13:54:09Z'
+---
 https://opentf.org/
 
 > Our request to HashiCorp: switch Terraform back to an open source license.

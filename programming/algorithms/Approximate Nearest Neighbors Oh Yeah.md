@@ -1,3 +1,7 @@
+---
+updated: '2023-10-30T18:02:15Z'
+created: '2023-10-30T18:02:15Z'
+---
 aka ANNOY
 
 https://zilliz.com/learn/approximate-nearest-neighbor-oh-yeah-ANNOY

@@ -1,3 +1,7 @@
+---
+updated: '2023-11-29T15:11:37Z'
+created: '2023-11-29T15:10:56Z'
+---
 I finished [rustlings](https://github.com/rust-lang/rustlings) this morning, more out of a desire to evaluate it as a pedagogical tool than to learn rust, although learning a bit of rust doesn't seem like a bad idea anyway.
 
 Some reflections:

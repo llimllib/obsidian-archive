@@ -1,3 +1,7 @@
+---
+updated: '2023-10-20T13:54:09Z'
+created: '2023-10-20T13:54:09Z'
+---
 https://bird.makeup
 
 Give it a twitter handle, and it will proxy that user's tweets to mastodon. You can subscribe to them at @twitter_handle@bird.makeup .

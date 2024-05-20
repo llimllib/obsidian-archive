@@ -1,3 +1,7 @@
+---
+updated: '2023-11-20T15:02:33Z'
+created: '2023-11-20T15:02:33Z'
+---
 Lovely talk by John Rauser at Velocity Conference:
 
 https://www.youtube.com/watch?v=fSgEeI2Xpdc

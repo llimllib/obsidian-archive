@@ -1,3 +1,7 @@
+---
+updated: '2024-01-01T18:32:03Z'
+created: '2024-01-01T18:32:03Z'
+---
 https://observablehq.com/
 
 > Observable isn’t just a platform that you can use to create all of your data visualizations — from simple charts to robust data apps. It’s a community of data practitioners, a library of examples you can build from, and a place where you can grow.

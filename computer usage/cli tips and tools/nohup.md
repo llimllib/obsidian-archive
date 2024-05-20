@@ -1,3 +1,7 @@
+---
+updated: '2024-03-19T20:01:59Z'
+created: '2024-03-19T20:01:59Z'
+---
 To launch a process in the background, use a trailing `&`. This command launches a subshell in the background:
 
 ```shell

@@ -1,3 +1,7 @@
+---
+updated: '2024-04-09T18:56:49Z'
+created: '2023-10-20T13:54:09Z'
+---
 https://simonwillison.net/2023/Jan/13/semantic-search-answers/
 
 -   Run a text search (or a semantic search, described later) against your documentation to find content that looks like it could be relevant to the user’s question

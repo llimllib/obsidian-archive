@@ -1,3 +1,7 @@
+---
+updated: '2023-11-20T19:00:56Z'
+created: '2023-11-20T19:00:56Z'
+---
 https://xxyxyz.org/line-breaking/
 
 A really lovely page describing a series of line breaking algorithms, giving code for each, and then presenting a graph describing its performance.

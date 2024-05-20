@@ -1,3 +1,7 @@
+---
+updated: '2024-04-26T14:54:59Z'
+created: '2024-02-01T20:41:33Z'
+---
 > For better or worse, my experience as a GitHub cofounder and author of several Git books (Pro Git, etc) is that the Git commit message is a unique vector for code documentation that is highly sub-optimal.
 
 > The main issue is that most of the tooling (in Git or GitHub or whatever) generally only shows the first line. So in the case of this commit example would be the very simple message of a generic "US-ASCII error" problem. Everything they talk about in this article is what is great about the _rest_ of the commit message, which, given modern tools, is _almost never_ seen by anyone.

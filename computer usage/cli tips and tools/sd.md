@@ -1,3 +1,7 @@
+---
+updated: '2024-02-24T16:33:23Z'
+created: '2024-02-24T16:33:23Z'
+---
 https://github.com/chmln/sd
 
 > _Painless regular expressions._   `sd` uses regex syntax that you already know from JavaScript and Python. Forget about dealing with quirks of `sed` or `awk` - get productive immediately.

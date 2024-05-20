@@ -1,3 +1,7 @@
+---
+updated: '2023-10-20T13:54:09Z'
+created: '2023-10-20T13:54:09Z'
+---
 A competitor to [[Postgraphile]] has arisen: `pg_graphql` from the [[supabase]] folks
 
 https://github.com/supabase/pg_graphql

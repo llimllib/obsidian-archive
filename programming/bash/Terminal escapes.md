@@ -1,3 +1,7 @@
+---
+updated: '2023-10-20T13:54:09Z'
+created: '2023-10-20T13:54:09Z'
+---
 Excellent article about how ANSI escapes work and how to use them: http://xn--rpa.cc/irl/term.html
 
 a commenter on news.yc gives this page as the best guide to escape sequences they found: https://invisible-island.net/xterm/ctlseqs/ctlseqs.html (but note that it's aimed at xterm, not at any sort of standard, and other terminals may have more features)

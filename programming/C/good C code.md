@@ -1,3 +1,7 @@
+---
+updated: '2023-10-20T13:54:09Z'
+created: '2023-10-20T13:54:09Z'
+---
 What makes good C code?
 
 Here's some that I consider good: https://github.com/Tarsnap/tarsnap/blob/3d85cc1f27b5319c7e175fea2b89290a1bd7905a/lib/keyfile/keyfile.c

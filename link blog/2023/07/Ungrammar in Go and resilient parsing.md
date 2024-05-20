@@ -1,3 +1,7 @@
+---
+updated: '2023-10-20T13:54:09Z'
+created: '2023-10-20T13:54:09Z'
+---
 https://eli.thegreenplace.net/2023/ungrammar-in-go-and-resilient-parsing/
 
 Eli Bendersky wrote a [lexer](https://github.com/eliben/go-ungrammar/blob/a36d6170fb4aecb59142bc57381f7fd190e155e4/lexer.go) and [parser](https://github.com/eliben/go-ungrammar/blob/a36d6170fb4aecb59142bc57381f7fd190e155e4/parser.go) for [ungrammar](https://github.com/rust-analyzer/ungrammar/tree/master) in go.

@@ -1,3 +1,7 @@
+---
+updated: '2023-10-20T13:54:09Z'
+created: '2023-10-20T13:54:09Z'
+---
 https://josiahdykstra.com/wp-content/uploads/2022/06/HFES2022_OpportunityCostAndActionBias.pdf
 
 from [this blog post](https://swagitda.com/blog/posts/opportunity-cost-action-bias-cybersecurity-incident-response/)

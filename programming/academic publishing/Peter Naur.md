@@ -1,3 +1,7 @@
+---
+updated: '2023-10-20T13:54:09Z'
+created: '2023-10-20T13:54:09Z'
+---
 ## Programming as Theory Building (1985)
 
 Superb artcle where he makes the argument that what is valuable about a program is not the program text and accompanying documents, but rather the theory of program that lives in the mind of the programmers who work on it.

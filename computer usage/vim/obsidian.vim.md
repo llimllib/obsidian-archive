@@ -1,3 +1,7 @@
+---
+updated: '2023-10-20T13:54:09Z'
+created: '2023-10-20T13:54:09Z'
+---
 https://github.com/epwalsh/obsidian.nvim
 
 > A Neovim plugin for writing and navigating an [Obsidian](https://obsidian.md/) vault, written in Lua.

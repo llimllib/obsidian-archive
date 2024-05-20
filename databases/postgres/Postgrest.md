@@ -1,3 +1,7 @@
+---
+updated: '2023-10-20T13:54:09Z'
+created: '2023-10-20T13:54:09Z'
+---
 REST server for [[Postgres]], using row-level security you can directly query your database. Used extensively by supabase.
 
 https://postgrest.org/

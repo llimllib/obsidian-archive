@@ -1,3 +1,7 @@
+---
+updated: '2023-10-20T13:54:09Z'
+created: '2023-10-20T13:54:09Z'
+---
 https://quarto.org
 
 > Quarto® is an open-source scientific and technical publishing system built on [Pandoc](https://pandoc.org/)

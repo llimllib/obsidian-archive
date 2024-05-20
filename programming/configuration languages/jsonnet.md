@@ -1,3 +1,7 @@
+---
+updated: '2024-01-23T16:13:55Z'
+created: '2023-10-20T13:54:09Z'
+---
 https://jsonnet.org/
 
 > A configuration language for app and tool developers

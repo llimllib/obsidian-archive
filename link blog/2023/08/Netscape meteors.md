@@ -1,3 +1,7 @@
+---
+updated: '2023-10-20T13:54:09Z'
+created: '2023-10-20T13:54:09Z'
+---
 https://erynwells.me/blog/2023/08/netscape-meteors/
 
 > I went on a small journey the last couple days to find the original Netscape Navigator “meteors” animation. This one has a special place in my head and heart because it is so clearly connected to my memories of discovering the web as a kid. Here it is in its original 60×60 px glory:

@@ -1,3 +1,7 @@
+---
+updated: '2023-10-20T13:54:09Z'
+created: '2023-10-20T13:54:09Z'
+---
 https://github.com/nedbat/truchet/blob/main/Truchet.ipynb
 
 Ned Batchelder's implementation of a scale-free tile system by [Christopher Carlson](https://christophercarlson.com/portfolio/multi-scale-truchet-patterns/)

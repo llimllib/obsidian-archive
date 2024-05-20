@@ -1,3 +1,7 @@
+---
+updated: '2023-10-20T13:54:09Z'
+created: '2023-10-20T13:54:09Z'
+---
 1. buy a domain name
 2. point the nameservers to digital ocean
 3. create a DO droplet

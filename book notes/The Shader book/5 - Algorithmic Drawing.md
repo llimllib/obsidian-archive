@@ -1,3 +1,7 @@
+---
+updated: '2024-04-20T19:09:08Z'
+created: '2024-04-20T16:46:42Z'
+---
 - neat square wave function: `y = ceil(sin(x+u_time)) + floor(sin(x+u_time));`, I'd never considered it in that way before
 - Golan Levin's shaping functions:
 	- [polynomial](http://www.flong.com/archive/texts/code/shapers_poly/)

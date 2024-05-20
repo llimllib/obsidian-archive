@@ -1,3 +1,7 @@
+---
+updated: '2023-10-20T13:54:09Z'
+created: '2023-10-20T13:54:09Z'
+---
 The [[Rumsey map archive]] has added the ability to [search text on maps](https://www.davidrumsey.com/luna/servlet/view/search)
 
 ![[Pasted image 20230831102023.png]]

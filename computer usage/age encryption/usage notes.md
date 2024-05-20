@@ -1,3 +1,7 @@
+---
+updated: '2023-10-20T13:54:09Z'
+created: '2023-10-20T13:54:09Z'
+---
 ```
 $ age -p new_gersh_token > new_gersh_token.txt.age
 Enter passphrase (leave empty to autogenerate a secure one):

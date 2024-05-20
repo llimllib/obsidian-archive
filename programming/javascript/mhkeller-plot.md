@@ -1,3 +1,7 @@
+---
+updated: '2023-10-20T13:54:09Z'
+created: '2023-10-20T13:54:09Z'
+---
 https://github.com/mhkeller/plot
 
 > A node library to display charts in popup windows and save them as pngs. Supports observablehq/plot, vega-lite and plotly out of the box.

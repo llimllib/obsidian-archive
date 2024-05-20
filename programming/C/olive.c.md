@@ -1,3 +1,7 @@
+---
+updated: '2023-10-20T13:54:09Z'
+created: '2023-10-20T13:54:09Z'
+---
 https://github.com/tsoding/olive.c
 
 > Simple graphics library that does not have any dependencies and renders everything into the given memory pixel by pixel. Visit [https://tsoding.org/olive.c/](https://tsoding.org/olive.c/) to see some demos.

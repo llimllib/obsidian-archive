@@ -1,3 +1,7 @@
+---
+updated: '2023-10-20T13:54:09Z'
+created: '2023-10-20T13:54:09Z'
+---
 https://brycemecum.com/2023/03/31/til-mermaid-tracing/
 
 clever re-use of gantt charts as trace diagrams.

@@ -1,3 +1,7 @@
+---
+updated: '2023-10-20T13:54:09Z'
+created: '2023-10-20T13:54:09Z'
+---
 https://github.com/roapi/roapi
 
 > ROAPI automatically spins up read-only APIs for static datasets without requiring you to write a single line of code. It builds on top of [Apache Arrow](https://github.com/apache/arrow) and [Datafusion](https://github.com/apache/arrow-datafusion). The core of its design can be boiled down to the following:

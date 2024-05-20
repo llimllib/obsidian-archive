@@ -1,3 +1,7 @@
+---
+updated: '2023-10-20T13:54:09Z'
+created: '2023-10-20T13:54:09Z'
+---
 https://kernel.dk/io_uring.pdf
 https://kernel.dk/io_uring-whatsnew.pdf
 

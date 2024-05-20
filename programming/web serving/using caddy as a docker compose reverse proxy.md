@@ -1,3 +1,7 @@
+---
+updated: '2023-10-20T13:54:09Z'
+created: '2023-10-20T13:54:09Z'
+---
 ## part 1: plain old HTTP
 
 Say you have a `docker-compose.yml` file containing a service that you'd like to proxy both https and http traffic to:

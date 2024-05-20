@@ -1,3 +1,7 @@
+---
+updated: '2024-04-24T15:38:37Z'
+created: '2024-04-24T15:38:37Z'
+---
 > I understand the revolutionary impulse. American Democracy is built upon a rotten foundation of white supremacy. Reform efforts are hard, and slow, and always incomplete. The idea that we ought to defend and hold up a fundamentally unjust system — that we should support a social hierarchy that violently oppresses vulnerable populations — is barely-defensible in the abstract.
 
 > And yet, if we were to tear the existing social order down to the studs, that would also mean grappling with well-armed white supremacists, who have their _own_ plans for who and how the law ought to protect and bind.

@@ -1,3 +1,7 @@
+---
+updated: '2023-10-20T13:54:09Z'
+created: '2023-10-20T13:54:09Z'
+---
 http://smarden.org/runit/
 
 > _runit_ is a cross-platform Unix init scheme with service supervision, a replacement for [sysvinit](ftp://ftp.cistron.nl/pub/people/miquels/sysvinit/), and other init schemes. It runs on **GNU/Linux**, **\*BSD**, **MacOSX**, **Solaris**, and can easily be adapted to other Unix operating systems

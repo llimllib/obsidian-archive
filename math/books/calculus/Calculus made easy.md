@@ -1,3 +1,7 @@
+---
+updated: '2024-04-20T19:36:01Z'
+created: '2024-04-20T19:36:01Z'
+---
 https://calculusmadeeasy.org/
 https://github.com/nadvornix/calculus-made-easy
 

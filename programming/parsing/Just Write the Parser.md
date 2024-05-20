@@ -1,3 +1,7 @@
+---
+updated: '2023-10-20T13:54:09Z'
+created: '2023-10-20T13:54:09Z'
+---
 https://tiarkrompf.github.io/notes/?/just-write-the-parser/
 
 > This is a whirlwind tour of writing parsers by hand. Why would you want to do that, when tools like Yacc exist to do it for you?

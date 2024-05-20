@@ -1,3 +1,7 @@
+---
+updated: '2023-10-20T13:54:09Z'
+created: '2023-10-20T13:54:09Z'
+---
 https://www.bit-101.com/blog/2022/11/coding-curves/
 
 1.  [Intro (you’re reading it)](https://www.bit-101.com/blog/2022/11/coding-curves/)

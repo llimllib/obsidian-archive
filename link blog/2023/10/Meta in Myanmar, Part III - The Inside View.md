@@ -1,3 +1,7 @@
+---
+updated: '2023-10-20T13:54:09Z'
+created: '2023-10-20T13:54:09Z'
+---
 https://erinkissane.com/meta-in-myanmar-part-iii-the-inside-view
 
 > I think that if you make a machine and hand it out for free to everyone in the world, you’re at least partially responsible for the harm that the machine does.

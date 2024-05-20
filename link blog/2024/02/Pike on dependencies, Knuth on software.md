@@ -1,3 +1,7 @@
+---
+updated: '2024-02-21T14:52:28Z'
+created: '2024-02-21T14:52:28Z'
+---
 > if you look at almost any significant open source project you will see hundreds, even thousands of dependencies in the fully realized import tree, dependencies that are never checked, updates that are never verified as safe. Essentially no one maintains their dependency tree as they should, because it is infeasible to do so. We have built a machine that cannot be fixed.
 
 - [Rob Pike](https://phanpy.social/#/hachyderm.io/s/111960728489364881)

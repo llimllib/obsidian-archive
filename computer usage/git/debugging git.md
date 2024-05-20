@@ -1,3 +1,7 @@
+---
+updated: '2024-05-06T13:59:48Z'
+created: '2024-05-06T13:59:48Z'
+---
 [this gist is a helpful resource](https://gist.github.com/phil-blain/17c67740bd26e66f4851fe0c07230ea4)
 
 1. `./configure`

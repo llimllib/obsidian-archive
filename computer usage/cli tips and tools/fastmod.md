@@ -1,3 +1,7 @@
+---
+updated: '2023-10-20T13:54:09Z'
+created: '2023-10-20T13:54:09Z'
+---
 https://github.com/facebookincubator/fastmod
 
 > `fastmod` is a fast partial replacement for [codemod](https://github.com/facebook/codemod). Like `codemod`, it is a tool to assist you with large-scale codebase refactors, and it supports most of `codemod`'s options. `fastmod`'s major philosophical difference from `codemod` is that it is focused on improving the use case "I want to use interactive mode to make sure my regex is correct, and then I want to apply the regex everywhere".

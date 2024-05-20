@@ -1,3 +1,7 @@
+---
+updated: '2023-10-20T13:54:09Z'
+created: '2023-10-20T13:54:09Z'
+---
 https://words.filippo.io/how-plex-is-doing-https-for-all-its-users/
 
 Interesting dive into how Plex is creating certs for every plex server

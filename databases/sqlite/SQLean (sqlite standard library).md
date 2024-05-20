@@ -1,3 +1,7 @@
+---
+updated: '2023-10-20T13:54:09Z'
+created: '2023-10-20T13:54:09Z'
+---
 https://antonz.org/sqlean/
 
 I really like [[sqlite]]. It’s a miniature embedded database, perfect for both exploratory data analysis and as a storage for small apps (I’ve [blogged about that](https://antonz.org/sqlite-is-not-a-toy-database/) previously).

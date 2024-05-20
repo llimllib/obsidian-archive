@@ -1,3 +1,7 @@
+---
+updated: '2023-10-20T13:54:09Z'
+created: '2023-10-20T13:54:09Z'
+---
 To get [[pyright]] to use a virtualenv named `.venv` in your project's directory:
 
 - Create a file named `pyproject.toml` (if one doesn't already exist) and add the following configuration section:

@@ -1,3 +1,7 @@
+---
+updated: '2024-03-27T01:03:54Z'
+created: '2024-03-27T01:03:54Z'
+---
 > As the maintainer of stuff your users all the sudden start calling you out for using learned-rust-this-way and you suffer. Stress levels increase. You gotta unload that shit. Why? Not because it does not work for you, but someone called you out of that debt. If we really want to stress the financial terms this is your margin call. Your users demand action to deal with your debt...
 
 > here is what actually does work: you just merge that code into your own library. Now that junk tech debt is suddenly rated “AAA”. For as long as you never touch that code any more, you never reveal to anyone that you did that, and you just keep maintaining your library like you did before, the world keeps spinning on.

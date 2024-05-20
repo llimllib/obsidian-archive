@@ -1,3 +1,7 @@
+---
+updated: '2023-10-20T13:54:09Z'
+created: '2023-10-20T13:54:09Z'
+---
 https://observablehq.com/@mthh/hello-dicopal
 https://github.com/riatelab/dicopal.js
 https://npmjs.com/package/dicopal

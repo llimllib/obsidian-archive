@@ -1,3 +1,7 @@
+---
+updated: '2023-10-20T13:54:09Z'
+created: '2023-10-20T13:54:09Z'
+---
 https://github.com/softdevteam/grmtools/
 
 Rust grammar tools; allow you to build a parser from a grammar specification. Inclues `lrpar`, which is a `yacc`-compatible parser generator for rust.

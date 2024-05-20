@@ -1,3 +1,7 @@
+---
+updated: '2024-03-20T18:44:26Z'
+created: '2024-03-20T18:44:26Z'
+---
 https://www.inf.puc-rio.br/~roberto/docs/Gualandi-2020-SCP.pdf
 
 > With the insight that programmers are willing to restrict their use of dynamic language features when performance matters, we have decided to explore a return to the traditional scripting architecture through Pallene, a system programming language that we have designed specifically to complement Lua. Since Pallene has static types, it can obtain good performance with an ahead-of-time compiler, avoiding the complexities of just-in-time compilation; and since it is designed specifically to be used with Lua, we hope Pallene will be attractive in situations where using C would be too cumbersome.

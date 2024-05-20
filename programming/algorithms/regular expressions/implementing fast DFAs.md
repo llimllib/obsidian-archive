@@ -1,3 +1,7 @@
+---
+updated: '2023-10-20T13:54:09Z'
+created: '2023-10-20T13:54:09Z'
+---
 this gist from Per Vognsen: https://gist.github.com/pervognsen/218ea17743e1442e59bb60d29b1aa725
 
 demonstrates how to speed up a naive DFA table implementation. Is a bit over my head, but interesting.

@@ -1,3 +1,7 @@
+---
+updated: '2024-02-24T16:33:23Z'
+created: '2023-10-20T13:54:09Z'
+---
 https://stedolan.github.io/jq/
 
 Great tool for filtering, formatting, and outputting json.

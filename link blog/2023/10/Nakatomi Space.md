@@ -1,3 +1,7 @@
+---
+updated: '2023-10-20T15:26:51Z'
+created: '2023-10-20T15:26:51Z'
+---
 https://www.bldgblog.com/2010/01/nakatomi-space/
 
 Interesting essay that compares _Die Hard_ and the _Bourne_ movies to Israeli Defense Force tactics of moving through cities/buildings without using the normal routes: streets, sidewalks, stairs.
