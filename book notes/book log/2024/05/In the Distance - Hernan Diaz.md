@@ -1,0 +1,9 @@
+---
+created: 2024-05-20T14:11:43.952Z
+updated: 2024-05-20T14:11:43.952Z
+---
+I had a different Diaz book on my list to read, but this was the only one they had in the library, and I'm glad of it. I really enjoyed the story.
+
+The protagonist, of the story, Håkan, is a tortured soul who, among other adventures, learns to do surgery. This passage, where he tends to a group of victims of a slaughter, struck me particularly:
+
+> Hakan's memory of what followed that first operation was obscured by thick smudges of blood, but behind the crimson-black swirls, his recollections had the surgical precision of a picture painted with a single-hair brush. Until sunset, they extracted pellets buried in the deepest fibers of the flesh, fitted the serrated edges of broken bones into one another, reset viscera and stitched abdomens shut, cauterized wounds with white-hot irons, sawed off arms and feet, and sewed flaps of skin around muscle and fat and bone into rounded stumps. As he became absorbed by the work, Hakan discovered a form of impassive care completely new to him. His detachment, he felt, was the only proper approach to tending to the wounded. Anything else, beginning with compassion and commiseration, could only degrade the sufferers' pain by likening it to a merely imaginary agony. And he had learned that pity was insatiable a false virtue that always craved more suffering to show how limitless and magnificent it could be. This sense of responsibility exposed a fundamental disagreement with Lorimer's doctrines. The naturalist claimed that all life was the same and, ultimately, one. We come from other bodies and are destined to become other bodies. In a universe made of universes, he would often say, rank becomes meaningless. But Hakan now sensed the sanctity of the human body and considered every glimpse underneath the skin a profanation.
