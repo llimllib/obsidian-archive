@@ -4,7 +4,7 @@ updated: 2024-05-23T12:09:22.986Z
 ---
 https://github.com/BrianHicks/tree-grepper
 
-uses [tree-sitter](https://tree-sitter.github.io/tree-sitter/) to parse source code into ASTs and allow you to grep it via queries.
+uses [[tree-sitter]] to parse source code into ASTs and allow you to grep it via queries.
 
 explanatory blog post: https://bytes.zone/posts/tree-grepper/
 
