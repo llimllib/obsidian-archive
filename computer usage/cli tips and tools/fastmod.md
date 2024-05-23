@@ -1,6 +1,6 @@
 ---
-updated: '2023-10-20T13:54:09Z'
-created: '2023-10-20T13:54:09Z'
+updated: 2024-05-23T12:25:29.884Z
+created: 2023-10-20T13:54:09Z
 ---
 https://github.com/facebookincubator/fastmod
 
