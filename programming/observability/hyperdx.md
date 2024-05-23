@@ -11,6 +11,6 @@ https://github.com/hyperdxio/hyperdx
 
 > HyperDX is open core, with most of our features available here under an MIT license. We have a cloud-hosted version available at hyperdx.io with a few additional features beyond what's offered in the open source version.
 
-written in Typescript (I was 100% expecting rust!)
+written in [[programming/observability/Typescript]] (I was 100% expecting rust!)
 
 monetizing via a SaaS model

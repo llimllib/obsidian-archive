@@ -21,6 +21,6 @@ These hash functions are faster than cryptographic hash functions, but less secu
 	- hosted as part of the handy [smhasher tool](https://github.com/rurban/smhasher) which includes a [website with a table](https://rurban.github.io/smhasher/) of many more hashes than I will list here, and information on their performance and quality
 - [jenkins](https://en.wikipedia.org/wiki/Jenkins_hash_function)
 - [fxhash](https://nnethercote.github.io/2021/12/08/a-brutally-effective-hash-function-in-rust.html)
-	- developed for use in firefox, and implemented [in rust](https://docs.rs/fxhash/latest/fxhash/struct.FxHasher.html)
+	- developed for use in firefox, and implemented [implemented in](https://docs.rs/fxhash/latest/fxhash/struct.FxHasher.html) [[Rust]]
 - [city hash](https://github.com/google/cityhash), which comes out of work done at google
 - [fnv hash](http://www.isthe.com/chongo/tech/comp/fnv/), a series of fast hash functions
