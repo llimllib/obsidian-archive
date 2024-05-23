@@ -7,3 +7,5 @@ https://encore.dev/blog/queueing
 A fun [[Interactive explainer]] about different ways to handle queues - FIFO, LIFO, Priority Queues. All presented as little interactive almost-video-games, which is fun.
 
 (Also, queueing has five consecutive vowels. What a word)
+
+via [this toot](https://hachyderm.io/@samwho/112485322180650102)
