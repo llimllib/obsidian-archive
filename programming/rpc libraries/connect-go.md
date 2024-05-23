@@ -16,6 +16,6 @@ curl \
     https://demo.connect.build/buf.connect.demo.eliza.v1.ElizaService/Say
 ```
 
-written in [[go]]
+written in [[programming/golang/Go]]
 
 There's also a package for generating [typescript bindings](https://www.npmjs.com/package/@bufbuild/connect-web)

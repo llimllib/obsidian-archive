@@ -6,7 +6,7 @@ https://github.com/storj/drpc/
 
 > A drop-in, lightweight gRPC replacement.
 
-go/c++/rust/node implementations
+[[golang|go]]/[[c++]]/[[rust]]/[[nodejs|node]] implementations
 
 > -   Simple, at just a few thousand [lines of code](https://github.com/storj/drpc/#lines-of-code).
 > -   [Small dependencies](https://github.com/storj/drpc/blob/main/blob/main/go.mod). Only 3 requirements in go.mod, and 9 lines of `go mod graph`!

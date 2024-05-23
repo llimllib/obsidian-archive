@@ -28,6 +28,6 @@ comby 'failUnlessEqual(:[a],:[b])' 'assertEqual(:[a],:[b])' example.py
              )
 ```
 
-Written in OCaml, doesn't use [[tree-sitter]] which surprised me a bit.
+Written in [[OCaml]], doesn't use [[tree-sitter]] which surprised me a bit.
 
 see also [[fastmod]], [[ast-grep]]

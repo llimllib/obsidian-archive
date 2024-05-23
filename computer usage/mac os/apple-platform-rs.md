@@ -4,7 +4,7 @@ created: '2024-01-29T19:27:00Z'
 ---
 https://github.com/indygreg/apple-platform-rs
 
-> This repository contains a collection of Rust crates to support Apple platforms.
+> This repository contains a collection of [[Rust]] crates to support Apple platforms.
 
 > See the various project directories for more.
 

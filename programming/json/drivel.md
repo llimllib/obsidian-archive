@@ -4,7 +4,7 @@ created: '2024-04-02T17:09:09Z'
 ---
 https://github.com/hgrsd/drivel
 
-> `drivel` is a command-line tool written in Rust for inferring a schema from an example JSON (or JSON lines) file, and generating synthetic data (the drivel in question) based on the inferred schema.
+> `drivel` is a command-line tool written in [[Rust]] for inferring a schema from an example JSON (or JSON lines) file, and generating synthetic data (the drivel in question) based on the inferred schema.
 
 Very cool.
 

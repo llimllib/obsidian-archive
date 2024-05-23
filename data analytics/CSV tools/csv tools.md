@@ -7,8 +7,8 @@ created: '2023-10-20T13:54:09Z'
 - [[miller]] - slow but thorough and multi-format (json, csv, tsv)
 - [[xsv]] - faster, but no release since 2018. Author seems busy with other stuff (not complaining)
 	- 2023 update: unfortunately still no releases, seems completely abandoned
-- [[zsv]] - very fast csv tools, C, never used it
-- [[qsv]] - very fast csv tools, rust, never used it. Will turn json to csv (not sure how). Fork of xsv
+- [[zsv]] - very fast csv tools, [[programming/C/C|C]], never used it
+- [[qsv]] - very fast csv tools, [[rust]], never used it. Will turn json to csv (not sure how). Fork of xsv
 - [[csvkit]] - slow, but the most thorough csv tools I know of
 - [q](http://harelba.github.io/q/) - run sql directly on CSV or TSV files
 - [csvtk](https://bioinf.shenwei.me/csvtk/) golang tools, looks similar to qsv. Has plot tools, which is neat
