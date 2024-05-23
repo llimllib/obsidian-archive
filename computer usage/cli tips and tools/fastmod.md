@@ -15,3 +15,5 @@ An example query is, if you want to replace `import type { Version }` everywhere
 By default, the tool will ignore hidden files; pass `--hidden` to match them.
 
 The really nice thing about it, to me, is that it presents you with each change before it makes it, which is very helpful when creating these sorts of replacements. Often I find that I have to do a loop of making a project-wide replacement with sed, then checking the results with git, undoing the changes, and repeating until I finally have it right.
+
+see also [[ast-grep]]
