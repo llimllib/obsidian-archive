@@ -1,7 +1,10 @@
 ---
 created: 2024-05-23T12:05:34.035Z
-updated: 2024-05-23T12:05:34.035Z
+updated: 2024-05-23T21:14:38.313Z
 ---
+https://github.com/ast-grep/ast-grep
+https://ast-grep.github.io/
+
 > Find Code by Syntax
 
 > ast-grep is a code tool for structural search and replace. It is like syntax-aware grep/sed! You can write code patterns to locate and modify code, based on AST, in thousands of files, interactively.
