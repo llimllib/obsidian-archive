@@ -1,6 +1,6 @@
 ---
-updated: '2024-01-24T15:08:57Z'
-created: '2023-10-20T13:54:09Z'
+updated: 2024-05-25T02:15:07.592Z
+created: 2023-10-20T13:54:09Z
 ---
 Lately, I've been browsing youtube and looking for good live concerts to watch. Some favorites:
 
@@ -38,3 +38,4 @@ Lately, I've been browsing youtube and looking for good live concerts to watch. 
 - [Cannonball Adderley, BBC 1964](https://www.youtube.com/watch?v=kF93FqBqIeE)
 - [Béla Fleck - My Bluegrass Heart, April 2022](https://www.youtube.com/watch?v=ccb2xnqfgCU)
 - [Jimi Hendrix, Stockholm 1969](https://www.youtube.com/watch?v=6oXvEbtx4L4)
+- [McCoy Tyner Trio, Nürnberg 1986](https://www.youtube.com/watch?v=h_tgnG7t0kA)
