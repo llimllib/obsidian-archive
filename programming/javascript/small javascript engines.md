@@ -35,6 +35,12 @@ by Fabrice Bellard
 
 > Espruino is a JavaScript interpreter for microcontrollers. It is designed for devices with as little as 128kB Flash and 8kB RAM.
 
+[rampart](https://github.com/aflin/rampart) ([website](https://rampart.dev/index.html))
+
+> Old school JavaScript with fast C full text search, sql, lmdb, redis, https, websockets, curl, crypt and more.
+
+> Rampart is a javascript based complete stack development environment which is extremely resource stingy. This entire site is running on a Raspberry Pi Zero (version 1). Rampart is also fast and portable; it will run on nearly any *nix OS and benchmarks nearly as fast as Nginx on static content. It's also free to use, modify, and redistribute in most use cases.
+
 _Update Jun 6 24_:
 
 [Bare](https://github.com/holepunchto/bare)
