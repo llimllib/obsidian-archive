@@ -15,3 +15,5 @@ Thankfully, it is possible to use the `gh` command line tool to create a usable 
 	2. My advice is to use a particular [scope](https://docs.npmjs.com/cli/v9/using-npm/scope) for the packages you want to live on the github package repository; it is not easily possible to have npm switch between registries if you have some packages on regular npm and others on the github package repository
 
 To test that you have access, you can do `npm install -g @your_scope/some_package` and verify that you are able to install your private package.
+
+There's an [open issue](https://github.com/cli/cli/issues/6276) in the gh cli repository for how to integrate this process better, but I'm not exactly sure how it would work.
