@@ -1,6 +1,6 @@
 ---
-updated: '2024-04-01T15:36:40Z'
-created: '2023-10-20T13:54:09Z'
+updated: 2024-06-06T16:40:18.450Z
+created: 2023-10-20T13:54:09Z
 ---
 https://cli.github.com
 https://github.com/cli/cli
@@ -66,3 +66,9 @@ update: I [wrote my own program](https://github.com/llimllib/personal_code/blob/
 Create a repository and push the git repo in the current directory to that new repo:
 
 `gh repo create --push --source . --public llimllib/newproject`
+
+---
+
+Create a token with permissions to read and write to private packages (docker, npm, etc):
+
+`gh auth login --scopes=write:packages`
