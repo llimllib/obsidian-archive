@@ -17,3 +17,5 @@ One of the first things I setup on my computer; I use it for:
 	- [source](https://github.com/llimllib/personal_code/blob/07025b5e005f0211272d306c7bc758576822c533/homedir/.local/bin/%2Cfg)
 	- screenshot (here I've searched for `render`, and it shows the selected match in context):
 ![[Pasted image 20240606101430.png]]
+
+The fzf [docs have a neat tip](https://junegunn.github.io/fzf/tips/browsing-log-streams/) about using `fzf` to browse log files from a server interactively
