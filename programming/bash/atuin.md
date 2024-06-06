@@ -56,7 +56,7 @@ Has [search subcommand](https://github.com/ellie/atuin/blob/main/docs/search.md)
 
 [this person](https://github.com/pitr/config_files) has set up litestream replication for their atuin db, maybe I can crib from them.
 
-replaces my fzf ctrl-r binding with something a bunch worse
+replaces my [[fzf]] ctrl-r binding with something a bunch worse (fixed, see later)
 
 Seems like you need to prepend any query with `*`; `atuin search jq` shows no results but `atuin search '*jq'` yields what I'd expect.
 

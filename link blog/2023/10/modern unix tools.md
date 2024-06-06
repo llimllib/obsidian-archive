@@ -1,6 +1,6 @@
 ---
-updated: '2023-10-20T13:54:09Z'
-created: '2023-10-20T13:54:09Z'
+updated: 2024-06-06T14:17:12.314Z
+created: 2023-10-20T13:54:09Z
 ---
 https://github.com/ibraheemdev/modern-unix
 
@@ -8,13 +8,13 @@ https://github.com/ibraheemdev/modern-unix
 
 Of this list, I use and recommend:
 
-- bat: `cat` with syntax highlighting and line numbers
+- [[bat]]: `cat` with syntax highlighting and line numbers
 - delta: much better git diff output
-- fd: an improved `find`
-- ripgrep: a cornerstone of my workflow, an improved `grep`
-- fzf: general purpose fuzzy finder. Its most useful feature for me is searching my command line history quickly and with a good UI
-- jq: pull apart json, and build it up if necessary. Hugely useful in shell scripts with curl
-- hyperfine: benchmark programs from the command line
+- [[fd]]: an improved `find`
+- [[ripgrep]]: a cornerstone of my workflow, an improved `grep`
+- [[fzf]]: general purpose fuzzy finder. Its most useful feature for me is searching my command line history quickly and with a good UI
+- [[jq]]: pull apart json, and build it up if necessary. Hugely useful in shell scripts with curl
+- [[hyperfine]]: benchmark programs from the command line
 
 on that list, I tried and didn't like:
 - broot: seems like there's cool functionality in there, but I ultimately couldn't make it work like I wanted and it seemed too opinionated
