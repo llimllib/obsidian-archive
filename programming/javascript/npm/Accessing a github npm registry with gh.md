@@ -16,4 +16,4 @@ Thankfully, it is possible to use the `gh` command line tool to create a usable 
 
 To test that you have access, you can do `npm install -g @your_scope/some_package` and verify that you are able to install your private package.
 
-There's an [open issue](https://github.com/cli/cli/issues/6276) in the gh cli repository for how to integrate this process better, but I'm not exactly sure how it would work.
+There's an [open issue](https://github.com/cli/cli/issues/6276) in the gh cli repository for how to integrate this process better, but I'm not exactly sure how it would work. There's also an issue for [using gh with docker](https://github.com/cli/cli/issues/5150#issuecomment-2028496369), so you can avoid creating a token there too.
