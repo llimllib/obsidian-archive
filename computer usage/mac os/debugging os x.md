@@ -13,7 +13,7 @@ In order to use `dtrace` or `dtruss` like you'd use `strace` on linux, you need 
 		- the `jsonl` format also means you can use `jq` to process the events. Here's a command that will list just the executables that get `exec`ed on your system:
 			- `sudo eslogger exec | jq -r '.event.exec.target.executable.path'`
 	- [File Monitor](https://objective-see.org/products/utilities.html#FileMonitor) and [ProcessMonitor](https://objective-see.org/products/utilities.html#ProcessMonitor)
-		- available via homebrew: `brew install filemonitor processmonitor`
+		- available via [[homebrew]]: `brew install filemonitor processmonitor`
 		- example of usage:
 		```
 		$ sudo /Applications/FileMonitor.app/Contents/MacOS/FileMonitor -filter python

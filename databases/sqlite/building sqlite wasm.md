@@ -22,7 +22,7 @@ The functions I want are available in [sqlean/stats](https://github.com/nalgeon/
 
 How [sqlite-lines](https://github.com/asg017/sqlite-lines) builds his sqlite-wasm-with-extensions is by including the sqlite amalgamation.
 
-Of course, this is a yak-shave! So we need to get a particular version of emcc running in order to compile their code. Let's try using [this page](https://emscripten.org/docs/getting_started/downloads.html) and see if we can't get version 3.1.5 installed. (Homebrew currently has 3.1.20 which [throws an error](https://github.com/asg017/sqlite-lines/issues/13))
+Of course, this is a yak-shave! So we need to get a particular version of emcc running in order to compile their code. Let's try using [this page](https://emscripten.org/docs/getting_started/downloads.html) and see if we can't get version 3.1.5 installed. ([[Homebrew]] currently has 3.1.20 which [throws an error](https://github.com/asg017/sqlite-lines/issues/13))
 
 1. `git clone https://github.com/emscripten-core/emsdk.git && cd emsdk`
 2. `./emsdk install 3.1.5`
