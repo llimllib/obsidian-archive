@@ -1,0 +1,38 @@
+---
+created: 2024-06-07T19:22:42.705Z
+updated: 2024-06-07T19:22:42.705Z
+draft: "true"
+---
+- Readme is adding git capabilities to our system
+	- Our bulids were very slow. About 6 minutes for every change!
+	- That really adds up when developers are making a lot of changes
+- Nodegit was the culprit
+	- [nodegit](https://github.com/nodegit/nodegit/) is a node library for doing git operations
+	- It is a wrapper around [libgit2](https://libgit2.org/)
+	- It's great! But every time you `npm install nodegit`, the binary compiles `libgit2` and some other code that it needs.
+	- It used to use [node-pre-gyp](https://www.npmjs.com/package/@mapbox/node-pre-gyp) to upload pre-built binaries to s3
+		- the install process would check for a pre-built binary it could use, use it if possible, and if not would build the library
+		- That requires somebody to upload binary builds and pay s3 bills
+	- Initially, I was going to make some more prebuilds and host them on one of readme's s3 buckets
+		- Then my coworker showed me [prebuildify](https://github.com/prebuild/prebuildify)
+		- Prebuildify simplifies the process: instead of hosting a prebuilt binary on s3, you put them directly into the npm package
+- The challenge of pre-building
+	- In order to use pre-built binaries, you need to build a binary for each platform
+		- Binaries have three relevant attributes in this case: the operating system they're built for (`mac` or `linux`, for example), the architecture of the CPU they're built for (`x64` or `arm64`, for example), and the [libc](https://en.wikipedia.org/wiki/C_standard_library) they're built against
+	- `prebuildify` expects there to be a `prebuilds` directory with a folder for each pair of (operating system, architecture)
+		- So for example, the `linux-amd64` directory contains any prebuilds for the linux operating system on the amd64 architecture
+			- Witihin that, you can have builds tagged by which `libc` they support; this is not always important so it's optional.
+	- Initially, I built binaries for the systems our developers use: m1 macs, which are `darwin-arm64` machines
+		- This was pretty easy on github thanks to their new-ish `macos-14` runners
+	- I also built binaries for the systems I thought we were deploying to: `linux-amd64`, using `glibc`
+	- This seemed to work, and it was great! Install times for developers went from 6 minutes to about 3 seconds, a nice 200x speedup for a day's work
+- Nothing is ever easy
+	- The next day though, a coworker found a problem: we were actually deploying to `linux-arm64` machines
+		- Amazon has these really cool [graviton processors](https://aws.amazon.com/ec2/graviton/) that give the best performance per dollar
+			- (and per watt. Be efficient with power when you can!)
+		- our ops team really wanted to use these processors, but I hadn't prebuilt binaries that could be used on the machines we were deploying to
+	- So I had to go back to the drawing board and figure out what I had hoped I could put off: how to cross-compile binaries for architectures other than the ones that github actions can run by default
+- Cross-compiling
+	- We really needed `linux-arm64` binaries that worked with the `musl` `libc`
+	- Github actions provides linux runners, but they're all `x64` and `glibc` ([for now](https://github.blog/2024-06-03-arm64-on-github-actions-powering-faster-more-efficient-build-systems/)!)
+	- So I built out a process to use docker containers to cross-compile all the binaries we needed
