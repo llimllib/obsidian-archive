@@ -36,3 +36,4 @@ draft: "true"
 	- We really needed `linux-arm64` binaries that worked with the `musl` `libc`
 	- Github actions provides linux runners, but they're all `x64` and `glibc` ([for now](https://github.blog/2024-06-03-arm64-on-github-actions-powering-faster-more-efficient-build-systems/)!)
 	- So I built out a process to use docker containers to cross-compile all the binaries we needed
+	- 
