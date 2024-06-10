@@ -2,7 +2,7 @@
 updated: '2023-10-20T13:54:09Z'
 created: '2023-10-20T13:54:09Z'
 ---
-I started hacking on a chat server in elixir, but didn't get very far.
+I started hacking on a chat server in [[elixir]], but didn't get very far.
 
 I would like to have one that is dead simple to deploy and uses sqlite for a backend.
 
