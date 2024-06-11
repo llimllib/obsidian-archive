@@ -1,6 +1,6 @@
 ---
-updated: '2024-03-04T19:22:32Z'
-created: '2024-03-04T19:22:32Z'
+updated: 2024-06-11T19:49:39.601Z
+created: 2024-03-04T19:22:32Z
 ---
 Wanted to install it on my billmill.org server:
 
@@ -129,3 +129,11 @@ https://stats.example.com/ws {
 This worked for getting a webserver up and running: `goaccess /var/log/caddy/access.log --log-format=CADDY -o /var/www/html/_goaccess.html --real-time-html`
 
 github [code search](https://cs.github.com/?scopeName=All+repos&scope=&q=goaccess+path%3ACaddyfile) has a few examples, including one that puts it behind a basic auth, which seems sensible
+
+---
+
+How to pas a directory of access files, some of which are gz encoded and some are not, into goaccess:
+
+`zcat -f /var/log/caddy/access* | goaccess - --log-format=CADDY`
+
+It takes a bit to process them, but it will load them all and display your stats over time
