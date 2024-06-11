@@ -9,3 +9,5 @@ https://adelfaure.net/tools/jgs/
 I particularly love the patterns:
 
 ![[Pasted image 20240611112711.png]]
+
+A user on news.yc links to [this useful context](https://velvetyne.fr/news/about-ascii-art-and-jgs-font/) for ascii art in general, and also this particular font.
