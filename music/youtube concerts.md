@@ -1,5 +1,5 @@
 ---
-updated: 2024-05-25T02:15:07.592Z
+updated: 2024-06-13T19:52:11.327Z
 created: 2023-10-20T13:54:09Z
 ---
 Lately, I've been browsing youtube and looking for good live concerts to watch. Some favorites:
@@ -39,3 +39,4 @@ Lately, I've been browsing youtube and looking for good live concerts to watch. 
 - [Béla Fleck - My Bluegrass Heart, April 2022](https://www.youtube.com/watch?v=ccb2xnqfgCU)
 - [Jimi Hendrix, Stockholm 1969](https://www.youtube.com/watch?v=6oXvEbtx4L4)
 - [McCoy Tyner Trio, Nürnberg 1986](https://www.youtube.com/watch?v=h_tgnG7t0kA)
+- [Gilberto Gil, Gilbertos Samba Ao Vivo](https://www.youtube.com/watch?v=YdMn8xzCOS0)
