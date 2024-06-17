@@ -31,5 +31,3 @@ Give me Go (the ultimate example of the modern fighting back against the post-mo
 > Messy is Good
 
 (I won't reproduce the paper, but make sure you read at least this far. lovely)
-
-I'm not done reading it yet, more to come
