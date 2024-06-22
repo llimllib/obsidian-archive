@@ -6,6 +6,9 @@ updated: 2024-06-17T23:03:57.382Z
 I haven't yet been successful with this!
 ```
 
+> [!warning] I haven't yet been successful with this
+
+
 The steps I followed on my mac. [this guide](https://github.com/skyzyx/rg35xx-garlicos-macos-instructions/blob/main/docs/installing-garlicos-single-card.en_us.md) was my main source:
 
 1. acquire microsd card

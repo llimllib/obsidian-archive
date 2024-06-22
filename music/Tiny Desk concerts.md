@@ -1,6 +1,6 @@
 ---
-updated: '2024-03-31T02:23:57Z'
-created: '2024-01-02T02:43:11Z'
+updated: 2024-06-22T18:19:50.096Z
+created: 2024-01-02T02:43:11Z
 ---
 I love a lot of these. It's pretty wild that I took a long time going through the list of videos, and I'm sure that I missed some.
 
@@ -86,3 +86,4 @@ In alphabetical order, with a 🎧 icon beside the show if I've loved it enough 
 - [Valerie June](https://www.youtube.com/watch?v=iBDrTHCSWDc)
 - [Vince Staples](https://www.youtube.com/watch?v=yN0I5xTjaGo)
 - [Wilco](https://www.youtube.com/watch?v=UZAKTCeE70Y) [2](https://www.youtube.com/watch?v=KMQQqa21ZVs)
+- [Willow](https://www.youtube.com/watch?v=DmC2QQESN6E)
