@@ -7,3 +7,5 @@ updated: 2024-06-24T15:00:59.809Z
 In which the author invents an entire typed programming language and a variant of TeX in order to write [a paper](http://tom7.org/bovex/badness-0-knuth.pdf) which uses an LLM to find similar sentences that make the lines very even.
 
 Watch the video, it will make sense eventually.
+
+http://tom7.org/bovex/
