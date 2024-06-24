@@ -1,6 +1,6 @@
 ---
-updated: '2023-10-20T13:54:09Z'
-created: '2023-10-20T13:54:09Z'
+updated: 2024-06-24T12:18:24.748Z
+created: 2023-10-20T13:54:09Z
 ---
 The best tool I know of for recording sessions is [asciinema](https://asciinema.org/).
 
@@ -14,8 +14,4 @@ You can then upload it to asciinema.org or convert the recording to a gif with [
 
 _update Jun 24 2024_: [vhs](https://github.com/charmbracelet/vhs) is a neat-looking scriptable version of asciinema. It says:
 
-> Write terminal GIFs as code for integration testing and demoing your CLI tools.
-
-and demonstrates a short script that results in this output:
-
-![[Pasted image 20240624081756.png]]
+> Write terminal GIFs as code for integration testing and demoing your CLI tools
