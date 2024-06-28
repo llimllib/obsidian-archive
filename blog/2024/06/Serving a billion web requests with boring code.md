@@ -147,7 +147,7 @@ Our discipline with backwards compatibility gave us freedom to keep up a high ra
 
 ## Faceted search
 
-A core principle of the app was to rely on postgres whenever possible, and also to be stupid instead of clever whever possible.
+A core principle of the app was to rely on postgres whenever possible, and also to be stupid instead of clever whenver possible.
 
 Faceted search was an excellent example of both of those properties. We could have reached for elasticsearch, and we also could have tried to use an ORM, or built a little faceting language.
 
