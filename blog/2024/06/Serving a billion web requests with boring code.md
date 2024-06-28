@@ -74,7 +74,7 @@ I still think I made the right choice at the time, but it's unfortunate that I f
 
 Golang was overall a joy to build this project in. It runs efficiently both at build time and at run time, and having binary executable artifacts that build quickly makes it easy to deploy rapidly.
 
-Developers new to the language (our team grew from 2 to 15) were able to get onboard quickly and understand the language with no trouble.
+Developers new to the language (our team of engineers grew from 2 to 15) were able to get onboard quickly and understand the language with no trouble.
 
 Error handling being both immediate and verbose is, in my opinion, a great feature for building systems that are resilient. Every time you do something that might fail, you are faced with handling the error case, and once you develop patterns they are consistent and predictable. (I know this is a big topic, I should probably write more about it)
 
@@ -141,7 +141,7 @@ I loved having interface schemas, but we used so few of gRPC's features and the 
 
 We followed a strict backwards-compatibility requirement, and only added and never removed fields from our interfaces. Once a field was exposed in the public API, it would be exposed forever unless it became a security problem (which, thankfully, never happened to us in the years I worked on this project).
 
-We did the same with the databases as the API; columns were added and rarely removed. If they a column actually merited removal, the process was to add a column, remove all references to the old one, _wait a few weeks to make sure we didn't need to roll back_, then finally remove the column from the database.
+We did the same with the databases as the API; columns were added and rarely removed. If a column actually merited removal, the process was to add a column, remove all references to the old one, _wait a few weeks to make sure we didn't need to roll back_, then finally remove the column from the database.
 
 Our discipline with backwards compatibility gave us freedom to keep up a high rate of changes and maintain confidence that local changes would not have negative downstream consequences.
 
