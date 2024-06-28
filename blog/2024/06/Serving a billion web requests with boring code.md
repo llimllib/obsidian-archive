@@ -230,7 +230,7 @@ It proudly featured our mascot (the corgi) showing off its most notable feature
 
 Our client frequently wanted us to add queries that would operate from the browser, and I was fortunate to be able to push back and turn many of those into build-time requests instead.
 
-Once place where our performance got killed at our clients' request was with render-blocking analytics scripts; it seemed every team wanted a different script run to get the analytics that they "needed". I advised them against it and tried to demonstrate the performance and download size problems they incurred, but the client was not interested in my arguments.
+One place where our performance got killed at our clients' request was with render-blocking analytics scripts; it seemed every team wanted a different script run to get the analytics that they "needed". I advised them against it and tried to demonstrate the performance and download size problems they incurred, but the client was not interested in my arguments.
 
 ## And more
 
