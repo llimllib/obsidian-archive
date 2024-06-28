@@ -89,7 +89,7 @@ That said, I was overwhelmingly happy with my choice here and never regretted it
 I made two architectural bets that I was less confident of than the others:
 
 - **Modular backend** - I designed the backend neither as microservices, nor as a monolith, but into three large modules
-- **GRPC** - The backend services communicated with each other via GRPC, and with web clients via [grpc-gateway](https://github.com/grpc-ecosystem/grpc-gateway)
+- **gRPC** - The backend services communicated with each other via gRPC, and with web clients via [grpc-gateway](https://github.com/grpc-ecosystem/grpc-gateway)
 
 ### Modular backend
 
