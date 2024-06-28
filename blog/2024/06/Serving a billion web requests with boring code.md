@@ -206,7 +206,7 @@ It was mostly written by an excellent coworker, and working with it is where I l
 
 Having this available from the start served as a really useful place for utility features to coalesce; without it they tend to scatter to more places further afield, or just live in a developer's shell history.
 
-One fun bit of tooling I build was the ability to generate graphs from splunk via slack commands, which was particularly helpful in incident handling, as you could easily share graphs with your coworkers.
+One fun bit of tooling I built was the ability to generate graphs from splunk (our log aggregation service) via slack commands, which was particularly helpful in incident handling, as you could easily share graphs with your coworkers.
 
 ## Logging
 
