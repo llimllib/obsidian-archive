@@ -6,7 +6,7 @@ updated: 2024-07-02T14:14:33.606Z
 
 - [Scott Aaronson](https://scottaaronson.blog/?p=8088)
 
-I like to follow along with computer science achievements when I can, and this one is super easy to state in the abstract: BB(5) is the maximum number of steps that a 5 state Turing machine can run and still terminate. 
+I like to follow along with computer science achievements when I can, and this one is super easy to state in the abstract: BB(5) is the maximum number of ones that a 5 state Turing machine with two symbols can print on a tape, and still halt.
 
 The details of course, are more challenging, and Scott's article does a great job sketching out some of them.
 
