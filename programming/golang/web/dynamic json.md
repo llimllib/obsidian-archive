@@ -26,7 +26,7 @@ type Email struct {
 func main() {
 	var msg json.RawMessage
 	env := Envelope{
-	    Type: &msg,
+	    Data: &msg,
 	}
 	if err := json.Unmarshal([]byte(input), &env); err != nil {
 	    log.Fatal(err)
