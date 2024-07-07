@@ -1,11 +1,11 @@
 ---
-updated: '2023-10-20T13:54:09Z'
-created: '2023-10-20T13:54:09Z'
+updated: 2024-07-07T17:12:26.566Z
+created: 2023-10-20T13:54:09Z
 ---
 Golang really wants the json you parse to be of a known shape; but sometimes you get json of the form:
 
 ```json
-{ type: "email", data: { "subject": ..., "body": ...} }
+{ "type": "email", "data": { "subject": ..., "body": ...} }
 ```
 
 Where you need to know the `type` before you know how to parse the `data`.
