@@ -1,6 +1,6 @@
 ---
 created: 2024-07-02T14:14:33.606Z
-updated: 2024-07-02T14:14:33.606Z
+updated: 2024-07-08T15:38:31.185Z
 ---
 > Only now, after an additional 41 years, do we know the _fifth_ Busy Beaver value... BB(5) is equal to 47,176,870—the value that’s been _conjectured_ since 1990, when Heiner Marxen and Jürgen Buntrock [discovered](https://turbotm.de/~heiner/BB/mabu90.html) a 5-state Turing machine that runs for exactly 47,176,870 steps before halting, when started on a blank tape. The new bbchallenge achievement is to prove that all 5-state Turing machines that run for more steps than 47,176,870, actually run forever—or in other words, that 47,176,870 is the maximum _finite_ number of steps for which any 5-state Turing machine can run. That’s what it means for BB(5) to equal 47,176,870.
 
