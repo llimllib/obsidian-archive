@@ -18,3 +18,5 @@ Scott links a few other sources:
 
 - [Quanta](https://www.quantamagazine.org/amateur-mathematicians-find-fifth-busy-beaver-turing-machine-20240702)
 - [bbchallenge](https://discuss.bbchallenge.org/t/july-2nd-2024-we-have-proved-bb-5-47-176-870/237) (the online organization that coordinated the effort)
+
+It is very cool that the team used [[Coq]] to prove the theorem in an executable format.
