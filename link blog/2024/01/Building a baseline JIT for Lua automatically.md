@@ -1,6 +1,6 @@
 ---
-updated: '2024-01-12T21:04:42Z'
-created: '2024-01-11T15:48:12Z'
+updated: 2024-07-13T13:04:28.966Z
+created: 2024-01-11T15:48:12Z
 ---
 https://sillycross.github.io/2023/05/12/2023-05-12/
 
@@ -13,3 +13,5 @@ This is the simplest description of a multi-tier JIT I've read:
 From the [previous article](https://sillycross.github.io/2022/11/22/2022-11-22/), very neat approach:
 
 > It is [well-known](https://en.wikipedia.org/wiki/Fundamental_theorem_of_software_engineering) that all problems in computer science can be solved by another level of indirection. In our case, C/C++ is a very good tool to describe the semantics of each bytecode (i.e., what each bytecode should do), but C/C++ is not a good tool to write the most efficient interpreter. So what if we add one level of indirection: we write the bytecode semantical description in C++, _compile it to LLVM IR_, and feed the IR into a special-purpose compiler. The special-purpose compiler will take care of all the dirty work, doing proper transformation to the IR and finally generate a nice tail-call-based interpreter.
+
+[[luajit]]
