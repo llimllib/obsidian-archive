@@ -13,7 +13,7 @@ created: '2023-10-20T13:54:09Z'
 	- [sha-3](https://en.wikipedia.org/wiki/SHA-3)
 
 ## Common non-cryptographic hash functions:
-These hash functions are faster than cryptographic hash functions, but less secure, which can be useful for applications such as [[bloom filters]]:
+These hash functions are faster than cryptographic hash functions, but less secure, which can be useful for applications such as [[programming/algorithms/bloom filters]]:
 
 - [xxhash](https://github.com/Cyan4973/xxHash)
 	- has several versions and a handy [benchmarks table](https://github.com/Cyan4973/xxHash#benchmarks) vs other hashes
