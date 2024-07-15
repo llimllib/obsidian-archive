@@ -1,5 +1,5 @@
 ---
-updated: 2024-06-13T19:52:11.327Z
+updated: 2024-07-15T01:54:34.166Z
 created: 2023-10-20T13:54:09Z
 ---
 Lately, I've been browsing youtube and looking for good live concerts to watch. Some favorites:
@@ -40,3 +40,4 @@ Lately, I've been browsing youtube and looking for good live concerts to watch. 
 - [Jimi Hendrix, Stockholm 1969](https://www.youtube.com/watch?v=6oXvEbtx4L4)
 - [McCoy Tyner Trio, Nürnberg 1986](https://www.youtube.com/watch?v=h_tgnG7t0kA)
 - [Gilberto Gil, Gilbertos Samba Ao Vivo](https://www.youtube.com/watch?v=YdMn8xzCOS0)
+- [Derek Gripper and Ballaké Sissoko, Gümüşlük / July 23, 2023](https://www.youtube.com/watch?v=6PTTgbci4Kg)
