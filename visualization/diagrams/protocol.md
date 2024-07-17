@@ -3,6 +3,7 @@ created: 2024-07-17T17:36:27.498Z
 updated: 2024-07-17T17:36:27.498Z
 ---
 https://www.luismg.com/protocol/
+https://github.com/luismartingarcia/protocol
 
 `protoocol` is a tool for creating protocol diagrams.
 
@@ -47,3 +48,5 @@ $ ./protocol "length: 32,prefix:32,class:2,pointer:62"
 Handy, simple tool!
 
 One thing I did have to do was change `#!/usr/bin/python` to `#!/usr/bin/env python` in their binary, since I don't have a `/usr/bin/python` on this system.
+
+(Unfortunately, it seems like there are a few bugs and the project isn't being maintained. Such is life in free software, I guess)
