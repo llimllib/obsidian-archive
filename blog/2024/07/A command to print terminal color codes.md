@@ -8,7 +8,7 @@ So, this morning, I wrote `colors`, a shell script that prints out tables of the
 
 [Here's the script](https://github.com/llimllib/personal_code/blob/master/homedir/.local/bin/colors), and here's what it looks like on a mostly-stock apple terminal.app with a dark color scheme:
 
-![[Pasted image 20240719093855.png]]
+![[Pasted image 20240719095744.png]]
 
 You can pass `-v` to the script to get a table of the 8-bit colors, in case you want to get real fancy with your script:
 
