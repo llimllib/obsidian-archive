@@ -83,4 +83,4 @@ It's an incomplete package manager that doesn't try to solve every problem - par
 
 I have found the pairing of `homebrew` and `asdf` to satisfy my needs as somebody that hacks on a lot of different software in a lot of different ecosystems, and I hope sharing my process and a bit of my mental model might help you figure out something that works well for you.
 
-If you have comments to make, I'm on [mastodon](https://elk.zone/hachyderm.io/@llimllib/112005194762232755) and happy to talk about how I use homebrew and asdf, and manage my computer generally.
+If you have comments to make, I'm on [mastodon](https://hachyderm.io/@llimllib/112005194762232755) and happy to talk about how I use homebrew and asdf, and manage my computer generally.

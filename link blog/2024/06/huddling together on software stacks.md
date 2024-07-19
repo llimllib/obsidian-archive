@@ -12,6 +12,6 @@ There's a lively discussion [following it](https://merveilles.town/@akkartik/112
 
 I like this quote [from Lu Wilson](https://mas.to/@TodePond/112568835448806961):
 
-> right, there are two ways software can be durable. one is to never die. another is to be easily resurrectable, similar to [@dubroy](https://elk.zone/hachyderm.io/@dubroy)'s [cold-blooded software](https://dubroy.com/blog/cold-blooded-software/)
+> right, there are two ways software can be durable. one is to never die. another is to be easily resurrectable, similar to [@dubroy](https://hachyderm.io/@dubroy)'s [cold-blooded software](https://dubroy.com/blog/cold-blooded-software/)
 
 Alex Schroeder wrote [a summary](https://alexschroeder.ch/view/2024-06-06-programming) of the discussion as he saw it.
