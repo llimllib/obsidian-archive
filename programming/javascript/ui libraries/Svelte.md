@@ -1,6 +1,6 @@
 ---
-updated: '2023-10-20T13:54:09Z'
-created: '2023-10-20T13:54:09Z'
+updated: 2024-07-30T13:34:33.171Z
+created: 2024-07-30T13:34:33.171Z
 ---
 The never-ending parade of javascript frameworks continues; another I've heard mentioned positively is svelte.js
 

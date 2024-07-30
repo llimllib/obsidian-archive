@@ -1,6 +1,6 @@
 ---
-created: 2024-07-30T13:25:40.448Z
-updated: 2024-07-30T13:25:40.448Z
+created: 2024-07-30T13:34:33.168Z
+updated: 2024-07-30T13:34:33.168Z
 ---
 https://github.com/snabbdom/snabbdom
 

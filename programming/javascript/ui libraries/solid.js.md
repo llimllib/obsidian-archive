@@ -1,6 +1,6 @@
 ---
-updated: '2023-10-20T13:54:09Z'
-created: '2023-10-20T13:54:09Z'
+updated: 2024-07-30T13:34:33.173Z
+created: 2024-07-30T13:34:33.173Z
 ---
 Article comparing it to react: https://typeofnan.dev/solid-js-feels-like-what-i-always-wanted-react-to-be/
 
