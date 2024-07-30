@@ -23,4 +23,4 @@ Click Me
 > -   It is very distinctive, making it obvious when hyperscript is being used in a web page
 > -   It is very easy to read, making it obvious what a script is doing
 
-From the authors of [[programming/javascript/HTMX]]
+From the authors of [[programming/javascript/ui libraries/HTMX]]

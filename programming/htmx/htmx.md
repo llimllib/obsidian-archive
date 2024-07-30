@@ -2,7 +2,7 @@
 updated: '2023-10-20T13:54:09Z'
 created: '2023-10-20T13:54:09Z'
 ---
-previously [[programming/javascript/HTMX]]
+previously [[programming/javascript/ui libraries/HTMX]]
 
 https://htmx.org/
 
