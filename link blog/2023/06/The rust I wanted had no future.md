@@ -2,12 +2,12 @@
 updated: '2023-10-20T13:54:09Z'
 created: '2023-10-20T13:54:09Z'
 ---
-Graydon Hoare [writes a long piece](https://graydon2.dreamwidth.org/307291.html) about the features in rust he wishes had turned out differently, and lays out why he's glad/thinks everyone should be glad that he's actually not the BDFL of rust.
+Graydon Hoare [writes a long piece](https://graydon2.dreamwidth.org/307291.html) about the features in [[rust]] he wishes had turned out differently, and lays out why he's glad/thinks everyone should be glad that he's actually not the BDFL of rust.
 
 I think the post is interesting for a couple of reasons, even though I don't use rust:
 - I really like his general, calm, attitude
 - I like thinking about all the different parameters in the design space that _weren't_ chosen, even if I don't entirely understand rust it gives me a better sense for how large the design space of programming languages is. It's huge!
-	- he wants types similar to zig's comptime types (links [this piece](https://soasis.org/posts/a-mirror-for-rust-a-plan-for-generic-compile-time-introspection-in-rust/) which I haven't read)
+	- he wants types similar to [[zig]]'s comptime types (links [this piece](https://soasis.org/posts/a-mirror-for-rust-a-plan-for-generic-compile-time-introspection-in-rust/) which I haven't read)
 	- wishes for a simple grammar and tail calls
 - I appreciate his humility
 

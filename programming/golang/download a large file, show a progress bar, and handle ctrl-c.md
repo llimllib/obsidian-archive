@@ -127,4 +127,4 @@ func must[T any](t T, err error) T {
 }
 ```
 
-I'd label my usage of it as experimental, but I like it so far. Somewhat similar to zig's `try`.)
+I'd label my usage of it as experimental, but I like it so far. Somewhat similar to [[zig]]'s `try`.)

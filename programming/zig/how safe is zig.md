@@ -4,7 +4,7 @@ created: '2023-10-20T13:54:09Z'
 ---
 https://www.scattered-thoughts.net/writing/how-safe-is-zig/
 
-Very thorough and balanced article on the memory safety of zig, compared mainly to [[rust]] and [[C]]/[[C++]]
+Very thorough and balanced article on the memory safety of [[zig]], compared mainly to [[rust]] and [[C]]/[[C++]]
 
 > In [materialize](https://github.com/MaterializeInc/materialize/) we wrote ~140kloc of rust in the first 14 months while growing the team from ~3 to ~20 people. It's a complex system with high demands on both throughput and latency. We reached that point with (IIRC) only 9 unsafe blocks, all of which were in a single module and existed to work around a performance bug in the equivalent safe api. Despite heavy generative testing and fuzzing, we only discovered one memory safety bug (in the unsafe module, naturally) which was easy to debug and fix.
 

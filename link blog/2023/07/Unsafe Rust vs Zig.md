@@ -4,9 +4,9 @@ created: '2023-10-20T13:54:09Z'
 ---
 https://zackoverflow.dev/writing/unsafe-rust-vs-zig
 
-> I wanted to... see how hard unsafe Rust would be by building a project that required a substantial amount of unsafe code.
+> I wanted to... see how hard unsafe [[Rust]] would be by building a project that required a substantial amount of unsafe code.
 
-> Then I would re-write the project in Zig to see if would be easier/better.
+> Then I would re-write the project in [[Zig]] to see if would be easier/better.
 
 > After I finished both versions, I found that the Zig implementation was safer, faster, and easier to write. I’ll share a bit about building both and what I learned.
 

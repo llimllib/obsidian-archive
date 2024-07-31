@@ -8,7 +8,7 @@ created: '2023-10-20T13:54:09Z'
 
 > My goals for this feature were:
 
-> -   providing a nice Zig API to implement a virtual table
+> -   providing a nice [[Zig]] API to implement a virtual table
 > -   allow building a virtual table as a [loadable extension](https://sqlite.org/loadext.html)
 
 > Today I want to talk about how I implemented it and I’ll also talk about a small demo I made.
