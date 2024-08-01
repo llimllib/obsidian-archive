@@ -1,6 +1,6 @@
 ---
 created: 2024-07-31T12:57:33.361Z
-updated: 2024-07-31T12:57:33.361Z
+updated: 2024-08-01T13:52:07.806Z
 ---
 https://github.com/sequinstream/sequin
 
@@ -13,3 +13,6 @@ https://github.com/sequinstream/sequin
 > With a stream instead of a queue, Sequin provides features like message replay and consumer rewind. Consumers can "join" the stream at any time and play through the history of messages. You can fan out to many individual services with exactly once delivery to each. Message history also helps with debugging and troubleshooting.
 
 written in [[elixir]] and [[go]]
+
+- detailed article with example usage: [Build your own SQS or Kafka with Postgres](https://blog.sequinstream.com/build-your-own-sqs-or-kafka-with-postgres/)
+	- via [simonw](https://simonwillison.net/2024/Jul/31/sqs-or-kafka-with-postgres/)
