@@ -35,21 +35,22 @@ I needed to figure out how to debug the `git` binary to figure out exactly what 
 - open the git directory with visual studio code: `code .`
 - create a file in the `.vscode` directory called `launch.json` that tells vs code how to start `git` for debugging. Its contents should be:
 	```json
-    {
-      "configurations": [
+	{
+	  "configurations": [
 	    {
-		  "name": "debug git",
-		  "type": "cppdbg",
+	      "name": "debug git",
+	      "type": "cppdbg",
 	      "request": "launch",
 	      "program": "${workspaceFolder}/git",
 	      "args": ["status"],
 	      "cwd": "${workspaceFolder}",
-		  "externalConsole": false,
-		  "MIMode": "lldb"
+	      "externalConsole": false,
+	      "MIMode": "lldb"
 	    }
-      ]
-    }
+	  ]
+	}
 	```
+
 	- Note that we're passing `status` as an argument; the first command we're going to debug is `git status`. To debug other commands, you'll want to change the `args` option
 	- See the [documentation](https://code.visualstudio.com/docs/cpp/launch-json-reference) for information on these configuration options and what additional flags are available
 - Open the `builtins/commit.c` file in the editor
