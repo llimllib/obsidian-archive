@@ -8,8 +8,8 @@ I needed to figure out how to debug the `git` binary to figure out exactly what 
 
 - install [visual studio code](https://code.visualstudio.com/)
 - install the [microsoft C/C++ extension](https://marketplace.visualstudio.com/items?itemName=ms-vscode.cpptools)
-- you will need to have `lldb`, the llvm debugger available on your system. 
-	-  To see if you have `lldb` available, do `which lldb`; as long as it prints a path and not `lldb not found`, you're good to go
+- you will need to have `lldb`, the [[llvm]] debugger available on your system. 
+	-  To see if you have `lldb` available, run `which lldb`; as long as it prints a path and not `lldb not found`, you're good to go
 	- The most common way to get it installed is to install `Xcode` from the app store or the `Xcode Command Line Tools` which can be installed with `xcode-select --install`
 	- You may also install it with homebrew by doing `brew install llvm`. Be aware though that brew will not link it by default, so you'll have to figure out how to tell vs code to use it
 
