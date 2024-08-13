@@ -1,6 +1,6 @@
 ---
-updated: '2024-02-24T16:33:23Z'
-created: '2023-10-20T13:54:09Z'
+updated: 2024-08-13T12:20:29.097Z
+created: 2023-10-20T13:54:09Z
 ---
 https://stedolan.github.io/jq/
 
@@ -58,3 +58,16 @@ jq -n '[inputs.[]]' lists/*.json > one_big_list.json
 ```
 
 uses the [inputs](https://jqlang.github.io/jq/manual/v1.7/#inputs) special variable
+
+---
+
+given my web server's access log, print the page accessed and the referrer if it's not from `billmill.org`, then count, sort, and print:
+
+```bash
+zcat -f /var/log/caddy/access* |
+  jq -r '.request.headers.Referer[0] as $referer | 
+         select($referer != null and 
+               ($referer | test("billmill.org") | not)) |
+         [.request.uri, $referer] | join("     ")' |
+sort | uniq -c | sort -r | less
+```
