@@ -28,8 +28,9 @@ The transcription took 11.3 seconds
 	- current head is `22fcd5fd`
 - `make` to compile
 	- I used default options, which compiles it against the Metal framework
-- `time ./main --model ggml-large.bin ./mlk_ihaveadream_long.wav`
+- `time ./main --model ggml-medium.bin ./mlk_ihaveadream_long.wav`
 	- the model is available [here](https://huggingface.co/ggerganov/whisper.cpp/tree/main); I already had it available locally
+	- The ggml `medium` model is 1.5gb, which is why I compared it against the `distill-whisper-large-v3`. If you use ggml `large` instead, which is 3gb, the transcription goes from 35 to 59 seconds
 
 <details>
 <summary>full build flags</summary>
@@ -49,8 +50,8 @@ I CXX:       Apple clang version 15.0.0 (clang-1500.3.9.4)
 
 </details>
 
-The transcription took 59 seconds
+The transcription took 35 seconds
 
 ## quality
 
-The mlx transcription is of slightly higher quality than the whisper.cpp transcription
+The `mlx-whisper` transcription is of slightly higher quality than the whisper.cpp transcription
