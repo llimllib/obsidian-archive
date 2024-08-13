@@ -55,3 +55,9 @@ The transcription took 35 seconds
 ## quality
 
 The `mlx-whisper` transcription is of slightly higher quality than the whisper.cpp transcription
+
+## why?
+
+It's not clear to me how the `mlx-whisper` model can be so much faster! They are both using the GPU and similar model sizes.
+
+I would love to hear from somebody more knowledgeable why that is.
