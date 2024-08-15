@@ -60,9 +60,9 @@ If you would like the site to update regularly, add a `cron` trigger to the `on`
 
 ```yaml
 on:
-	workflow_dispatch:
-	schedule:
-	    - cron: '0 0 * * *'
-	push:
-	    branches: ["main"]
+  workflow_dispatch:
+  schedule:
+    - cron: '0 0 * * *'
+  push:
+    branches: ["main"]
 ```
