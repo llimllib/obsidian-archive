@@ -62,7 +62,7 @@ If you would like the site to update regularly, add a `cron` trigger to the `on`
 on:
   workflow_dispatch:
   schedule:
-    - cron: '0 0 * * *'
+    - cron: '0 0 * * *' # run at midnight every day
   push:
     branches: ["main"]
 ```
