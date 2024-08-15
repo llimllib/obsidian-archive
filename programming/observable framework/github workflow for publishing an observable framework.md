@@ -1,6 +1,6 @@
 ---
-updated: '2024-02-28T15:41:50Z'
-created: '2024-02-28T15:41:50Z'
+updated: 2024-08-15T14:05:25.876Z
+created: 2024-02-28T15:41:50Z
 ---
 To publish an observable framework website on github pages is a 2-step procedure:
 
@@ -54,4 +54,15 @@ jobs:
       - name: Deploy to GitHub Pages
         id: deployment
         uses: actions/deploy-pages@v4
+```
+
+If you would like the site to update regularly, add a `cron` trigger to the `on` block. Here's an example `on` block that would rebuild it daily, and also on changes to `main` or by manually triggering it:
+
+```yaml
+on:
+	workflow_dispatch:
+	schedule:
+	    - cron: '0 0 * * *'
+	push:
+	    branches: ["main"]
 ```
