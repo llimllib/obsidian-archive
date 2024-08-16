@@ -1,6 +1,6 @@
 ---
-updated: '2023-10-20T13:54:09Z'
-created: '2023-10-20T13:54:09Z'
+updated: 2024-08-16T14:05:25.813Z
+created: 2023-10-20T13:54:09Z
 ---
 https://github.com/sharkdp/hyperfine
 
