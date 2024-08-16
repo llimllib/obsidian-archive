@@ -17,3 +17,5 @@ https://github.com/sharkdp/hyperfine
 -   Cross-platform
 
 Runs a command or multiple commands multiple times and reports the results
+
+[here's an example usage](https://gist.github.com/llimllib/a98f5c185e096f6f6ec16c8172054930) where I benchmark four programs in different languages running the same regular expression

@@ -24,6 +24,7 @@ I wish that the selection of CLI tools we provide with operating systems and bro
 - [[jq]]: pull apart json, and build it up if necessary. Hugely useful in shell scripts with curl
 - [[ripgrep]]: a cornerstone of my workflow, an improved `grep`
 - [qsv](https://github.com/jqnatividad/qsv): manipulate csv files at the command line
+	- see [[csv tools]] for more
 
 Some tools I tried and didn't like:
 - broot: seems like there's cool functionality in there, but I ultimately couldn't make it work like I wanted and it seemed too opinionated
