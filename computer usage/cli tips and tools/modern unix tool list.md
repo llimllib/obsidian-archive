@@ -13,7 +13,7 @@ I wish that the selection of CLI tools we provide with operating systems and bro
 - [[delta]]: much better git diff output
 	- I often use this where you might use `diff` as well, it's great
 - [[doggo]]: a better `dig`
-	- It doesn't do _everything_ dig does, but the bits it does, it does bettter
+	- It doesn't do _everything_ dig does, but the bits it does, it does better
 - [dust](https://github.com/bootandy/dust): `du` but faster and with nicer output
 - [duf](https://github.com/muesli/duf): `df` with modern touches
 - [erdtree](https://github.com/solidiquis/erdtree): a better `tree`
