@@ -10,6 +10,7 @@ Of this list, I use and recommend:
 
 - [[bat]]: `cat` with syntax highlighting and line numbers
 - delta: much better git diff output
+- [dua](https://github.com/Byron/dua-cli)
 - [[fd]]: an improved `find`
 - [[ripgrep]]: a cornerstone of my workflow, an improved `grep`
 - [[fzf]]: general purpose fuzzy finder. Its most useful feature for me is searching my command line history quickly and with a good UI
