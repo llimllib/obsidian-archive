@@ -1,6 +1,6 @@
 ---
 created: 2024-08-13T17:16:30.377Z
-updated: 2024-08-13T17:16:30.377Z
+updated: 2024-08-18T13:30:39.554Z
 ---
 https://pypi.org/project/mlx-whisper/
 
@@ -61,3 +61,24 @@ The `mlx-whisper` transcription is of slightly higher quality than the whisper.c
 It's not clear to me how the `mlx-whisper` model can be so much faster! They are both using the GPU and similar model sizes.
 
 I would love to hear from somebody more knowledgeable why that is.
+
+## update
+
+[Josh Marshall](https://x.com/josh_m/status/1824240282554208425) on twitter noted that I was comparing two different models (true!) and compared the two on more similar models, and found a smaller difference.
+
+I downloaded the same model he used for whisper.cpp [here](https://huggingface.co/distil-whisper/distil-large-v3-ggml/tree/main) and re-ran the experiment (this time with whisper.cpp at `b91c907` and mlx-whisper at `0.3.0`, and the difference dropped to 1.78x:
+
+```
+$ hyperfine "./whisper.cpp/main -m ~/.local/share/blisper/ggml-distil-large-v3.bin mlk_ihaveadream_long.wav" $'./mlx-whisper/.venv/bin/python -c "import mlx_whisper as m; print(m.transcribe(\'./mlk_ihaveadream_long.wav\', path_or_hf_repo=\'./mlx-whisper/model\')[\'text\'])"'
+Benchmark 1: ./whisper.cpp/main -m ~/.local/share/blisper/ggml-distil-large-v3.bin mlk_ihaveadream_long.wav
+  Time (mean ± σ):     17.505 s ±  0.179 s    [User: 4.063 s, System: 0.867 s]
+  Range (min … max):   17.080 s … 17.690 s    10 runs
+ 
+Benchmark 2: ./mlx-whisper/.venv/bin/python -c "import mlx_whisper as m; print(m.transcribe('./mlk_ihaveadream_long.wav', path_or_hf_repo='./mlx-whisper/model')['text'])"
+  Time (mean ± σ):      9.849 s ±  0.065 s    [User: 1.817 s, System: 1.635 s]
+  Range (min … max):    9.806 s … 10.027 s    10 runs
+ 
+Summary
+  ./mlx-whisper/.venv/bin/python -c "import mlx_whisper as m; print(m.transcribe('./mlk_ihaveadream_long.wav', path_or_hf_repo='./mlx-whisper/model')['text'])" ran
+    1.78 ± 0.02 times faster than ./whisper.cpp/main -m ~/.local/share/blisper/ggml-distil-large-v3.bin mlk_ihaveadream_long.wav
+```
