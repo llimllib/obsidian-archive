@@ -10,6 +10,7 @@ I wish that the selection of CLI tools we provide with operating systems and bro
 - [[bat]]: `cat` with syntax highlighting and line numbers
 - [concurrently](https://www.npmjs.com/package/concurrently): run programs in parallel, and print their output in a pleasing way
 	- it's hard to explain how nice this program is; I often use it when I want to run a web server and a database, and see both of their output together; it can give each program its own color so you can see at a glance what is logging
+	- it's kind of shocking how hard it is to replace this tool with standard unix tools
 - [delta](https://github.com/dandavison/delta): much better git diff output
 	- I often use this where you might use `diff` as well, it's great
 - [doggo](https://github.com/mr-karan/doggo): a better `dig`
