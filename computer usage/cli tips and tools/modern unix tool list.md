@@ -22,6 +22,9 @@ I wish that the selection of CLI tools we provide with operating systems and bro
 - [[hyperfine]]: benchmark programs from the command line
 - [hexyl](https://github.com/sharkdp/hexyl): a better `xxd`
 - [[jq]]: pull apart json, and build it up if necessary. Hugely useful in shell scripts with curl
+- [[jless]]: interactively fold and unfold json documents
+	- very helpful for working with large json documents
+	- can output `jq` filters, making the two pair nicely
 - [[ripgrep]]: a cornerstone of my workflow, an improved `grep`
 - [qsv](https://github.com/jqnatividad/qsv): manipulate csv files at the command line
 
