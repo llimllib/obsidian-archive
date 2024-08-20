@@ -1,5 +1,5 @@
 ---
-updated: 2024-06-22T18:19:50.096Z
+updated: 2024-08-20T01:57:35.992Z
 created: 2024-01-02T02:43:11Z
 ---
 I love a lot of these. It's pretty wild that I took a long time going through the list of videos, and I'm sure that I missed some.
@@ -74,6 +74,7 @@ In alphabetical order, with a 🎧 icon beside the show if I've loved it enough 
 - [Saul Williams](https://www.youtube.com/watch?v=eXfVIPqcF9I)
 - [Seratones](https://www.youtube.com/watch?v=uSgJbqaYS74)
 - [Seu Jorge](https://www.youtube.com/watch?v=2Ws_5-hiqao)
+- [Sierra Ferrell](https://www.youtube.com/watch?v=OO6QUgGMp2A)
 - [Snail Mail](https://www.youtube.com/watch?v=21ix1OwPoY8)
 - [St. Paul and the Broken Bones](https://www.youtube.com/watch?v=6vpXX5BjltM) 🎧
 - [Sturgill Simpson](https://www.youtube.com/watch?v=w5cMqD0WqYE) 🎧
