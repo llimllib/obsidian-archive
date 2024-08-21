@@ -1,6 +1,6 @@
 ---
-updated: '2023-10-27T13:56:46Z'
-created: '2023-10-20T13:54:09Z'
+updated: 2024-08-21T13:01:35.398Z
+created: 2023-10-20T13:54:09Z
 ---
 https://saurabhs.org/advanced-macos-commands
 
@@ -81,3 +81,6 @@ iconutil -c icns MyIcon.iconset
 ```
 
 - I found `eslogger` via a mention on [mastodon](https://federated.saagarjha.com/objects/a6aac6ed-7a4c-4bfe-9436-24d1a2f5af1b), it's fantastically useful for monitoring events on your system. See [[debugging os x]] for more details
+- `xattr` allows you to modify extended filesystem attributes
+	- you can open an app that says "_app_ Is Damaged and Can’t Be Opened" with `xattr -c /Applications/app.app`
+	- `-c` clears all attributes
