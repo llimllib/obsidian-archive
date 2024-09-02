@@ -2,7 +2,9 @@
 created: 2024-09-02T14:03:56.286Z
 updated: 2024-09-02T14:03:56.286Z
 ---
-I mostly don't agree with the premises, but I enjoyed this brief talk transcript:
+https://briefs.video/videos/what-is-react/
+
+I mostly don't agree with the premises, but I enjoyed this brief talk transcript.
 
 > React dot JS, or simply “reaked”, is a not inconsiderable amount of JavaScript, written by some self-styled engineers, to help a website called Facebook undermine democracy, foment genocide, and do whatever else is needed to sell virtual advertising space...
 
