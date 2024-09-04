@@ -33,8 +33,8 @@ Javascript code to output an OSC8 link:
 
 ```javascript
 function link(url, text) {
-  const osc8 = '\x1b]8;;';
-  const st = '\x1b\x5C';
+  const osc8 = '\x1B]8;;';
+  const st = '\x1B\x5C';
   return `${osc8}${url}${st}${text}${osc8}${st}`;
 }
 ```
