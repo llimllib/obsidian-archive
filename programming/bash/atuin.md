@@ -1,6 +1,6 @@
 ---
-updated: '2023-10-20T13:54:09Z'
-created: '2023-10-20T13:54:09Z'
+updated: 2024-09-04T02:38:43.844Z
+created: 2023-10-20T13:54:09Z
 ---
 https://github.com/ellie/atuin
 
@@ -74,7 +74,7 @@ To merge history from one machine into another:
 - open sqlite on the machine you want to merge the files on with `sqlite3 ~/.local/share/atuin/history.db`
 - attach the remote file and insert it into the local history like so:
 ```
-$ sqlite3 ~/.local/share/atuin/history.db
+$ sqlite $(atuin info | grep -o '/.*.db')
 SQLite version 3.39.5 2022-10-14 20:58:05
 Enter ".help" for usage hints.
 sqlite> attach '/path/to/remote/history.db' as remotehist;
@@ -82,4 +82,16 @@ sqlite> begin;
 sqlite> insert into history select * from remotehist.history;
 sqlite> commit;
 sqlite> detach remotehist;
+```
+
+---
+
+List all commands that I ran on a particular date (here, '2024-04-25'):
+
+```
+$ atuin history list | grep '2024-04-25'
+2024-04-25 08:57:05	rg "npm run node"	543ms
+2024-04-25 08:57:09	vim .github/workflows/ci.yml	6s
+2024-04-25 08:57:19	gm "whoops" .github/	152ms
+...etc etc
 ```

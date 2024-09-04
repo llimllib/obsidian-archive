@@ -1,6 +1,6 @@
 ---
-updated: '2024-03-14T15:10:06Z'
-created: '2024-03-13T15:50:41Z'
+updated: 2024-09-04T02:38:17.959Z
+created: 2024-03-13T15:50:41Z
 ---
 To print out a clickable hyperlink in a [terminal that supports] the [OSC8 escape code](https://gist.github.com/egmontkob/eb114294efbcd5adb1944c9f3cb5feda), using bash:
 
@@ -18,3 +18,13 @@ def link(url, link):
 ```
 
 note that this assumes your URL is properly URL-escaped.
+
+Javascript code to output an OSC8 link:
+
+```javascript
+function link(url, link) {
+    const esc = '\x1b';
+    const osc8 = ']8;;';
+    return `${esc}${osc8}${url}${esc}\\${text}${esc}${osc8}${esc}\\`;
+}
+```
