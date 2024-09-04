@@ -13,7 +13,7 @@ The structure of that URL is (keep in mind that `\e` represents the same thing a
 ```
 OSC8 := \x1b]8;;
 ST := \x1b\x5C
-{OSC8}{url}{ST}{link text}{OSC8}
+{OSC8}{url}{ST}{link text}{OSC8}{ST}
 ```
 
 - that's a bit simplified, as there can be parameters between the `;;` in OSC8, but it mostly gets the job done. See [the spec](https://gist.github.com/egmontkob/eb114294efbcd5adb1944c9f3cb5feda) for more info.
