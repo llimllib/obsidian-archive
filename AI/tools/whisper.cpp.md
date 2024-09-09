@@ -1,6 +1,6 @@
 ---
 created: 2024-07-07T20:50:49.067Z
-updated: 2024-07-07T20:50:49.067Z
+updated: 2024-09-09T13:53:22.050Z
 ---
 https://github.com/ggerganov/whisper.cpp
 
