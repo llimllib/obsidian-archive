@@ -41,3 +41,4 @@ Lately, I've been browsing youtube and looking for good live concerts to watch. 
 - [McCoy Tyner Trio, Nürnberg 1986](https://www.youtube.com/watch?v=h_tgnG7t0kA)
 - [Gilberto Gil, Gilbertos Samba Ao Vivo](https://www.youtube.com/watch?v=YdMn8xzCOS0)
 - [Derek Gripper and Ballaké Sissoko, Gümüşlük / July 23, 2023](https://www.youtube.com/watch?v=6PTTgbci4Kg)
+- [Air - Royal Albert Hall 2024](https://www.youtube.com/watch?v=uQauaVbPEAA) play the entirety of "Moon Safari"
