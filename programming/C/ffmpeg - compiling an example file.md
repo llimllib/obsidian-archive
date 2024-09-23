@@ -16,6 +16,7 @@ clang \
 
 - `-I`: tells clang to search the given directory for header files
 	- You can use the `C_INCLUDE_PATH` environment variable instead if you prefer
+	- homebrew puts all its include files in `/opt/homebrew/include`, so if you want to be more general you can add that to `C_INCLUDE_PATH` in your shell initialization, or use that as the `-I` argument
 - `-L`: tells clang to search the given directory for objects to link
 	- You can use the `LIBRARY_PATH` environment variable instead
 		- The difference between `LIBRARY_PATH` and `LD_LIBRARY_PATH` is that the latter is used at runtime for loading dynamic libraries
