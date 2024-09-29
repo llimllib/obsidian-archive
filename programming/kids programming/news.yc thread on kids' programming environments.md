@@ -25,6 +25,7 @@ Some of the suggestions:
 - [fuze4](https://www.nintendo.com/us/store/products/fuze4-nintendo-switch-switch/) ([their site](https://www.fuze.co.uk/about-fuze4-nintendo-switch.html)) for making games on nintendo switch
 - [microstudio](https://microstudio.dev/)
 - [gamefroot](https://make.gamefroot.com/)
+- [kaplayjs](https://kaplayjs.com/) via Jay Graves
 
 There's a ton of stuff in the "kids make games" space!
 
