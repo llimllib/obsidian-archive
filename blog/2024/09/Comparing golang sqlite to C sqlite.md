@@ -19,8 +19,7 @@ The result is just one test, but it suggests that all sqlite bindings (or transl
 | eatonphil/gosqlite                              | 1017        | 1.38  | 651        | 7.75  |
 | ncruces/go-sqlite3                              | 2178        | 2.96  | 611        | 7.27  |
 | zombiezen/go-sqlite                             | 1403        | 1.90  | 211        | 2.51  |
-|                                                 |             |       |            |       |
-|                                                 |             |       |            |       |
+
 ![[Pasted image 20241001084907.png]]
 ![[Pasted image 20241001084951.png]]
 
