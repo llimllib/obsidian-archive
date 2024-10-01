@@ -18,6 +18,7 @@ The result is just one test, but it suggests that all sqlite bindings (or transl
 | [modernc.org/sqlite](http://modernc.org/sqlite) | 4148        | 5.63  | 966        | 11.50 |
 | eatonphil/gosqlite                              | 1017        | 1.38  | 651        | 7.75  |
 | ncruces/go-sqlite3                              | 2178        | 2.96  | 611        | 7.27  |
+| python 3.12.2                                   | 1992        | 1.90  | 1426       | 2.51  |
 | zombiezen/go-sqlite                             | 1403        | 1.90  | 211        | 2.51  |
 
 ![[Pasted image 20241001084907.png]]
@@ -31,3 +32,7 @@ This is a deeply non-serious benchmark - I was browsing the web while I was runn
 Somebody on mastodon asked me how this compares to previous versions of go, so I did a brief test of mattn and crawshaw on go 1.19, and found that they were in the range of 10-15% slower, so real progress on making cgo faster has been made in a pretty short timeframe.
 
 The code is available [here](https://gist.github.com/llimllib/4cb06c5fe7439aa7f3cb67a818fa230d#file-sqlite-c) in a gist.
+
+## update
+
+For kicks, I added a python version to the table above; source is [in the same gist](https://gist.github.com/llimllib/4cb06c5fe7439aa7f3cb67a818fa230d#file-bench-py)
