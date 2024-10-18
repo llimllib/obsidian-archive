@@ -1,6 +1,6 @@
 ---
-updated: '2024-03-12T15:15:06Z'
-created: '2024-03-12T15:15:06Z'
+updated: 2024-10-18T13:49:04.627Z
+created: 2024-03-12T15:15:06Z
 ---
 I use [[ungoogled-chromium]] for debugging sometimes, and wanted to install the react developer tools. 
 
