@@ -16,3 +16,7 @@ javascript:location.href='https://clients2.google.com/service/update2/crx?respon
 3. Visit an extension page ([example](https://chromewebstore.google.com/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi?hl=en)), and click the bookmarklet
 
 That's it! the extension should now be installed.
+
+---
+
+I started using [chromium-web-store](https://github.com/NeverDecaf/chromium-web-store), an extension that both allows you to easily install from the web store and shows you what plugins have updates
