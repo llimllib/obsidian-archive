@@ -11,3 +11,5 @@ https://github.com/Z4JC/ugrapheme/
 > `ugrapheme` exposes an interface that's almost identical to Python's native strings and maintains a similar performance envelope, processing strings at hundreds of megabytes or even gigabytes per second
 
 I want this for go and javascript! Looks like an impressive piece of work.
+
+Related: [uwcwidth](https://github.com/Z4JC/uwcwidth), for figuing out how many characters a string takes in a terminal
