@@ -1,6 +1,6 @@
 ---
-updated: '2023-10-20T13:54:09Z'
-created: '2023-10-20T13:54:09Z'
+updated: 2024-10-26T17:28:04.213Z
+created: 2023-10-20T13:54:09Z
 ---
 ## Jet
 
@@ -74,3 +74,19 @@ sql, args, err := active.ToSql()
 
 sql == "SELECT * FROM users JOIN emails USING (email_id) WHERE deleted_at IS NULL"
 ```
+
+## bob
+
+https://github.com/stephenafamo/bob?tab=readme-ov-file
+
+> Bob is a set of Go packages and tools to work with SQL databases.
+
+> Bob's philosophy centres around the following:
+
+> 1. **Correctness**: Things should work correctly. Follow specifications as closely as possible.
+> 2. **Convenience** (not magic): Bob provides convenient ways to perform actions, it does not add unexplainable magic, or needless abstraction.
+> 3. **Cooperation**: Bob should work well with other tools and packages as much as possible, especially the standard library.
+
+> **Bob** can be progressively adopted from raw SQL query strings, to fully typed queries with models and factories generated for your database
+
+via [this comment](https://www.reddit.com/r/golang/comments/1gbucet/faq_what_are_the_best_ways_to_manipulate_sql_in_go/ltowek4/) from the author pitching it
