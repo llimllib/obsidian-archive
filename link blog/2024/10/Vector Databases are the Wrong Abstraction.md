@@ -9,3 +9,5 @@ https://www.timescale.com/blog/vector-databases-are-the-wrong-abstraction/
 > When we reconceptualize embeddings as derived data, the absurdity of the current vector database abstraction becomes evident, with embeddings disconnected from their source data.
 
 Makes sense to me, though my work with vector databases has only been tangential so far.
+
+Via [news.yc](https://www.timescale.com/blog/vector-databases-are-the-wrong-abstraction/)

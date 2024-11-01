@@ -8,4 +8,4 @@ https://github.com/zalando/go-keyring
 
 > go-keyring was created after its authors searched for, but couldn't find, a better alternative. It aims to simplify using statically linked binaries, which is cumbersome when relying on C bindings (as other keyring libraries do).
 
-Similar to the [[keyring]] library in python, I found it because [the gh cli started using it](https://github.com/cli/cli/pull/7043)
+Similar to the [[programming/python/keyring]] library in python, I found it because [the gh cli started using it](https://github.com/cli/cli/pull/7043)
