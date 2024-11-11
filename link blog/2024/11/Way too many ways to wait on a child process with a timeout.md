@@ -7,3 +7,5 @@ https://gaultier.github.io/blog/way_too_many_ways_to_wait_for_a_child_process_wi
 Nice tour through a bunch of options for timing out a process in C, considering a bunch of options that are more or less portable.
 
 It's pretty unsatisfying that in the end, there is no great general solution to what seems like it should be a simple problem.
+
+The [source for all examples](https://github.com/gaultier/c/tree/master/ueb) is on github
