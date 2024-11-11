@@ -1,5 +1,5 @@
 ---
-updated: 2024-08-21T13:01:35.398Z
+updated: 2024-11-11T14:19:43.844Z
 created: 2023-10-20T13:54:09Z
 ---
 https://saurabhs.org/advanced-macos-commands
