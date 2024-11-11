@@ -84,3 +84,5 @@ iconutil -c icns MyIcon.iconset
 - `xattr` allows you to modify extended filesystem attributes
 	- you can open an app that says "_app_ Is Damaged and Can’t Be Opened" with `xattr -c /Applications/app.app`
 	- `-c` clears all attributes
+- `uuidgen` does what it says on the tin, generates UUIDs. The [man page](https://ss64.com/mac/uuidgen.html) doesn’t say what uuid version it generates 
+- `jq` since Mac OS 15, jq is included in the base OS
