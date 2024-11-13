@@ -30,3 +30,18 @@ Instead of adding abstraction in the hopes of eliminating complexity, consider i
 
 It's not always the right answer, but it's a pattern that's worth considering. Consider this your [Oblique Strategy](https://en.wikipedia.org/wiki/Oblique_Strategies) for today.
 
+**update**: Bryce Mecum reminded me on mastodon of [this excellent post](https://ferd.ca/complexity-has-to-live-somewhere.html) by Fred Hebert:
+
+> We try to get rid of the complexity, control it, and seek simplicity. I think framing things that way is misguided. Complexity has to live somewhere.
+
+Which I'm echoing here probably because I read it a while ago and it's still bouncing around in my brain. I particularly like:
+
+> Accidental complexity is just [essential complexity](https://en.wikipedia.org/wiki/No_Silver_Bullet) that shows its age
+
+I have a post-modern understanding of complexity: complexity is fundamentally tied to the observer; what is complex for one is no longer for another, or even for the same person six months later.
+
+Given that understanding, the line between accidental and essential complexity (which I acknowledge can be a useful one to draw) gets fuzzier and fuzzier the harder you look at it - it disappears on close inspection.
+
+> Complexity has to live _somewhere_. If you are lucky, it lives in well-defined places.
+
+He also links to [this famous talk](https://www.infoq.com/presentations/Simple-Made-Easy/) by Rich Hickey, which I remember hating! I will need to watch it again to see if I still do, and to remember why.
