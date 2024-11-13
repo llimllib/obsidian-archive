@@ -20,7 +20,7 @@ via [raganwald](https://elk.zone/hachyderm.io/@raganwald@social.bau-ha.us/113475
 
 I think programmers torture themselves with this! The constant pursuit of _the perfect abstraction_ in the hope of removing complexity causes programmers to add accidental complexity more often than it causes them to come up with a genius stroke that eliminates it in a poof of logic.
  
-More often than not, I think we'd do better to accept the complexity, be happy with it, and move it somewhere that is clear and simple.
+More often than not, we'd do better to accept the complexity, be happy with it, and move it somewhere that is clear and simple.
 
 What is simple complexity?
 
