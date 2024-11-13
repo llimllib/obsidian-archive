@@ -38,7 +38,7 @@ Which I'm echoing here probably because I read it a while ago and it's still bou
 
 > Accidental complexity is just [essential complexity](https://en.wikipedia.org/wiki/No_Silver_Bullet) that shows its age
 
-I have a post-modern understanding of complexity: complexity is fundamentally tied to the observer; what is complex for one is no longer for another, or even for the same person six months later.
+I have a post-modern understanding of complexity: complexity is fundamentally tied to the observer; what is complex for one is not for another, or even for the same person six months later.
 
 Given that understanding, the line between accidental and essential complexity (which I acknowledge can be a useful one to draw) gets fuzzier and fuzzier the harder you look at it - it disappears on close inspection.
 
