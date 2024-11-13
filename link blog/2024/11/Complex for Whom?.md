@@ -30,7 +30,7 @@ Instead of adding abstraction in the hopes of eliminating complexity, consider i
 
 It's not always the right answer, but it's a pattern that's worth considering. Consider this your [Oblique Strategy](https://en.wikipedia.org/wiki/Oblique_Strategies) for today.
 
-**update**: Bryce Mecum reminded me on mastodon of [this excellent post](https://ferd.ca/complexity-has-to-live-somewhere.html) by Fred Hebert:
+**update**: Bryce Mecum [reminded me](https://toot.cafe/@amoeba/113477102124246460) on mastodon of [this excellent post](https://ferd.ca/complexity-has-to-live-somewhere.html) by Fred Hebert:
 
 > We try to get rid of the complexity, control it, and seek simplicity. I think framing things that way is misguided. Complexity has to live somewhere.
 
