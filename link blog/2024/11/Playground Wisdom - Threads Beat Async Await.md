@@ -9,3 +9,5 @@ https://lucumr.pocoo.org/2024/11/18/threads-beat-async-await/
 > The trade-off that async/await makes today is that the idea is that not everything needs to block or needs to suspend. The reality, however, has shown me that many more things really want to suspend, and if a random memory access is a case for suspending, then is the abstraction worth anything?
 
 - [Armin Ronacher](https://lucumr.pocoo.org/2024/11/18/threads-beat-async-await/)
+
+Links to and engages with [[Go statement considered harmful]], one of my favorite posts
