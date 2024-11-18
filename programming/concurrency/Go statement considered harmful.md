@@ -1,6 +1,6 @@
 ---
-updated: '2023-10-20T13:54:09Z'
-created: '2023-10-20T13:54:09Z'
+updated: 2024-11-18T14:19:07.037Z
+created: 2023-10-20T13:54:09Z
 ---
 https://vorpus.org/blog/notes-on-structured-concurrency-or-go-statement-considered-harmful/
 
