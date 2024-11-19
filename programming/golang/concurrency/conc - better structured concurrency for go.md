@@ -15,3 +15,5 @@ https://github.com/sourcegraph/conc
 > In `conc`, the owner of a goroutine is always a `conc.WaitGroup`. Goroutines are spawned in a `WaitGroup` with `(*WaitGroup).Go()`, and `(*WaitGroup).Wait()` should always be called before the `WaitGroup` goes out of scope.
 
 references [[Go statement considered harmful]] in the README 😍
+
+cf [[flowmatic]], which looks nicer but I've never used either

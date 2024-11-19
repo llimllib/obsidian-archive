@@ -40,4 +40,4 @@ Where the important properties of `with` are that it enables resource collection
 
 Links to [[oklog-run]] as maybe the closest thing implementable in go
 
-See [[conc - better structured concurrency for go]] for a library that attempts to improve the go statement with similar ideas
+See [[flowmatic]] for a library that attempts to improve the go statement with similar ideas
