@@ -1,5 +1,5 @@
 ---
-updated: 2024-08-20T01:57:35.992Z
+updated: 2024-11-22T02:51:18.717Z
 created: 2024-01-02T02:43:11Z
 ---
 I love a lot of these. It's pretty wild that I took a long time going through the list of videos, and I'm sure that I missed some.
@@ -47,6 +47,7 @@ In alphabetical order, with a 🎧 icon beside the show if I've loved it enough 
 - [Kishi Bashi](https://www.youtube.com/watch?v=BgqAmZHkkTg)
 - [Kronos Quartet](https://www.youtube.com/watch?v=7PQYF4-BbrE)
 - [Kurt Vile](https://www.youtube.com/watch?v=HPpjFtNPnAc)
+- [Lankum](https://www.youtube.com/watch?v=kCLFShptAIA)
 - [Lake Street Dive](https://www.youtube.com/watch?v=gdRAcoD5Gt0)
 - [Leon Bridges](https://www.youtube.com/watch?v=C_oACPWGvM4)
 - [Lianne la Havas](https://www.youtube.com/watch?v=qso4MRfidrw)
