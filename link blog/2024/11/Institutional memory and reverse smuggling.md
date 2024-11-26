@@ -20,4 +20,4 @@ Worth reading in its entirety.
 
 Progress is not certain, only the continuous effort of groups of people keeps it going.
 
-via [mastodon](https://elk.zone/hachyderm.io/@RuthMalan@mastodon.social/113538319095698521)
+via [mastodon](https://berlin.social/@jack/113549173996864896)
