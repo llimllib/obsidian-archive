@@ -1,6 +1,6 @@
 ---
-updated: '2024-01-01T18:32:03Z'
-created: '2024-01-01T18:32:03Z'
+updated: 2024-12-03T03:47:48.302Z
+created: 2024-01-01T18:32:03Z
 ---
 https://observablehq.com/
 
@@ -18,3 +18,5 @@ A few I have created:
 I like working with observable well enough, but I dislike how challenging it is to take code from a notebook and turn it into a normal webpage enough that I usually just start with a normal web page.
 
 There are some nice conveniences of having things set up for you in observable though, for sure.
+
+- [Custom mark documentation](https://observablehq.com/d/4e732d61f48c4925), such as it is
