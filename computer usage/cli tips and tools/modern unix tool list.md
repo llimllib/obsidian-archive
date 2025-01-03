@@ -1,6 +1,6 @@
 ---
 created: 2024-08-16T14:03:07.403Z
-updated: 2024-08-19T18:10:52.725Z
+updated: 2025-01-03T13:47:30.795Z
 ---
 For the purposes of this list, a tool is "modern" if it replaces a tool that you're likely to find in a base debian install.
 
@@ -32,6 +32,8 @@ I wish that the selection of CLI tools we provide with operating systems and bro
 On my radar but haven't gotten to stick yet:
 - [eza](https://github.com/eza-community/eza)
 	- so far, `ls -FG --hyperlink=auto --color=auto` has been Good Enough™ for me
+- [[vv]]
+	- display and resize images in your terminal appropriately
 
 Some tools I tried and didn't like:
 - broot: seems like there's cool functionality in there, but I ultimately couldn't make it work like I wanted and it seemed too opinionated
