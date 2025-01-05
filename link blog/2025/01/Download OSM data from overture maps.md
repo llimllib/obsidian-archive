@@ -1,10 +1,10 @@
 ---
 created: 2025-01-05T13:53:23.807Z
-updated: 2025-01-05T13:53:23.807Z
+updated: 2025-01-05T15:37:18.905Z
 ---
-https://explore.overturemaps.org/
+ https://explore.overturemaps.org/
 
-via [Misha Knapek](https://bsky.app/profile/miskaknapek.bsky.social/post/3leyh5fjp422b) on bluesky, notes that overture has added a feature where you can download the OSM data shown on the page:
+via [Miska Knapek](https://bsky.app/profile/miskaknapek.bsky.social/post/3leyh5fjp422b) on bluesky, notes that overture has added a feature where you can download the OSM data shown on the page:
 
 ![[Pasted image 20250105085411.png]]
 
