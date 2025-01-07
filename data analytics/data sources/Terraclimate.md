@@ -19,3 +19,7 @@ To download the data for the [bivariate map of North America](https://observable
 Which returns a [netcdf](https://www.unidata.ucar.edu/software/netcdf/) file which can be opened by https://www.npmjs.com/package/netcdfjs or similar libraries in other languages.
 
 I haven't found a proper full description of the data set.
+
+That data is aggregate data from 1958-current; you can also get individual years. For example, here is the netCDF file containing the `tmin` data for 1982:
+
+`http://thredds.northwestknowledge.net:8080/thredds/fileServer/TERRACLIMATE_ALL/data/TerraClimate_tmin_1982.nc`
