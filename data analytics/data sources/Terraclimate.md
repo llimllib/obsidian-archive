@@ -6,7 +6,7 @@ http://thredds.northwestknowledge.net:8080/thredds/terraclimate_aggregated.html
 
 Contains freely-available high resolution climate data.
 
-To download the datafFor the [bivariate map of North America](https://observablehq.com/d/de1419e02bc65596), I:
+To download the data for the [bivariate map of North America](https://observablehq.com/d/de1419e02bc65596), I:
 
 - got a bounding box for North America
 	- lat: 6.6/83.3
