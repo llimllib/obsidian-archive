@@ -6,7 +6,7 @@ https://arbourtrary.com/sketches/island-peakscapes?v=3
 
 ![[Pasted image 20250112211938.png]]
 
-Lovely shaded relief maps of a few islands, styled after [Chaney Swiney's Peakscapes](https://chaneyswiney.com/cartography#:~:text=finding%20the%20time.-,peakscapes,-Iconic%20mountain%20skylines) project, though using a different method (Blender).
+Lovely shaded relief maps of a few islands, styled after [Chaney Swiney's Peakscapes](https://chaneyswiney.com/cartography#:~:text=finding%20the%20time.-,peakscapes,-Iconic%20mountain%20skylines) project, though using a different method (Blender). via [Chaney Swiney on bsky](https://bsky.app/profile/chaneyswiney.com/post/3lflmhhg2d22m)
 
 I had meant to link Peakscapes earlier, so I'm glad I found another reference to it, the images are lovely:
 
