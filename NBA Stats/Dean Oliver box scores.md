@@ -24,3 +24,9 @@ If you click into the detailed box score, you get this:
 ![[Pasted image 20250122081854.png]]
 
 The presentation of all of this could definitely use some work; I like some aspects of it and should consider them as I go forward with my game logs.
+
+---
+
+[This review](https://zengm.com/blog/2024/11/basketball-beyond-paper-review/) of [Oliver's new book](https://www.amazon.com/Basketball-beyond-Paper-Analytics-Revolution/dp/1496240499) has a description of the stat:
+
+> He uses various data sources (box score, play-by-play, player tracking) to assign the credit/blame to each player on the court every time a play happens. So like if you have a pick and roll, and the ball handler makes a pull up 3 pointer as the defender goes under the screen. That's 3 points. How much were because of the guy that made the shot? How much for the screener? How much for the other offensive players providing spacing? How much for the defense making good/bad plays? Add that up over the course of the season, and the output is some kind of +/- number.
