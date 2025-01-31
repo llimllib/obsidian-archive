@@ -25,3 +25,5 @@ Some examples of the language:
 ```
 
 more [here](https://github.com/lfnoise/sapf/blob/main/sapf-examples.txt)
+
+via [toot](https://sonomu.club/@madskjeldgaard/113921744905363935)
