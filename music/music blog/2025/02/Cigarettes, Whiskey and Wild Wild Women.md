@@ -9,6 +9,7 @@ I woke up this morning with Jim Croce singing "Cigarettes, Whiskey and Wild Wild
 The earliest version I can find of it is by Red Ingle and the Natural Seven, published as "Cigareetes, Whuskey and Wild Wild Women" in 1947. This version is a riot:
 
 <iframe src="https://archive.org/embed/capitol-15045-b-cigarettes-whiskey-and-wild-wild-women" width="500" height="60" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+
 Buck Owens covered it in a very similar style:
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/v4rY52SWklc?si=ty1e0fZ1G3zzj4VA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
