@@ -1,6 +1,6 @@
 ---
-updated: '2024-03-16T01:22:40Z'
-created: '2023-10-20T13:54:09Z'
+updated: 2025-03-05T13:31:42.879Z
+created: 2023-10-20T13:54:09Z
 ---
 https://sw.kovidgoyal.net/kitty/
 
@@ -53,4 +53,9 @@ action send_text normal,application icat ${FILE_PATH}\r
 	- run `rg --hyperlink-format=kitty <something>`, then click on a line number, and you should get brought right to that line
 - [here's the commit](https://github.com/llimllib/personal_code/commit/4493a7e47fff527d1e0f9eed9ea23749b9a2709a) where I introduced it into my dotfiles
 	- you can [configure delta to use hyperlinks too](https://github.com/llimllib/personal_code/commit/3afdcdef3a936d283dea4cea6281bb3c7de24895)
-	- 
+
+## opening files from finder
+
+[this github issue comment](https://github.com/kovidgoyal/kitty/issues/4460#issuecomment-2677434820) shows how you can create an Automator "application" that will find your kitty app, add a tab, and open a file with it.
+
+Automator is just a crazy app, I don't know how apple ever expects anybody to use it, but I tried it out and this works perfectly.
