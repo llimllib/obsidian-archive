@@ -12,6 +12,7 @@ created: '2023-10-20T13:54:09Z'
 - [[csvkit]] - slow, but the most thorough csv tools I know of
 - [q](http://harelba.github.io/q/) - run sql directly on CSV or TSV files
 - [csvtk](https://bioinf.shenwei.me/csvtk/) golang tools, looks similar to qsv. Has plot tools, which is neat
+- [xan](https://github.com/medialab/xan) - originally another fork of xsv, but nearly rewritten by now. includes pretty command line graphs
 
 Or you could [load and query your CSV through slqite](https://til.simonwillison.net/sqlite/one-line-csv-operations)
 
