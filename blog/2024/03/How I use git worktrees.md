@@ -1,6 +1,6 @@
 ---
-updated: '2024-03-05T22:24:05Z'
-created: '2024-03-05T22:03:41Z'
+updated: 2024-04-01T13:17:05Z
+created: 2024-03-05T22:03:41Z
 ---
 My favorite feature of git is one that not enough people know about: _worktrees_.
 
@@ -24,7 +24,7 @@ Since I rarely want to work on the main branch directly, I generally start by cr
 
 The git command to make a worktree for a branch called `update-node-deps`, assuming I'm in the `main` directory, would be `git worktree add ../update-node-deps update-node-deps`.
 
-Unfortunately, the UI of the `git worktree add` command leaves a lot to be desired, so I've become dependent on my own [`worktree`](https://github.com/llimllib/personal_code/blob/daab9eb1/homedir/.local/bin/worktree#L1) command that wraps it.
+Unfortunately, the UI of the `git worktree add` command leaves a lot to be desired, so I've become dependent on my own [`worktree`](https://github.com/llimllib/personal_code/blob/master/homedir/.local/bin/worktree) command that wraps it.
 ## Improving the UI
 
 There are some small annoyances my `worktree` script handles for me
