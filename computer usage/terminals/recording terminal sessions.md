@@ -1,5 +1,5 @@
 ---
-updated: 2024-06-24T12:18:24.748Z
+updated: 2025-04-03T12:18:24.748Z
 created: 2023-10-20T13:54:09Z
 ---
 The best tool I know of for recording sessions is [asciinema](https://asciinema.org/).
@@ -15,3 +15,5 @@ You can then upload it to asciinema.org or convert the recording to a gif with [
 _update Jun 24 2024_: [vhs](https://github.com/charmbracelet/vhs) is a neat-looking scriptable version of asciinema. It says:
 
 > Write terminal GIFs as code for integration testing and demoing your CLI tools
+
+cf [[vhs - gifs of terminal interaction]]
