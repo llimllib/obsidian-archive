@@ -1,0 +1,7 @@
+> The general form being: why Obscure Thing is better than Popular Thing. And always the justification is purportedly rational and technical. And always, always, it is complete sophistry. Why?
+
+> Because people make technical decisions, in part, for affective reasons. They choose a technology because it feels good, or comfortable, or because it’s what they know. They choose obscure tech as a form of sympathetic magic, like the guy who uses NetBSD on a ThinkPad to feel like a William Gibson protagonist. They choose obsolete languages, like Lisp or Smalltalk, because they think of the heroic age of Xerox PARC, and they want to feel connected to that tradition. They find tools whose vibes align with theirs: Ada says “slow, conservative, baroque” while Rust says “fast-paced, unproven, parvenu”. They use Emacs because they read that Neal Stephenson [essay](https://web.stanford.edu/class/cs81n/command.txt) and they feel VS Code is for normies and Emacs is Gnostic.
+
+> But many people can’t admit this to themselves! Because it is contrary to their identity: that they are unfeeling Cartesian rationalist automata. And so they invent rationalizations. Once you read enough of these posts, you see the patterns.
+
+- [Fernando Borretti](https://borretti.me/article/you-can-choose-tools-that-make-you-happy)
