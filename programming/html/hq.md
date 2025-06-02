@@ -10,4 +10,4 @@ https://github.com/orf/hq
 {posts: .athing | [ {title: .titleline > a, url: .titleline > a | @(href)} ] }
 ```
 
-jq, but for HTML. Similar to [[pup]] but maybe more maintained?
+[[jq]], but for HTML. Similar to [[pup]] but maybe more maintained?

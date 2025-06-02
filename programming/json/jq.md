@@ -13,7 +13,7 @@ A bit cryptic though.
 - Good intro article: https://earthly.dev/blog/jq-select/
 - I like that article better than the bit I wrote for work: https://gist.github.com/llimllib/84a4345e87c5bc0758597c2052cbc680
 
-`jq` appears to be largely unmaintained at this point, which is sad
+`jq` ~~appears to be largely unmaintained at this point, which is sad~~
 - update: [[jq is alive again]]!
 
 - convert json to csv, something I modified from stack overflow:
