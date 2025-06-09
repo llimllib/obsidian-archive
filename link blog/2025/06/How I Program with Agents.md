@@ -19,3 +19,5 @@ CREATE TABLE IF NOT EXISTS Cookie (
 > This has many pros and many cons. It acts as a poor man’s ORM as each table has an “obvious” data type matching each record. It makes adding to the schema trivial. You can choose to ADD COLUMN if you like but you do not have to. The SQL column constraints act as good dynamic checks on the quality of your JSON. It greatly increases the amount of stored data per row. You have to structure all your INSERT and UPDATEs in terms of JSON. Half a foot in the document database world, but I can still write an old fashioned JOIN. Etc.
 
 I had to read that SQL snippet a few times to get what was going on there! *(It's creating derived columns from the final `Data` column)*
+
+> The way this all works today is very different than six months ago, and I do not believe we are at a stable point yet. I believe a lot of norms around team interactions will also be changing. For example, **the mostly-broken process of half-hearted code review that has been adopted across the industry no longer solves the problems it barely solved before**. It needs to be reinvented
