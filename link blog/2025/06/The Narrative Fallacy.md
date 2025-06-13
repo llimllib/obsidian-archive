@@ -2,4 +2,4 @@
 
 > Narratives are indiscriminate. Attach them to _anything_ and they are now more compelling.
 
-- [Nikhil Suresh]
+- [Nikhil Suresh](https://ludic.mataroa.blog/blog/the-narrative-fallacy/)
