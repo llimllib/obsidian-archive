@@ -4,6 +4,6 @@
 
 > The issue is that the results from the Entscheidungsproblem would suggest that there is no general method to solving problems.
 
-- [Russell Power](https://rjp.io/publications)
+- [Russell Power](https://rjp.io/blog/2025-06-07-reflections-on-sudoku)
 
 Whole thing is worth reading
