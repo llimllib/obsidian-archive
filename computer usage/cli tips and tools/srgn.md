@@ -8,4 +8,6 @@ https://github.com/alexpovel/srgn
 
 Like [[fastmod]], but with [[tree-sitter]] instead of regular expressions.
 
+Available on homebrew
+
 see also: [[comby]], [[tree-grepper]], [[tbsp]]
