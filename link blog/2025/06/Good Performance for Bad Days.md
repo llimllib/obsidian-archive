@@ -9,3 +9,5 @@
 > Closed benchmarks are too kind to realistically reflect how performance changes with load, for the simple reason that they slow their load down when latency goes up.
 
 > The real world isn’t that kind to systems. In most cases, if you slow down, you just have more work to be done later.
+
+- [Marc Brooker](https://brooker.co.za/blog/2025/05/20/icpe)
