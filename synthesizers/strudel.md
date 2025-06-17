@@ -7,7 +7,8 @@ https://strudel.cc/workshop/getting-started/
 
 Strudel is a fun music notation language with an online repl. Via [Lu Wilson](https://www.todepond.com/)
 
-Unfortunately it seems like you mostly need to use Chrome with it.
+- Unfortunately it seems like you mostly need to use Chrome with it.
+- Derives from [TidalCycles](https://tidalcycles.org/), which is a haskell UI on top of [[supercollider]]
 
 Here's how to connect my keyboard and use it as a piano, via [this issue](https://club.tidalcycles.org/t/baked-in-support-for-midi-in-audio-in-and-audio-devices-channels/5098). There is [midi support](https://strudel.cc/learn/input-output/), but right now it's really only for control knobs.
 
