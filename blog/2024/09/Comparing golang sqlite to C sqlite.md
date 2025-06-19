@@ -1,6 +1,6 @@
 ---
 created: 2024-10-01T12:19:11.675Z
-updated: 2024-10-01T12:19:11.675Z
+updated: 2025-06-19T21:20:17.704Z
 ---
 Following a [question on reddit](https://www.reddit.com/r/golang/comments/1ft4udf/performance_write_intensive_sqlite_mattngosqlite3/), I got curious about how well golang sqlite bindings (and translations, and WASM embeddings) compare to using C directly.
 
@@ -18,8 +18,8 @@ The result is just one test, but it suggests that all sqlite bindings (or transl
 | [modernc.org/sqlite](http://modernc.org/sqlite) | 4148        | 5.63  | 966        | 11.50 |
 | eatonphil/gosqlite                              | 1017        | 1.38  | 651        | 7.75  |
 | ncruces/go-sqlite3                              | 2178        | 2.96  | 611        | 7.27  |
-| python 3.12.2                                   | 1992        | 1.90  | 1426       | 2.51  |
 | zombiezen/go-sqlite                             | 1403        | 1.90  | 211        | 2.51  |
+| python 3.12.2                                   | 1992        | 2.70  | 1426       | 16.98 |
 
 ![[Pasted image 20241001084907.png]]
 ![[Pasted image 20241001084951.png]]
@@ -36,3 +36,5 @@ The code is available [here](https://gist.github.com/llimllib/4cb06c5fe7439aa7f3
 ## update
 
 For kicks, I added a python version to the table above; source is [in the same gist](https://gist.github.com/llimllib/4cb06c5fe7439aa7f3cb67a818fa230d#file-bench-py)
+
+_2025 Jun 19_: noticed that the python ratios were not correct and fixed them; I did not re-run any tests
