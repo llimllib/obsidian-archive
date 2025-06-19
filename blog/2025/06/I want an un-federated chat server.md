@@ -1,7 +1,8 @@
 ---
 draft: true
+updated: 2025-06-19T15:27:19.149Z
+created: 2025-06-19T15:27:19.149Z
 ---
-
 You would think that every kind of chat server imaginable would already exist, but I want a chat server that:
 
 - **is open source**: users can see and build off the source
