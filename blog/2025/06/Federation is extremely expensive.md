@@ -1,6 +1,6 @@
 ---
 created: 2025-06-19T14:59:05.557Z
-updated: 2025-06-19T14:59:05.557Z
+updated: 2025-06-19T16:04:16.190Z
 ---
 There is a certain feeling among the developers of messaging software that if you want to create something worthwhile, you need to create a federated system.
 
@@ -16,7 +16,7 @@ Both protocols suffer from the challenge of preventing spam. It has proven so di
 Email's design is extremely substandard by modern standards, but despite the quasi-centralization of providers, we have no hope of changing it because there are still too many providers and consumers to make modernization possible. This leaves us with the worst of both worlds, a sub-standard protocol with a mostly-centralized structure.
 ### Moderation is ~impossible
 
-One of the key lessons of the modern internet is that a well moderated service is essential to providing a decent experience for users who are not trolls.
+A key lesson of the modern internet is that a well moderated service is essential to providing a decent experience for users who are not trolls.
 
 If your service is truly decentralized, consistent moderation is impossible by design.
 
@@ -31,3 +31,7 @@ This is an excellent impulse, and we should nurture it!
 But federation is not the only way to achieve ownership. We can make open software that allows people to own their own computation in meaningful ways a lot faster by **skipping federation** and focusing instead on building software that delivers a stronger user interface and user experience while providing data ownership.
 
 I want to see is a world in which we can deliver more open software to develop communities more rapidly, and I think we might get there faster if we accept that the cost of federation is so high that we ought to consider avoiding it.
+
+### postscript
+
+This post follows a conversation I had on a private Slack. Part of the reason why I think that conversation happened on Slack instead of on an open chat system is that we have spent so much effort building federated systems that we've failed to deliver working open software to replace it.
