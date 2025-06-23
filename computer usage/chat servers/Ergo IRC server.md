@@ -31,4 +31,6 @@ So finally I wait a minute and I get to list the channels, and immediately get h
 
 ![[Pasted image 20250623135548.png]]
 
+I connected to several channels, but didn't get history for any of them - not sure if that's because of the client I'm using?
+
 I think I'm done here, IRC remains not recommendable to humans
