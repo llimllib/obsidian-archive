@@ -8,4 +8,4 @@ updated: 2025-07-06T19:25:51.408Z
 
 This is more along the lines of how I feel from my [[The Rise of Whatever|last note]], and one I care about a lot.
 
-Not only don't they care, they seem to be in fact willing to let the world burn, metaphorically and literally, as long as they can make more money.
+Not only don't they care, they seem to be willing to let the world burn, metaphorically and literally, as long as they can make more money.
