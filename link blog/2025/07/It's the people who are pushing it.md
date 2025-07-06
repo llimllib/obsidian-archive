@@ -1,6 +1,6 @@
 ---
-created: 2025-07-06T19:32:47.971Z
-updated: 2025-07-06T19:32:47.971Z
+created: 2025-07-06T19:25:51.408Z
+updated: 2025-07-06T19:25:51.408Z
 ---
 > **The real problem [with LLMs]** · It’s the people who are pushing it. Their business goals are quite likely, as a side-effect, to make the world a worse place, and they don’t give a fuck.
 
