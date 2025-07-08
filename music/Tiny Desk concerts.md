@@ -29,12 +29,12 @@ In alphabetical order, with a 🎧 icon beside the show if I've loved it enough 
 - [Courtney Barnett & Kurt Vile](https://www.youtube.com/watch?v=JQs5XagfheI)
 - [Deep Sea Diver](https://www.youtube.com/watch?v=0pq_xv1PB28)
 - [Denzel Curry](https://www.youtube.com/watch?v=glHqWvkpRqo) 🎧
-- [Doechii](https://www.youtube.com/watch?v=-91vymvIH0c&t=990s)
+- [Doechii](https://www.youtube.com/watch?v=-91vymvIH0c)
 - [Drive-by truckers](https://www.youtube.com/watch?v=ewLgmWXQsqU)
 - [Dua Lipa](https://www.youtube.com/watch?v=y38qQRg3UDI)
 - [Fleet Foxes](https://www.youtube.com/watch?v=Ko5yZHAiKTU) 🎧
 - [Fred Again](https://www.youtube.com/watch?v=4iQmPv_dTI0&t=4s) 🎧
-- [Gillian Welch](https://www.youtube.com/watch?v=WR1BUVFToSE&t=1s) [2](https://www.youtube.com/watch?v=lfGdjdxxOuU&t=218s) 🎧
+- [Gillian Welch](https://www.youtube.com/watch?v=WR1BUVFToSE) [2](https://www.youtube.com/watch?v=lfGdjdxxOuU) 🎧
 - [Goat Rodeo](https://www.youtube.com/watch?v=O7EcT5YzKhQ)
 - [Gogol Bordello](https://www.youtube.com/watch?v=IJGh50t6crw)
 - [Hania Rani](https://www.youtube.com/watch?v=4RcKtr5bGa4)
