@@ -1,5 +1,5 @@
 ---
-updated: 2024-11-22T02:51:18.717Z
+updated: 2025-07-08T02:31:45.665Z
 created: 2024-01-02T02:43:11Z
 ---
 I love a lot of these. It's pretty wild that I took a long time going through the list of videos, and I'm sure that I missed some.
@@ -13,6 +13,7 @@ In alphabetical order, with a 🎧 icon beside the show if I've loved it enough 
 - [Angel Olsen](https://www.youtube.com/watch?v=4RL4mk38wwI)
 - [Ballaké Sissoko and Vincent Segal](https://www.youtube.com/watch?v=QtiTfejYpgs) 🎧
 - [Bela Fleck & Abigail Washburn](https://www.youtube.com/watch?v=BfNlkqX7hlc&t=493s)
+- [Beth Gibbons](https://www.youtube.com/watch?v=G_-DftINZKg)
 - [Better Oblivion Community Center](https://www.youtube.com/watch?v=j1Yz-NyLV90)
 - [Big Thief](https://www.youtube.com/watch?v=TCsFgJsJ5Uc) (aka Adrienne Lenker, different episode though)
 - [Billie Eilish](https://www.youtube.com/watch?v=4sZ2_aGsLKU)
@@ -28,9 +29,12 @@ In alphabetical order, with a 🎧 icon beside the show if I've loved it enough 
 - [Courtney Barnett & Kurt Vile](https://www.youtube.com/watch?v=JQs5XagfheI)
 - [Deep Sea Diver](https://www.youtube.com/watch?v=0pq_xv1PB28)
 - [Denzel Curry](https://www.youtube.com/watch?v=glHqWvkpRqo) 🎧
+- [Doechii](https://www.youtube.com/watch?v=-91vymvIH0c&t=990s)
 - [Drive-by truckers](https://www.youtube.com/watch?v=ewLgmWXQsqU)
+- [Dua Lipa](https://www.youtube.com/watch?v=y38qQRg3UDI)
 - [Fleet Foxes](https://www.youtube.com/watch?v=Ko5yZHAiKTU) 🎧
 - [Fred Again](https://www.youtube.com/watch?v=4iQmPv_dTI0&t=4s) 🎧
+- [Gillian Welch](https://www.youtube.com/watch?v=WR1BUVFToSE&t=1s) [2](https://www.youtube.com/watch?v=lfGdjdxxOuU&t=218s) 🎧
 - [Goat Rodeo](https://www.youtube.com/watch?v=O7EcT5YzKhQ)
 - [Gogol Bordello](https://www.youtube.com/watch?v=IJGh50t6crw)
 - [Hania Rani](https://www.youtube.com/watch?v=4RcKtr5bGa4)
@@ -42,6 +46,7 @@ In alphabetical order, with a 🎧 icon beside the show if I've loved it enough 
 - [JID](https://www.youtube.com/watch?v=gsaZRcL-OTQ&pp=ygUOc2FiYSB0aW55IGRlc2s%3D) 🎧
 - [John Prine](https://www.youtube.com/watch?v=sOg7mAkrKJw) 🎧
 	- [John Prine tribute](https://www.youtube.com/watch?v=PBksI8zbhrg) (RIP)
+- [Kamasi Washington](https://www.youtube.com/watch?v=x8WTPgeVPjg)
 - [Kevin Morby](https://www.youtube.com/watch?v=AKOlC7TAQ80)
 - [Khruangbin](https://www.youtube.com/watch?v=vWLJeqLPfSU)
 - [Kishi Bashi](https://www.youtube.com/watch?v=BgqAmZHkkTg)
@@ -57,6 +62,7 @@ In alphabetical order, with a 🎧 icon beside the show if I've loved it enough 
 - [Maggie Rogers](https://www.youtube.com/watch?v=SqPtIkxSxI0)
 - [Margo Price](https://www.youtube.com/watch?v=S9bLHMCnCAk)
 - [Mick Jenkins](https://www.youtube.com/watch?v=IT9sB1e61BA)
+- [Milton Nascimento and Natalia Lafourcade](https://www.youtube.com/watch?v=jFUhTmOSdGQ)
 - [Natalia Lafourcade](https://www.youtube.com/watch?v=JODaYjDyjyQ)
 - [Nickel Creek](https://www.youtube.com/watch?v=jFycqnOpifQ)
 - [Norah Jones](https://www.youtube.com/watch?v=o0ZnzboaDSg)
@@ -85,6 +91,7 @@ In alphabetical order, with a 🎧 icon beside the show if I've loved it enough 
 - [Tinariwen](https://www.youtube.com/watch?v=IdbBmqOUPlY)
 - [Trampled by Turtles](https://www.youtube.com/watch?v=PcoPedyXJVc)
 - [Tune-Yards](https://www.youtube.com/watch?v=c8FML8QhcZo)
+- [TV on the Radio](https://www.youtube.com/watch?v=zi_jOYpeCEM)
 - [Valerie June](https://www.youtube.com/watch?v=iBDrTHCSWDc)
 - [Vince Staples](https://www.youtube.com/watch?v=yN0I5xTjaGo)
 - [Wilco](https://www.youtube.com/watch?v=UZAKTCeE70Y) [2](https://www.youtube.com/watch?v=KMQQqa21ZVs)
