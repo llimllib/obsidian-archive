@@ -9,7 +9,7 @@ G = TypeVar("G")
 
 def retry(f: Callable[..., G], **kwargs) -> G:
     """
-    Retry a function call with backoff and prints out the exceptions raised
+    Retry a function call with backoff and print out the exceptions raised
     unless they are a timeout.
     """
     i = 0
