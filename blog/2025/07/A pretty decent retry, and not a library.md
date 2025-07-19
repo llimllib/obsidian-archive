@@ -81,3 +81,7 @@ Given that StackOverflow seems to be dying, I wonder how we could do a better jo
 Would it make sense for language ecosystems to host toolboxes? What if python had a `python.org/examples` library where people can paste code examples with a description and usage guide, and perhaps star them when they find them useful?
 
 Or perhaps we could try to have a sort of "codex" by problem type, where `retry` had a thousand examples in different languages, with different techniques, usages, and lineages?
+
+## postscript
+
+- Kartik Agaram points to [this excellent post](https://akkartik.name/post/four-repos) about four repositories he's created and uses, that he calls "template repositories", similar to the "toolbox" idea
