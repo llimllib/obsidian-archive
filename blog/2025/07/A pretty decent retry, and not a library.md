@@ -1,6 +1,6 @@
 ---
 created: 2025-07-19T15:14:41.434Z
-updated: 2025-07-19T15:14:41.434Z
+updated: 2025-07-21T15:12:06.849Z
 ---
 I'm pretty happy with the [retry function](https://github.com/llimllib/nba_data/blob/dbbed16c1c05a118b98e92da099267f3ffb7a8cd/src/stats.py#L37-L72) I've ended up with for my [nba stats downloader](https://github.com/llimllib/nba_data/):
 
@@ -84,4 +84,7 @@ Or perhaps we could try to have a sort of "codex" by problem type, where `retry`
 
 ## postscript
 
-- Kartik Agaram points to [this excellent post](https://akkartik.name/post/four-repos) about four repositories he's created and uses, that he calls "template repositories", similar to the "toolbox" idea
+- Kartik Agaram [points to](https://merveilles.town/@akkartik/114880743779511619) [this excellent post](https://akkartik.name/post/four-repos) about four repositories he's created and uses, that he calls "template repositories", similar to the "toolbox" idea
+- Konrad Hinsen [links](https://scholar.social/@khinsen/114891340725097727) this [preprint article](https://osf.io/preprints/metaarxiv/nt96q_v1) about what it means to establish trust in scientific code. I like this:
+
+> The evolution of software in such a universe is very different from what we see today. There is no official repository, no development timeline, no releases. There is only a network of many variants of some code, connected by forking relations. Centralized maintenance as we know it today does not exist. Instead, the community of scientists using the code improves it in small steps, with each team taking over improvements from other forks if they consider them advantageous. Improvement thus happens by small-step evolution rather than by large-scale design. While this may look strange toanyone used to today’s software development practices, it is very similar to how scientific models and theories have evolved in the pre-digital era
