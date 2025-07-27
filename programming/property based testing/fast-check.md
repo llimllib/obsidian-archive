@@ -3,6 +3,7 @@ created: 2025-07-27T14:06:09.993Z
 updated: 2025-07-27T14:06:09.993Z
 ---
 https://github.com/dubzzz/fast-check
+https://fast-check.dev
 
 Property-based testing for javascript
 
