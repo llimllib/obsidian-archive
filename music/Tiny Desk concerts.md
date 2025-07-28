@@ -1,5 +1,5 @@
 ---
-updated: 2025-07-28T01:11:49.373Z
+updated: 2025-07-28T19:35:03.938Z
 created: 2024-01-02T02:43:11Z
 ---
 I love a lot of these. It's pretty wild that I took a long time going through the list of videos, and I'm sure that I missed some.
@@ -26,6 +26,7 @@ In alphabetical order, with a 🎧 icon beside the show if I've loved it enough 
 - [Car Seat Headrest](https://www.youtube.com/watch?v=RZZHTVr-r-g)
 - [Chick Corea & Gary Burton](https://www.youtube.com/watch?v=15IHNYq6stw)
 - [Chris Thile & Michael Daves](https://www.youtube.com/watch?v=F_CKeb2gPQ8)
+- [Clipse](https://www.youtube.com/watch?v=f7gIBB7jKc0)
 - [Courtney Barnett & Kurt Vile](https://www.youtube.com/watch?v=JQs5XagfheI)
 - [Deep Sea Diver](https://www.youtube.com/watch?v=0pq_xv1PB28)
 - [Denzel Curry](https://www.youtube.com/watch?v=glHqWvkpRqo) 🎧
