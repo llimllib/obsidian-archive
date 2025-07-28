@@ -1,5 +1,5 @@
 ---
-updated: 2024-06-06T13:02:39.574Z
+updated: 2025-07-28T12:57:13.015Z
 created: 2023-10-20T13:54:09Z
 ---
 Salvatore Sanfilippo [asked on twitter](https://twitter.com/antirez/status/1569986950509088769) for recommendations for small javascript engines to embed in a program, and got a few:
@@ -30,6 +30,10 @@ by Fabrice Bellard
 > -   Mathematical extensions: BigDecimal, BigFloat, operator overloading, bigint mode, math mode.
 > -   Command line interpreter with contextual colorization implemented in Javascript.
 > -   Small built-in standard library with C library wrappers.
+
+[quickjs-ng](https://github.com/quickjs-ng/quickjs)
+
+A fork of quickjs that's more actively maintained. Found via [[a history of javascript runtimes]]
 
 [Espruino](https://github.com/espruino/Espruino):
 
