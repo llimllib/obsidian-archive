@@ -1,5 +1,5 @@
 ---
-updated: 2025-07-08T02:31:45.665Z
+updated: 2025-07-28T01:11:49.373Z
 created: 2024-01-02T02:43:11Z
 ---
 I love a lot of these. It's pretty wild that I took a long time going through the list of videos, and I'm sure that I missed some.
@@ -94,5 +94,6 @@ In alphabetical order, with a 🎧 icon beside the show if I've loved it enough 
 - [TV on the Radio](https://www.youtube.com/watch?v=zi_jOYpeCEM)
 - [Valerie June](https://www.youtube.com/watch?v=iBDrTHCSWDc)
 - [Vince Staples](https://www.youtube.com/watch?v=yN0I5xTjaGo)
+- [Wet Leg](https://www.youtube.com/watch?v=AzUHNjKMeV4)
 - [Wilco](https://www.youtube.com/watch?v=UZAKTCeE70Y) [2](https://www.youtube.com/watch?v=KMQQqa21ZVs)
 - [Willow](https://www.youtube.com/watch?v=DmC2QQESN6E)
