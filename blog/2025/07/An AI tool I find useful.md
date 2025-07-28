@@ -60,3 +60,7 @@ That last point brings me to why I prefer this tool to github's own copilot revi
 - A lot of things are hard-coded into the script, because I'm its only user
 	- If you find use in it, please let me know!
 - the system prompt seems to work fine, but the range of possible system prompts is so large that I'm sure it could be better
+
+## Postscript
+
+Thanks to [a suggestion](https://lobste.rs/c/mx0moq) on lobste.rs from `davidcrespo`, I [added the ability](https://github.com/llimllib/personal_code/commit/032c597d4c1f805a0fb6030723e22fcf4349b2ef) to provide context via stdin. Thanks for the suggestion!
