@@ -1,8 +1,8 @@
 ---
 created: 2025-07-27T14:31:07.680Z
-updated: 2025-07-27T14:31:07.680Z
+updated: 2025-07-28T19:22:46.652Z
 ---
-One of the tasks that I do most often is to review code. I've written a [review command](https://github.com/llimllib/personal_code/blob/c85d6b2106e1369339d045e8be0e43484149848e/homedir/.local/bin/review) that asks an AI to review a code sample, and I've gotten a lot of value out of it. 
+One of the tasks that I do most often is to review code. I've written a [review command](https://github.com/llimllib/personal_code/blob/032c597d4c1f805a0fb6030723e22fcf4349b2ef/homedir/.local/bin/review) that asks an AI to review a code sample, and I've gotten a lot of value out of it. 
 
 I ignore _most_ of the suggestions that the tool outputs, but it has already saved me often enough from painful errors that I wanted to share it in the hope that others might find it useful.
 
