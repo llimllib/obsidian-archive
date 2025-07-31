@@ -1,12 +1,13 @@
 ---
-updated: '2023-10-20T13:54:09Z'
-created: '2023-10-20T13:54:09Z'
+updated: 2025-07-31T01:26:48.118Z
+created: 2023-10-20T13:54:09Z
 ---
 In order to use `dtrace` or `dtruss` like you'd use `strace` on linux, you need to disable SIP, which is a pain. There are some tools you can use though, that work with Apple's [endpoint security framework](https://developer.apple.com/documentation/endpointsecurity):
 	- [here's a video from WWDC](https://developer.apple.com/videos/play/wwdc2022/110345/) about the endpoint security framework
 
 - command line
 	- `eslogger`, at `/usr/bin/eslogger`
+		- thank you [Saagar Jha](https://federated.saagarjha.com/objects/2d5a66f0-1ed7-45d0-8db3-2a399a95112c) for introducing me to it
 		- list event types with `eslogger --list-events`
 		- monitor the events you're interested in with `sudo eslogger [event types...]`
 		- For example, `eslogger stat write unlink create` will show you file events in a jsonl format
