@@ -1,5 +1,5 @@
 ---
-updated: 2025-07-28T19:35:03.938Z
+updated: 2025-08-14T18:54:39.385Z
 created: 2024-01-02T02:43:11Z
 ---
 I love a lot of these. It's pretty wild that I took a long time going through the list of videos, and I'm sure that I missed some.
@@ -30,7 +30,7 @@ In alphabetical order, with a 🎧 icon beside the show if I've loved it enough 
 - [Courtney Barnett & Kurt Vile](https://www.youtube.com/watch?v=JQs5XagfheI)
 - [Deep Sea Diver](https://www.youtube.com/watch?v=0pq_xv1PB28)
 - [Denzel Curry](https://www.youtube.com/watch?v=glHqWvkpRqo) 🎧
-- [Doechii](https://www.youtube.com/watch?v=-91vymvIH0c)
+- [Doechii](https://www.youtube.com/watch?v=-91vymvIH0c) 🎧
 - [Drive-by truckers](https://www.youtube.com/watch?v=ewLgmWXQsqU)
 - [Dua Lipa](https://www.youtube.com/watch?v=y38qQRg3UDI)
 - [Fleet Foxes](https://www.youtube.com/watch?v=Ko5yZHAiKTU) 🎧
@@ -63,6 +63,7 @@ In alphabetical order, with a 🎧 icon beside the show if I've loved it enough 
 - [Maggie Rogers](https://www.youtube.com/watch?v=SqPtIkxSxI0)
 - [Margo Price](https://www.youtube.com/watch?v=S9bLHMCnCAk)
 - [Mick Jenkins](https://www.youtube.com/watch?v=IT9sB1e61BA)
+- [MIKE](https://www.youtube.com/watch?v=TaBgZnScmY4)
 - [Milton Nascimento and Natalia Lafourcade](https://www.youtube.com/watch?v=jFUhTmOSdGQ)
 - [Natalia Lafourcade](https://www.youtube.com/watch?v=JODaYjDyjyQ)
 - [Nickel Creek](https://www.youtube.com/watch?v=jFycqnOpifQ)
