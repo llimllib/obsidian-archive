@@ -11,4 +11,6 @@ A tool to improve and unify the UI of various compression programs.
 
 `ouch compress [<file>...] <archive>` will compress files, and guess the format you want from the name of the archive you provide.
 
+`ouch list <archive>` will list the contents
+
 Added to my [[modern unix tools]] list. Via [@davidcrespo.bsky.social](https://bsky.app/profile/davidcrespo.bsky.social/post/3lxagmdforc2d)
