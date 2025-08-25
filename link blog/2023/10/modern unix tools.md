@@ -1,5 +1,5 @@
 ---
-updated: 2024-06-06T14:17:12.314Z
+updated: 2025-08-25T16:54:08.617Z
 created: 2023-10-20T13:54:09Z
 ---
 https://github.com/ibraheemdev/modern-unix
@@ -25,6 +25,8 @@ on that list that I'm interested in:
 - [sd](https://github.com/chmln/sd): I have suffered at the hands of attempting to write cross-platform sed. It stinks and I don't want to do it any longer
 - [dust](https://github.com/bootandy/dust): du with modern touches
 - [duf](https://github.com/muesli/duf): df with modern touches
+- [ouch](https://github.com/ouch-org/ouch): "obvious unified compression helper" - tar + zip + gzip + more
+	- `ouch compress <thing>` and `ouch decompress <thing>`
 
 not on that list but I use and is relevant:
 - [atuin](https://atuin.sh/): keep your command history in a sqlite database
