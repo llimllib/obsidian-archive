@@ -43,7 +43,7 @@ In alphabetical order, with a 🎧 icon beside the show if I've loved it enough 
 - [Hop Along](https://www.youtube.com/watch?v=iFGnkbZ3fLE)
 - [I'm with Her](https://www.youtube.com/watch?v=7WNmrsbu-hc)
 - [Jason Isbell](https://www.youtube.com/watch?v=djUh1eHdepE)
-- [Jeff the Brotherhood](https://www.youtube.com/watch?v=PsMqTDxboJE)
+- [Jeff the Brotherhood](https://www.youtube.com/watch?v=PsMqTDxboJE) 🎧
 - [JID](https://www.youtube.com/watch?v=gsaZRcL-OTQ&pp=ygUOc2FiYSB0aW55IGRlc2s%3D) 🎧
 - [John Prine](https://www.youtube.com/watch?v=sOg7mAkrKJw) 🎧
 	- [John Prine tribute](https://www.youtube.com/watch?v=PBksI8zbhrg) (RIP)
