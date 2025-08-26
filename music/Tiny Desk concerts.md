@@ -1,5 +1,5 @@
 ---
-updated: 2025-08-14T18:54:39.385Z
+updated: 2025-08-26T01:33:18.760Z
 created: 2024-01-02T02:43:11Z
 ---
 I love a lot of these. It's pretty wild that I took a long time going through the list of videos, and I'm sure that I missed some.
@@ -94,6 +94,7 @@ In alphabetical order, with a 🎧 icon beside the show if I've loved it enough 
 - [Trampled by Turtles](https://www.youtube.com/watch?v=PcoPedyXJVc)
 - [Tune-Yards](https://www.youtube.com/watch?v=c8FML8QhcZo)
 - [TV on the Radio](https://www.youtube.com/watch?v=zi_jOYpeCEM)
+- [Ty Segall](https://www.youtube.com/watch?v=nZzJwMXMvwE)
 - [Valerie June](https://www.youtube.com/watch?v=iBDrTHCSWDc)
 - [Vince Staples](https://www.youtube.com/watch?v=yN0I5xTjaGo)
 - [Wet Leg](https://www.youtube.com/watch?v=AzUHNjKMeV4)
