@@ -1,5 +1,5 @@
 ---
-updated: 2024-09-21T20:18:12.992Z
+updated: 2025-08-27T13:19:47.183Z
 created: 2023-10-20T13:54:09Z
 ---
 Lately, I've been browsing youtube and looking for good live concerts to watch. Some favorites:
@@ -42,3 +42,6 @@ Lately, I've been browsing youtube and looking for good live concerts to watch. 
 - [Gilberto Gil, Gilbertos Samba Ao Vivo](https://www.youtube.com/watch?v=YdMn8xzCOS0)
 - [Derek Gripper and Ballaké Sissoko, Gümüşlük / July 23, 2023](https://www.youtube.com/watch?v=6PTTgbci4Kg)
 - [Air - Royal Albert Hall 2024](https://www.youtube.com/watch?v=uQauaVbPEAA) play the entirety of "Moon Safari"
+- [Courtney Barnett - Royal Exhibition Building 2025](https://www.youtube.com/watch?v=r94JH8PaU0c)
+- [Jack White - L'Olympia Paris 2022](https://www.youtube.com/watch?v=WWFo-JoYSLo&t=3549s&pp=ygUbamFjayB3aGl0ZSBmdWxsIHBlcmZvcm1hbmNl)
+- [Four Tet - sónar 2025](https://www.youtube.com/watch?v=OmC6KIwjgFY&t=4372s)
