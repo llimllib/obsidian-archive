@@ -1,6 +1,6 @@
 ---
-updated: '2023-10-20T13:54:09Z'
-created: '2023-10-20T13:54:09Z'
+updated: 2025-08-29T22:08:36.098Z
+created: 2023-10-20T13:54:09Z
 ---
 https://github.com/rhashimoto/wa-sqlite
 
@@ -8,7 +8,7 @@ https://github.com/rhashimoto/wa-sqlite
 
 > [IndexedDB](https://github.com/rhashimoto/wa-sqlite/blob/master/src/examples/IDBMinimalVFS.js) and [Origin Private File System](https://github.com/rhashimoto/wa-sqlite/blob/master/src/examples/OriginPrivateFileSystemVFS.js) virtual file systems and a [virtual table module that accesses Javascript arrays](https://github.com/rhashimoto/wa-sqlite/blob/master/src/examples/ArrayModule.js) are among the examples provided as proof of concept.
 
-Basically a fork of the official SQLite wasm build with support for OPFS and other backends
+Basically a fork of the official SQLite wasm build with support for [[OPFS]] and other backends
 
 > The primary motivation for this project is to enable additions to SQLite with only Javascript...
 > Javascript wrappers for core SQLITE C API functions (and some others) are provided. Some convenience functions are also provided to reduce boilerplate. Here's sample code to load the library and call the API:
