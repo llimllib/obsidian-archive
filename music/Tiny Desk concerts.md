@@ -1,5 +1,5 @@
 ---
-updated: 2025-08-26T01:33:18.760Z
+updated: 2025-09-02T16:55:59.430Z
 created: 2024-01-02T02:43:11Z
 ---
 I love a lot of these. It's pretty wild that I took a long time going through the list of videos, and I'm sure that I missed some.
@@ -88,6 +88,7 @@ In alphabetical order, with a 🎧 icon beside the show if I've loved it enough 
 - [St. Paul and the Broken Bones](https://www.youtube.com/watch?v=6vpXX5BjltM) 🎧
 - [Sturgill Simpson](https://www.youtube.com/watch?v=w5cMqD0WqYE) 🎧
 - [Tame Impala](https://www.youtube.com/watch?v=C24hUt18RWY)
+- [The Beths](https://www.youtube.com/watch?v=vt0J3IEYkIg)
 - [The Smile](https://www.youtube.com/watch?v=Zm1VIGNmPxI)
 - [Thundercat](https://www.youtube.com/watch?v=zhVgbZdMdb0)
 - [Tinariwen](https://www.youtube.com/watch?v=IdbBmqOUPlY)
