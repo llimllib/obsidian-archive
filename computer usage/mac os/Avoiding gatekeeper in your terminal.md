@@ -8,6 +8,8 @@ To avoid Gatekeeper slowdowns in your terminal, add it as a "Developer Tool" in 
 
 That will prevent Gatekeeper from running on every app you launch.
 
-via [this article](https://nnethercote.github.io/2025/09/04/faster-rust-builds-on-mac.html) where the author investigated build slowdowns due to Gatekeeper. There [is a comment](https://news.ycombinator.com/item?id=24394150) on news.yc that suggests you may need to run `sudo spctl developer-mode enable-terminal` to enable that category
+via [this article](https://nnethercote.github.io/2025/09/04/faster-rust-builds-on-mac.html) where the author investigated build slowdowns due to Gatekeeper. There [is a comment](https://news.ycombinator.com/item?id=24394150) on news.yc that suggests you may need to run `sudo spctl developer-mode enable-terminal` to enable that category.
+
+I've added it to my [mac setup script](https://gist.github.com/llimllib/3fc4fefcfc0152dad8c58201246d8802#file-install-sh-L201-L204)
 
 **TODO**: I really want to be able to add apps to this category with a command line program - anybody know how to do that?
