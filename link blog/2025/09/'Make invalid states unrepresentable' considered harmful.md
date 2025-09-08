@@ -25,3 +25,9 @@ What they do depends on the system - maybe there's an alternate path, maybe they
 ---
 
 The lobste.rs comments also point to [Pure and Impure engineering](https://www.seangoedecke.com/pure-and-impure-engineering/), which is another thought-provoking article I'd like to write about in the future.
+
+---
+
+I also enjoy [this link](https://news.ycombinator.com/item?id=18190005) to a hacker news comment from `kentonv` defending some design decisions in protobufs, especially relating to the "all fields are optional" design.
+
+I love the argument that the value of allowing intermediary systems to pass through messages they can't successfully parse is very high, and extremely underrated
