@@ -14,7 +14,7 @@ time                 memory       cpu
 2024-01-29T07:23:00Z 192347156480 39501  
 ```
 
-I wanted to print the CPU column to the terminal with a nice line graph. Here's where I ended up:
+I wanted to print the CPU column to the terminal with a nice line graph. Here's where I ended up using [[gnuplot]]:
 
 ```
 rb services metrics app-prod |

@@ -18,7 +18,7 @@ $ cat /usr/share/dict/words | grep -o ...$ | sort | uniq -c | sort -r | head
 3061 ite
 ```
 
-If you want to pipe that into gnuplot to get a bar chart at your terminal, you can use `plot "<cat"` to tell gnuplot to read from stdin, like so:
+If you want to pipe that into [[gnuplot]] to get a bar chart at your terminal, you can use `plot "<cat"` to tell gnuplot to read from stdin, like so:
 
 ```
 $ cat /usr/share/dict/words | grep -o ...$ | sort | uniq -c | sort -r | head |
