@@ -29,3 +29,22 @@ gleam new .
 ```
 
 Now there's a file in `src/gleam_app.gleam`, and LSP works with it! Seems like the problem was that I was editing a file that wasn't in a gleam "project"
+
+## mess around
+
+Going through the tutorial, I wondered how gleam handled character counts.
+
+```gleam
+// these  two are identical, and print 1
+io.println(int.to_string(string.length("🇺🇸")))
+"🇺🇸" |> string.length |> int.to_string |> io.println
+
+// and there's a built-in grapheme breakdown
+io.println(int.to_string(list.length(string.to_graphemes("🇺🇸"))))
+```
+
+I was a bit surprised that it uses grapheme length.
+
+- curly braces instead of parens!
+- singly-linked lists 😬
+- love the `_` placeholder argument
