@@ -12,7 +12,7 @@ jobs:
 
     steps:
       - name: Checkout this repo
-        uses: actions/checkout@v4
+        uses: actions/checkout@v5
         with:
           # we need to check out all history so that we can get the modified
           # and created times of the files within, which we use for showing the
@@ -22,23 +22,14 @@ jobs:
       # obsidian notes is the program that publishes the obsidian archive to
       # notes.billmill.org. Check it out into .github/obsidian_notes
       - name: Checkout obsidian_notes
-        uses: actions/checkout@v4
+        uses: actions/checkout@v5
         with:
           repository: llimllib/obsidian_notes
           ref: main
           path: .github/obsidian_notes
 
-      # setup python and cache the requirements from the requirements file in
-      # obsidian_notes
-      #
-      # https://github.com/actions/setup-python/blob/main/docs/advanced-usage.md#caching-packages
-      - name: Set up Python
-        uses: actions/setup-python@v5
-        with:
-          python-version: "3.12"
-          cache: pip
-          cache-dependency-path: .github/obsidian_notes/requirements.txt
-      - run: pip install -r .github/obsidian_notes/requirements.txt
+      - name: Install uv
+        uses: astral-sh/setup-uv@v6
 
       - name: install dependencies
         run: |
@@ -65,3 +56,47 @@ jobs:
           set -x
           cd .github/obsidian_notes
           MDPATH="$(realpath ../..)" make publish
+
+      # if there's a failure:
+      # - check for an existing ticket
+      # - make one if not found
+      # - otherwise add the failure to the ticket
+      #
+      # the idea here is to avoid getting an avalanche of tickets when something breaks
+      - name: Notify on failure
+        if: failure()
+        uses: actions/github-script@v8
+        with:
+          script: |
+            const issueTitle = 'Data update workflow failed';
+
+            // Search for an open issue with our title
+            const issues = await github.rest.issues.listForRepo({
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              state: 'open',
+              creator: 'github-actions[bot]'
+            });
+
+            const existingIssue = issues.data.find(issue => issue.title === issueTitle);
+            const runUrl = `${context.serverUrl}/${context.repo.owner}/${context.repo.repo}/actions/runs/${context.runId}`;
+
+            if (existingIssue) {
+              // Add a comment to the existing issue
+              await github.rest.issues.createComment({
+                owner: context.repo.owner,
+                repo: context.repo.repo,
+                issue_number: existingIssue.number,
+                body: `Another failure detected in workflow run: ${runUrl}`
+              });
+              console.log(`Added comment to existing issue #${existingIssue.number}`);
+            } else {
+              // Create a new issue
+              const newIssue = await github.rest.issues.create({
+                owner: context.repo.owner,
+                repo: context.repo.repo,
+                title: issueTitle,
+                body: `Workflow run failed: ${runUrl}\n\nPlease check the workflow logs for details.`
+              });
+              console.log(`Created new issue #${newIssue.data.number}`);
+            }
