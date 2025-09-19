@@ -23,3 +23,5 @@ int main() {
 Goes on to use [[sox]] to interpret a series of C programs as sound
 
 via [froos](https://post.lurk.org/@froos/115227479804123437) on mastodon
+
+A followup [post](https://garten.salat.dev/audio-in-c/wasm.html) describes how to compile similar programs to [[WASM]] and run them in the browser
