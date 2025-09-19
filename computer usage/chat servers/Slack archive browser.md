@@ -1,3 +1,7 @@
+---
+created: 2025-09-19T12:24:30.178Z
+updated: 2025-09-19T12:24:30.178Z
+---
 https://github.com/pkarolyi/slack-archive-browser
 
 > A Slack archive export browser for our friend group.
