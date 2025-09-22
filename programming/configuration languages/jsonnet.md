@@ -11,7 +11,7 @@ https://jsonnet.org/
 > - Organize, simplify, unify
 > - Manage sprawling config
 
-> A simple extension of JSON
+> A simple extension of [[JSON]]
 
 > - Open source (Apache 2.0)
 > - Familiar syntax

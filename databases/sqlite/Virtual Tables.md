@@ -10,7 +10,7 @@ https://www.sqlite.org/vtab.html
 
 List of the virtual tables that come with SQLite: https://www.sqlite.org/vtablist.html
 
-includes JSON, CSV, rtree, and lots of metadata about the sqlite database itself.
+includes [[JSON]], CSV, rtree, and lots of metadata about the sqlite database itself.
 
 Protobuf virtual table: https://github.com/rgov/sqlite_protobuf
 

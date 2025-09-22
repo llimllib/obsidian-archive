@@ -4,7 +4,7 @@ created: '2023-10-20T13:54:09Z'
 ---
 https://github.com/johnkerl/miller
 
-Aims to be a tool similar to xsv/jq/csvkit, but for CSV, TSV, and JSON
+Aims to be a tool similar to xsv/jq/csvkit, but for CSV, TSV, and [[JSON]]
 
 > Miller is **multi-purpose**: it's useful for **data cleaning**, **data reduction**, **statistical reporting**, **devops**, **system administration**, **log-file processing**, **format conversion**, and **database-query post-processing**.
 

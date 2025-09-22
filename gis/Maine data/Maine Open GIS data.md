@@ -16,4 +16,4 @@ Would love to make some maps from this!
 
 Maine town boundaries: https://maine.hub.arcgis.com/datasets/b0c7b943162f45e48b3a829b7f35709a/explore?location=45.110031%2C-68.974254%2C8.26
 
-available as geojson
+available as [[geojson]]

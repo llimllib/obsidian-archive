@@ -4,7 +4,7 @@ created: '2023-10-20T13:54:09Z'
 ---
 https://github.com/kellyjonbrazil/jc
 
-> JSON Convert
+> [[JSON]] Convert
 
 > `jc` JSONifies the output of many CLI tools and file-types for easier parsing in scripts. See the [**Parsers**](https://github.com/kellyjonbrazil/jc#parsers) section for supported commands and file-types.
 

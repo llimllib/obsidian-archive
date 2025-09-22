@@ -4,7 +4,7 @@ created: '2023-10-20T13:54:09Z'
 ---
 https://github.com/jpmens/jo
 
-> a small utility to create JSON objects
+> a small utility to create [[JSON]] objects
 
 ```shell
 $ jo -p name=jo n=17 parser=false

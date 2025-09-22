@@ -39,3 +39,5 @@ where object_id = 11;
 > Thanks to virtual columns, we almost have a NoSQL database ツ
 
 very cool!
+
+[[json]]

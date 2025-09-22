@@ -6,7 +6,7 @@ https://github.com/multiprocessio/fakegen
 
 > This program generates a random schema of M columns and then generates N rows of that schema. So all value types within a column across all rows will be consistent. For example, if a value is an int in one row's column, it will be an int in the same column across all other row's.
 
-> It generates JSON by default but can generate other formats like CSV, TSV, Excel, etc.
+> It generates [[JSON]] by default but can generate other formats like CSV, TSV, Excel, etc.
 
 
 ```

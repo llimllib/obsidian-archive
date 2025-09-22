@@ -6,7 +6,7 @@ https://github.com/ada-url/ada/tree/main
 
 > WHATWG-compliant and fast URL parser written in modern C++
 
-The interesting bit to me is that this repo contains a useful tool: `adaparse`, which is a command line program that accepts a URL and prints a json blob with the URL's components:
+The interesting bit to me is that this repo contains a useful tool: `adaparse`, which is a command line program that accepts a URL and prints a [[json]] blob with the URL's components:
 
 ```
 $ adaparse https://github.com/ada-url/ada?arg=bananas

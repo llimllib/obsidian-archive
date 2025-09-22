@@ -4,7 +4,7 @@ updated: 2024-07-09T12:36:20.665Z
 ---
 https://antonz.org/sqlite-generated-columns/
 
-> Another common use case is to extract a certain JSON path into a separate column and optionally index it:
+> Another common use case is to extract a certain [[JSON]] path into a separate column and optionally index it:
 
 ```sql
 create table events (
