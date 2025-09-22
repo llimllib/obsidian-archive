@@ -48,3 +48,4 @@ I was a bit surprised that it uses grapheme length.
 - curly braces instead of parens!
 - singly-linked lists 😬
 - love the `_` placeholder argument
+- handy: `If you need to debug print a value in the middle of a pipeline you can use |> echo to do it.`
