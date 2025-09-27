@@ -16,4 +16,4 @@ created: '2023-10-20T13:54:09Z'
 - [this article](https://phiresky.github.io/blog/2021/hosting-sqlite-databases-on-github-pages/) describes the technique in general
 - Not exactly the same, but a commenter links the [s3 select](https://docs.aws.amazon.com/AmazonS3/latest/userguide/selecting-content-from-objects.html) functionality, which is neat:
 	- > With Amazon S3 Select, you can use simple structured query language (SQL) statements to filter the contents of an Amazon S3 object and retrieve just the subset of data that you need. By using Amazon S3 Select to filter this data, you can reduce the amount of data that Amazon S3 transfers, which reduces the cost and latency to retrieve this data.
-	- works on CSV, Json or Parquet files
+	- works on CSV, [[Json]] or Parquet files

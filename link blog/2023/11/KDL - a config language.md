@@ -10,7 +10,7 @@ https://kdl.dev/
 
 > The language is based on SDLang, with a number of modifications and clarifications on its syntax and behavior.
 
-There are a [[toml|ton]] [[starlark|of]] [[CUE|config]] languages beyond the big players of JSON and YAML, but I still think there's interesting work to be done in the field and none of them are entirely satisfying.
+There are a [[toml|ton]] [[starlark|of]] [[CUE|config]] languages beyond the big players of [[JSON]] and YAML, but I still think there's interesting work to be done in the field and none of them are entirely satisfying.
 
 KDL looks interesting, and I like that it has a spec and a schema language right from the start.
 

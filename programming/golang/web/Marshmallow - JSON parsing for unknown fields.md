@@ -4,7 +4,7 @@ created: '2023-10-20T13:54:09Z'
 ---
 https://github.com/PerimeterX/marshmallow
 
-Marshmallow provides a flexible and performant JSON unmarshalling in Go. It specializes in dealing with unstructured struct - when some fields are known and some aren't, with zero performance overhead nor extra coding needed.
+Marshmallow provides a flexible and performant [[JSON]] unmarshalling in Go. It specializes in dealing with unstructured struct - when some fields are known and some aren't, with zero performance overhead nor extra coding needed.
 
 ```go
 func main() {

@@ -4,7 +4,7 @@ updated: 2024-07-03T18:01:50.200Z
 ---
 https://github.com/h4l/json.bash
 
-> `json.bash` is a command-line tool and bash library that creates JSON.
+> `json.bash` is a command-line tool and bash library that creates [[JSON]].
 
 ```sh
 $ jb name=json.bash creates=JSON dependencies:[,]=Bash,Grep

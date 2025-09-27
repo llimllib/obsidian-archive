@@ -43,3 +43,5 @@ $ cat names.txt | sqlite-lines 'rowid || upper(d)'
 2BRIAN
 3CRAIG
 ```
+
+[[JSON]]

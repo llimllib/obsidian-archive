@@ -2,7 +2,7 @@
 updated: 2024-07-07T17:12:26.566Z
 created: 2023-10-20T13:54:09Z
 ---
-Golang really wants the json you parse to be of a known shape; but sometimes you get json of the form:
+Golang really wants the [[json]] you parse to be of a known shape; but sometimes you get json of the form:
 
 ```json
 { "type": "email", "data": { "subject": ..., "body": ...} }

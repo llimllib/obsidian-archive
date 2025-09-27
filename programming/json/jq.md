@@ -4,7 +4,7 @@ created: 2023-10-20T13:54:09Z
 ---
 https://stedolan.github.io/jq/
 
-Great tool for filtering, formatting, and outputting json.
+Great tool for filtering, formatting, and outputting [[json]].
 
 A bit cryptic though.
 

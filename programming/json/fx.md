@@ -4,7 +4,7 @@ created: '2023-10-20T13:54:09Z'
 ---
 https://fx.wtf/
 
-> Terminal JSON viewer & processor
+> Terminal [[JSON]] viewer & processor
 
 interactive json explorer and viewer, a competitor to [[jless]]
 

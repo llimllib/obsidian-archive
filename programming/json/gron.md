@@ -4,7 +4,7 @@ created: '2023-10-20T13:54:09Z'
 ---
 https://github.com/tomnomnom/gron
 
-> Make JSON greppable!
+> Make [[JSON]] greppable!
 
 > gron transforms JSON into discrete assignments to make it easier to `grep` for what you want and see the absolute 'path' to it. It eases the exploration of APIs that return large blobs of JSON but have terrible documentation.
 
