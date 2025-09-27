@@ -1,5 +1,5 @@
 ---
-updated: 2024-09-04T19:36:10.190Z
+updated: 2025-09-27T01:42:47.483Z
 created: 2024-03-13T15:50:41Z
 ---
 To print out a clickable hyperlink in a [terminal that supports] the [OSC8 escape code](https://gist.github.com/egmontkob/eb114294efbcd5adb1944c9f3cb5feda), using bash:
