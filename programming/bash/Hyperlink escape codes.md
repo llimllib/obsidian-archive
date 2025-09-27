@@ -40,3 +40,9 @@ function link(url, text) {
 ```
 
 Unfortunately the `ansi-regex` package [has an issue](https://github.com/chalk/ansi-regex/issues/56) where it doesn't support the standard `ST` (string termination) sequence of `\x1b\x5C`; I've submitted a [pull request](https://github.com/chalk/ansi-regex/pull/58) and we'll see if it gets in.
+
+---
+
+A neat tool: [add-osc8-hyperlink](https://github.com/sentriz/add-osc-8-hyperlink)
+
+> read from stdin, find relative or absolute paths, output osc-8 `file://` hyperlinks to terminal
