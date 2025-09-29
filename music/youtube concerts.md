@@ -1,5 +1,5 @@
 ---
-updated: 2025-08-27T13:19:47.183Z
+updated: 2025-09-29T20:06:24.194Z
 created: 2023-10-20T13:54:09Z
 ---
 Lately, I've been browsing youtube and looking for good live concerts to watch. Some favorites:
@@ -21,6 +21,7 @@ Lately, I've been browsing youtube and looking for good live concerts to watch. 
 - [Vulfpeck, Madison Square Garden 2019](https://www.youtube.com/watch?v=rv4wf7bzfFE)
 - [Weezer, Electric Factory 2001](https://www.youtube.com/watch?v=bTWXjcErGGk) (I was there!)
 - [Ana Vidović, St. Mark's 2021](https://www.youtube.com/watch?v=e26zZ83Oh6Y)
+- [Ana Vidović, 2020](https://www.youtube.com/watch?v=1ZRtBJRQ80w)
 - [Charles Mingus, 1964 (Belgium, Sweden, Norway)](https://www.youtube.com/watch?v=y9IMOUVJMVs)
 - [Doc & Merle Watson, 1979 (Oberlin College, Ohio)](https://www.youtube.com/watch?v=spx2xvBDYvI)
 - [Toots and the Maytals, 1975 (San Francisco)](https://www.youtube.com/watch?v=EStJv_wsrdg)
