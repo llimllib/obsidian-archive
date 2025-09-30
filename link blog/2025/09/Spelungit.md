@@ -10,4 +10,4 @@ https://haacked.com/archive/2025/09/29/announcing-spelungit/
 
 Creates an embeddings database for your git repository so that you can search it with natural language. Very neat idea!
 
-I'm not sure whether I would want to use this or rebuild it on my own
+I'm not sure whether I would want to use this or rebuild it on my own - an MCP server is not the ideal interface for me, I'd rather use it as a command line tool.
