@@ -34,3 +34,4 @@ the python support uses `pylsp`, install with `pip install python-lsp-server` [d
 - there's currently no equivalent to vim's `gq` command, which is kind of a deal-breaker for me at the moment. Got farther than I had before though!
 	- <del>confirmed this on the helix matrix channel</del>
 	- now it has [:reflow](https://docs.helix-editor.com/commands.html?highlight=reflow#commands) controlled by the [text-width](https://docs.helix-editor.com/configuration.html?highlight=reflow#editor-section) attribute ([here](https://github.com/helix-editor/helix/pull/2128) is the PR that implemented it)
+		- issue [here](https://github.com/helix-editor/helix/issues/3332) for how it lacks features of `:gq`, via [Julia Evans](https://jvns.ca/blog/2025/10/10/notes-on-switching-to-helix-from-vim/)
