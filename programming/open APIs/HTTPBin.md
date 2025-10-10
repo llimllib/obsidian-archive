@@ -30,3 +30,10 @@ https://github.com/sharat87/httpbun
 Similar to `go-httpbin`, but offers a neat `mix` endpoint where you can combine flags to create responses with the exact status, headers, body and latency you want.
 
 Written in go
+
+---
+
+https://httpcan.org/
+https://github.com/seedvector/httpcan
+
+Another http bin, this time in Rust. Includes full httpbin compatibility + more features
