@@ -1,5 +1,5 @@
 ---
-updated: 2025-10-01T17:51:53.059Z
+updated: 2025-10-17T01:24:41.440Z
 created: 2023-10-20T13:54:09Z
 ---
 Lately, I've been browsing youtube and looking for good live concerts to watch. Some favorites:
@@ -48,3 +48,4 @@ Lately, I've been browsing youtube and looking for good live concerts to watch. 
 - [Four Tet - sónar 2025](https://www.youtube.com/watch?v=OmC6KIwjgFY&t=4372s)
 - [Nils Frahm - Live at the Philharmonie de Paris 2024](https://www.youtube.com/watch?v=HPPzQgTaLbo)
 - [A Winged Victory for the Sullen and Nils Frahm](https://www.youtube.com/watch?v=e1mHyj3lubQ&pp=ygUTd2luZ2VkIHZpY3Rvcnkgbmlscw%3D%3D) - BBC Proms 2015
+- [Sona Jobarteh - Porquerolles 2025](https://www.youtube.com/watch?v=A78b9IgI3EU)
