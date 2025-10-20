@@ -8,6 +8,7 @@ In alphabetical order, with a 🎧 icon beside the show if I've loved it enough 
 
 - [Abdullah Ibrahim](https://www.youtube.com/watch?v=L5i4stj4M30)
 - [Adrienne Lenker](https://www.youtube.com/watch?v=TKcQyUszdhw)
+- [Allison Russell](https://www.youtube.com/watch?v=Ffs7szmBmCU)
 - [Anaïs Mitchell](https://www.youtube.com/watch?v=Shr47LVcA5I)
 - [Anderson .Paak](https://www.youtube.com/watch?v=ferZnZ0_rSM)
 - [Angel Olsen](https://www.youtube.com/watch?v=4RL4mk38wwI)
@@ -41,6 +42,7 @@ In alphabetical order, with a 🎧 icon beside the show if I've loved it enough 
 - [Hania Rani](https://www.youtube.com/watch?v=4RcKtr5bGa4)
 - [Hiromi](https://www.youtube.com/watch?v=pnISpahN2dM)
 - [Hop Along](https://www.youtube.com/watch?v=iFGnkbZ3fLE)
+- [IDLES](https://www.youtube.com/watch?v=wMehItNQKAA)
 - [I'm with Her](https://www.youtube.com/watch?v=7WNmrsbu-hc)
 - [Jason Isbell](https://www.youtube.com/watch?v=djUh1eHdepE)
 - [Jeff the Brotherhood](https://www.youtube.com/watch?v=PsMqTDxboJE) 🎧

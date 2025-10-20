@@ -1,5 +1,5 @@
 ---
-updated: 2025-08-25T16:54:08.617Z
+updated: 2025-10-20T14:26:43.160Z
 created: 2023-10-20T13:54:09Z
 ---
 https://github.com/ibraheemdev/modern-unix
@@ -16,6 +16,8 @@ Of this list, I use and recommend:
 - [[fzf]]: general purpose fuzzy finder. Its most useful feature for me is searching my command line history quickly and with a good UI
 - [[jq]]: pull apart json, and build it up if necessary. Hugely useful in shell scripts with curl
 - [[hyperfine]]: benchmark programs from the command line
+- [ouch](https://github.com/ouch-org/ouch): "obvious unified compression helper" - tar + zip + gzip + more
+	- `ouch compress <thing>` and `ouch decompress <thing>`
 
 on that list, I tried and didn't like:
 - broot: seems like there's cool functionality in there, but I ultimately couldn't make it work like I wanted and it seemed too opinionated
@@ -25,8 +27,6 @@ on that list that I'm interested in:
 - [sd](https://github.com/chmln/sd): I have suffered at the hands of attempting to write cross-platform sed. It stinks and I don't want to do it any longer
 - [dust](https://github.com/bootandy/dust): du with modern touches
 - [duf](https://github.com/muesli/duf): df with modern touches
-- [ouch](https://github.com/ouch-org/ouch): "obvious unified compression helper" - tar + zip + gzip + more
-	- `ouch compress <thing>` and `ouch decompress <thing>`
 
 not on that list but I use and is relevant:
 - [atuin](https://atuin.sh/): keep your command history in a sqlite database
