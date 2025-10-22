@@ -1,6 +1,6 @@
 ---
 created: 2024-08-16T14:03:07.403Z
-updated: 2025-01-03T13:47:30.795Z
+updated: 2025-10-22T14:37:23.816Z
 ---
 For the purposes of this list, a tool is "modern" if it replaces a tool that you're likely to find in a base debian install.
 

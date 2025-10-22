@@ -6,6 +6,8 @@ https://github.com/ibraheemdev/modern-unix
 
 > A collection of modern/faster/saner alternatives to common unix commands. 
 
+**update**: I have expanded and maintain a better list [[modern unix tool list|here]]
+
 Of this list, I use and recommend:
 
 - [[bat]]: `cat` with syntax highlighting and line numbers
