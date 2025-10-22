@@ -2,11 +2,11 @@
 updated: 2025-10-20T14:26:43.160Z
 created: 2023-10-20T13:54:09Z
 ---
+**update**: I have expanded this outdated version and maintain a better list [[modern unix tool list|here]]
+
 https://github.com/ibraheemdev/modern-unix
 
 > A collection of modern/faster/saner alternatives to common unix commands. 
-
-**update**: I have expanded and maintain a better list [[modern unix tool list|here]]
 
 Of this list, I use and recommend:
 
