@@ -18,20 +18,22 @@ I wish that the selection of CLI tools we provide with operating systems and bro
 - [dust](https://github.com/bootandy/dust): du but faster and with nicer output
 - [duf](https://github.com/muesli/duf): df with modern touches
 - [erdtree](https://github.com/solidiquis/erdtree): a better `tree`
+- [eza](https://eza.rocks/): a better `ls`
 - [[fd]]: an improved `find`
 - [[fzf]]: general purpose fuzzy finder. Its most useful feature for me is searching my command line history quickly and with a good UI
+- [freq](https://github.com/ryancdotorg/freq): "Like `sort | uniq -c | sort -rn` but better"
 - [[hyperfine]]: benchmark programs from the command line
 - [hexyl](https://github.com/sharkdp/hexyl): a better `xxd`
 - [[jq]]: pull apart json, and build it up if necessary. Hugely useful in shell scripts with curl
 - [[jless]]: interactively fold and unfold json documents
 	- very helpful for working with large json documents
 	- can output `jq` filters, making the two pair nicely
+- [ouch](https://github.com/ouch-org/ouch): "obvious unified compression helper" - tar + zip + gzip + more
+	- `ouch compress <thing>` and `ouch decompress <thing>`
 - [[ripgrep]]: a cornerstone of my workflow, an improved `grep`
 - [qsv](https://github.com/jqnatividad/qsv): manipulate csv files at the command line
 
 On my radar but haven't gotten to stick yet:
-- [eza](https://github.com/eza-community/eza)
-	- so far, `ls -FG --hyperlink=auto --color=auto` has been Good Enough™ for me
 - [[vv]]
 	- display and resize images in your terminal appropriately
 
