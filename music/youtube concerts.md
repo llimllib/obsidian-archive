@@ -50,3 +50,4 @@ Lately, I've been browsing youtube and looking for good live concerts to watch. 
 - [A Winged Victory for the Sullen and Nils Frahm](https://www.youtube.com/watch?v=e1mHyj3lubQ&pp=ygUTd2luZ2VkIHZpY3Rvcnkgbmlscw%3D%3D) - BBC Proms 2015
 - [Sona Jobarteh - Porquerolles 2025](https://www.youtube.com/watch?v=A78b9IgI3EU)
 - [Fleet Foxes - Pitchfork festival 2018](https://www.youtube.com/watch?v=69ovBm7W6Z0&pp=ygUacGl0Y2hmb3JrIGZsZWV0IGZveGVzIDIwMTg%3D)
+- [The Beths - KEXP concert 2025](https://www.youtube.com/watch?v=tj1IhGMH_zE)
