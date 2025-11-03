@@ -14,3 +14,5 @@ The search engine appears to be a [rust application](https://github.com/CloudCan
 via [Carl M. Johnson](https://mastodon.social/@carlmjohnson/111024763667968055) on mastodon
 
 see also [[FlexSearch]]
+
+_Nov 3 2025_: Tim Bray [writes](https://www.tbray.org/ongoing/When/202x/2025/11/01/Blog-Search-Pagefind) about his adoption of pagefind
