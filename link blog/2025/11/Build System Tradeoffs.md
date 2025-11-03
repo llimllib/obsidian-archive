@@ -11,3 +11,5 @@ The main concrete recommendation is:
 > Writing build rules in a "normal" (but constrained) programming language, then serializing them to a build graph, has surprisingly few tradeoffs. I'm not sure why more build systems don't do this.
 
 Suggesting that writing code to generate a [[Ninja]] graph is what they consider the current state of the art
+
+via [lobste.rs](https://lobste.rs/s/uwyfpy/build_system_tradeoffs)
