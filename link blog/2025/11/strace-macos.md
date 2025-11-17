@@ -89,6 +89,16 @@ and I suggested an [[eslogger]] solution. Here it is reimplemented in `strace`, 
 
 ```
 $ ~/Library/Python/3.9/bin/strace git status 2>&1 | rg '^(?:access|open)'
+access("/AppleInternal/XBS/.isChrooted", F_OK) = -1 EPERM (Operation not permitted)
+access("/opt/homebrew/Cellar/git/2.51.2/bin", R_OK) = 0
+open("/opt/homebrew/Cellar/git/2.51.2/bin", O_RDONLY, 040045634760) = 3
+open("/opt/homebrew/Cellar/git/2.51.2/bin/Info.plist", O_RDONLY, 00) = -1 EPERM (Operation not permitted)
+access("/opt/homebrew/Cellar/git/2.51.2/bin", R_OK) = 0
+open("/opt/homebrew/Cellar/git/2.51.2/bin", O_RDONLY, 040045636420) = 3
+open("/opt/homebrew/Cellar/git/2.51.2/bin/Info.plist", O_RDONLY, 00) = -1 EPERM (Operation not permitted)
+access("/opt/homebrew/Cellar/git/2.51.2/bin", R_OK) = 0
+open("/opt/homebrew/Cellar/git/2.51.2/bin", O_RDONLY, 040045626040) = 3
+open("/opt/homebrew/Cellar/git/2.51.2/bin/Info.plist", O_RDONLY, 00) = -1 EPERM (Operation not permitted)
 ```
 
 cf [[debugging os x]]
