@@ -1,5 +1,5 @@
 ---
-updated: 2025-10-28T12:51:41.605Z
+updated: 2025-11-18T19:47:00.073Z
 created: 2023-10-20T13:54:09Z
 ---
 https://parquet.apache.org/
@@ -96,3 +96,9 @@ function parduck {
     duckdb -init <(echo "CREATE TABLE $tablename AS SELECT * FROM '$filename';")
 }
 ```
+
+TODO: would be neat to see if I could open up a particular file with -ui to get the [[DuckDB UI]] going without having to add the file manually
+
+---
+
+I saw on HN but haven't tried [parqeye](https://github.com/kaushiksrini/parqeye), which is a TUI for exploring parquet files
