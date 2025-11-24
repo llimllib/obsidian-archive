@@ -3,6 +3,7 @@ created: 2025-11-24T18:19:07.138Z
 updated: 2025-11-24T18:19:07.138Z
 ---
 https://meodai.github.io/poline/
+https://github.com/meodai/poline
 
 A very cool tool that allows you to draw a line, curve or both through a color wheel, set conrol points, and adjust the path through to generate a color palette
 
