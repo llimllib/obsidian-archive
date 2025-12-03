@@ -6,8 +6,8 @@ This year I've decided to do Advent of Code in [[Gleam]], a programming language
 
 Previously: [[Advent of Code 2024]], [[2023 problem log]], and incomplete answers back to 2015 [in github](https://github.com/llimllib/personal_code/tree/master/misc/advent/)
 
-- [[Advent of Code 2025#day1|day 1]]
-- [[Advent of Code 2025#day2|day 2]]
+- [[Advent of Code 2025#day-1|day 1]]
+- [[Advent of Code 2025#day-2|day 2]]
 
 ## Day 1
 
