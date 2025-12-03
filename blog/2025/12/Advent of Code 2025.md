@@ -87,3 +87,9 @@ pub fn acc_nubs(start, end, acc) {
   }
 }
 ```
+
+I didn't do any better at handling errors today! I think I will make that an emphasis tomorrow.
+
+Custom types were really simple, and I haven't yet hit any big gleam roadblocks. It takes me a minute to think of how to phrase problems recursively, but I like that it kind of forces you to break your code into small, clear functions.
+
+I wish there were better inline testing functionality in gleam, I don't want to put my tests out into a test directory. I'm kind of annoyed generally by how picky it is about the project structure - but I also see how it fits into the zen of the language, which minimizes your options to keep complexity under control.
