@@ -14,4 +14,4 @@ Neat-looking library that aims to solve a problem I've experienced.
 
 I've not tried it out.
 
-Released by [electric SQL](https://electric-sql.com/blog/2025/12/09/announcing-durable-streams)
+Released by [electric SQL](https://electric-sql.com/blog/2025/12/09/announcing-durable-streams) (cf [[electric]])
