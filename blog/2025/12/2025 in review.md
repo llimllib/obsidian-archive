@@ -6,6 +6,7 @@ updated: 2025-12-31T14:54:50.522Z
 - [tools](#tools)
 - [games](#games)
 - [travel](#travel)
+- [visualization](#visualization)
 
 ## coding
 
@@ -106,3 +107,15 @@ Working for a [distributed company](https://readme.com) means traveling for meet
 My family and I spent two weeks in Lecco, Italy, which was gorgeous. I'd never been to Italy before and it was great
 
 ![[6ED76249-39D2-496A-BBD1-5551659B3E9B_1_105_c.jpeg]]
+
+## visualization
+
+I continued toying around with different visualizations of NBA data this year. My son asked me the other day if it was work, and I told him that I make graphs in the same way that other guys build models or go fishing
+
+- I kept up my [nba_data](https://github.com/llimllib/nba_data) archive, and added a few data sources to it. I particularly enjoy Dean Oliver's [analytics data](https://espnanalytics.com/nba-daily-summary?date=20251230), and have found some good uses for it
+- Lately I've been playing around with tables and trying to make them especially expressive; [this one](https://billmill.org/nba/table) has a bar graph background that changes with the column you've sorted by, and has interactive filtering:
+
+![[Pasted image 20251231111825.png]]
+
+- Due to a [particularly irritating github pages bug](https://github.com/orgs/community/discussions/178318), I moved my observable notebook off of github pages and over to https://billmill.org/nba
+- I post about this work on my [bluesky account](https://bsky.app/profile/billmill.org), and occasionally post a graph or progress on other work
