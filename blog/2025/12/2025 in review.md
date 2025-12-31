@@ -4,6 +4,7 @@ updated: 2025-12-31T14:54:50.522Z
 ---
 - [coding](#coding)
 - [tools](#tools)
+- [games](#games)
 - [travel](#travel)
 
 ## coding
@@ -78,7 +79,7 @@ I've updated the [script that builds the website](https://github.com/llimllib/ob
 
 I switched from Firefox to [Orion](https://orionbrowser.com) browser, which is working well enough though it definitely has some bugs. I tend to switch browsers every six months as I accumulate dissatisfactions with all of them.
 
-### games
+## games
 
 For a long time, I've vaguely wanted to play games that are Windows-only, but I also refuse to install Windows and I don't have a Linux gaming computer set up. A couple weeks ago, I finally bit the bullet and purchased [CrossOver](https://www.codeweavers.com) and have started playing a few games that are Windows-only.
 
