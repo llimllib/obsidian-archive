@@ -2,7 +2,23 @@
 created: 2026-01-03T18:35:04.419Z
 updated: 2026-01-03T18:35:04.419Z
 ---
-Here's a brief survey of the tools I'm currently using:
+Here's a brief survey of the tools I'm currently using
+
+- [Computer](#computer)
+- [Software](#software)
+	- [editor](#editor)
+	- [neovim plugins](#neovim-plugins)
+	- [terminal](#terminal)
+	- [terminal software](#terminal-software)
+- [Browser](#browser)
+	- [browser plugins](#browser-plugins)
+- [Note Taking](#note-taking)
+- [Mail](#mail)
+- [Chat](#chat)
+- [Music](#music)
+- [Webcam](#webcam)
+- [Photos](#photos)
+- [Video](#video)
 
 # Computer
 
@@ -53,7 +69,7 @@ Here's a video demonstrating how it works:
 ![[Screen Recording 2026-01-03 at 2.07.35 PM.mov]]
 
 The kitty actions are configured in [this file](https://github.com/llimllib/personal_code/blob/master/homedir/.config/kitty/open-actions.conf) - the idea is that you connect a mime type or file extension to an action; in this case it's `$EDITOR <filename>` for a filename without a line number, and `$EDITOR +${FRAGMENT} <filename>` if it has a line number.
-## terminal software
+### terminal software
 
 - I love [[mise]] for managing versions of programming environments. I use it for node, terraform, go, python, etc etc
 	- I have `mise.toml` files in most of my projects which set important environment variables, so it has replaced [[direnv]] for me as well
@@ -67,7 +83,7 @@ The kitty actions are configured in [this file](https://github.com/llimllib/pers
 - [[gh]] for interacting with github. I particularly use [my `pr` alias](https://github.com/llimllib/personal_code/blob/master/homedir/.zshrc#L303) for `gh pr create` quite a lot to open pull requests
 - [[jq]] for manipulating json
 - [[llm]] for interacting with LLMs from the command line; see [[An AI tool I find useful]] for an example
-## browser
+## Browser
 
 I switched from [[Firefox]] to [[Orion]] recently, mostly because I get the urge to switch browsers every six months or so when each of their annoyances accumulate.
 
@@ -78,40 +94,40 @@ Orion definitely has bugs, and is slow in places, and Safari's inspector isn't n
 - [[uBlock origin]] - I'm very happy with it as an ad blocker
 
 That's it, I don't use any more. Browser plugins have a terrible security story and should be avoided as much as possible.
-## note taking
+## Note Taking
 
 I use [[Obsidian]], which I publish to the web with [the code here](https://github.com/llimllib/obsidian_notes) (see [[generating HTML]]))
 
 It's not clear to me why I like using obsidian rather than just editing markdown files in vim, but I'm very happy with it.
-## mail
+## Mail
 
 I use Apple's Mail.app. It's... fine enough I guess. I also occasionally use the fastmail web app, and it's alright too.
 
 I am very happy with Fastmail as an email host, and glad I switched from gmail a decade or so ago.
-## chat
+## Chat
 
 I use Slack for work chat and several friend group chats. I hate it even though it's the best chat app I've ever used.
 
 I desperately want a chat app that doesn't suck and isn't beholden to Salesforce, but I hate Discord and IRC. I've made some minor attempts at replacing it with no success. It's the piece of software I use day to day that I would most love to replace.
 
 I also use Messages.app for SMS and texts
-## music
+## Music
 
 I switched in October from Spotify to Apple Music. I dislike Apple Music, but I also disliked Spotify ever since I switched from Rdio when it died.
 
 I'm still on the lookout for a good music listening app. Maybe I'll try Qobuz or something? I don't know.
 
 I've also used [[yt-dlp]] to download a whole bunch of concerts and DJ sets from youtube (see [[youtube concerts]] for a list of some of them) and I often listen to those.
-## webcam
+## Webcam
 
 I have an old iPhone mounted to my desk, and use [[Reincubate Camo]] to connect it to video apps.
 
 I occasionally use [[OBS]] to record a video or add a goofy overlay to video calls, but not that often.
-## photos
+## Photos
 
 I use Adobe Lightroom to import photos from my Fuji X-T30 and Apple Photos to manage photos.
 
 With the demise of flickr, I really have no place to post my photos and I've considered adding something to my website but haven't gotten it done.
-## video
+## Video
 
 I use [[vlc]] and [[IINA]] for playing videos, and [[ffmpeg]] for chopping them up from the command line
