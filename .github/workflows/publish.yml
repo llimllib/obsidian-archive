@@ -57,6 +57,13 @@ jobs:
           cd .github/obsidian_notes
           MDPATH="$(realpath ../..)" make publish
 
+      - name: Invalidate CDN cache
+        run: |
+          set -x
+          doctl compute cdn flush \
+            "$(doctl compute cdn list --format ID | tail -n1)" \
+            --files "obsidian_html/*"
+
       # if there's a failure:
       # - check for an existing ticket
       # - make one if not found
