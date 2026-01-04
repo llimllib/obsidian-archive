@@ -11,22 +11,18 @@ Been using this for a while now and really like it.
 setting up claude code ([docs](https://codecompanion.olimorris.dev/configuration/adapters-acp#setup-claude-code)) and using the apple keyring for the API key:
 
 - install claude ACP
-
 ```shell
 npm install -g @zed-industries/claude-code-acp
 ```
-
 - get a claude token
 
 ```shell
 claude setup-token
 ```
-
 - save the token to the keyring:
 ```console
 security add-generic-password -s 'anthropic-claude' -w 'sk-ant-<token-here>'
 ```
-
 - configure codecompanion to use it:
 ```lua
 acp = {
