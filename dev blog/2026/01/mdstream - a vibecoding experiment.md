@@ -2,7 +2,9 @@
 created: 2026-01-05T14:10:47.877Z
 updated: 2026-01-05T14:10:47.877Z
 ---
-https://github.com/llimllib/mdstream
+https://github.com/llimllib/mdriver
+
+**update**: I changed the name from `mdstream` to `mdriver` because somebody made a `mdstream` create _last week_ and I wasn't smart enough to search before I started this process https://crates.io/crates/mdriver/
 
 I've wanted a markdown parser like [[glow]] for a while, with the one major change that it streams its output to the console instead of buffering the whole file for display.
 
