@@ -21,13 +21,15 @@ But it doesn't do as nice a job of rendering the output as `glow` does. So I wan
 
 So I signed up for a claude pro account and tried to generate the whole thing in rust, which I can read well enough but don't really know how to write.
 
-The result so far isn't bad, but I'm out of usage until next week already:
+The result so far isn't bad:
 
 ![[Screen Recording 2026-01-05 at 9.18.52 AM.mov]]
 
 The state of things is definitely improving! Claude generated the tool without me touching a line of code.
 
-But it's still very expensive. I'm on a $20/month plan and I used up a week's worth in a night and a morning of hacking, about 3 hours total of machine time.
+But it's still very expensive. I'm on a $20/month plan and I used up a third of a week's worth in a night and a morning of hacking, about 3 hours total of machine time. I'm blocked for a few hours:
+
+![[Pasted image 20260105102032.png]]
 
 The TODO list for the app is:
 
