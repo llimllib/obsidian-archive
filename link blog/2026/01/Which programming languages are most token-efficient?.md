@@ -25,3 +25,5 @@ via [mjd](https://elk.zone/hachyderm.io/@mjd@mathstodon.xyz/115882539937701535) 
 > Next question.
 
 It feels contemptuous of any reader who might have a different opinion. It's totally okay to decide not to legislate this question in every article about type-safe programming (or dynamic programming!) but please for the love of your readers, don't patronize them.
+
+(I like the author of the piece! Just hate this argument-from-authority)
