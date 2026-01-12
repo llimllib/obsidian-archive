@@ -15,3 +15,13 @@ Short and thoughtful blog.
 > What did surprise me though was just _how_ token efficient some of the functional languages like Haskell and F# were - barely less efficient than the most efficient dynamic languages.
 
 - Martin Alderson
+
+via [mjd](https://elk.zone/hachyderm.io/@mjd@mathstodon.xyz/115882539937701535) in re [this github blog post](https://github.blog/ai-and-ml/llms/why-ai-is-pushing-developers-toward-typed-languages/), which includes one of my least-favorite argument styles:
+
+> ## Is type safety that big of a deal?
+
+> Yes!
+
+> Next question.
+
+It feels contemptuous of any reader who might have a different opinion. It's totally okay to decide not to legislate this question in every article about type-safe programming (or dynamic programming!) but please for the love of your readers, don't patronize them.
