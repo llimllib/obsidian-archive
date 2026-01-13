@@ -22,4 +22,6 @@ The recommended install command, `npm install -g @mariozechner/pi-coding-agent` 
 
 annoyingly, I can't tell it to pull my anthropic keys from [[keychain command line access|keychain]], it requires a config file or an environment variable, both of which are quite a bit less secure. I [filed an issue here](https://github.com/badlogic/pi-mono/issues/697)
 
-I logged in with `/login` and was able to set it to use my claude code subscription, which it saved to `~/.pi` even though I have set `PI_CONFIG_DIR` to `~/.config/pi`. Annoying
+I logged in with `/login` and was able to set it to use my claude code subscription, which it saved to `~/.pi` even though I have set `PI_CONFIG_DIR` to `~/.config/pi`.
+
+It actually seems as though `PI_CONFIG_DIR` is only supported by the `pods` module, not the coding agent, which is disappointing.
