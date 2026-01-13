@@ -1,6 +1,6 @@
 ---
 created: 2026-01-13T14:49:10.147Z
-updated: 2026-01-13T14:49:10.147Z
+updated: 2026-01-13T19:57:01.781Z
 ---
 https://shittycodingagent.ai (lol, aka https://buildwithpi.ai)
 https://github.com/badlogic/pi-mono/
@@ -17,6 +17,7 @@ pi is a coding agent CLI competitive with [[claude code]], distinguished by the 
 ## Installation notes
 
 The recommended install command, `npm install -g @mariozechner/pi-coding-agent` failed for me when trying to install `sharp`; I filed [an issue here](https://github.com/badlogic/pi-mono/issues/696) but the upshot was that I needed to run `$ npm install -g node-addon-api node-gyp @mariozechner/pi-coding-agent` so that `sharp` could build itself.
+- **update**: [fixed quickly](https://github.com/badlogic/pi-mono/issues/696#issuecomment-3745572507), thank you `badlogic`
 
 [this issue](https://github.com/badlogic/pi-mono/issues/534) suggests that you can use `PI_CONFIG_DIR` to tell `pi` not to use `~/.pi` for config
 
