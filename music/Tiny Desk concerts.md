@@ -1,5 +1,5 @@
 ---
-updated: 2025-09-02T16:55:59.430Z
+updated: 2026-01-13T02:01:19.195Z
 created: 2024-01-02T02:43:11Z
 ---
 I love a lot of these. It's pretty wild that I took a long time going through the list of videos, and I'm sure that I missed some.
@@ -68,6 +68,7 @@ In alphabetical order, with a 🎧 icon beside the show if I've loved it enough 
 - [MIKE](https://www.youtube.com/watch?v=TaBgZnScmY4)
 - [Milton Nascimento and Natalia Lafourcade](https://www.youtube.com/watch?v=jFUhTmOSdGQ)
 - [Natalia Lafourcade](https://www.youtube.com/watch?v=JODaYjDyjyQ)
+- [Natalie Merchant](https://www.youtube.com/watch?v=iOdsAE8Mq7I)
 - [Nickel Creek](https://www.youtube.com/watch?v=jFycqnOpifQ)
 - [Norah Jones](https://www.youtube.com/watch?v=o0ZnzboaDSg)
 - [Okkervil River](https://www.youtube.com/watch?v=iGZzuAatKHI)
