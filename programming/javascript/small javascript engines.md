@@ -1,5 +1,5 @@
 ---
-updated: 2025-07-28T12:57:13.015Z
+updated: 2025-12-25T16:37:39.555Z
 created: 2023-10-20T13:54:09Z
 ---
 Salvatore Sanfilippo [asked on twitter](https://twitter.com/antirez/status/1569986950509088769) for recommendations for small javascript engines to embed in a program, and got a few:
@@ -31,15 +31,24 @@ by Fabrice Bellard
 > -   Command line interpreter with contextual colorization implemented in Javascript.
 > -   Small built-in standard library with C library wrappers.
 
-[quickjs-ng](https://github.com/quickjs-ng/quickjs)
+## [microquickjs](https://github.com/bellard/mquickjs)
+
+https://github.com/bellard/mquickjs
+
+A followup to quickjs by Fabrice Bellard, which runs in less RAM
+
+> MicroQuickJS (aka. MQuickJS) is a JavaScript engine targetted at embedded systems. It compiles and runs JavaScript programs using as little as 10 kB of RAM. The whole engine requires about 100 kB of ROM (ARM Thumb-2 code) including the C library. The speed is comparable to QuickJS.
+
+Salvatore Sanfilippo [said on news.yc](https://news.ycombinator.com/item?id=46368706) that he would have used this in preference to lua if it had existed when he wrote the redis module system.
+## [quickjs-ng](https://github.com/quickjs-ng/quickjs)
 
 A fork of quickjs that's more actively maintained. Found via [[a history of javascript runtimes]]
 
-[Espruino](https://github.com/espruino/Espruino):
+## [Espruino](https://github.com/espruino/Espruino):
 
 > Espruino is a JavaScript interpreter for microcontrollers. It is designed for devices with as little as 128kB Flash and 8kB RAM.
 
-[rampart](https://github.com/aflin/rampart) ([website](https://rampart.dev/index.html))
+## [rampart](https://github.com/aflin/rampart) ([website](https://rampart.dev/index.html))
 
 > Old school JavaScript with fast C full text search, sql, lmdb, redis, https, websockets, curl, crypt and more.
 
@@ -47,6 +56,6 @@ A fork of quickjs that's more actively maintained. Found via [[a history of java
 
 _Update Jun 6 24_:
 
-[Bare](https://github.com/holepunchto/bare)
+## [Bare](https://github.com/holepunchto/bare)
 
 > Small and modular JavaScript runtime for desktop and mobile. Like Node.js, it provides an asynchronous, event-driven architecture for writing applications in the lingua franca of modern software. Unlike Node.js, it makes embedding and cross-device support core use cases, aiming to run just as well on your phone as on your laptop. The result is a runtime ideal for networked, peer-to-peer applications that can run on a wide selection of hardware.

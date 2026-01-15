@@ -1,6 +1,6 @@
 ---
 created: 2024-08-13T17:16:30.377Z
-updated: 2024-08-18T13:30:39.554Z
+updated: 2026-01-09T18:39:51.380Z
 ---
 https://pypi.org/project/mlx-whisper/
 
@@ -82,3 +82,26 @@ Summary
   ./mlx-whisper/.venv/bin/python -c "import mlx_whisper as m; print(m.transcribe('./mlk_ihaveadream_long.wav', path_or_hf_repo='./mlx-whisper/model')['text'])" ran
     1.78 ± 0.02 times faster than ./whisper.cpp/main -m ~/.local/share/blisper/ggml-distil-large-v3.bin mlk_ihaveadream_long.wav
 ```
+
+## update 2
+
+In the time since I originally did this comparison, the whisper turbo model has come out. I redid the comparison, and `mlx_whisper`'s **lead has grown to 2.03x**:
+
+```console
+$ hyperfine \
+    './whisper.cpp/main -m ~/.local/share/blisper/ggml-large-v3-turbo.bin -otxt -of /tmp/whisper_mlk.txt ./mlk_ihaveadream_long.wav' \
+    'mlx_whisper --model mlx-community/whisper-large-v3-turbo -o /tmp/mlx_whisper_mlk.txt ./mlk_ihaveadream_long.wav'
+Benchmark 1: ./whisper.cpp/main -m ~/.local/share/blisper/ggml-large-v3-turbo.bin -otxt -of /tmp/whisper_mlk.txt ./mlk_ihaveadream_long.wav
+  Time (mean ± σ):     26.704 s ±  0.625 s    [User: 5.177 s, System: 1.228 s]
+  Range (min … max):   25.902 s … 27.922 s    10 runs
+ 
+Benchmark 2: mlx_whisper --model mlx-community/whisper-large-v3-turbo -o /tmp/mlx_whisper_mlk.txt ./mlk_ihaveadream_long.wav
+  Time (mean ± σ):     13.135 s ±  0.280 s    [User: 4.465 s, System: 2.276 s]
+  Range (min … max):   12.686 s … 13.663 s    10 runs
+ 
+Summary
+  mlx_whisper --model mlx-community/whisper-large-v3-turbo -o /tmp/mlx_whisper_mlk.txt ./mlk_ihaveadream_long.wav ran
+    2.03 ± 0.06 times faster than ./whisper.cpp/main -m ~/.local/share/blisper/ggml-large-v3-turbo.bin -otxt -of /tmp/whisper_mlk.txt ./mlk_ihaveadream_long.wav
+```
+
+This test was done with `whisper.cpp` at revision `679bdb53` and `mlx_whisper` at version `0.4.3` on my macbook pro m1 ultra with 32gb ram on Tahoe 16.2. `whisper.cpp` was compiled with the default settings.

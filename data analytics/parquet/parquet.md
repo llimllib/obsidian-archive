@@ -1,5 +1,5 @@
 ---
-updated: 2025-05-18T11:50:37Z
+updated: 2025-11-18T19:47:00.073Z
 created: 2023-10-20T13:54:09Z
 ---
 https://parquet.apache.org/
@@ -82,3 +82,23 @@ gameId,team,2pt_oScPoss,2pt_oPoss,2pt_oPtsProd,2pt_oNetPts,3pt_oScPoss,3pt_oPoss
 0022200972,PHI,32,42.939,64,15.9379,16,29.908,48,13.7254,14.6667,15.88,35.0,16.8015,0,1.273,0,-1.4589,0,12.0,0,-13.752
 0022200974,ATL,42,56.455,84,19.3026,9,24.556,27,0.901,7.6667,9.52,17.0,6.0901,0,-3.531,0,4.2964,0,11.0,0,-12.606
 ```
+
+---
+
+My current favorite way to deal with parquet data is to open it up in duckdb. Here's an alias I added to my `~/.zshrc` to open up a parquet file with duckdb:
+
+```shell
+# open a parquet file with duckdb
+function parduck {
+    local filename="$1"
+    local tablename="${filename%.parquet}"
+	printf "creating table %b%s%b\n" '\e[33m' "$tablename" '\e[0m'
+    duckdb -init <(echo "CREATE TABLE $tablename AS SELECT * FROM '$filename';")
+}
+```
+
+TODO: would be neat to see if I could open up a particular file with -ui to get the [[DuckDB UI]] going without having to add the file manually
+
+---
+
+I saw on HN but haven't tried [parqeye](https://github.com/kaushiksrini/parqeye), which is a TUI for exploring parquet files

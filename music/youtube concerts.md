@@ -1,5 +1,5 @@
 ---
-updated: 2025-10-01T17:51:53.059Z
+updated: 2025-11-17T19:29:24.487Z
 created: 2023-10-20T13:54:09Z
 ---
 Lately, I've been browsing youtube and looking for good live concerts to watch. Some favorites:
@@ -28,6 +28,7 @@ Lately, I've been browsing youtube and looking for good live concerts to watch. 
 - [Bob Marley & the Wailers, 1977, Rainbow Theatre, London](https://www.youtube.com/watch?v=tebTvzehp2g)
 - [John Hurt, 1966 (ePhiladelphia, PA)](https://www.youtube.com/watch?v=OeLx_CGm6qo)
 - [Hania Rani, 2022, Paris](https://www.youtube.com/watch?v=J5oZ80Daduc)
+	- [Hania Rani - On Giacometti](https://www.youtube.com/watch?v=0NTVXaxHBQQ)
 - [Mdou Moctar, 2020, Niamey, Niger](https://www.youtube.com/watch?v=DFZobgLF5Vc)
 - [Jose Gonzalez + The String Theory, London 2018](https://www.youtube.com/watch?v=rci2crm1R5s)
 - [Linda Ronstadt, Los Angeles 1976](https://www.youtube.com/watch?v=lxPVWSFPkwA)
@@ -48,3 +49,6 @@ Lately, I've been browsing youtube and looking for good live concerts to watch. 
 - [Four Tet - sónar 2025](https://www.youtube.com/watch?v=OmC6KIwjgFY&t=4372s)
 - [Nils Frahm - Live at the Philharmonie de Paris 2024](https://www.youtube.com/watch?v=HPPzQgTaLbo)
 - [A Winged Victory for the Sullen and Nils Frahm](https://www.youtube.com/watch?v=e1mHyj3lubQ&pp=ygUTd2luZ2VkIHZpY3Rvcnkgbmlscw%3D%3D) - BBC Proms 2015
+- [Sona Jobarteh - Porquerolles 2025](https://www.youtube.com/watch?v=A78b9IgI3EU)
+- [Fleet Foxes - Pitchfork festival 2018](https://www.youtube.com/watch?v=69ovBm7W6Z0&pp=ygUacGl0Y2hmb3JrIGZsZWV0IGZveGVzIDIwMTg%3D)
+- [The Beths - KEXP concert 2025](https://www.youtube.com/watch?v=tj1IhGMH_zE)
