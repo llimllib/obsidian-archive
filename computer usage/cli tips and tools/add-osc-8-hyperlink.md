@@ -1,6 +1,6 @@
 ---
-created: 2026-01-15T15:46:09.874Z
-updated: 2026-01-15T15:46:09.874Z
+created: 2026-01-15T21:30:32.013Z
+updated: 2026-01-15T21:30:32.013Z
 ---
 https://github.com/sentriz/add-osc-8-hyperlink
 
