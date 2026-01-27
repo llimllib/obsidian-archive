@@ -19,3 +19,11 @@ With the `--dir` argument in place, tart mounted my directory to `/Volumes/My\ S
 Unfortunately, my setup script uses [[homebrew]], and brew ran so slowly in the VM that it wasn't able to succeed at installing a few packages.
 
 For my next test, I'm trying out [[UTM]]
+
+- I needed an IPSW image, so I found [ipsw.me](ipsw.me) which catalogs them
+	- The download was failing in firefox, so I found they had [an API](https://ipswdownloads.docs.apiary.io/#reference/api/devices)
+	- `curl 'https://api.ipsw.me/v4/devices' | jq` listed the devices, and I chose an identifier `Mac16,8`. The website listed an image id as `25C56`
+	- `curl 'https://api.ipsw.me/v4/ipsw/download/Mac16,8/25C56'` returned a link to updates.cdn-apple.com with a restore image
+	- `curl 'https://updates.cdn-apple.com/2025FallFCS/fullrestores/093-37399/E144C918-CF99-4BBC-B1D0-3E739B9A3F2D/UniversalMac_26.2_25C56_Restore.ipsw' -o UniversalMac_26.2_25C56_Restore.ipsw` to download that image
+- I created an image based on that ipsw file, and went through the install setup, which was slow but worked fine
+- I added a shared directory in the UTM UI, and had to shutdown and restart the image, at which point it was in `/Volumes/My\ Shared\ Files` just like in tart above
