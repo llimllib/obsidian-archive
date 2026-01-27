@@ -13,3 +13,4 @@ https://www.augmentedmind.de/2022/02/06/optimize-docker-image-size/
 > ## Use `.dockerignore` files
 > ## Use the `docker-slim` tool
 
+cf [[Docker]]

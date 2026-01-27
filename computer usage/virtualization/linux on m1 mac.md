@@ -2,7 +2,7 @@
 updated: '2023-10-20T13:54:09Z'
 created: '2023-10-20T13:54:09Z'
 ---
-1. install UTM: https://mac.getutm.app/
+1. install [[UTM]]: https://mac.getutm.app/
 2. download ubuntu server iso: https://ubuntu.com/download/server/arm
 3. open utm, select iso, boot it
 4. install ubuntu via text interface
