@@ -16,7 +16,7 @@ updated: 2026-02-03T01:53:37.652Z
 
 Glad to see this from a prominent hacker on news.yc.
 
-The ICE invasion of my Portland (Maine) seems to have calmed down, but it was vile while it was here and all my sympathies are with the citizens of Other Portland.
+The ICE invasion of my Portland (Maine) seems to have calmed down, but it was vile while it was here and all my sympathies are with the citizens of Minnesota, Other Portland, and anyone currently being terrorized by ICE.
 
 This agency cannot be reformed, it has been given an unconstitutional mandate and freed from the law to reign terror on the people.
 
