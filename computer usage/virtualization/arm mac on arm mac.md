@@ -1,6 +1,6 @@
 ---
 created: 2026-01-27T14:03:34.983Z
-updated: 2026-02-03T15:16:02.835Z
+updated: 2026-02-03T15:32:16.750Z
 ---
 
 For work, I needed to test a mac setup script which required a clean mac installation.
@@ -16,7 +16,7 @@ I had success with [[UTM]]
 	- `curl 'https://api.ipsw.me/v4/ipsw/download/Mac16,8/25C56'` returned a link to updates.cdn-apple.com with a restore image
 	- `curl 'https://updates.cdn-apple.com/2025FallFCS/fullrestores/093-37399/E144C918-CF99-4BBC-B1D0-3E739B9A3F2D/UniversalMac_26.2_25C56_Restore.ipsw' -o UniversalMac_26.2_25C56_Restore.ipsw` to download that image
 - I created an image based on that ipsw file, and went through the install setup, which was slow but worked fine
-- I added a shared directory in the UTM UI, and had to shutdown and restart the image, at which point it was in `/Volumes/My\ Shared\ Files` just like in tart above
+- I added a shared directory in the UTM UI, and had to shutdown and restart the image, at which point it was in `/Volumes/My\ Shared\ Files` 
 - I did a whole bunch of installs before I figured out that they key move is to:
 	- do the whole install procedure
 	- clone the VM in the UI by right-clicking on the image and selecting "clone" ![[Pasted image 20260203100234.png]]
