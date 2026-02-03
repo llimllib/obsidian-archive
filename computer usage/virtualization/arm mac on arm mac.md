@@ -1,6 +1,6 @@
 ---
 created: 2026-01-27T14:03:34.983Z
-updated: 2026-02-03T15:07:12.982Z
+updated: 2026-02-03T15:16:02.835Z
 ---
 
 For work, I needed to test a mac setup script which required a clean mac installation.
