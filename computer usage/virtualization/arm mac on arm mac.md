@@ -2,7 +2,6 @@
 created: 2026-01-27T14:03:34.983Z
 updated: 2026-02-03T15:32:16.750Z
 ---
-
 For work, I needed to test a mac setup script which required a clean mac installation.
 
 Rather than try to blow up my own computer and start fresh, I wanted to use a VM.
