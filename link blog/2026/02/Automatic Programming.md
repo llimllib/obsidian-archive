@@ -9,3 +9,5 @@ updated: 2026-02-05T02:33:25.405Z
 - [Salvatore Sanfilippo](https://antirez.com/news/159)
 
 I like this term. I'm using AI assistance on [[Announcing Hatchat|hatchat]], [[mdriver]] and [[aver]] among others, but most of the time I don't think _vibe coding_ captures what I'm doing - I care about the result and the methods and guide the machine towards what I want.
+
+via [Thorsten Ball](https://registerspill.thorstenball.com/p/joy-and-curiosity-72)
