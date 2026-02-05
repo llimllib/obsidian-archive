@@ -13,3 +13,5 @@ This spec suggests a "trace record" JSON schema but doesn't specify anything abo
 They proved a bare-bonse [trace hook](https://github.com/cursor/agent-trace/tree/main/reference) that I don't know how I'd use even if I wanted to.
 
 I look forward to this being standardized
+
+[via bsky](https://bsky.app/profile/hyl.st/post/3me56ryh3zs2n)
