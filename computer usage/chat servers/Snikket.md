@@ -11,3 +11,5 @@ https://snikket.org/
 self-hosting instructions: https://snikket.org/service/
 
 built on [[XMPP]]
+
+I have seen a few recommendations for [monal](https://joinjabber.org/docs/apps/ios/#monal-ios) as a client for it, it's a general purpose XMPP client
