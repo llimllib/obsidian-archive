@@ -1,5 +1,5 @@
 ---
-updated: 2026-01-13T02:01:19.195Z
+updated: 2026-02-10T13:13:35.719Z
 created: 2024-01-02T02:43:11Z
 ---
 I love a lot of these. It's pretty wild that I took a long time going through the list of videos, and I'm sure that I missed some.
@@ -36,6 +36,7 @@ In alphabetical order, with a 🎧 icon beside the show if I've loved it enough 
 - [Dua Lipa](https://www.youtube.com/watch?v=y38qQRg3UDI)
 - [Fleet Foxes](https://www.youtube.com/watch?v=Ko5yZHAiKTU) 🎧
 - [Fred Again](https://www.youtube.com/watch?v=4iQmPv_dTI0&t=4s) 🎧
+- [Geese](https://www.youtube.com/watch?v=uhbpMCZTe8c)
 - [Gillian Welch](https://www.youtube.com/watch?v=WR1BUVFToSE) [2](https://www.youtube.com/watch?v=lfGdjdxxOuU) 🎧
 - [Goat Rodeo](https://www.youtube.com/watch?v=O7EcT5YzKhQ)
 - [Gogol Bordello](https://www.youtube.com/watch?v=IJGh50t6crw)
