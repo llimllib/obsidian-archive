@@ -1,6 +1,8 @@
 ---
-updated: 2025-06-17T12:13:28.840Z
+updated: 2026-02-09T18:23:32.501Z
 ---
+**renamed to [[Stoat]]**
+
 - https://revolt.chat
 	- client download
 	- web client
