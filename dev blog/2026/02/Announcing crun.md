@@ -11,3 +11,5 @@ The annoying thing about it has always been that it's a node program - no stress
 So, I created [crun](https://github.com/llimllib/crun), a port of `concurrently` to rust. Currently it stands at only 1.5 megabytes, and you can install it with cargo or homebrew.
 
 If you've used `concurrently` or have wanted to, give it a shot! File an issue if it doesn't work for you, or you have ideas for improvement.
+
+![[Pasted image 20260211203014.png]]
