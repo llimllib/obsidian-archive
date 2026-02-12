@@ -1,6 +1,6 @@
 ---
 created: 2024-08-16T14:03:07.403Z
-updated: 2025-10-22T14:37:23.816Z
+updated: 2026-02-11T14:37:23.816Z
 ---
 For the purposes of this list, a tool is "modern" if it replaces a tool that you're likely to find in a base debian install.
 
@@ -11,6 +11,7 @@ I wish that the selection of CLI tools we provide with operating systems and bro
 - [concurrently](https://www.npmjs.com/package/concurrently): run programs in parallel, and print their output in a pleasing way
 	- it's hard to explain how nice this program is; I often use it when I want to run a web server and a database, and see both of their output together; it can give each program its own color so you can see at a glance what is logging
 	- it's kind of shocking how hard it is to replace this tool with standard unix tools
+	- I [[Announcing crun|ported it to rust]], give `crun` a try if you want a binary instead of a node program
 - [delta](https://github.com/dandavison/delta): much better git diff output
 	- I often use this where you might use `diff` as well, it's great
 - [doggo](https://github.com/mr-karan/doggo): a better `dig`
