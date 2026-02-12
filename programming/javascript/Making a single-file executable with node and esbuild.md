@@ -1,12 +1,14 @@
 ---
-updated: '2024-01-29T14:30:23Z'
-created: '2024-01-27T21:28:08Z'
+updated: 2026-02-05T12:09:04.265Z
+created: 2024-01-27T21:28:08Z
 ---
 Node has gained the experimental ability to turn a javascript file into a single-file executable by embedding it within a node binary.
 
 However, they have written rather [skimpy instructions](https://nodejs.org/api/single-executable-applications.html) which leave a lot to the imagination. I've written this document to try to give an example that includes multiple files and a dependency.
 
 (update: I found [this document](https://github.com/nodejs/single-executable/blob/main/blog/2022-08-05-an-overview-of-the-current-state.md) which gives a much clearer picture of how the single-file executable process works)
+
+(update feb 5 2026: Joyee Cheung [improved the process greatly](https://joyeecheung.github.io/blog/2026/01/26/improving-single-executable-application-building-for-node-js/). Great work, and thank you!)
 
 I've created a GitHub repository [llimllib/node-esbuild-executable](https://github.com/llimllib/node-esbuild-executable) to demonstrate the topics discussed here.
 
@@ -37,29 +39,16 @@ $ node index.js 1 2 3 4
 10
 ```
 
-- Create an SEA config file. This tells node how to package your executable
+- Create an SEA config file. This tells node what file to use for input and how to output your executable; the options are [documented here](https://nodejs.org/api/single-executable-applications.html#generating-single-executable-applications-with---build-sea) but we only need two
 **sea-config.json**
 ```javascript
 { 
   "main": "index.js", 
-  "output": "sea-prep.blob"  
+  "output": "sum"  
 }
 ```
-
-- Use the `--experimental-sea-config` flag to create a "blob". This is a bit of code that will get inserted into a node binary, to make it into a single executable that you can distribute. It will write the "blob" to the location you specified in the `output` field of `sea-config.json`
-	- `node --experimental-sea-config sea-config.json`
-- Copy a `node` executable to your directory, and give it the name of your desired executable. Here I've used `sum`:
-	- Since node can be hidden by symlinks, this command grabs it from `asdf` or `nvm` if they're present
-	- `cp $(asdf which node || nvm which node || command -v node) sum`
-- remove the signature from the binary: `codesign --remove-signature sum`
-- Insert the "blob" into the binary with [`postject`](https://www.npmjs.com/package/postject):
-```bash
-npx postject sum NODE_SEA_BLOB sea-prep.blob \
-    --sentinel-fuse NODE_SEA_FUSE_fce680ab2cc467b6e072b8b5df1996b2 \
-    --macho-segment-name NODE_SEA
-```
-
-- Re-sign the new binary: `codesign --sign - sum`
+- run `node --build-sea sea-config.json`
+- Sign the new binary: `codesign --sign - sum`
 - Run the script, and note that it fails!
 
 ```
@@ -102,21 +91,9 @@ We can fix both of these problems by using [esbuild](https://esbuild.github.io/)
 		--outfile=bundle.js \ 
 		index.js
 	```
-- Now we're ready to re-build our "blob" file:
-	- `node --experimental-sea-config sea-config.json`
-- copy a fresh node into our directory:
-	- `cp $(asdf which node || nvm which node || command -v node) sum`
-- remove the signature:
-	- `codesign --remove-signature sum`
-- insert the "blob":
-```bash
-npx postject sum NODE_SEA_BLOB sea-prep.blob \
-    --sentinel-fuse NODE_SEA_FUSE_fce680ab2cc467b6e072b8b5df1996b2 \
-    --macho-segment-name NODE_SEA
-```
-
-- and re-sign our binary:
-	- `codesign --sign - sum`
+- change `index.js` to `bundle.js` in your sea config file
+- re-build the binary: `node --build-sea sea-config.json`
+- and sign it: `codesign --sign - sum`
 
 This time, it works!
 
