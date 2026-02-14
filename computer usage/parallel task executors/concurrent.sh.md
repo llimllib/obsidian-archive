@@ -24,3 +24,5 @@ concurrent \
 ```
 
 Its method of providing names is interesting, though it requires some acrobatics around the `-` specifier.
+
+via [hrbrmstr](https://dailydrop.hrbrmstr.dev/2026/02/08/bonus-drop-109-2026-02-08-its-all-about-that-bash/)
