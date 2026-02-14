@@ -13,3 +13,5 @@ https://julian.digital/2025/03/27/the-case-against-conversational-interfaces/
 > Touch-based interfaces are considered the third pivotal milestone in the evolution of human computer interaction, but they have always been more of an augmentation of desktop computing rather than a replacement for it. Smartphones are great for “away from keyboard” workflows, but important productivity work still happens on desktop.
 
 > That’s because text is not a mobile-native input mechanism. A physical keyboard can feel like a natural extension of your mind and body, but typing on a phone is always a little awkward – and it shows in data transfer speeds: Average typing speeds on mobile are just 36 words-per-minute, notably slower than the ~60 words-per-minute on desktop.
+
+via [Thorsten Ball](https://julian.digital/2025/03/27/the-case-against-conversational-interfaces/)
