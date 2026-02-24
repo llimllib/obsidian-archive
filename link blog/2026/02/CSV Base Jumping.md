@@ -18,4 +18,4 @@ Clever idea for probabalistically determining whether you're inside a quoted col
 
 This enables chunked processing of csv files, which is otherwise quite difficult.
 
-[xan](https://github.com/medialab/xan) is already in my [[csv tools]] list.
+[xan](https://github.com/medialab/xan) is already in my [[csv tools]] list. Found via [Tony Finch](https://dotat.at/:/AERHE.html)'s excellent link blog
