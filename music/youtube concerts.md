@@ -1,5 +1,5 @@
 ---
-updated: 2026-02-14T03:09:00.187Z
+updated: 2026-03-09T17:35:45.055Z
 created: 2023-10-20T13:54:09Z
 ---
 Lately, I've been browsing youtube and looking for good live concerts to watch. Some favorites:
