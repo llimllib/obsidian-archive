@@ -1,6 +1,6 @@
 ---
 created: 2026-01-13T14:49:10.147Z
-updated: 2026-01-13T19:57:01.781Z
+updated: 2026-03-02T13:23:16.391Z
 ---
 https://shittycodingagent.ai (lol, aka https://buildwithpi.ai)
 https://github.com/badlogic/pi-mono/
@@ -26,3 +26,15 @@ annoyingly, I can't tell it to pull my anthropic keys from [[keychain command li
 I logged in with `/login` and was able to set it to use my claude code subscription, which it saved to `~/.pi` even though I have set `PI_CONFIG_DIR` to `~/.config/pi`.
 
 It actually seems as though `PI_CONFIG_DIR` is only supported by the `pods` module, not the coding agent, which is disappointing.
+
+---
+
+`pi` updates _very_ frequently, so I had initially aliased it to `npm install -g @mariozechner/pi-coding-agent && pi` to update itself before running, but I found that `npm` is super slow.
+
+The fastest alternative I found is that I removed it from `npm` with `npm uninstall @mariozechner/pi-coding-agent` and instead installed [[bun]] and aliased it to:
+
+```bash
+bun install -g @mariozechner/pi-coding-agent && ~/.cache/.bun/bin/pi
+```
+
+`bun install` is much faster than `npm install`, and the startup from calling it every time doesn't annoy me, so I can make sure I get a fresh `pi` without having to manually update it or see the nag to do so.

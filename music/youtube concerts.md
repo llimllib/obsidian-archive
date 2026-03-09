@@ -1,5 +1,5 @@
 ---
-updated: 2026-01-31T03:44:28.712Z
+updated: 2026-02-14T03:09:00.187Z
 created: 2023-10-20T13:54:09Z
 ---
 Lately, I've been browsing youtube and looking for good live concerts to watch. Some favorites:
@@ -55,3 +55,4 @@ Lately, I've been browsing youtube and looking for good live concerts to watch. 
 - [The Beths - KEXP concert 2025](https://www.youtube.com/watch?v=tj1IhGMH_zE)
 - [Radiohead - Live from the Basement 2008](https://www.youtube.com/watch?v=DWuAn6C8Mfc)
 - [Fela Kuti / Africa 70 - Live in Berlin 1978](https://www.youtube.com/watch?v=FsY--sUhPHo)
+- [MJ Lenderman - live at Brooklyn Steel 2025](https://www.youtube.com/watch?v=Vihtf7Io14c)
