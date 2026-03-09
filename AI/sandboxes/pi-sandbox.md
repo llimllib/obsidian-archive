@@ -1,0 +1,16 @@
+---
+created: 2026-03-09T12:51:29.729Z
+updated: 2026-03-09T12:51:29.729Z
+---
+https://github.com/carderne/pi-sandbox
+
+> Sandbox for pi.
+> 
+> Sandboxes pi like this:
+> 
+>     read/write/edit: direct control using allow/deny lists
+>     bash: uses Anthropic Sandbox Runtime to control network and file system access
+> 
+> When a blocked action is attempted, the user is prompted to allow it temporarily or permanently rather than silently failing.
+
+Sandbox for [[pi]] that wraps [[sandbox-exec]], via [news.yc comments](https://news.ycombinator.com/item?id=47306126) on the article about [[agent-safehouse]]
