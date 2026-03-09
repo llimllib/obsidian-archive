@@ -1,5 +1,5 @@
 ---
-updated: 2024-11-11T14:19:43.844Z
+updated: 2026-03-09T01:05:06.057Z
 created: 2023-10-20T13:54:09Z
 ---
 https://saurabhs.org/advanced-macos-commands
@@ -86,3 +86,6 @@ iconutil -c icns MyIcon.iconset
 	- `-c` clears all attributes
 - `uuidgen` does what it says on the tin, generates UUIDs. The [man page](https://ss64.com/mac/uuidgen.html) doesn’t say what uuid version it generates 
 - `jq` since Mac OS 15, jq is included in the base OS
+- [[sandbox-exec]]
+	- deprecated tool for running an application inside a policy sandbox
+	- cf [[agent-safehouse]]
