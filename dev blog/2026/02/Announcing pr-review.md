@@ -4,7 +4,7 @@ updated: 2026-02-12T22:11:18.399Z
 ---
 https://github.com/llimllib/pr-review
 
-My run of a project a day continues with [pr-review](https://github.com/llimllib/pr-review), an updated version of my [[An AI tool I find useful|review script]] that adds sub-agents and uses the [[pi]] framework rather than the [[llm]] command.
+My run of a project a day continues with [[pr-review]], an updated version of my [[An AI tool I find useful|review script]] that adds sub-agents and uses the [[pi]] framework rather than the [[llm]] command.
 
 Install it: `brew install llimllib/tap/pr-review` or download a binary at the releases page.
 

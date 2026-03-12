@@ -1,5 +1,5 @@
 ---
-updated: 2026-02-14T03:09:00.187Z
+updated: 2026-03-09T17:35:45.055Z
 created: 2023-10-20T13:54:09Z
 ---
 Lately, I've been browsing youtube and looking for good live concerts to watch. Some favorites:
@@ -11,6 +11,7 @@ Lately, I've been browsing youtube and looking for good live concerts to watch. 
 - [Led Zeppelin, Fillmore West 1969 (audio only)](https://www.youtube.com/watch?v=eWc2m0FH_sc)
 - [King Gizzard & the Lizard Wizard, Ancienne Belgiques, 2016](https://www.youtube.com/watch?v=PGHgpVU3UuU)
 - [All Them Witches, Ancienne Belgiques, 2016](https://www.youtube.com/watch?v=tPZODCWrUN8)
+	- [All Them Witches, Ancienne Belgiques, 2025](https://www.youtube.com/watch?v=W45R_-6k3wA&list=RDW45R_-6k3wA&start_radio=1)
 - [Stevie Ray Vaughan, Montreux 1985](https://www.youtube.com/watch?v=S2uMYyAKFvU)
 - [Etta James, Montreux various appearances](https://www.youtube.com/watch?v=mdof2gMgRYY)
 - [Wilco, Ancienne Belgique 2016](https://www.youtube.com/watch?v=OTdkHV9YsIk)
