@@ -13,3 +13,4 @@ My tool for doing PR review assisted by several sub-agents. Uses the [[pi]] fram
 
 Then, finally a summarizer agent takes all four reviews and boils them down to a review summary.
 
+The work in here is an expansion of the ideas from [[An AI tool I find useful]], where I wrote about the [code review tool I wrote](https://github.com/llimllib/personal_code/blob/032c597d4c1f805a0fb6030723e22fcf4349b2ef/homedir/.local/bin/review) before
