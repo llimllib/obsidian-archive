@@ -1,6 +1,6 @@
 ---
-updated: '2024-02-29T19:14:55Z'
-created: '2024-02-27T19:40:00Z'
+updated: 2026-03-16T20:30:38.774Z
+created: 2024-02-27T19:40:00Z
 ---
 [[Homebrew]] is a package manager which a lot of people use, and as software that a lot of people use, a lot of people like to complain about.
 
@@ -26,6 +26,8 @@ Later on, if I were to update some package in homebrew that depends on some othe
 **When I install a package with homebrew, homebrew owns it and may upgrade it at any time**
 
 ## I use asdf for versions I want to control manually
+
+_update march 2026_: Since I published this article I've been using [[mise]] and it's one of my favorite tools, I no longer use `asdf` at all
 
 If I care about the particular version of a program, such as a programming language environment or a database server, I install it myself, either manually or with a tool such as [[asdf]].
 
