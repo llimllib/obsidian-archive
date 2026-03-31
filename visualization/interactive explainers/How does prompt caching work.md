@@ -9,3 +9,9 @@ https://ngrok.com/blog/prompt-caching/
 Goes deep into how LLMs work in general, before arriving at how prompt caching works
 
 via [Simon Willison](https://simonwillison.net/2025/Dec/19/sam-rose-llms/#atom-everything)
+
+---
+
+https://ngrok.com/blog/quantization
+
+The next article in the series dives into quantization
