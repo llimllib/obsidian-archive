@@ -14,3 +14,5 @@ To trim the first 30 seconds of an MP4 file using FFmpeg, you can use its
 command-line interface with a specific format for specifying the start and end
 times. Here's a step-by-step guide:
 ```
+
+I submitted [a PR](https://github.com/simonw/llm/pull/1393) to add it to the llm [plugin directory](https://llm.datasette.io/en/stable/plugins/directory.html), but it seems like PRs are getting merged very slowly in that repo.
