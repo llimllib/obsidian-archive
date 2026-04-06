@@ -1,6 +1,6 @@
 ---
 created: 2026-04-06T12:59:41.948Z
-updated: 2026-04-06T12:59:41.948Z
+updated: 2026-04-06T14:48:09.085Z
 ---
 https://lalitm.com/post/building-syntaqlite-ai/
 
@@ -14,7 +14,7 @@ So they threw away everything they'd gotten so far and started fresh.
 
 For complicated technical projects, you have to keep close control over the output of the LLM or it will churn out a mess.
 
-> More importantly, I completely changed my role in the project. I took ownership of all decisions and used it more as “autocomplete on steroids” inside a much tighter process: opinionated design upfront, reviewing every change thoroughly, fixing problems eagerly as I spotted them, and investing in scaffolding (like linting, validation, and non-trivial testing[17](https://lalitm.com/post/building-syntaqlite-ai/#sn-scaffolding)) to check AI output automatically.
+> More importantly, I completely changed my role in the project. I took ownership of all decisions and used it more as “autocomplete on steroids” inside a much tighter process: opinionated design upfront, reviewing every change thoroughly, fixing problems eagerly as I spotted them, and investing in scaffolding (like linting, validation, and non-trivial testing) to check AI output automatically.
 
 Worth reading in full. Excellent technical report on building something complex with LLM tools.
 
