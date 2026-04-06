@@ -1,6 +1,6 @@
 ---
-created: 2026-03-10T17:52:37.573Z
-updated: 2026-03-10T17:52:37.573Z
+created: 2026-04-06T12:59:38.772Z
+updated: 2026-04-06T12:59:38.772Z
 ---
 I was inspired by claude's PR [review agent announcement](https://claude.com/blog/code-review) to do some work on release version **0.8.0** of [[pr-review]] today:
 

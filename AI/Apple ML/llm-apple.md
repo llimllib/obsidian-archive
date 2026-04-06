@@ -1,6 +1,6 @@
 ---
-created: 2026-04-03T20:52:00.737Z
-updated: 2026-04-03T20:52:00.737Z
+created: 2026-04-06T12:59:38.718Z
+updated: 2026-04-06T12:59:38.718Z
 ---
 To connect [[llm]] to apple foundation models, which run locally but with a small window size (4096 tokens), install [llm-apple](https://github.com/btucker/llm-apple):
 
@@ -16,3 +16,5 @@ times. Here's a step-by-step guide:
 ```
 
 I submitted [a PR](https://github.com/simonw/llm/pull/1393) to add it to the llm [plugin directory](https://llm.datasette.io/en/stable/plugins/directory.html), but it seems like PRs are getting merged very slowly in that repo.
+
+I got the idea for using this from [[apfel]], then I recreated it, then I found that somebody had done it better than me already; so this is me publishing about that.

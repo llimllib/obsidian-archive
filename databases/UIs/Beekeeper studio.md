@@ -1,6 +1,6 @@
 ---
-created: 2026-03-13T13:04:01.831Z
-updated: 2026-03-13T13:04:01.831Z
+created: 2026-04-06T12:59:38.739Z
+updated: 2026-04-06T12:59:38.739Z
 ---
 https://www.beekeeperstudio.io/
 

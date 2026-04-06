@@ -1,6 +1,6 @@
 ---
-created: 2026-04-03T20:06:20.483Z
-updated: 2026-04-03T20:06:20.483Z
+created: 2026-04-06T12:59:38.794Z
+updated: 2026-04-06T12:59:38.794Z
 ---
 https://apfel.franzai.com/#install
 https://github.com/Arthur-Ficial/apfel

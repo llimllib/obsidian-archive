@@ -1,6 +1,6 @@
 ---
-created: 2026-03-14T01:39:04.440Z
-updated: 2026-03-14T01:39:04.440Z
+created: 2026-04-06T12:59:38.771Z
+updated: 2026-04-06T12:59:38.771Z
 ---
 While working with [[pr-review]], I found a bug with how [[mdriver]] was parsing fenced code blocks.
 

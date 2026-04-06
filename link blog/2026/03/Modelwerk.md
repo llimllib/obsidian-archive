@@ -1,6 +1,6 @@
 ---
-created: 2026-03-15T17:39:40.299Z
-updated: 2026-03-15T17:39:40.299Z
+created: 2026-04-06T12:59:38.783Z
+updated: 2026-04-06T12:59:38.783Z
 ---
 > For the longest time children stood inside looms lifting weights to allow the thread to go through on the command of the weaver. They were called draw boys...
 > 

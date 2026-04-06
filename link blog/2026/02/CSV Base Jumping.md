@@ -1,6 +1,6 @@
 ---
-created: 2026-02-24T13:12:59.964Z
-updated: 2026-02-24T13:12:59.964Z
+created: 2026-04-06T12:59:38.781Z
+updated: 2026-04-06T12:59:38.781Z
 ---
 > Now let's come back to our jumping thought experiment: the issue here is that, if you jump to a random byte of a CSV file, you cannot know whether you landed in a quoted cell or not. So, if you read ahead and find a line break, is it delineating a CSV row, or is just allowed here because we stand in a quoted cell? And if you find a double quote? Are you opening a quoted cell or are you closing one?...
 

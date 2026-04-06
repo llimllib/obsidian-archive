@@ -1,6 +1,6 @@
 ---
-created: 2026-03-27T18:06:09.865Z
-updated: 2026-03-27T18:06:09.865Z
+created: 2026-04-06T12:59:38.784Z
+updated: 2026-04-06T12:59:38.784Z
 ---
 > Our goal should be to give an LLM coding agent zero degrees of freedom. This is aspirational at present, but it’s where we should be trying to go.
 

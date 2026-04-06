@@ -1,6 +1,6 @@
 ---
-created: 2026-04-01T18:02:17.942Z
-updated: 2026-04-01T18:02:17.942Z
+created: 2026-04-06T12:59:38.737Z
+updated: 2026-04-06T12:59:38.737Z
 ---
 For taking a screenshot with zsh, I launch it with:
 

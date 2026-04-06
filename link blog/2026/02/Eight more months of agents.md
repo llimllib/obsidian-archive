@@ -1,6 +1,6 @@
 ---
-created: 2026-02-23T12:18:26.615Z
-updated: 2026-02-23T12:18:26.615Z
+created: 2026-04-06T12:59:38.782Z
+updated: 2026-04-06T12:59:38.782Z
 ---
 > Most software is the wrong shape now. Most of the ways we try to solve problems are the wrong shape.
 > 
