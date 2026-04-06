@@ -1,6 +1,6 @@
 ---
-created: 2026-04-03T15:04:54.583Z
-updated: 2026-04-03T15:04:54.583Z
+created: 2026-04-06T12:59:38.794Z
+updated: 2026-04-06T12:59:38.794Z
 ---
 > Nothing we have has the track record that the traditional journals do for long-term dissemination and preservation of knowledge; we don’t know what computing hardware platforms we will have in 15 years, let alone 200, but I can pretty-much guarantee that—if human civilization is still in existence—we will still be able to read Vera Rubin’s papers about the dark matter 
 

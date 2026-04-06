@@ -1,6 +1,6 @@
 ---
-created: 2026-04-01T20:50:05.931Z
-updated: 2026-04-01T20:50:05.931Z
+created: 2026-04-06T12:59:38.740Z
+updated: 2026-04-06T12:59:38.740Z
 ---
 https://github.com/timescale/pg_textsearch
 https://www.tigerdata.com/docs/use-timescale/latest/extensions/pg-textsearch

@@ -1,6 +1,6 @@
 ---
-created: 2026-03-07T12:50:50.415Z
-updated: 2026-03-07T12:50:50.415Z
+created: 2026-04-06T12:59:38.799Z
+updated: 2026-04-06T12:59:38.799Z
 ---
 https://rednafi.com/go/context-cancellation-cause/
 

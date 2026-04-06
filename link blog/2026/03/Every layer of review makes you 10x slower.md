@@ -1,6 +1,6 @@
 ---
-created: 2026-03-17T11:01:43.041Z
-updated: 2026-03-17T11:01:43.041Z
+created: 2026-04-06T12:59:38.783Z
+updated: 2026-04-06T12:59:38.783Z
 ---
 > First of all, this isn’t a post about AI, because AI’s direct impact on this problem is minimal. Okay, so Claude can code it in 3 minutes instead of 30? That’s super, Claude, great work.
 

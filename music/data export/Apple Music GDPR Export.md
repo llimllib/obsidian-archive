@@ -1,6 +1,6 @@
 ---
-created: 2026-03-12T13:00:29.150Z
-updated: 2026-03-12T13:00:29.150Z
+created: 2026-04-06T12:59:38.798Z
+updated: 2026-04-06T12:59:38.798Z
 ---
 https://mystats.music/guides/apple-music-history
 

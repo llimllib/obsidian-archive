@@ -1,6 +1,6 @@
 ---
-created: 2026-04-02T16:49:02.608Z
-updated: 2026-04-02T16:49:02.608Z
+created: 2026-04-06T12:59:38.799Z
+updated: 2026-04-06T12:59:38.799Z
 ---
 https://www.neobrutalism.dev/docs
 

@@ -1,6 +1,6 @@
 ---
-created: 2026-03-15T23:11:31.447Z
-updated: 2026-03-15T23:11:31.447Z
+created: 2026-04-06T12:59:38.771Z
+updated: 2026-04-06T12:59:38.771Z
 ---
 I released the 17th edition of my [NCAA Bracket Randomizer](https://github.com/llimllib/ncaa-bracket-randomizer), completely rewritten for this year.
 

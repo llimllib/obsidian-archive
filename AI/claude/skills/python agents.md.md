@@ -1,6 +1,6 @@
 ---
-created: 2026-03-02T14:27:41.550Z
-updated: 2026-03-02T14:27:41.550Z
+created: 2026-04-06T12:59:38.722Z
+updated: 2026-04-06T12:59:38.722Z
 ---
 okay, technically not a skill, but it could be?
 

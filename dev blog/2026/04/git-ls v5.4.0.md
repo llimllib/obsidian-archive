@@ -1,6 +1,6 @@
 ---
-created: 2026-04-05T17:22:31.274Z
-updated: 2026-04-05T17:22:31.274Z
+created: 2026-04-06T12:59:38.776Z
+updated: 2026-04-06T12:59:38.776Z
 ---
 I released [[git-ls]] version `5.4.0` with a fix and a new feature; upgrade with `brew upgrade llimllib/git-ls/git-ls` or download a release [from github](https://github.com/llimllib/git-ls).
 

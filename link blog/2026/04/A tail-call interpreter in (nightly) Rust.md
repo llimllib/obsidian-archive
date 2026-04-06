@@ -1,6 +1,6 @@
 ---
-created: 2026-04-05T15:21:22.083Z
-updated: 2026-04-05T15:21:22.083Z
+created: 2026-04-06T12:59:38.786Z
+updated: 2026-04-06T12:59:38.786Z
 ---
 https://www.mattkeeter.com/blog/2026-04-05-tailcall/
 

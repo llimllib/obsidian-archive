@@ -1,6 +1,6 @@
 ---
-created: 2026-03-19T15:52:14.973Z
-updated: 2026-03-19T15:52:14.973Z
+created: 2026-04-06T12:59:38.804Z
+updated: 2026-04-06T12:59:38.804Z
 ---
 https://dominicroye.github.io/color-for-geoscience/
 

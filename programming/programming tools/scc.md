@@ -1,6 +1,6 @@
 ---
-created: 2026-03-09T18:46:34.187Z
-updated: 2026-03-09T18:46:34.187Z
+created: 2026-04-06T12:59:38.801Z
+updated: 2026-04-06T12:59:38.801Z
 ---
 https://github.com/boyter/scc
 
