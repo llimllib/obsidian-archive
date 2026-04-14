@@ -16,3 +16,13 @@ via [Carl M. Johnson](https://mastodon.social/@carlmjohnson/111024763667968055) 
 see also [[FlexSearch]]
 
 _Nov 3 2025_: Tim Bray [writes](https://www.tbray.org/ongoing/When/202x/2025/11/01/Blog-Search-Pagefind) about his adoption of pagefind
+
+---
+
+Following the [quick start](https://pagefind.app/docs/):
+
+To serve a dev server:
+
+- `uv run --with 'pagefind[extended]' python -m pagefind --site output --serve`
+
+[here's the PR where I implemented it for my site](https://github.com/llimllib/obsidian_notes/commit/8749beabdc66ef2bc3779ac05b7e92fb2f17d4aa)
