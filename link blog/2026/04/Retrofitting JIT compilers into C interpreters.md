@@ -6,7 +6,8 @@ https://tratt.net/laurie/blog/2026/retrofitting_jit_compilers_into_c_interpreter
 
 Very cool work by Laurence Tratt, Edd Barrett, Lukas Diekmann, and Pavel Durov to create a system, `yk`, which accepts an interpreter for a language (lua or python for example) and emits a meta-tracing JIT compiler for it.
 
-> [!info] the blog post explains what a _meta-tracing JIT_ is much better than I could here
+> [!info] 
+> the blog post explains what a _meta-tracing JIT_ is much better than I could here
 
 The upshot of this is that you can, with a reasonable amount of work, automate the construction of  JIT compiler from an interpreter that doesn't natively support it.
 
