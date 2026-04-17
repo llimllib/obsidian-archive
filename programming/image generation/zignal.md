@@ -13,4 +13,6 @@ https://arrufat.github.io/zignal/
 > - **I/O & Graphics:** Pure-Zig PNG/JPEG codecs, Canvas API (antialiasing, Bézier curves), Bitmap/PCF Fonts, Colormaps, Terminal graphics (Kitty/Sixel).
 > - **Platform Support:** Native Zig, first-class Python bindings, and WASM compilation for the web.
 
-neat-looking zig image processing library with python bindings
+neat-looking zig image processing library with python bindings. Has a CLI that is currently pretty bare-bones.
+
+Pretty impressive to have a library that does its own image decoding, font rendering, etc etc!
