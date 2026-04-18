@@ -40,6 +40,7 @@ In alphabetical order, with a 🎧 icon beside the show if I've loved it enough 
 - [Gillian Welch](https://www.youtube.com/watch?v=WR1BUVFToSE) [2](https://www.youtube.com/watch?v=lfGdjdxxOuU) 🎧
 - [Goat Rodeo](https://www.youtube.com/watch?v=O7EcT5YzKhQ)
 - [Gogol Bordello](https://www.youtube.com/watch?v=IJGh50t6crw)
+- [Gwenifer Raymond](https://www.youtube.com/watch?v=DQ2EwQ2B5bc)
 - [Hania Rani](https://www.youtube.com/watch?v=4RcKtr5bGa4)
 - [Hiromi](https://www.youtube.com/watch?v=pnISpahN2dM)
 - [Hop Along](https://www.youtube.com/watch?v=iFGnkbZ3fLE)
