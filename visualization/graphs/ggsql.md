@@ -25,4 +25,6 @@ LABEL
   y => 'Bill depth (mm)'
 ```
 
+![[visualization.png]]
+
 There's an introductory blog post here: https://opensource.posit.co/blog/2026-04-20_ggsql_alpha_release/ with some more motivations and introductory text
