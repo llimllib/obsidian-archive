@@ -1,5 +1,5 @@
 ---
-updated: 2026-03-09T17:35:45.055Z
+updated: 2026-05-02T17:24:24.157Z
 created: 2023-10-20T13:54:09Z
 ---
 Lately, I've been browsing youtube and looking for good live concerts to watch. Some favorites:
@@ -56,3 +56,5 @@ Lately, I've been browsing youtube and looking for good live concerts to watch. 
 - [Radiohead - Live from the Basement 2008](https://www.youtube.com/watch?v=DWuAn6C8Mfc)
 - [Fela Kuti / Africa 70 - Live in Berlin 1978](https://www.youtube.com/watch?v=FsY--sUhPHo)
 - [MJ Lenderman - live at Brooklyn Steel 2025](https://www.youtube.com/watch?v=Vihtf7Io14c)
+- [Matthew Halsall - Salute to the Sun (Live at Hallé St Peter's)](https://www.youtube.com/watch?v=4GwqBQdBDRE)
+- [Rhiannon Giddens - Romp 2022](https://www.youtube.com/watch?v=D0jb_4xfjg8)
