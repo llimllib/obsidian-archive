@@ -1,5 +1,5 @@
 ---
-updated: 2026-05-14T20:45:51.168Z
+updated: 2026-05-14T20:53:47.528Z
 created: 2024-01-02T02:43:11Z
 ---
 I love a lot of these. It's pretty wild that I took a long time going through the list of videos, and I'm sure that I missed some.
@@ -63,7 +63,7 @@ In alphabetical order, with a 🎧 icon beside the show if I've loved it enough 
 - [Lianne la Havas](https://www.youtube.com/watch?v=qso4MRfidrw)
 - [Little simz](https://www.youtube.com/watch?v=Nkt93coQzqg) 🎧
 - [Lucy Dacus](https://www.youtube.com/watch?v=xLFeeOVrNlI) [2](https://www.youtube.com/watch?v=-4FyRybGiBc)
-- [Ludovico Einaudi](https://www.youtube.com/watch?v=2oyZ9OM-neM)
+- [Ludovico Einaudi](https://www.youtube.com/watch?v=2oyZ9OM-neM) 🎧
 - [Maggie Rogers](https://www.youtube.com/watch?v=SqPtIkxSxI0)
 - [Margo Price](https://www.youtube.com/watch?v=S9bLHMCnCAk)
 - [Mick Jenkins](https://www.youtube.com/watch?v=IT9sB1e61BA)
