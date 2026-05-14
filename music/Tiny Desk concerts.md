@@ -1,12 +1,12 @@
 ---
-updated: 2026-02-10T13:13:35.719Z
+updated: 2026-05-14T20:45:51.168Z
 created: 2024-01-02T02:43:11Z
 ---
 I love a lot of these. It's pretty wild that I took a long time going through the list of videos, and I'm sure that I missed some.
 
 In alphabetical order, with a 🎧 icon beside the show if I've loved it enough to go back to it intentionally multiple times:
 
-- [Abdullah Ibrahim](https://www.youtube.com/watch?v=L5i4stj4M30)
+- [Abdullah Ibrahim](https://www.youtube.com/watch?v=L5i4stj4M30) 🎧
 - [Adrienne Lenker](https://www.youtube.com/watch?v=TKcQyUszdhw)
 - [Allison Russell](https://www.youtube.com/watch?v=Ffs7szmBmCU)
 - [Anaïs Mitchell](https://www.youtube.com/watch?v=Shr47LVcA5I)
