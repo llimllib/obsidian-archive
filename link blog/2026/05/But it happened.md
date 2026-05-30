@@ -9,3 +9,5 @@ Casey Muratori in [a video](https://www.youtube.com/watch?v=tlQ7EoJDTQY) breakin
 <iframe width="560" height="315" src="https://www.youtube.com/embed/tlQ7EoJDTQY?si=vGU3g8X8FJuV23P5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 via [lobste.rs](https://gist.github.com/wrs/648401d9bdd33c0a15f6afbfef156874), which links [this transcript](https://gist.github.com/wrs/648401d9bdd33c0a15f6afbfef156874) if you'd rather read.
+
+I find AI a really useful and exciting technology for me, personally, but I share significant fears about where the people in control of it (for whom, it should be noted, I could be broadly said to work) will drive it.
