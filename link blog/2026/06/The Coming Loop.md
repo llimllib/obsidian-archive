@@ -11,3 +11,7 @@ updated: 2026-06-23T13:21:38.669Z
 This has been my experience as well. I prefer using [[pi]] in large part because it doesn't hide those loops from you, so I at least more often notice when the machine is doing something stupid, or doing something local that ought to be global.
 
 The whole piece is well worth reading, as you might guess from my long pull quote.
+
+> The scariest part to me is that we become dependent on these new machines in new ways. Software has always depended on tools. I remember the time when I had to pay for compilers. These new tools are a flashback to times where creating software came with real costs. But now it’s no longer a one-time payment, it’s a constant dependency. Not just a dependency on a filled wallet, but also a cognitive dependency.
+
+This is also my #1 fear
