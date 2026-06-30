@@ -17,3 +17,5 @@ https://github.com/sdiehl/prism
 > The interpreter sits at the bottom of a proof chain whose top is Lean 4
 
 Very cool! [[Lean]] is something I've played with, enough to get through a bit of [[The Natural Number Game]], but this is a whole other level I can't even comprehend.
+
+via [mjd](https://phanpy.social/#/hachyderm.io/s/116833418395482176)
