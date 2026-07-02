@@ -1,5 +1,5 @@
 ---
-updated: 2025-10-10T18:40:00Z
+updated: 2026-07-02T11:38:49.837Z
 created: 2023-10-20T13:54:09Z
 ---
 https://httpbin.org/
@@ -37,3 +37,10 @@ https://httpcan.org/
 https://github.com/seedvector/httpcan
 
 Another http bin, this time in Rust. Includes full httpbin compatibility + more features
+
+---
+
+https://github.com/httptoolkit/testserver
+https://testserver.host/
+
+You guessed it, another HTTP bin. This one's in typescript
