@@ -1,6 +1,6 @@
 ---
 created: 2026-04-20T13:46:10.953Z
-updated: 2026-04-20T13:46:10.953Z
+updated: 2026-07-07T17:32:42.070Z
 ---
 https://ggsql.org/
 
@@ -28,3 +28,5 @@ LABEL
 ![[visualization.png]]
 
 There's an introductory blog post here: https://opensource.posit.co/blog/2026-04-20_ggsql_alpha_release/ with some more motivations and introductory text
+
+Uses [[vega-lite]] specs for generating graphics
