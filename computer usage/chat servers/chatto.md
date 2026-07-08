@@ -8,3 +8,7 @@ https://www.hmans.dev/blog/chatto-timeline
 Somebody else had the same idea [[Announcing Hatchat|as me]], to build a slack/discord clone.
 
 He has an instance available, but seems similarly in dev as I am
+
+---
+
+**update**: [chatto is now open-source](https://www.hmans.dev/blog/chatto-is-open-source) (AGPL)
