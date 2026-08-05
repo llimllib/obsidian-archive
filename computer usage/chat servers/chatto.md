@@ -2,6 +2,15 @@
 created: 2026-02-10T13:02:48.671Z
 updated: 2026-07-08T19:42:43.589Z
 ---
+https://github.com/chattocorp/chatto
+https://chatto.run/
+
+I deployed this to one of my own servers, and saved the deployment scripts here: https://github.com/llimllib/chatto-install
+
+it's run great, very easy to install and hasn't caused any hiccups at all in light usage
+
+---
+
 https://bsky.app/profile/hmans.dev/post/3mehazd6c4c2u
 https://www.hmans.dev/blog/chatto-timeline
 
