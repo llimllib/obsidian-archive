@@ -78,6 +78,7 @@ In alphabetical order, with a 🎧 icon beside the show if I've loved it enough 
 - [Phoebe Bridgers](https://www.youtube.com/watch?v=2bOigld3D1k)
 - [Pinegrove](https://www.youtube.com/watch?v=weL8HTY1NJU) 🎧
 - [Punch Brothers](https://www.youtube.com/watch?v=iXE_K2Kpoqc&t=320s) 🎧
+- [Ratboys](https://www.youtube.com/watch?v=oRg3Tk3jHno)
 - [Reggie Watts](https://www.youtube.com/watch?v=dRmRr3Z8Zv8)
 - [Robert Plant & Alison Krauss](https://www.youtube.com/watch?v=srn5Cd9yR3Y)
 - [Rodrigo y Gabriela](https://www.youtube.com/watch?v=wKd0HNg1kFQ) [2](https://www.youtube.com/watch?v=PMpGjox3TBs)
