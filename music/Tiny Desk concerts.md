@@ -103,7 +103,7 @@ In alphabetical order, with a 🎧 icon beside the show if I've loved it enough 
 - [TV on the Radio](https://www.youtube.com/watch?v=zi_jOYpeCEM)
 - [Ty Segall](https://www.youtube.com/watch?v=nZzJwMXMvwE)
 - [Valerie June](https://www.youtube.com/watch?v=iBDrTHCSWDc)
-- [Vince Staples](https://www.youtube.com/watch?v=yN0I5xTjaGo)
+- [Vince Staples](https://www.youtube.com/watch?v=yN0I5xTjaGo) [2](https://www.youtube.com/watch?v=mbRycM-xgxo)
 - [Wet Leg](https://www.youtube.com/watch?v=AzUHNjKMeV4)
 - [Wilco](https://www.youtube.com/watch?v=UZAKTCeE70Y) [2](https://www.youtube.com/watch?v=KMQQqa21ZVs)
 - [Willow](https://www.youtube.com/watch?v=DmC2QQESN6E)
