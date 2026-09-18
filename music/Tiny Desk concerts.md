@@ -1,5 +1,5 @@
 ---
-updated: 2026-05-14T20:53:47.528Z
+updated: 2026-09-18T19:07:54.484Z
 created: 2024-01-02T02:43:11Z
 ---
 I love a lot of these. It's pretty wild that I took a long time going through the list of videos, and I'm sure that I missed some.
