@@ -59,3 +59,4 @@ Lately, I've been browsing youtube and looking for good live concerts to watch. 
 - [MJ Lenderman - live at Brooklyn Steel 2025](https://www.youtube.com/watch?v=Vihtf7Io14c)
 - [Matthew Halsall - Salute to the Sun (Live at Hallé St Peter's)](https://www.youtube.com/watch?v=4GwqBQdBDRE)
 - [Rhiannon Giddens - Romp 2022](https://www.youtube.com/watch?v=D0jb_4xfjg8)
+- [Big Thief - Live at The Opera House at 7A Ranch](https://www.youtube.com/watch?v=RiTTUCQFqdc&pp=ygUVYmlnIHRoZWlmIG9wZXJhIGhvdXNl)
