@@ -38,3 +38,7 @@ bun install -g @mariozechner/pi-coding-agent && ~/.cache/.bun/bin/pi
 ```
 
 `bun install` is much faster than `npm install`, and the startup from calling it every time doesn't annoy me, so I can make sure I get a fresh `pi` without having to manually update it or see the nag to do so.
+
+---
+
+I installed [pi-claude-bridge](https://github.com/elidickinson/pi-claude-bridge) enable to (maybe legally?) use my claude subscription within pi. It took a bit to figure out why it wasn't working for me - it was related to my agent's sandbox - but once I got it working it's been very nice.
