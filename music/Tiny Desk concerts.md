@@ -1,5 +1,5 @@
 ---
-updated: 2026-05-14T20:53:47.528Z
+updated: 2026-09-18T19:07:54.484Z
 created: 2024-01-02T02:43:11Z
 ---
 I love a lot of these. It's pretty wild that I took a long time going through the list of videos, and I'm sure that I missed some.
@@ -78,6 +78,7 @@ In alphabetical order, with a 🎧 icon beside the show if I've loved it enough 
 - [Phoebe Bridgers](https://www.youtube.com/watch?v=2bOigld3D1k)
 - [Pinegrove](https://www.youtube.com/watch?v=weL8HTY1NJU) 🎧
 - [Punch Brothers](https://www.youtube.com/watch?v=iXE_K2Kpoqc&t=320s) 🎧
+- [Ratboys](https://www.youtube.com/watch?v=oRg3Tk3jHno)
 - [Reggie Watts](https://www.youtube.com/watch?v=dRmRr3Z8Zv8)
 - [Robert Plant & Alison Krauss](https://www.youtube.com/watch?v=srn5Cd9yR3Y)
 - [Rodrigo y Gabriela](https://www.youtube.com/watch?v=wKd0HNg1kFQ) [2](https://www.youtube.com/watch?v=PMpGjox3TBs)
@@ -102,7 +103,7 @@ In alphabetical order, with a 🎧 icon beside the show if I've loved it enough 
 - [TV on the Radio](https://www.youtube.com/watch?v=zi_jOYpeCEM)
 - [Ty Segall](https://www.youtube.com/watch?v=nZzJwMXMvwE)
 - [Valerie June](https://www.youtube.com/watch?v=iBDrTHCSWDc)
-- [Vince Staples](https://www.youtube.com/watch?v=yN0I5xTjaGo)
+- [Vince Staples](https://www.youtube.com/watch?v=yN0I5xTjaGo) [2](https://www.youtube.com/watch?v=mbRycM-xgxo)
 - [Wet Leg](https://www.youtube.com/watch?v=AzUHNjKMeV4)
 - [Wilco](https://www.youtube.com/watch?v=UZAKTCeE70Y) [2](https://www.youtube.com/watch?v=KMQQqa21ZVs)
 - [Willow](https://www.youtube.com/watch?v=DmC2QQESN6E)

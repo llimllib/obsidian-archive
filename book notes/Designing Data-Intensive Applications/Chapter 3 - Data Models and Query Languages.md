@@ -58,3 +58,10 @@ Oddly, in the same service we _also_ had the opposite problem, of the schema-on-
 
 in that service, the answer was "you just don't ever change it". Or, you change it going forward but not backward (because it was impossible to change owing to no schema), and hope that future people maybe can get lucky and find the data they want.
 
+I like the typesetting for their example notes - reminds me of [Mark Pilgrim](https://www.amazon.com/Dive-into-Python-Mark-Pilgrim/dp/1430224150), who IIRC had the same numbered notes.
+
+> This convergence of the (document and relational) models is good news for application developers, because the relational model and the document model work best when you can combine both in the same database
+
+This reminds me of [[modern sqlite - generated columns]], which is a technique that attempts to use both.
+
+I'm skimming the graph databases section, I have limited interest.
